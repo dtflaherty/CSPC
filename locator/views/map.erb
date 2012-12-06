@@ -1,0 +1,99 @@
+<div class="row">
+  <div class="span8">
+    <div id="map"></div>
+  </div>
+  <div class="span4 locations">
+    <ul>
+      <% @locations.each do |location| %>
+        <li><%= location.formatted_address %></li>
+      <li><%= location.latitude %></li>
+      <li><%= location.longitude %></li>
+    <% end %>
+    </ul>
+
+    <div class="xmlsnip">
+
+    </div>
+  </div>
+</div>
+
+
+<script>
+$(function() {
+
+  var SHADOW_Z_INDEX = 10;
+        var MARKER_Z_INDEX = 11;
+        
+        var DIAMETER = 200;
+  var map, layer, features;
+
+  var options = {
+    controls: [
+      new OpenLayers.Control.Navigation(),
+      new OpenLayers.Control.PanZoomBar(),
+      new OpenLayers.Control.LayerSwitcher({'ascending':false}),
+      new OpenLayers.Control.Permalink(),
+      new OpenLayers.Control.MousePosition(),
+      new OpenLayers.Control.KeyboardDefaults()
+    ]
+  };
+
+  var map = new OpenLayers.Map('map', options);
+
+  var gphy = new OpenLayers.Layer.Google(
+    "Google Physical",
+    {type: google.maps.MapTypeId.TERRAIN}
+  );
+  var gmap = new OpenLayers.Layer.Google(
+    "Google Streets", // the default
+    {numZoomLevels: 20}
+  );
+  var ghyb = new OpenLayers.Layer.Google(
+    "Google Hybrid",
+    {type: google.maps.MapTypeId.HYBRID, numZoomLevels: 20}
+  );
+  var gsat = new OpenLayers.Layer.Google(
+    "Google Satellite",
+    {type: google.maps.MapTypeId.SATELLITE, numZoomLevels: 22}
+  );
+
+  layer = new OpenLayers.Layer.Vector("Marker Drop Shadows");
+  map.addLayers([gphy, gmap, ghyb, gsat]);
+
+  map.addControl(new OpenLayers.Control.LayerSwitcher());
+
+  var center = new OpenLayers.LonLat(-8795761.71761, 3404810.9874);
+
+  if(!map.getCenter()) {
+    map.setCenter(center, 4);
+  }
+
+  drawLocations();
+
+function drawLocations() {
+    layer.removeFeatures(layer.features);
+
+    var features = [];
+
+    <% @locations.each do |location| %>
+      var lonLat = new OpenLayers.LonLat(<%= location.longitude %>, <%= location.latitude %>);
+
+      features.push(
+        new OpenLayers.Feature.Vector(
+          new OpenLayers.Geometry.Point(lonLat.lon, lonLat.lat)
+      )
+      );
+    <% end %>
+
+    layer.addFeatures(features);
+
+
+  }
+
+  
+
+
+});
+
+
+</script>

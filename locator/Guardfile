@@ -6,3 +6,7 @@ guard 'livereload' do
   watch(%r{helpers/.+\.rb})
   watch(%r{public/.+\.(css|js|html)})
 end
+
+guard 'compass' do
+  watch(%r{^_sass/(.*)\.s[ac]ss})
+end
