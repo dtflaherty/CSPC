@@ -5,7 +5,7 @@ class Locator < Sinatra::Base
     erb :index
   end
 
-  get '/map/:location' do
+  get '/map' do
     @locations = Geocoder.search(params[:location])
     erb :map
   end
