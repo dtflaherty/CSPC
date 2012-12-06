@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Calendar of State Papers: Colonial Series</title>
+        <editor>W. Noel Sansbury</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <geoDecl xml:id="WGS" datum="WGS84">WGS84</geoDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <!-- use the iso 3166 country codes + other for towns
+          http://userpage.chemie.fu-berlin.de/diverse/doc/ISO_3166.html
+        -->
+        <place xml:id="ag" type="colony">
+          <placeName>Antigua</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="bb" type="colony">
+          <placeName>Barbados</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="jm" type="colony">
+          <placeName>Jamaica</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_ne" type="region">
+          <placeName>New England</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_sc" type="colony">
+          <placeName>South Carolina</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="en_london" type="city">
+          <placeName>London</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <dateline><date when="1731-01-02">Jan. 2</date></dateline>
+        <p>H.M. Warrant for appointment of Edward Bertie and John Hammerton, Secretary and Register
+          of <placeName ref="#us_sc">S. Carolina</placeName>, for their lives and to be executed by
+          them or sufficient Deputies, they having surrendered the grant of the said offices to them
+          by the late Lords Proprietors etc. Countersigned, Holies Newcastle. Copy. [C.O. 324. 36.
+          pp. 253, 254 ; and 324, 50. pp. 93, 94.]</p>
+      </div>
+      <div>
+        <dateline><date when="1731-01-03">Jan. 3</date></dateline>
+        <p>Memorial of loss and damage (2704Z. 2s. 2d. sterl.) sustained by Solomon and Elias de Paz
+          of <placeName ref="#en_london">London</placeName>, merchants, owners of the Friendship and
+          cargo taken 24th Feb. 1728(9), off <placeName ref="#jm">Jamaica</placeName>, by two
+          Spanish vessels, on her voyage from <placeName ref="#us_ne">New England</placeName> to
+            <placeName ref="#bb">Barbados</placeName> etc. The Friendship was bought and fitted out
+          in New England on their account. Signed, Elias de Paz. Endorsed, Reed, (from Elias de Paz)
+          <date when="1731-01-02">22nd Jan., 1731</date>| pp. Enclosed, 2. i-viii. Invoice, bill of lading and correspondence
+          relating to foregoing. [C.O. 388, 93. Nos. 4, 4 i-viii.]</p>
+      </div>
+      <div>
+        <dateline><date when="1731-01-04">Jan. 4</date></dateline>
+        <p>H.M. Warrant for using the new Seal of N. Carolina. Countersigned, Holies Newcastle.
+          Copy. [C.O. 324, 36. pp. 261, 262.]</p>
+      </div>
+      <div>
+        <dateline><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>Order of King in Council. Confirming Act of Jamaica concerning the estate of Thomas King,
+          deed. Signed, Temple Stanyan. Endorsed, Reed. 10th, Read <date when="1731-08-11">11th
+            Aug., 1731</date>. 1J pp. [C.O. 137, 19. ff. 87, 87v., 8Sv.]</p>
+      </div>
+      <div>
+        <dateline><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>Order of King in Council. Confirming Act of Antigua, 1729, for cutting off the intail of
+          lands formerly of John Bradshaw deed, and settling the same upon Francis Delap of
+            <placeName>Antigua</placeName>, merchant, etc. Signed, Temple Stanyan. Endorsed, Reed.
+          10th, Read llth Aug., 1731. If pp. [C.O. 152, 19. ff. 63, Q7v.]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

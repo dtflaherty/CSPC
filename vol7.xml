@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Calendar of State Papers, Colonial Series, America and West Indies, 1669 - 1674</title>
+        <editor>W. Noel Sainsbury</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Longmans, H.M.S.O.</publisher>
+        <pubPlace>London</pubPlace>
+        <date when="1889" />
+      </publicationStmt>
+      <sourceDesc>
+        <p>Derived from the Internet Archive version</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <place xml:id="ja">
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      
+      <div>
+        <head>
+          <hi rend="sc">
+            Colonial Papers.<lb/>
+            America and West Indies.
+          </hi>
+        </head>
+        <p> Memorial of the Spanish Ambassador to King Charles II. Reresents that the answer of Sec.
+          Lord Arlington and Sec. Trevor to London, his paper of <date when="1669-08-08">8th
+            August</date> concerning hostilities committed by his Majesty's subjects of <placeName>Jamaica<geo decls="#wgs"></geo></placeName> is
+          so different from what has been promised, that he is obliged to demand what was agreed
+          upon in writing, and cannot determine upon the expedients offered till he receives orders
+          from his Queen. But the truth of the account he gave his Majesty on the <date
+            when="1669-12-12">12th December</date> last of a new incursion of his Majesty's subjects
+          of Jamaica upon Puerto Bello, pillaging and committing outrages scarce heard of, being now
+          confirmed by the George and Samuel from Jamaica, by whose bills of lading it appears that
+          besides what George Potts and other merchants received of plate, the share of every
+          soldier was 600 (oz.) or 80l. at half a crown an ounce, whence it may be guessed what
+          quantity the officers, Governor, and their confidants had; the Ambassador desires that his
+          Queen may have full satisfaction, and the Governor of Jamaica the punishment due for an
+          incursion so unjust and contrary to the faith of the new Treaty of the general peace. And
+          as other vessels are arrived with part of the booty, and the number of ships designed for
+          Jamaica is increased, he desires that just restitution be made, and convenient orders
+          given for the future. <hi rend="ital">Annexed,</hi>
+        </p>
+        <list>
+          <item>
+            <p>"The Spanish Ambassador's paper" [above referred to as delivered on 12th December
+              last]. Being an account of what happened at the taking of Puerto Bello by the English
+              of Jamaica under the command of John Doglar, which account he sent to Havre de Grace :
+              On <date whem="1668-10-20">10-20 June 1668</date> we landed at Puerto Belo with 422
+              men in 28 canoes, leaving our ships 37 leagues off the west coast. On 11th we advanced
+              to the walls of Fort St. James, where were 30 pieces of artillery. After three or four
+              hours hard fighting we assaulted the fort and made ourselves masters of the garrison,
+              all of which refusing quarter were either killed, wounded, or cut to pieces. The next
+              day we attacked Fort St. Philip, on the other side of the coast, where were 12 pieces
+              of artillery, and after fighting three or four hours it surrendered. After remaining
+              some <pb/>days in said fort sickness broke out among our troops, of which we lost half
+              by sickness and fighting, so that we were obliged to abandon these places and received
+              100,000 crowns from the Spaniards for retiring. Had we had 800 men we might have gone
+              to Panama, about 18 leagues to the south of Puerto Velo, and have easily made
+              ourselves masters of it, as also of the Kingdom of Peru. The chiefs of the Expedition
+              were Henry Morgan, Commander-in-Chief, John Doglar, Julian John Salter, Enoch Clarke,
+              Capt. Rudolph Court, Colliar, John James, Maurice. French. Together 3 pp. [Col.
+              Papers, Vol. XXIV., Nos. 1-2.] </p>
+          </item>
+          <item>
+            <p>Mem. " Your Honor" [? Under Sec. Williamson] is desired to request of the King a
+              supply of fire arms and ammunition for the Somers Islands, also a convoy for the Comp.
+              magazine ship, John Jenkins, Commander. Governor Sir John Hey don arrived at the
+              Bermudas on 1 6th May 1669, in the magazine ship, Capt. John Jenkins. Lefroy, II. 286.
+              \ p. [Col. Papers, Vol. XXIV., No. 3.] </p>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>
