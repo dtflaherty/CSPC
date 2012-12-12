@@ -28,9 +28,9 @@
 $(function() {
 
   var SHADOW_Z_INDEX = 10;
-        var MARKER_Z_INDEX = 11;
-        
-        var DIAMETER = 200;
+  var MARKER_Z_INDEX = 11;
+
+  var DIAMETER = 200;
   var map, layer, features;
 
   var options = {
@@ -75,8 +75,9 @@ $(function() {
   }
 
   drawLocations();
+  writeXml();
 
-function drawLocations() {
+  function drawLocations() {
     layer.removeFeatures(layer.features);
 
     var features = [];
@@ -96,7 +97,15 @@ function drawLocations() {
 
   }
 
-  
+  function writeXml() {
+    var outputContainer = $('.xmlsnip');
+    var xml = $('<place xml:id="us_ne" type="region"><placeName>New England</placeName>location><geo></geo></location></place>');
+
+    outputContainer.append(xml);
+
+  }
+
+
 
 
 });

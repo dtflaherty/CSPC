@@ -1,4 +1,26 @@
-point	title	description	icon
-10,20	my orange title	my orange description	
-2,4	my aqua title	my aqua description	
-42,-71	my purple title	my purple description<br/>is great.	http://www.openlayers.org/api/img/zoom-world-mini.png
+#! /usr/bin/env ruby
+# vim: set noet nosta sw=4 ts=4 :
+#
+# Calendar of State Papers mapper
+# Wayne Graham <wayne.graham@virginia.edu
+#
+
+require 'geocoder'
+
+LOCATIONS = %w{
+  Jamaica
+  Falmouth, Jamaica
+  Charlestown
+}
+
+output = "point\ttitle\tdescription\ticon"
+
+LOCATIONS.each do |location|
+  result = Geocoder.search(location).first
+  lat = result.latitude
+  lon = result.longitude
+
+  output << "\n#{lon}, #{lat}\t#{result.address}\t"
+end
+
+File.open('points.txt', 'w'){ |file| file.write(output) }
