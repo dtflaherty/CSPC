@@ -26,6 +26,18 @@
         <!-- use the iso 3166 country codes + other for towns
           http://userpage.chemie.fu-berlin.de/diverse/doc/ISO_3166.html
         -->
+        <place xml:id="us_ne" type="region">
+          <placeName>New England</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="indies" type="region">
+          <placeName>West Indies</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="ag" type="colony">
           <placeName>Antigua</placeName>
           <location>
@@ -44,8 +56,15 @@
             <geo></geo>
           </location>
         </place>
-        <place xml:id="us_ne" type="region">
-          <placeName>New England</placeName>
+
+        <place xml:id="us_nh" type="colony">
+          <placeName>New Hampshire</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_ma" type="colony">
+          <placeName>Massachusetts</placeName>
           <location>
             <geo></geo>
           </location>
@@ -56,8 +75,50 @@
             <geo></geo>
           </location>
         </place>
-        <place xml:id="en_london" type="city">
+        <place xml:id="us_nc" type="colony">
+          <placeName>North Carolina</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_frederick" type="place">
+          <placeName>Fort Frederick</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_pemaquid" type="place">
+          <placeName>Pemaquid</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_newharbor" type="place">
+          <placeName>New Harbor</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_york" type="place">
+          <placeName>York</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_ma_boston" type="place">
+          <placeName>Boston</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="en_london" type="place">
           <placeName>London</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_stcroix" type="natural">
+          <placeName>St. Croix River</placeName>
           <location>
             <geo></geo>
           </location>
@@ -68,48 +129,159 @@
   <text>
     <body>
       <div>
-        <dateline><date when="1731-01-02">Jan. 2</date></dateline>
+        <dateline><num>1</num><date when="1731-01-02">Jan. 2</date></dateline>
         <p>H.M. Warrant for appointment of Edward Bertie and John Hammerton, Secretary and Register
-          of <placeName ref="#us_sc">S. Carolina</placeName>, for their lives and to be executed by
+          of <placeName ref="#us_sc" role="secondary">S. Carolina</placeName>, for their lives and to be executed by
           them or sufficient Deputies, they having surrendered the grant of the said offices to them
           by the late Lords Proprietors etc. Countersigned, Holies Newcastle. Copy. [C.O. 324. 36.
           pp. 253, 254 ; and 324, 50. pp. 93, 94.]</p>
       </div>
       <div>
-        <dateline><date when="1731-01-03">Jan. 3</date></dateline>
+        <dateline><num>2</num><date when="1731-01-03">Jan. 3</date></dateline>
         <p>Memorial of loss and damage (2704Z. 2s. 2d. sterl.) sustained by Solomon and Elias de Paz
-          of <placeName ref="#en_london">London</placeName>, merchants, owners of the Friendship and
-          cargo taken 24th Feb. 1728(9), off <placeName ref="#jm">Jamaica</placeName>, by two
-          Spanish vessels, on her voyage from <placeName ref="#us_ne" role="primary">New England</placeName> to
-            <placeName ref="#bb">Barbados</placeName> etc. The Friendship was bought and fitted out
+          of <placeName ref="#en_london" role="descriptive">London</placeName>, merchants, owners of the Friendship and
+          cargo taken 24th Feb. 1728(9), off <placeName ref="#jm" role="direct">Jamaica</placeName>, by two
+          Spanish vessels, on her voyage from <placeName ref="#us_ne" role="indirect">New England</placeName> to
+            <placeName ref="#bb" role="indirect">Barbados</placeName> etc. The Friendship was bought and fitted out
           in New England on their account. Signed, Elias de Paz. Endorsed, Reed, (from Elias de Paz)
-          <date when="1731-01-02">22nd Jan., 1731</date>| pp. Enclosed, 2. i-viii. Invoice, bill of lading and correspondence
+          22nd Jan., 1731 1 pp. Enclosed, 2. i-viii. Invoice, bill of lading and correspondence
           relating to foregoing. [C.O. 388, 93. Nos. 4, 4 i-viii.]</p>
       </div>
       <div>
-        <dateline><date when="1731-01-04">Jan. 4</date></dateline>
-        <p>H.M. Warrant for using the new Seal of N. Carolina. Countersigned, Holies Newcastle.
+        <dateline><num>3</num><date when="1731-01-04">Jan. 4</date></dateline>
+        <p>H.M. Warrant for using the new Seal of <placeName ref="#us_nc" role="secondary">N. Carolina</placeName>. Countersigned, Holies Newcastle.
           Copy. [C.O. 324, 36. pp. 261, 262.]</p>
       </div>
       <div>
-        <dateline><date when="1731-01-07">Jan. 7</date></dateline>
-        <p>Order of King in Council. Confirming Act of Jamaica concerning the estate of Thomas King,
-          deed. Signed, Temple Stanyan. Endorsed, Reed. 10th, Read <date when="1731-08-11">11th
-            Aug., 1731</date>. 1J pp. [C.O. 137, 19. ff. 87, 87v., 8Sv.]</p>
+        <dateline><num>4</num><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>Order of King in Council. Confirming Act of <placeName ref="#jm" role="secondary">Jamaica</placeName> concerning the estate of Thomas King,
+          deed. Signed, Temple Stanyan. Endorsed, Reed. 10th, Read 11th
+            Aug., 1731. 1J pp. [C.O. 137, 19. ff. 87, 87v., 8Sv.]</p>
       </div>
       <div>
-        <dateline><date when="1731-01-07">Jan. 7</date></dateline>
-        <p>Order of King in Council. Confirming Act of Antigua, 1729, for cutting off the intail of
+        <dateline><num>5</num><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>Order of King in Council. Confirming Act of <placeName ref="#ag" role="secondary">Antigua</placeName>, 1729, for cutting off the intail of
           lands formerly of John Bradshaw deed, and settling the same upon Francis Delap of
-            <placeName>Antigua</placeName>, merchant, etc. Signed, Temple Stanyan. Endorsed, Reed.
+            Antigua, merchant, etc. Signed, Temple Stanyan. Endorsed, Reed.
           10th, Read llth Aug., 1731. If pp. [C.O. 152, 19. ff. 63, Q7v.]</p>
       </div>
       <div>
-        <dateline><date when="1731-01-07">Jan. 7</date></dateline>
-        <p>Order of King in Council. Confirming Act of Antigua, 1729, for cutting off the intail of
-          lands formerly of John Bradshaw deed, and settling the same upon Francis Delap of
-          <placeName>Antigua</placeName>, merchant, etc. Signed, Temple Stanyan. Endorsed, Reed.
-          10th, Read llth Aug., 1731. If pp. [C.O. 152, 19. ff. 63, Q7v.]</p>
+        <dateline><num>6</num><date when="1731-01-11">Jan. 11</date></dateline>
+        <p>Governor Belcher to the Duke of Newcastle. Since I 
+        had the honour of writing you last I have met the Assembly 
+        of <placeName ref="#us_ma" role="direct">this Province</placeName> and after recommending to them what I thought 
+        needfull for H.M. honour and service, and their own good, and 
+        in a more especial manner pressing upon them H.M. 27th 
+        Instruction for fixing a salary on me and my successor I waited 
+        on them in a session of eighteen dayes, and finding they wou'd         
+        come to no amendments on the bill they had past before, I 
+        dissolv'd them, and inclose your Grace a Journal of the pro- 
+        ceedings at this short session. I have issu'd writts for a new 
+        Assembly to meet the 10th of next mo. and hope there will be a 
+        change in the Assembly for the better advancing H.M. honour 
+        and service, and nothing in my power shall be wanting towards 
+        it. But should it be otherwise I think I have done but my 
+        duty in dissolving the late Assembly since they would come 
+        no nearer to the King's Instruction, etc. Repeats recommendation 
+        of Mr. Sherburn for Lt. Gov. of <placeName ref="#us_nh" role="descriptive">N.H.</placeName> v. Dec. 15, 1730. On 
+        24th Dec. received Additional Instruction of Sept. 26th for the 
+        better preservation of H.M. woods and issued Proclamations 
+        in both Provinces accordingly. Continues : This day I receiv'd 
+        from Col. Dunbar H.M. Order in Council, 12th Nov., mentioning 
+        a representation that I was preparing a military expedition 
+        against <placeName ref="#us_me_frederick" role="direct">Frederick's fort</placeName> etc. Continues : In this representation 
+        my Lord Duke there is not the shadow of truth, nor did I ever 
+        make the least attempt or preparation of that nature. Yet I 
+        am not at all surpriz'd that Col. Dunbar had the folly, and 
+        confidence as well as malice to make such a representation 
+        against me. Because I am lately told he has wrote many other 
+        palpable falshoods to do me all the hurt in his power, but if he 
+        would confine himself to truth I should not give myself any 
+        trouble about him : the ship by which this goes sails in the 
+        morning, that I shall not be able to send your Grace the necessary 
+        papers of a notorious riott committed by some people belonging 
+        to Frederick's fort on some of H.M. subjects of this Province, 
+        as also what I directed H.M. Lt. Govr. of this Province to 
+        do at <placeName ref="#us_me_pemaquid" role="direct">Pemaquid</placeName> upon a visitation I order'd him to make to all 
+        the fortifications of this Province. Another ship will sail in a 
+        few dayes by which I shall send these things for my justification, 
+        and which I believe will be to the intire satisfaction of H.M. 
+        and his Ministers, and convince your Grace with what injustice 
+        this gentleman has treated me. If he intends to take upon 
+        him the office of an informer upon all my actions, and then to 
+        present them in a false light, it will be giving your Grace and the 
+        rest of H.M. Ministers a vast deal of unnecessary trouble. I 
+        should be glad when he seeks to make any complaints against 
+        me for the future that he would serve me with a copy before 
+        he sends them away, then my answer might go in the same 
+        ship, and had he done so now, I presume there had been no 
+        occasion for H.M. order to me of 12th Nov., the matter on which 
+        it is founded being absolutely false. I ask pardon for giving 
+        your Grace so great an interruption from the vast affairs of 
+        Europe, that ingross your precious hours etc. Signed, J. Belcher. 
+        4 pp. Enclosed, </p>
+      </div>
+      <div>
+        <dateline><num>6.1</num><date when="1731-01-11">Jan. 11</date></dateline>
+        <p>Copy of proceedings of the General Court of the 
+          Massachusetts Bay, Sept., Oct., 1730, relating to a 
+          riot at <placeName ref="us_me_newharbor" role="direct">New Harbour</placeName>, near Pemaquid, in York County,
+          upon the complaint of Josiah Grover against some 
+          Irish settlers, who seized him and his fishing schooner 
+          and company when he went to clear and settle some 
+          land there purchased by his ancestor, John Brown, 
+          from the Indians 15th July, 1625. He escaped to 
+          <placeName ref="#us_ma_boston" role="direct">Boston</placeName> and complains to the Governor, who instructed 
+          the Justices of <placeName ref="#us_me_york" role="indirect">York Town</placeName> to enquire into the matter. 
+          Four Irishmen were apprehended at <placeName ref="#us_me_pemaquid" role="direct">Pemaquid</placeName> by the 
+          Sheriff and committed for trial at the next General 
+          Sessions. They acknowledged that they assisted in 
+          seizing Grover's schooner, and said that they had orders 
+          to do so from Alexander Hamilton, Captain of the 
+          Fort. When the Sheriff came near Pemaquid, he 
+          saw the colours flying at the fort, and being informed 
+          by some Irish people that they designed to resist him, 
+          he sent a message to the officer there that he came 
+          with authority to apprehend some criminals etc. and 
+          required his assistance, who answered that he would 
+          keep his fort and did not admit the Sheriff etc. The 
+          guns were loaded, but the messenger warned the officer 
+          that if he went on, they would every one be hanged. 
+          Upon which Hamilton said he would take advice with 
+          his Council, and went out of the fort, and the Sheriff 
+          entered without opposition etc. Copy. 11 pp. </p>
+      </div>
+      <div>
+        <dateline><num>6.2</num><date when="1731-01-11">Jan. 11</date></dateline>
+        <p>Robert Auchmuty to Governor Belcher. <placeName ref="#us_ma_boston" role="direct">Boston</placeName>,
+          12th and 14th Dec., 1730. Gives his recollection of 
+          the conversation between the Governor, Col. Dunbar 
+          and himself at the Governor's house on 4th Oct., 
+          which was carried on with all the loyalty and harmony 
+          possible. No such words were used as that the King's 
+          Instructions signified nothing, or that the King had 
+          not an acre to the westward of <placeName ref="#rv_stcroix" role="boundary">St. Croix</placeName> etc. Signed, 
+          Robt. Aukmuty. 3| pp. \C.O. 5, 898. Nos. 78, 
+          78 i, ii.] </p>
+      </div>  
+      <div>
+        <dateline><num>7</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p>Order of Committee of Privy Council. Referring back 
+          to the Council of Trade and Plantations their report upon the 
+          petition of Lord Percival etc. for establishing a charitable 
+          Colony in <placeName ref="#us_sc" role="direct">S. Carolina</placeName>, to consider the alteration proposed by 
+          petitioners, after hearing them thereupon etc. Signed, Temple 
+          Stanyan. Endorsed, Reed., Read 13th Jan., 173. l pp. 
+          Enclosed, 7. i. Alteration proposed by Petitioners in above report. 
+          In lieu of words to lay before H.M. lists of all such 
+          officers .... under their Common Seal, the words, 
+          Under their common Seal to constitute Courts of 
+          Record and other Courts to be held in H.M. name, 
+          and for the space of 21 years to appoint and displace 
+          all officers civil and military within the said district 
+          together with such other powers as have been granted 
+          on the first establishment of Colonys. If pp. [C.O. 
+          5, 362. ff. ll-12v., 180.] </p>
       </div>
     </body>
   </text>
