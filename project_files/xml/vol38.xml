@@ -80,7 +80,7 @@
         <p>Memorial of loss and damage (2704Z. 2s. 2d. sterl.) sustained by Solomon and Elias de Paz
           of <placeName ref="#en_london">London</placeName>, merchants, owners of the Friendship and
           cargo taken 24th Feb. 1728(9), off <placeName ref="#jm">Jamaica</placeName>, by two
-          Spanish vessels, on her voyage from <placeName ref="#us_ne">New England</placeName> to
+          Spanish vessels, on her voyage from <placeName ref="#us_ne" role="primary">New England</placeName> to
             <placeName ref="#bb">Barbados</placeName> etc. The Friendship was bought and fitted out
           in New England on their account. Signed, Elias de Paz. Endorsed, Reed, (from Elias de Paz)
           <date when="1731-01-02">22nd Jan., 1731</date>| pp. Enclosed, 2. i-viii. Invoice, bill of lading and correspondence
@@ -102,6 +102,13 @@
         <p>Order of King in Council. Confirming Act of Antigua, 1729, for cutting off the intail of
           lands formerly of John Bradshaw deed, and settling the same upon Francis Delap of
             <placeName>Antigua</placeName>, merchant, etc. Signed, Temple Stanyan. Endorsed, Reed.
+          10th, Read llth Aug., 1731. If pp. [C.O. 152, 19. ff. 63, Q7v.]</p>
+      </div>
+      <div>
+        <dateline><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>Order of King in Council. Confirming Act of Antigua, 1729, for cutting off the intail of
+          lands formerly of John Bradshaw deed, and settling the same upon Francis Delap of
+          <placeName>Antigua</placeName>, merchant, etc. Signed, Temple Stanyan. Endorsed, Reed.
           10th, Read llth Aug., 1731. If pp. [C.O. 152, 19. ff. 63, Q7v.]</p>
       </div>
     </body>

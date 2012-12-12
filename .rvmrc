@@ -1,1 +1,5 @@
-rvm use 1.9.3@state_papers
+rvm use 1.9.3@cspc
+
+git pull
+
+bundle
