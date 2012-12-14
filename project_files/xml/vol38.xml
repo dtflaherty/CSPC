@@ -56,7 +56,13 @@
             <geo></geo>
           </location>
         </place>
-
+        
+        <place xml:id="ca_nl" type="colony">
+          <placeName>Newfoundland</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="us_nh" type="colony">
           <placeName>New Hampshire</placeName>
           <location>
@@ -113,6 +119,12 @@
         </place>
         <place xml:id="en_london" type="place">
           <placeName>London</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="en_whitehall" type="place">
+          <placeName>Whitehall</placeName>
           <location>
             <geo></geo>
           </location>
@@ -224,7 +236,7 @@
       <div>
         <dateline><num>6.1</num><date when="1731-01-11">Jan. 11</date></dateline>
         <p>Copy of proceedings of the General Court of the 
-          Massachusetts Bay, Sept., Oct., 1730, relating to a 
+          <placeName ref="#us_ma" role="direct">Massachusetts Bay</placeName>, Sept., Oct., 1730, relating to a 
           riot at <placeName ref="us_me_newharbor" role="direct">New Harbour</placeName>, near Pemaquid, in York County,
           upon the complaint of Josiah Grover against some 
           Irish settlers, who seized him and his fishing schooner 
@@ -282,6 +294,43 @@
           together with such other powers as have been granted 
           on the first establishment of Colonys. If pp. [C.O. 
           5, 362. ff. ll-12v., 180.] </p>
+      </div>
+      <div>
+        <dateline><num>8</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p>Memorial of three Justices of <placeName ref="#ca_nl" role="direct">Newfoundland</placeName> to 
+          Governor Osborn. Copy of C.S.P. 1730, Sept. 25 end. iv. 
+          Signed, Wm. Keen, Wm. Weston, A. Southmayd. Endorsed, 
+          Reed, (from Capt. Osborn), Read 12th Jan., 173f 1 p. [C.O. 
+          194, 9. ff. 67, 681;.] </p>
+      </div>
+      <div>
+        <dateline><num>9</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p>Queries by Governor Osborn. To desier the opinion 
+          of Council touching the power of the Fishing Admirals in 
+          persuant to the Act of Parliament. Whether the Fishing 
+          Admiral's power and Civill Majestrates interfere in any respect, 
+          and wether the former have any power to send warrants to 
+          constables, comit to prison, or command the stock, or wether 
+          they ought not to be subordinate to the latter. Whether the 
+          Justices of Peace may not act in <placeName ref="#ca_nl" role="direct">Newfoundland</placeName> by the Statu 
+          laws of this Kingdom. Whether I have not the power of a 
+          Justice of Peace and sett at their Quarter Sessions, or other 
+          meetings by virtue of my commission. Endorsed, Reed., Read 
+          12th Jan., 173$. | p. [C.O. 194, 9. ff. 70, 70.] </p>
+      </div>
+      <div>
+        <dateline><num>10</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p>Mr. Popple to Mr. Fane. Requests his opinion upon 
+          the preceding Queries<placeName ref="#ca_nl" role="direct"></placeName>. Encloses Governor Osborn's copies of 
+      Commission and that given by him to Justices of the Peace. 
+      [C.O. 195, 7. pp. 254-256.] </p>
+      </div>
+      <div>
+        <dateline><num>11</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p>Council of Trade and Plantations to the Duke of 
+          Newcastle. Enclose copies of Governor Hunter's letter etc. 
+          1st Oct., 1730. Autograph signatures. 1 p. Enclosed. Extracts referred to in preceding. [C.O. 137, 47. 
+          ff. 79-85 ; and (without enclosure) 138, 17. p. 307.] </p>
       </div>
     </body>
   </text>
