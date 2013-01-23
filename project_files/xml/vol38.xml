@@ -38,6 +38,30 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="en" type="region">
+          <placeName>England</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="pl" type="region">
+          <placeName>Poland</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="ru" type="region">
+          <placeName>Russia</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="es" type="region">
+          <placeName>Spain</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="ag" type="colony">
           <placeName>Antigua</placeName>
           <location>
@@ -56,9 +80,20 @@
             <geo></geo>
           </location>
         </place>
-        
         <place xml:id="ca_nl" type="colony">
           <placeName>Newfoundland</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="ca_ns" type="colony">
+          <placeName>Nova Scotia</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me" type="colony">
+          <placeName>Maine</placeName>
           <location>
             <geo></geo>
           </location>
@@ -87,6 +122,12 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="ca_ns_annapolis_royal" type="colony">
+          <placeName>Annapolis Royal</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="us_me_frederick" type="place">
           <placeName>Fort Frederick</placeName>
           <location>
@@ -111,6 +152,30 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="us_me_portland" type="place">
+          <placeName>Portland</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_norridgewock" type="place">
+          <placeName>Norridgewock</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_scarborough" type="place">
+          <placeName>Scarborough</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nh_new_castle" type="place">
+          <placeName>New Castle</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="us_ma_boston" type="place">
           <placeName>Boston</placeName>
           <location>
@@ -129,8 +194,32 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="pl_danzig" type="place">
+          <placeName>Danzig</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="rv_stcroix" type="natural">
           <placeName>St. Croix River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_kennebec" type="natural">
+          <placeName>Kennebec River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_sheepscot" type="natural">
+          <placeName>Sheepscot River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_saco" type="natural">
+          <placeName>Saco River</placeName>
           <location>
             <geo></geo>
           </location>
@@ -179,7 +268,8 @@
       </div>
       <div>
         <dateline><num>6</num><date when="1731-01-11">Jan. 11</date></dateline>
-        <p>Governor Belcher to the Duke of Newcastle. Since I 
+        <p><placeName ref="#us_ma_boston" role="secondary">Boston</placeName>. 
+        Governor Belcher to the Duke of Newcastle. Since I 
         had the honour of writing you last I have met the Assembly 
         of <placeName ref="#us_ma" role="direct">this Province</placeName> and after recommending to them what I thought 
         needfull for H.M. honour and service, and their own good, and 
@@ -264,7 +354,7 @@
           entered without opposition etc. Copy. 11 pp. </p>
       </div>
       <div>
-        <dateline><num>6.2</num><date when="1731-01-11">Jan. 11</date></dateline>
+        <dateline><num>6.2</num><date when="1730-12-12">Dec. 12, 1730</date></dateline>
         <p>Robert Auchmuty to Governor Belcher. <placeName ref="#us_ma_boston" role="direct">Boston</placeName>,
           12th and 14th Dec., 1730. Gives his recollection of 
           the conversation between the Governor, Col. Dunbar 
@@ -331,6 +421,321 @@
           Newcastle. Enclose copies of Governor Hunter's letter etc. 
           1st Oct., 1730. Autograph signatures. 1 p. Enclosed. Extracts referred to in preceding. [C.O. 137, 47. 
           ff. 79-85 ; and (without enclosure) 138, 17. p. 307.] </p>
+      </div>
+      <div>
+        <dateline><num>12</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="secondary">Boston</placeName>. Col. Dunbar to Mr. Popple. Refers to former letters. 
+          Continues : As to my disputes with the New Engld. people 
+          I hope I shall be justifyed ; if ever any body was among them 
+          without disputes, I will own myself in the fault and submit to 
+          be sacrificed to their resentment ; since their Committee was 
+          at <placeName ref="#us_me_frederick" role="direct">Fredericksfort</placeName> I have been threatened with many actions 
+          of trespass, and even high treason for building a fort and hoisting 
+          the King's colours, wch. they themselves prostitute at their 
+          little pallisadoed truck houses to exchange rum, molasses, and 
+          tobacco etc. with the Indians ; I landed here the 10th instant 
+          haveing been 12 days in my passage from Fredericksfort ; I 
+          was in great danger by islands of ice in the <placeName ref="#rv_kennebec" role="direct">river of Kennebeck</placeName>, 
+          but I was obliged to go into that river to stop some saw mills 
+          there who were destroying a fine swamp of pine trees near ye 
+          water upon lands wch. I have reserved for the Royal Navy in 
+          case the Proprietors or claimts. are disallow'd by H.M. etc. I 
+          could not avoyd makeing some appointments of lands within 
+          10 miles of the fort, where people are clearing ye woods, and 
+          converting the timber, wch. is oak, birch, ash, maple and 
+          popple, to ship timber, cord wood, and for pottash, and in order 
+          to plant corn, garden seeds, hemp and flax in the spring, if I 
+          had not done so, of course all would have dispersed, and would 
+          never be induced to return, so that <placeName ref="#us_ne" role="direct">New England</placeName> would boast 
+          of a victory, than which nothing could be a greater mortification 
+          to me ; I have not presumed to make any grant, or exercise 
+          any sort of jurisdiction, tho' many applications have been 
+          frequently made to me in small cases, as a Governour or 
+          Majestrate ; I dare not have refused hearing ye partys, then 
+          gave my opinion, complaining it was hard upon me, haveing 
+          no assistce. to be troubled with little disputes, and desired they 
+          might either defer matters or agree among themselves until 
+          majestrates could be appointed, and thus I have satisfied the 
+          people, and kept them together, but if after all, they must quit 
+          and loose their labour, many familys will be undone, and I 
+          the unhappy occasion of their misery, as I am at this time of 
+          my own ruine and my familys by my zeal and perseverance to 
+          promote this settlement, because I am convinced beyond all 
+          doubt that it will be very considerable and satisfactory to H.M. ; 
+          I send to my Lords Commissioners a smal parcel of hemp and 
+          flax, the produce of new ground at Fredericksfort of this year 
+          and from New England seed, the seed wch. I had from <placeName ref="#pl_danzig" role="indirect">Dantzick</placeName> 
+          by way of <placeName ref="#en_london" role="indirect">London</placeName>, being treacherously kept concealed until 
+          the season was over ; I wish I had a fund to send for some of 
+          each this year, and for two or more potash makers to <placeName ref="#pl" role="indirect">Poland</placeName> 
+          or <placeName ref="#ru" role="indirect">Russia</placeName>. I think I could promise to serve <placeName ref="#en" role="indirect">England</placeName> with 
+          those commoditys in return for their manufacturys without 
+          bringing away any of their mony, it is seldome any poor man's 
+          scheme is worth anything, however hints may be usefull to 
+          great ones ; I ought to be sufficiently discouraged as no notice 
+          is ever taken from any of the Offices of my letters, yet I live in 
+          hopes, wch. onely supports my spirits. These small samples 
+          of hemp and flax, are not in such perfection as they would be 
+          had I been at the place in time ; ye person I chiefly depended 
+          upon to pull and dress them went away being discouraged by 
+          common reports, an Irishwoman pulled, water-rotted and 
+          dressed the flax, and the hemp was in the grownd when I arrived 
+          there in the end of October, so that it was dew-rotted and even 
+          frozen as it stood, the man who dressed it as you see it, has 
+          made ropes and geer for cattle and carriages of some of it, and 
+          assures me it is very strong, and undertakes to make it of as 
+          fine a colour as flax next year, he tells me ye hemp here will 
+          be finer than any European and has a good deal of the soft 
+          nature of flax etc. From Kennebeck I went to <placeName ref="#us_me_portland" role="direct">Casco</placeName>, where 
+          there is onely one loading of masts provideing this year, the 
+          rest being contracted for at <placeName ref="#us_nh_new_castle" role="direct">Piscatua</placeName>, wch. I am glad of in 
+          respect to the Province of <placeName ref="#us_nh" role="direct">New Hampshire</placeName> who are generally 
+          a loyal good sort of people ; I went to ye undertakers house for 
+          ye contract, and shewed him the orders I reed, to prevent 
+          logging, he insisted on his right not to be interrupted, and 
+          alleddged that he logged on his own private property etc. Refers 
+          to enclosed letters which passed between them. Continues : Near 
+          his house wch. is built in the woods and upon grownd cleared 
+          within three years past, are five new mills each saw can cut 5 
+          and sometimes 6000 feet of pine boards in 24 hours, he told me 
+          if I sho'd stop his mills it would be ten pounds pr. diem damage ; 
+          the lands about Casco are generally called private property, 
+          and not one owner of a mill there but was pleased with the easy 
+          proposal I made them to prove their property. I hope I am 
+          not blameable for this condescention, and besides I am of 
+          opinion yt. few or none of them will be deemed good ; some 
+          shewed me their titles wch. were patents passed by Sir Edmd. 
+          Andros in 1688, wherein are reserves of wheat and mony to 
+          the Crown as an annual quit-rent, when I took notice of those 
+          reservations, and sayd I would acquaint H.M. therewith, they 
+          then disdained those titles, and sayd they did not esteem them, 
+          for that they had some old titles from Sir Ferdinando Gorge 
+          and Indian deeds ; I asked why they would produce Sir Edmond 
+          Andros's pats, to me, they replyed because they seemed best to 
+          the eye, but that it was an imposition of his to extort mony 
+          from the people. Upon enquiry I find there are very many of 
+          those patents, and all register'd, and if no quit-rent has been 
+          received since, wch. is payable to H.M. or His Capt. Genii, of 
+          the <placeName ref="#us_ma" role="indirect">Masachusets</placeName>, it will amount to a considerable sum, and 
+          may easily be recovered after a reform in this Governmt., wch. 
+          I hope is now upon the anvil. What I am now speaking of is 
+          in the large county of York, formerly called the <placeName ref="#us_me" role="indirect">Province of 
+          Maine</placeName>, 90 miles along the sea coast and backwards to ye South 
+          Sea in the original grant ; My Lords Commrs. may think 
+          that country is settled and peopled, whereas 20 miles in length 
+          and halfe so much in width would be sufficient for them ; there 
+          is yet onely one line of towns layd out there and they extend 
+          all along the shore and onely eight miles backwards into the 
+          country, thus many many millions of acres lye wast, whilst 
+          these gentry are opposeing H.M. to make other parts usefull 
+          to the Crowne ; if such matters are not represented home, no 
+          remedy can ever be applyed ; this country not content with all 
+          this ; do claim most part of <placeName ref="#ca_ns" role="indirect">Nova Scotia</placeName>; it is this stragling 
+          manner of settlement has (with their natural ill treatment of 
+          all persons) allways exposed them to the insults of the Indians, 
+          which (besides many poor souls cutt off), has cost them a great 
+          many thousand pounds, and all might have been prevented by 
+          gentle usage and some small present yearly to the poor natives, 
+          who, unprovoked, seem a good natured people ; I herewith 
+          send you a complaint from a Jesuit at one of their tribes 
+          settlemt., to whom I wrote in English hearing he was an Irish 
+          or Scotchman ; I hope by his influence to secure the friendship 
+          of his tribe. Acknowledges receipt of H.M. Additional 
+          Instruction for giving his share of the penalties upon loggers 
+          to informers. Will endeavour to prevent any abuse of that 
+          indulgence etc. Continues : I likewise received (Sunday, 10th 
+          Jan.) an office pacquet for Governour Belcher, with which I 
+          went to wait upon him, and he being ingaged at dutys (as they 
+          call them) I sent it by a gentleman on Monday morning, and 
+          wrote to him that some reasons to which he was no stranger 
+          prevented my waiting upon him, one of wch. was, the threats 
+          of the mobb etc. Encloses his answer, (encl. i). Continues : 
+          It is wonderfull how this great man and generally his country- 
+          men can act and say, and deny both. His behaviour and useage 
+          of me is beyond my imagination, and tho' to my face he denyed 
+          many things, I could prove them by many wittnesses, his last 
+          stroke is most provokeing of all, he has given out here that I 
+          was a spy in <placeName ref ="#es" role="indirect">Spain</placeName> and was so here now upon him and the 
+          country. I hope as he is not comeatable here my Lords will 
+          think I ought to have some satisfaction for so gross an abuse, 
+          one consequence of it had likely to have fallen lately upon 
+          Capt. Protheroe, Commander of ye Station ship, who walking 
+          in ye street, a man enquired of another who he was, answer 
+          was made, Collo. Dunbar, whereupon one replyed God d n 
+          him lett us mobb him, but being undeceived, the Capt. escaped ; 
+          I came onely hither to attend the Courts upon account of the 
+          expences I was unawares drawn into last year at Fredericks- 
+          fort, and here mett the additional trouble of the return of 500/. 
+          sterl. bills drawn by me on my groweing sallary wch. are pro- 
+          tested. I intend in a few days to New Hampshire and into the 
+          woods, and to send one of my Deputys to remain at Casco. 
+          You no doubt have all the proceedings of this Great and General 
+          Court transmitted by his Excy. to my Lords, no Governour 
+          was ever more hated than he, and notwithstanding any assure- 
+          ances he may give to the Ministry of succeeding in getting a 
+          fixed sallary from the new Assembly, everybody tells me it 
+          never will be given to him, and his pretences are onely to spin 
+          out time, and keep the affair out of Parliament. I am even 
+          told that the country have soe great an abhorrence of him for 
+          betraying them (as they call it) that many of the first rank 
+          are upon an Address to H.M. to give them any other Governr. 
+          and they will comply with the Instructn. His chief Councilour 
+          and favourite is the famous incendiary Dr. Cook, whose character 
+          is known at home, and both the Govr. and Doctor irreconcileable 
+          enemys to ye Dudley family who are reputed ye chiefs 
+          of this country ; they were allways for the sallary and the 
+          favourite Cook ever against it, wch. seems unaccountable that 
+          a Governour is in earnest, and caresses the man, who is at 
+          the head of his opposers. My Lords have heard of Govr. 
+          Wentworth's death of New Hampshire, he was a worthy honest 
+          gentleman, and is much lamented by the country, it is worth 
+          nothing to be Leiut. Governour, who has no sallary but 200/. 
+          this country mony, which all chief Governours before Mr. 
+          Belcher gave out of their 200/. sterl., and he would not give a 
+          shilling, nor is that small province able to give any ; they are 
+          apprehensive that Mr. Belcher has recommended one Mr. 
+          Waldron to be Lt. Govr., who was Clerk to the Council, 
+          and is so now and yet is made a Councillour and a Judge by Mr. 
+          Belcher, who has made great changes there, heavy upon gentle- 
+          men who were putt in by Mr. Shute and Mr. Burnet for their 
+          dutyfull and cheerfull complyance wth. ye Royal instructions. 
+          Mr. George Jaffrey is one of them, he is of the Council, was one 
+          of the Judges, and Treasurer of the Province, and Vice- judge 
+          of the Admiralty, he is a man of good sense, fortune and figure, 
+          and much the fittest to command that Province, I believe he 
+          would accept of it, tho' I really do not know, but this I am sure 
+          that no man there is more disaggreable to the King's friends than 
+          Mr. Waldron. I was exceedingly surprised upon my arrival 
+          here two days agoe to hear that Govr. Belcher had closetted 
+          Mr. Auchmuty the Advocate General and prevailed upon him 
+          to give a strange turn and construction to the conference he was 
+          wittness to, wch. I gave my Lords an account of by my brother. 
+          I taxed the Advocate Genii, with it who swore to me it was 
+          false, and that he omitted nothing but the Governour's telling 
+          me of sending down 500 men to dismantle the fort and take 
+          the people prisoners, he promised to send me a copy of what 
+          he gave Mr. Belcher, and to add that circumstance to it, wch. 
+          he sayd had escaped his memory, but I rather take it he did it 
+          out of complemt. to His Excellency. Mr. Auchmuty has told 
+          ye story as I related it to my Lords Commrs., in twenty 
+          places in this town etc. Continues : I am informed that many 
+          heads here are now at work plodding against me. I defye all 
+          the world whilst they stick to truth, but they would do anything 
+          to have me removed etc. I am this moment told that there is 
+          a Council sitting upon the report of the tryal of the four poor 
+          men, brought from near Fredericksfort by order of this General 
+          Court fr. the High Sheriffe of the county of York in October 
+          last, it is sayd they are convicted but I am not able to learn for 
+          what crime etc. I told you formerly they had onely stoped a 
+          sloop from taking away some staves cutt by themselves. The 
+          Governour wanted to try them for piracy. Pray Sir, Lay this 
+          before my Lords etc. Signed, David Dunbar. Endorsed, Reed. 
+          16th March, Read 13th Oct., 1731. Holograph. 14 pp. 
+          Enclosed, </p>
+      </div>
+      <div>
+        <dateline><num>12.1</num><date when="1731-01-12">Jan. 12</date></dateline>
+        <p>Governor Belcher to Col. Dunbar. <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, Jan, 12, 
+        1731. Acknowledges packet. " If you had inclined 
+        to have come with it yourself, I am a stranger to any 
+        reasons why you did not etc" Does not believe he is 
+        in the least danger from the mob, and would protect 
+        him, if there should be any appearance of that etc. 
+        Signed, J. Belcher. Endorsed as preceding. 1 p. </p>
+      </div>
+      <div>
+        <dateline><num>12.2</num><date when="1730-12-30">Dec. 30, 1730</date></dateline>
+        <p>Jacques Siresme, Jesuit Priest <placeName ref="#us_me_norridgewock" role="direct">among the Abnaquis</placeName>, 
+        to Col. Dunbar. 30th Dec. (N.S.), 1730. Acknow- 
+        ledges letter and looks forward to visiting him in the 
+        spring. Does not understand English. Is surprised 
+        that he makes no mention of religion etc. Signed, 
+        Jacques Siresme, Jesuite etc. Two letters, one in Latin, 
+        one in French. The whole endorsed as preceding. 2 pp. </p>
+      </div>
+      <div>
+        <dateline><num>12.3</num><date when="1731-01-26">Jan. 26</date></dateline>
+        <p>Robert Auchmuty to Col. Dunbar. <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, 26th 
+        Jan. 1730. Makes good the omission in his account 
+        of the conference between Col. Dunbar and Governour 
+        Belcher, as described in covering letter. Signed, 
+        Robt. Auchmuty. 1 3/4 pp. </p>
+      </div>
+      <div>
+        <dateline><num>12.4</num><date when="1730-10-12">Oct. 12, 1730</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="indirect">Boston</placeName> Gazette, Oct. 12th, 1730. Numb. 567. 
+        With a notice of Col. Dunbar that he has warned the 
+        people he found cutting white pine trees in <placeName ref="#rv_sheepscot" role="direct">Sheepscot</placeName> 
+        or Sheepsgut river that he had included that place 
+        among the 300,000 acres of timber to be reserved in 
+        <placeName ref="#ca_ns" role="indirect">Nova Scotia</placeName> for trees for the Royal Navy etc. Printed. 
+        2 pp. </p>
+      </div>
+      <div>
+        <dateline><num>12.5</num><date when="1731-01-27">Jan. 27</date></dateline>
+        <p>Major Cope to Jerr. Dunbar. <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, 27th Jan., 
+        1730. The chief occasion of Governor Philips' ordering 
+        me to this place was the prospect of engaging severall 
+        French Protestant families, to goe (agreable to their 
+        own propositions) and settle in <placeName ref="#ca_ns" role="direct">Nova Scotia</placeName>, being 
+        disapointed in that view, shall return to <placeName ref="#ca_ns_annapolis_royal" role="direct">Annapolis Royall</placeName>,
+        not well pleas'd " etc. Comments on the two 
+        letters (encl. i and iii) which have come to his hands 
+        etc. The latter shows that the conversation between 
+        Col. Dunbar and Governor Belcher amounted to the 
+        full to what the former wrote Col. Tayler on 12th Nov. 
+        (v. C.S.P. 17th Nov.), 1730 etc. Signed, Hen. Cope. 
+        Holograph. 3 pp. 
+        
+        12. vi. Copy of correspondence betwen Col. Dunbar and 
+        Lt. Gov. Tailer. v. C.S.P. 17th Nov., 1730. 4 pp. 
+        Enclosures iii-vi, endorsed as covering letter. [C.O. 217, 
+        6. ff. 39-46, 47, 48, 48u., 49z;., 50z;.-54, 55-56v., 570.] </p>
+      </div>
+      <div>
+        <dateline><num>12.7</num><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>Col. Dunbar to Mr. Westbrook. <placeName ref="#us_me_portland" role="direct">Casco</placeName>, Jan, 7, 
+        1730 (1731). Reply to following. 
+        " You desire me to shew you and your workmen 
+        such trees as we have remarked fit for H.M. use. That 
+        wood be an imployment for us all and of course neglect 
+        our duttyes in other parts " etc. But will appoint 
+        a deputy to attend him, though it is contrary to what 
+        he objected last year. " My brother was with you 
+        great part of that winter and has yr. letter by way of 
+        certificate how effectually he prevented the destruction 
+        of the timber on <placeName ref="#rv_saco" role="direct">Saco River</placeName>, which I find you have 
+        forgot " etc. Signed, David Dunbar. Endorsed, 
+        Reed. 16th March, Read 13th Oct., 1731. 3 pp. </p>
+      </div>
+      <div>
+        <dateline><num>12.8</num><date when="1731-01-06">Jan. 6</date></dateline>
+        <p>Col. Westbrook to Col. Dunbar. 6th June [sic], 
+        1730/1. Desires his assistance, according to Instructions, 
+        in selecting trees for the Navy under Ralph Gulston's 
+        contract. Much timber up <placeName ref="#rv_saco" role="direct">Saco River</placeName> was cut and 
+        destroyed last fall by permission of his deputy. " But 
+        behold when yr. brother come to inform you of it no 
+        man like him to be imployed in them parts to take 
+        care of ye King's interest etc. I have great reason to 
+        beleive you have continued this officer of yrs. with 
+        some private veiws to damnify my interest and 
+        intercept Mr. Gulston in his complying with his contract 
+        etc. Signed, Tho. Westbrook. Endorsed as preceding. 
+        Addressed. 1 p. [C.O. 5, 873. ff. 139-140u., 143, 143v.] </p>
+      </div>
+      <div>
+        <dateline><num>12.9</num><date when="1730-02-23">Feb. 23, 1730</date></dateline>
+        <p>Thomas Westbrook to Col. Dunbar. <placeName ref="#us_me_scarborough" role="indirect">Scarborough</placeName>. 
+        23rd Feb., 1729/30 . Reports rumour of his death. His 
+        brother came in the nick of time to save the timber 
+        at <placeName ref="#rv_saco" role="direct">Saco Falls</placeName>, " which I inform you of when I was in 
+        <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>. Saveing some trees which was cut about 
+        two months afore we got there, and just as we got 
+        there. There was six teams going up in the road and 
+        some of them had just begun to fall and had fallen 10 
+        or 11 trees which your brother markt " etc. Signed, 
+        Tho. Westbrook. Addressed. | p. [C.O. 5, 873. ff. 142, 142.]</p> 
       </div>
     </body>
   </text>
