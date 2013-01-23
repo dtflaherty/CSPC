@@ -44,6 +44,12 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="gb" type="region">
+          <placeName>Great Britain</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="pl" type="region">
           <placeName>Poland</placeName>
           <location>
@@ -194,12 +200,24 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="en_southwark" type="place">
+          <placeName>Southwark</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="pl_danzig" type="place">
           <placeName>Danzig</placeName>
           <location>
             <geo></geo>
           </location>
         </place>
+        <place xml:id="gf_stlawrence" type="natural">
+          <placeName>Gulf of St. Lawrence</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>        
         <place xml:id="rv_stcroix" type="natural">
           <placeName>St. Croix River</placeName>
           <location>
@@ -736,6 +754,131 @@
         some of them had just begun to fall and had fallen 10 
         or 11 trees which your brother markt " etc. Signed, 
         Tho. Westbrook. Addressed. | p. [C.O. 5, 873. ff. 142, 142.]</p> 
+      </div>
+      <div>
+        <dateline><num>13</num><date when="1731-01-13">Jan. 13</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="secondary">Boston</placeName>. Governor Belcher to the Council of Trade and 
+        Plantations. Repeats gists of covering letter, Jan. llth, and 
+        refers to those enclosures. Adds : These things, my Lords, 
+        are the whole of what I have ever done respecting <placeName ref="#us_me_frederick" role="direct">Frederick's 
+        Fort</placeName> etc., and how was it possible for me to do less ? I inclose 
+        your Lordships a memorial I deliver'd into H.M. Secretary of 
+        State the 15th May last, in answer to which I should have been 
+        very glad of some orders or directions for my conduct, but never 
+        receiv'd a word of answer till his Majesty's order in Council of 
+        12th Novr. last. According to the clause of the Charter cited 
+        in my memorial these lands My Lords are doubtless a part of 
+        this Province, and agreeable thereto your Lordships will find 
+        in H.M. Commission to me these words, " And the lands lying 
+        between the said territory of <placeName ref="#ca_ns" role="indirect">Nova Scotia</placeName>, and the <placeName ref="#us_me" role="indirect">Province of 
+        Main</placeName>." Quotes Commission to show that it makes the Charter 
+        " the great rule of my Government " etc. Continues : How 
+        dare I then disobey H.M. or betray the trust he has repos'd 
+        in me by refusing a legal protection to his good subjects, when 
+        they apply to me. These rioters, My Lords, have been since 
+        legally convicted in H.M. Courts, and must doubtless undergo 
+        the penalties of the law for such a breach of H.M. peace, and so 
+        notorious an assault and riott committed upon the property, 
+        and liberty of H.M. good subjects. I am here, my Lords, H.M. 
+        Govr. to see a good execution of all his wholsome laws for 
+        the safety of his subjects under my care in their lives and 
+        estates, and to this end I will endeavour carefully to use the 
+        power the King has delegated to me in his Royal Commission 
+        etc. Continues : It is false in Col. Dunbar to say, No private 
+        persons have hitherto set up any claim on those lands, because 
+        there have been a great many claims made, and are made daily, 
+        and the people that claim think they have a just right (tho' 
+        not by any grant of this Province) and one of the men whom 
+        Coll. Dunbar's people riotted and assaulted has a claim there 
+        descended down to him for 105 years past as may be seen in 
+        his complaint against these notorious riotters. My Lords, 
+        every man's private property is his life, and I can't answer for 
+        people's giving away what they think their own. But for the 
+        right of this government to those lands according to the Royal 
+        Charter. Had Coll. Dunbar wisely manag'd about 'em I think 
+        I should have had influence enough with this Assembly to have 
+        made a cession of their right to the Crown : and it was always 
+        my opinion that it wou'd be greatly to the advantage of this 
+        Province, that the Crown should settle those lands. Yet etc. 
+        I know not how to answer those that say, The Crown has always 
+        supposed these lands to be a part of this Province, or why have 
+        the Govrs. of the <placeName ref="#us_ma" role="indirect">Massachussetts</placeName> been ordered from time 
+        to time to insist with the Assemblies to rebuild the Fort at 
+          <placeName ref="#us_me_pemaquid" role="direct">Pemaquid</placeName>. They say why have not the Governours of <placeName ref="#us_nh" role="indirect">New 
+        Hampshire</placeName> and Nova Scotia had those Instructions, and again 
+        the King has directed the choice of a Councellour in the Royal 
+        Charter to be chosen on account of those lands, and who of 
+        course becomes one of the Legislators of H.M. Province of the 
+        Massachusetts Bay, and without such a Councellour the present 
+        Constitution cannot subsist. My Lords, I should be glad, I 
+        say, to be instructed how to answer these things etc. Concludes : 
+        I am tired of writing as I fear your Lordships will be of 
+        reading, yet I must not be so vilely traduc'd and not answer 
+        for myself ; I am an honest man, and hope ever to appear so. 
+        Nor cou'd I possibly have done more from my arrival to this 
+        day, than I have, in support of H.M. Dominions as well as for the 
+        welfare of the Provinces under my care etc. Signed, J. Belcher. 
+        Endorsed, Reed. 23rd Feb., Read 9th June, 1731. 7| pp. 
+        Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>13.1</num><date when="1730-05-15">May 15, 1730</date></dateline>
+        <p>Memorial of Governor Belcher to the King. 15th 
+        May, 1730. Has received accounts from <placeName ref="#us_ne" role ="indirect">New England</placeName> 
+        that Col. Dunbar hath made settlements on lands 
+        lying between the <placeName ref="#rv_kennebec" role="direct">River of Sagadehock</placeName> and the <placeName ref="#gf_stlawrence" role="direct">Gulph 
+        of St. Lawrence</placeName>, which the <placeName ref="#us_ma" role ="direct">Province of the Massa- 
+        chusetts Bay</placeName> apprehend to be part of the lands of that 
+        Province and not to be alienated but by grant from 
+        them according to the Royal Charter etc. quoted. Asks 
+        for plenary instructions how to conduct himself in this 
+        affair, and that Col. Dunbar may in the mean time be 
+        directed to withdraw from those lands, and forbear 
+        any further proceedings, till the right be fully deter- 
+        mined etc. Signed, J. Belcher. Endorsed, Reed. 23rd 
+        Feb. 173. Copy. 2 pp.</p>
+      </div>
+      <div>
+        <dateline><num>13.2</num><date when="1730-05-15">Dec. 29, 1730</date></dateline>
+        <p>Proclamation by Governor Belcher. <placeName ref="#us_ma_boston" role="direct">Boston</placeName>, 29th 
+        Dec., 1730. For preventing the destruction of the 
+        woods in the <placeName ref="#us_ma" role ="direct">Massachusetts Bay</placeName>, and publishing H.M. 
+        Additional Instruction relating thereto, 26th Sept., 
+        1730. Signed, J. Belcher. Endorsed as preceding. 
+        Printed by B. Green. 1 p. [C.O. 5, 872. ff. 170- 
+        175v., 17Gv.-177v., 178v.-179v. (with abstract).]</p>
+      </div>
+      <div>
+        <dateline><num>14</num><date when="1731-01-13">Jan. 13</date></dateline>
+        <p>John Southall to the Duke of Newcastle. Encloses 
+        following scheme, " wch. I hope may be of advantage to H.M. 
+        Island <placeName ref="#jm" role="direct">Jamaica</placeName> and to <placeName ref="#gb" role="indirect">Great Brittain</placeName>, and as the same may be 
+        put in execution without expence to any and can't but prove 
+        of profit and advantage to all, I wish it may meet with appro- 
+        bation " etc. Offers to give further explanations and to " make 
+        a draught of the island to show where and how long each road 
+        ought to be " etc. Signed, Jno. Southall, living at the green 
+        posts in the green walk near ye faulcon <placeName ref="#en_southwark" role="secondary">Southwark</placeName>. 3/4 large p. 
+          Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>14.1</num><date when="1731-01-13">Jan. 13</date></dateline>
+        <p>Some considerations on the present state of the Island       
+        <placeName ref="#jm" role="direct">Jamaica</placeName>, 1st In regard to its imminent danger from 
+        the slaves in rebellion, 2dly in regard to that island's 
+        past and present very great scarcity of provisions. 
+        Proposes the construction of roads, every inhabitant 
+        supplying his every sixth negro for that purpose etc. 
+        The rebel negroes would then have to surrender, and, 
+        amounting to 10,000 could be sold at 201. a head to 
+        pay expences and for maintaining forts etc. The 
+        mountainous woods at present occupied by the negroes 
+        or unoccupied would then supply abundance of game 
+        and provisions. Also it is well known there have been 
+        veins of gold and silver ore found in the blew moun- 
+        tains, which the dread of the negroes alone prevents 
+        being explored etc. 2| large pp. [C.O 137, 53. ff. 
+        297-298U.] </p>
       </div>
     </body>
   </text>
