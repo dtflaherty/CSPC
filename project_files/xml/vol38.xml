@@ -47,19 +47,19 @@
         <place xml:id="indies" type="region">
           <placeName>West Indies</placeName>
           <location>
-            <geo></geo>
+            <geo>20.0 -70.0</geo>
           </location>
         </place>
         <place xml:id="british_indies" type="region">
           <placeName>British Caribbean Islands</placeName>
           <location>
-            <geo></geo>
+            <geo>13.0 -63.0</geo>
           </location>
         </place> 
         <place xml:id="foreign_indies" type="region">
           <placeName>French, Spanish, and Dutch Caribbean</placeName>
           <location>
-            <geo></geo>
+            <geo>16.0 -70.0</geo>
           </location>
         </place>
         <place xml:id="de" type="region">
@@ -377,25 +377,25 @@
         <place xml:id="bb_stphilip" type="place">
           <placeName>St. Philip Parish</placeName>
           <location>
-            <geo></geo>
+            <geo>13.116667, -59.466667</geo>
           </location>
         </place>
         <place xml:id="bb_stmichael" type="place">
           <placeName>St. Michael Parish</placeName>
           <location>
-            <geo></geo>
+            <geo>13.116667, -59.6</geo>
           </location>
         </place>
         <place xml:id="bb_governmenthouse" type="place">
           <placeName>Government House, Barbados</placeName>
           <location>
-            <geo></geo>
+            <geo>13.1012, -59.5996</geo>
           </location>
         </place>
         <place xml:id="bs_nassau" type="place">
           <placeName>Fort Nassau</placeName>
           <location>
-            <geo></geo>
+            <geo>25.078333, -77.345556</geo>
           </location>
         </place>
         <place xml:id="ca_ns_annapolis_royal" type="place">
