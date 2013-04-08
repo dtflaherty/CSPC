@@ -87,7 +87,7 @@
           </location>
         </place>
         <place xml:id="ie" type="region">
-          <placeName>France</placeName>
+          <placeName>Ireland</placeName>
           <location>
             <geo></geo>
           </location>
@@ -160,6 +160,12 @@
         </place>
         <place xml:id="curacao" type="colony">
           <placeName>Curacao</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="dm" type="colony">
+          <placeName>Dominica</placeName>
           <location>
             <geo></geo>
           </location>
@@ -242,8 +248,20 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="stvincent" type="colony">
+          <placeName>St. Vincent</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="sr" type="colony">
           <placeName>Surinam</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="tobago" type="colony">
+          <placeName>Tobago</placeName>
           <location>
             <geo></geo>
           </location>
@@ -368,6 +386,12 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="bb_governmenthouse" type="place">
+          <placeName>Government House, Barbados</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="bs_nassau" type="place">
           <placeName>Fort Nassau</placeName>
           <location>
@@ -424,6 +448,24 @@
         </place>
         <place xml:id="jm_kingston" type="place">
           <placeName>Kingston</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="jm_liguanea" type="place">
+          <placeName>Liguanea</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="jm_nannytown" type="place">
+          <placeName>Nanny Town</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="jm_pero" type="place">
+          <placeName>Pero, Jamaica</placeName>
           <location>
             <geo></geo>
           </location>
@@ -524,6 +566,54 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="us_me_harrington" type="place">
+          <placeName>Bristol, ME</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_walpole" type="place">
+          <placeName>Walpole</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_townshend" type="place">
+          <placeName>Boothbay</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_newcastle" type="place">
+          <placeName>Newcastle, ME</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_woolwich" type="place">
+          <placeName>Woolwich</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_torrington" type="place">
+          <placeName>Waldoboro</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_northyarmouth" type="place">
+          <placeName>North Yarmouth</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_me_berwick" type="place">
+          <placeName>Berwick</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="us_nh_exeter" type="place">
           <placeName>Exeter, NH</placeName>
           <location>
@@ -596,6 +686,24 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="us_ny_oswego" type="place">
+          <placeName>Oswego</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_ny_fortniagara" type="place">
+          <placeName>Fort Niagara</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_ny_albany" type="place">
+          <placeName>Albany</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="us_pa_philadelphia" type="place">
           <placeName>Philadelphia</placeName>
           <location>
@@ -638,8 +746,56 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="us_nc_bath" type="place">
+          <placeName>Bath, NC</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_beaufort" type="place">
+          <placeName>Beaufort County, NC</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="us_nc_capefear" type="place">
           <placeName>Cape Fear</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_currituck" type="place">
+          <placeName>Currituck</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_edenton" type="place">
+          <placeName>Edenton</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_hyde" type="place">
+          <placeName>Hyde County, NC</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_meherrin" type="place">
+          <placeName>Mouth of Meherrin River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_roanoke" type="place">
+          <placeName>Roanoke</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="us_nc_tyrrell" type="place">
+          <placeName>Tyrrell County, NC</placeName>
           <location>
             <geo></geo>
           </location>
@@ -752,6 +908,24 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="en_lon_pontacks" type="place">
+          <placeName>Pontacks, Abchurch Lane in Lombard Street, London</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="en_lon_hampton" type="place">
+          <placeName>Hampton Court</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="en_lon_denmark" type="place">
+          <placeName>Denmark Street, London</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="en_bath" type="place">
           <placeName>Bath</placeName>
           <location>
@@ -760,6 +934,12 @@
         </place>
         <place xml:id="en_bristol" type="place">
           <placeName>Bristol</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="en_lincoln" type="place">
+          <placeName>Lincoln</placeName>
           <location>
             <geo></geo>
           </location>
@@ -866,6 +1046,24 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="by_albemarle" type="natural">
+          <placeName>Albemarle Sound</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="is_arrowsic" type="natural">
+          <placeName>Arrowsic Island</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="is_azores" type="natural">
+          <placeName>Azores</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
         <place xml:id="is_caicos" type="natural">
           <placeName>Caicos Islands</placeName>
           <location>
@@ -904,6 +1102,12 @@
         </place>
         <place xml:id="is_newprovidence" type="natural">
           <placeName>New Providence</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="is_ocracoke" type="natural">
+          <placeName>Ocracoke Island</placeName>
           <location>
             <geo></geo>
           </location>
@@ -952,6 +1156,12 @@
         </place>
         <place xml:id="lk_stclair" type="natural">
           <placeName>Lake St. Clair</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="lk_biscay" type="natural">
+          <placeName>Biscay Pond</placeName>
           <location>
             <geo></geo>
           </location>
@@ -1084,6 +1294,48 @@
         </place>
         <place xml:id="rv_hawksbill" type="natural">
           <placeName>Hawks Bill Creek</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_johns" type="natural">
+          <placeName>Johns River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_damariscotta" type="natural">
+          <placeName>Damariscotta River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_muscongus" type="natural">
+          <placeName>Medomak River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_santee" type="natural">
+          <placeName>Santee River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_capefear" type="natural">
+          <placeName>Cape Fear River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_james" type="natural">
+          <placeName>James River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_roanoke" type="natural">
+          <placeName>Roanoke River</placeName>
           <location>
             <geo></geo>
           </location>
@@ -4796,7 +5048,8 @@
           Captains and 7 subalterns. Our countrey party, consisting of 
           about 180 men were march'd from their place of rendezvous 
           before the regiments arriv'd. They had the luck to surprize 
-          the chiefe negro setlement in the neighbourhood of <placeName ref="#jm_portantonio" role="direct">Port Antonio</placeName> 
+          <placeName ref="#jm_nannytown" role="direct">the chiefe negro setlement</placeName>
+          in the neighbourhood of <placeName ref="#jm_portantonio" role="direct">Port Antonio</placeName> 
           gott into the town with the loss of two men and a few wounded 
           the negro's set fire to that part of their town next to the 
           mountains and fled thither under the cover of the smoak. Our 
@@ -6337,7 +6590,7 @@
         <dateline><num>151</num><date when="1731-04-22">April 22</date></dateline>
         <p><placeName ref="#en_lon_whitehall" role="from">Admty. Office</placeName>.
           Mr. Burchett to Mr. Popple. Replying to preceding. My Lords Commissioners
-          have no objection etc. Signed, J. Burchett. Endorsed, Reed. 22nd, Read 23rd, April, 1731. 
+          have no objection etc. Signed, J. Burchett. Endorsed, Recd. 22nd, Read 23rd, April, 1731. 
           Addressed, 3/4 p. [C.O. 194, 9. ff. 73, 74v.]</p>          
       </div>
       <div>
@@ -7393,7 +7646,7 @@
           John Ayscough to his place in the Council of <placeName ref="#jm" role="secondary">Jamaica</placeName>
           and suspending the youngest Councillor there, till a vacancy occur 
           etc. [For circumstances v. A.P.C. III. No. 230.] 
-          Countersigned, Holles Newcastle. Copy. [C.O. 324, 36. pp. 277-279.] 
+          Countersigned, Holles Newcastle. Copy. [C.O. 324, 36. pp. 277-279.]</p>
       </div>
       <div>
         <dateline><num>205</num><date when="1731-05-31">May 31</date></dateline>
@@ -7426,7 +7679,2328 @@
           so small importance. Signed, P. Gordon. Endorsed, Recd. 
           28th Sept., 1731, Read 4th Oct., 1731 (? by error for 1732). 
           1 3/4 pp. [C.O. 5, 1268. ff. 113, 113v., 118v.]</p>
-          
+      </div>
+      <div>
+        <dateline><num>206</num><date when="1731-06-01">June 1</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the Lords of the 
+          Committee of H.M. Privy Council. Report upon Mr. Popple's 
+          petition relating to gratuities and Office fees. Set out, A.P.C. 
+          III. No. 236. q.v. [C.O. 389, 37. pp. 325-328.]</p>
+      </div>
+      <div>
+        <dateline><num>207</num><date when="1731-06-01">June 1</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Mr. Attorney and Mr. Solicitor General. 
+          Encloses, for their opinion in general, act of <placeName ref="#ag" role="direct">Antigua</placeName>, 1726, 
+          to enable Wm. Gregson of the City of London, gent., a plantation 
+          formerly belonging to Roger Williams. [C.O. 153, 15. p. 106.]</p> 
+      </div>
+      <div>
+        <dateline><num>208</num><date when="1731-06-01">June 1</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>. 
+          Governor Belcher to the Council of Trade and Plantations. 
+          Refers to letter of 26th April and encloses laws since passed in 
+          <placeName ref="#us_nh" role="direct">N. Hampshire</placeName>. Continues : The people there 
+          are still very desirous, that I might have the King's leave for 
+          signing the bill I transmitted in Dec. last etc. Prays for dispatch 
+          in that matter and for mandamuses for Mr. Waldron and Mr. 
+          Gambling for the Council. Continues : I seldom have more 
+          than six to attend in Council, which is a great prejudice to the King's service.
+          The 26th ulto. I met the new Assembly of <placeName ref="#us_ma" role="direct">this Province</placeName>
+          and by their Journal to this time now inclos'd your 
+          Lordships will see, they are of the same stamp with the last 
+          Assemblies. Nor have I the least expectation of their making 
+          any step towards a complyance with the King's Instruction, 
+          as to my support, nor do they seem to pay the least deference 
+          to any thing that is called an Instruction. I must therefore 
+          desire your Lordships wou'd send me the King's leave to receive 
+          my support in the way the Assembly is willing to give it, for it 
+          cannot be thought consonant to reason, justice or honour that 
+          I should go on to support the character of the King's Governour 
+          at the great expense of my own estate. With great submission 
+          to your Lordships my taking the sum the King has appointed 
+          me in the manner the Assembly are willing to pay it cannot 
+          prevent or anyways affect what H.M. in his royal wisdom shall 
+          think fit to do, for his own honour, in seeing that his orders 
+          have all possible obedience paid them. I have in this and 
+          every point acted with the strictest fidelity to the King's honour 
+          and service, and it is a severe thing for his faithfull servants 
+          to suffer in their estates as I have done ever since my arrival. 
+          I hope your Lordships will consider my hard case, and let me 
+          have the leave I desire, and was granted to former Governours, 
+          who had Instructions of the nature of mine, etc. Signed, J. 
+          Belcher. Endorsed, Recd. 5th July, Read 4th Aug., 1731. 
+          1 3/4 pp. [C.O. 5, 873. ff. 50-51, 53v. (with abstract).]</p>
+      </div>
+      <div>
+        <dateline><num>209</num><date when="1731-06-02">June 2</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Major Ayscough. My Lords Commissioners
+          etc. desire of speaking with you to-morrow morning at 
+          11 a'clock, concerning the present condition of <placeName ref="#jm" role="direct">Jamaica</placeName>, 
+          and that you will bring with you at the same time any persons that 
+          you know can give my Lords the best accot. of that matter. 
+          The like letter was wrote to Mr. Coleman, Mr. Harris, Mr. Morice. 
+          [C.O. 138, 17. p. 314.]</p>
+      </div>
+      <div>
+        <dateline><num>210</num><date when="1731-06-02">June 2</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Minutes of Privy Council. Major General Hunter's 
+          letter of 4th July, 1730, with the papers inclosed, representing 
+          the defenceless condition of <placeName ref="#jm" role="direct">Jamaica</placeName> the orders sent to him 
+          upon them in the Duke of Newcastle's several letters of 12th 
+          Oct. and 9th and 30th Nov. were read. And Maj. Gen. 
+          Hunter's letters of 23rd Jan., 11th Feb., 17th and 20th March 
+          and 2nd and 3rd April giving an account of the receipt of those 
+          orders, and of the arrival of the two Regiments at Jamaica 
+          were also read. The Secretary at War acquainted the Lords 
+          that he had received letters from Maj. Gen. Hunter of the 
+          same date and to the same purpose, as also one fom Colo. 
+          Hayes, dated Match 9, 1730/1, with advice of the defeat of the 
+          negroes and the burning of <placeName ref="#jm_nannytown" role="direct">their town</placeName>; and representing the 
+          bad condition of the quarters provided for the soldiers who 
+          sicken and dye fast, and that only two companies of his regiment 
+          are together ; the rest being dispersed in quarters all over the 
+          island ; which letters were read. Several other letters from 
+          officers and other persons at Jamaica (enumerated) were read, 
+          all which agree in the account of the sickness of the regiments, 
+          many of both regiments being ill of fevers and fluxes ; that it 
+          increased daily ; that several officers and abundance of the 
+          men were dead ; that at the funeral of Colo. Hayes the whole 
+          Regmt. were in tears, the surviving Officers almost dead ; 
+          that their men dyed daily ; and that the two regiments would 
+          soon fall a victim : that their accommodations were not good ; 
+          that no provision was made for them or care taken of them ; 
+          that three Companies of each Regimt. were sent to <placeName ref="#jm_portantonio" role="direct">Port Antonio</placeName>, 
+          a very unhealthy place, which were still on board, 
+          quarters not being ready for them ; and the rest were disperst 
+          all over the island ; and some in places where there were no 
+          rebellious negroes ; except only two companies, that were 
+          kept together ; that there seemed to be no want of the troops 
+          there, unless it were to make them planters ; and if the two 
+          Independant Companies were compleat, they would be more 
+          in number than the detachment of the regiments which is 
+          sent to that part where the rebellious negroes are ; that the 
+          affair of the negroes is a trifle, that they had been defeated and 
+          their town burnt ; that there had never been more than 30 of 
+          them together, that the people of the Island did not value 
+          them, nor were in general much pleased with the regiments. 
+          A letter from the Lords Commrs. of the Admiralty, 15th 
+          March, 1730/1 inclosing copy of one they had received from 
+          Major General Hunter concerning the defenceless condition of 
+          Jamaica, and his Grace's answer to them of 5th April, with 
+          another letter from them of 1st May were read. Their Lordps., 
+          upon consideration of the several letters, and finding great 
+          difference in the accounts from ye Govr. of Jamaica, and the 
+          officers and other persons there, as well with relation to the 
+          health and condition of the regiments, as to the service and use 
+          they may be of for the security of the island, and the suppressing 
+          of the rebellious negroes ; and being informed, that Capt. Dent 
+          is daily expected from thence, who is well acquainted with the 
+          state and condition of the island, their Lordps. think it most 
+          for H.M. service to deferr giving any oppinion in this matter 
+          till such time as they have received further information from 
+          Capt. Dent, and by the letters he will bring from Jamaica. In 
+          the mean time the Board of Trade are desired to enquire of the 
+          merchants what necessity they apprehend there may be for 
+          the continuance of those regiments at Jamaica. 4 1/3 pp. [C.O. 5, 36. ff. 9-11.]</p>
+      </div>
+      <div>
+        <dateline><num>211</num><date when="1731-06-02">June 2</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Samuel Stork. I am to remind you that you and the 
+          <placeName ref="#us_ny" role="direct">New York</placeName> merchants who attended the Board, 
+          9th April last, of your having informed their Lordships that 
+          you expected the sentiments of your Correspondants at New 
+          York concerning the most proper way of maintaining the fort at 
+          <placeName ref="#us_ny_oswego" role="direct">Oswego</placeName>, without burthening the fur trade of that Province, etc. 
+          Enquires whether they have received any such information. [C.O. 5, 1125. p. 165.]</p>
+      </div>
+      <div>
+        <dateline><num>212</num><date when="1731-06-03">June 3</date></dateline>
+        <p>Draft of <placeName ref="#bs_nassau" role="direct">Fort Nassau</placeName>,
+          <placeName ref="#is_newprovidence" role="indirect">New Providence</placeName>, as repaired and 
+          enlarged by Governor Phenney, with drafts of design intended 
+          to be finished, and of the fort as he found it etc. Certified by, 
+          Capt. Aspenwald. Endorsed, Recd, (from Capt. Phenney), 
+          Read 3rd June, 1731. Edmd. Oakley delin., 1 large p. [C.O. 23, 2. ff. 233, 233v.]</p>
+      </div>
+      <div>
+          <dateline><num>213</num><date when="1731-06-03">June 3</date></dateline>
+          <p>Account of the loss (930£. 5s. 3d.) sustained by Governor 
+            Phenney from the loss of his two sloops (v. 19th May).
+            <placeName ref="#bs" role="direct">[[ed. of Bahamas]]</placeName> Certified by, Peter Goudet. 
+            Endorsed, Recd., Read 3rd June, 1731. 2 pp. [C.O. 23, 2. ff. 231-232.]</p>
+      </div>
+      <div>
+        <dateline><num>214</num><date when="1731-06-03">June 3</date></dateline>
+        <p>Bond of Governor Phenney, Samuel Lawford and William Pinder 
+          to Peter Goudet, Treasurer of the <placeName ref="#bs" role="direct">Bahama Islands</placeName>, 
+          in 1200£. for refunding money raised by him on the 
+          public, 26th Nov., 1729 etc. (v. preceding.) Endorsed as 
+          preceding. Copy. 2 pp. [C.O. 23, 2. ff. 234, 234v., 235v.]</p> 
+      </div>
+      <div>
+        <dateline><num>215</num><date when="1731-06-03">June 3</date></dateline>
+        <p><placeName ref="#en_lon" role="from">London</placeName>.
+          Mr. Morice to Mr. Popple. Reply to enquiry, (v. no. 211). 
+          Continues : My confirmitys of the gout will not give me leave 
+          to attend their Lordships, nor am I able to give their Lordships 
+          any acctt. of the condition of <placeName ref="#jm" role="direct">Jamaica</placeName>;
+          and untill the ships arrive from Jamaica, that are expected home next month, I 
+          do not know of any person that [can] give their Lordships 
+          satisfaction in that affair. Signed, Hum. Morice. Endorsed, 
+          Recd., Read 3rd June, 1731. Addressed. 1 p. [C.O. 137, 19. ff. 21, 22.]</p> 
+      </div>
+      <div>
+        <dateline><num>216</num><date when="1731-06-04">June 4</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Treasury Chambers</placeName>.
+          Mr. Scrope to Mr. Popple. Encloses following. The 
+          Lords Commissioners of the Treasury desire the opinion of the 
+          Council of Trade what be fit for H.M. to do therein etc. Signed, 
+          J. Scrope. Endorsed, Recd. 4th June, Read 20th July, 1731. 
+          Addressed. 3/4 p. Enclosed,
+          216. i. Governor Worsley to the Lords Commissioners of the 
+          Treasury. <placeName ref="#bb" role="direct">Barbados</placeName>. Jan. 16, 1730/1. On the arrears 
+          of 2/6 levy etc. (v. supra 16th Jan). Signed, Henry Worsley. 2 pp. 
+          216. ii. Same to Same. 27th March, 1731. On the same. (v. supra 27th March). 
+          Signed, Henry Worsley. 4 pp. [C.O. 28, 22. ff. 53, 54-56v., 58v.]</p>
+      </div>
+      <div>
+        <dateline><num>217</num><date when="1731-06-04">June 4</date></dateline>
+        <p><placeName ref="#us_me_frederick" role="from">Fredericksfort</placeName>.
+          Col. Dunbar to Mr. Popple. Has had no opportunity 
+          of answering his letter of 11th Feb. Refers to his three former 
+          letters etc. Continues : The Penobscot Indians have had 
+          such impressions given them of us that they seem a little jealous 
+          and have not come so frequently among us as usual ; however 
+          I am sure if I am enabled to make them a few prests. instead 
+          of disturbing us, I will undertake by degrees to settle all along 
+          the coast by their consent etc. Repeats that he has been obliged 
+          to make some small lots of land etc. (v. C.S.P. Nov. 17, 1730). 
+          Continues : In <placeName ref="#rv_johns" role="direct">John's River</placeName> about four miles from
+          <placeName ref="#us_me_frederick" role="direct">Fredericksfort</placeName> I layd out a township wch. I called by the name of 
+          <placeName ref="#us_me_harrington" role="direct">Harrington</placeName>, and yt. river by ye same name, where I made a 
+          plan of a regular towne, fronting navigable water, and gave 
+          fourty acre lotts to the people contiguous to the towne, there 
+          are now there 76 familys, who have cleared part of their lotts 
+          and have made gardens and small plantations, and are burning 
+          bricks and prepareing to build houses being much incommoded 
+          by the weather in poor wigwams or cottages in which they 
+          live at present. <placeName ref="#rv_damariscotta" role="direct">Damarescotty river</placeName> whose entrance from the 
+          fort from the sea is but three leagues, I have called Walpole 
+          river, wch. is very deep and wide, and runs 20 miles navigable 
+          into the country, upon the east side of it I have layd out a 
+          regular compact town by ye name of <placeName ref="#us_me_walpole" role="direct">Walpole</placeName>,
+          and in it there are at this time 94 familys, on the west side opposite to it I 
+          have planted another town and called it <placeName ref="#us_me_townshend" role="direct">Townshend</placeName>, not above 
+          25 familyes are yet there, many of the people being gone for 
+          their wives and cattle. <placeName ref="#rv_sheepscot" role="direct">Shepscot river</placeName> enters but 2 leagues 
+          from Walpole river, and is very large, upon ye east side of it I 
+          have planted a towne which wth. the river I have called 
+          <placeName ref="#us_me_newcastle" role="direct">Newcastle</placeName>, and there I have fixed the people who first petitiond 
+          H.M. for leave to settle to ye Eastward of <placeName ref="#rv_kennebec" role="indirect">Kennebeck river</placeName>, 
+          there are near a hundd. familys there ; from the west side of 
+          ye river to Kennebeck which is about 8 miles, there is
+          <placeName ref="#us_me_woolwich" role="direct">a fine growth of large white pines, and oak</placeName>
+          wch., in Nov. 1729, I layd apart for ye use of the Royal Navy, and gave publique notice 
+          thereof, notwithstanding which some New England people 
+          who call themselves ye Shepscot Company, have committed 
+          great waste and have, the last winter, cutt down 154 mast trees 
+          into loggs for houses and fences by way of takeing possession of 
+          ye lands, but I am prosecuting them for it. <placeName ref="#rv_muscongus" role="direct">Moscougus river</placeName> 
+          enters from the sea, abt. 12 miles N.E. from Fredericksfort, a 
+          number of New England people who called themselves the 
+          Moscougus Company, came to me upon my first arrival at 
+          <placeName ref="#us_ma_boston" role="indirect">Boston</placeName> and when I told them of the King's intentions and 
+          termes of settling that country, they in a very dutyfull manner 
+          thankfully accepted thereof, and I told them that no others 
+          should have those lands, and that all others of H.M. Protestant 
+          subjects who would do the same should also settle where they 
+          pleased. Accordingly those people are come and comeing 
+          thither. I have called it <placeName ref="#us_ma_torrington" role="direct">Torrington</placeName>, wch. bounds on ye west 
+          and N.W. upon Fredericksfort and Harrington ; Harrington 
+          and Walpole lines meet, and Townsend and Newcastle ; the 
+          people have agreed this season to cutt strait cart-roads from 
+          towne, to build ferrys upon ye rivers and to erect beacons in 
+          proper places, the soil is extraordinary and the country not 
+          at all mountainous, it is covered with wood in veins, some 
+          places red oak wch. is oriely fitt for potash, dry cask and firewood, 
+          in other places white oak fitt for ship timber and wett cask, 
+          some parts mostly spruce, and all intermixed with some ash, 
+          birch, maple and popple or asp trees, very few pines and those 
+          stunted trees which are onely fitt for boards and shingles, 
+          without which no buildings can be carryed on. Every towne 
+          has clay fitt for bricks, and which will be cheaper to ye people 
+          than wooden houses ; great numbers of men are dayly flocking 
+          hither, and I am now upon laying out another towne by the 
+          name of Westmorland upon a <placeName ref="#lk_biscay" role="direct">fresh pond of thirty miles long</placeName> 
+          above Walpole, they are now encouraged by letters from <placeName ref="#en_lon" role="secondary">London</placeName>
+          that ye claims are all rejected, and I should not have presumed 
+          to have proceeded thus farr but that I had ye same account 
+          from London some months agoe, and there was an absolute 
+          necessity for it, besides no claimants on these parts made any 
+          application at home, but waited the issue of Mr. Waldo's 
+          sollicitation wch. would determine all the rest, and he was to 
+          have half of the lands he should get confirmed. If it had not 
+          been for Doctor Cook and him, noe opposition would have ever 
+          been made to the settlements, but all would have acquiesced, 
+          as those of Muscougus had done, and to shew the nature of their 
+          titles etc. repeats stay of John Brown (v. C.S.P. 17th Nov., 1730). 
+          Continues : When I told some of ye purchasers of this affair, 
+          they ownd they gave ye man ye mony but sayd it was in charity, 
+          and he made them a present of the deed in return, wch. they
+          layd no stress upon, haveing Indian deeds for ye same lands, 
+          to wch. I have seen no less than 3 such titles from different Indns. 
+          to different people ; I onely mention this to shew that I was 
+          willing to make no distinction between the King's subjects but 
+          receive all who would accept H.M. favour, this may prove Mr. 
+          Waldoe's chief plea in his petition to be false, vizt. that I had 
+          dispossd. several people from their antient possessions and 
+          inheritances, whereas I do solemnly declare that there was but 
+          one family between the island of <placeName ref="#is_arrowsic" role="boundary">Arrowzick</placeName> in Kennebeck river 
+          and the truck-house at Georges 10 leagues eastward of 
+          Fredericksfort, when I first came hither, namely Doctor 
+          Winslow's, now at the town of Townshend, and he is there still 
+          and was never disturbed nor threatend to be disturbed ; this 
+          is all yt. I can think material for me to take notice of in answer 
+          to that petition, but to observe that if your claim is allowed, 
+          there are so many more of the same nature yt. H.M. can have 
+          no reserve in that country for ye Royal Navy, and besides 
+          allowing one Indian's title, is an acknowledgmt. that ye Indians 
+          have a right to dispose of all ye rest of ye lands, and may sett 
+          what vallue they please upon it, or refuse to sell, and thus the 
+          planting a usefull Collony will be defeated, wch. besides a 
+          handsome revenue to the Crowne will consume abundance of 
+          English manufactures, and returns made for them in hemp, 
+          flax and pottashes wch. <placeName ref="#en" role="indirect">England</placeName> now purchases mostly with 
+          ready mony, and from countrys whose friendship is precarious. 
+          Mr. Waldo and his party being sensible of the weakness of their 
+          title, have lately purchased an additional one, wch. they 
+          imagined one Mr. Nelson had to all <placeName ref="#ca_ns" role="direct">Nova Scotia</placeName>. Mr. Nelson 
+          is an antient gentleman near 80 years of age, was a relation to 
+          Sr. Thomas Temple who was in these parts near seventy years 
+          agoe, he confessed to Mr. Waldoes frds. when they offered to 
+          treat with him for his title that he had no sort of right, and yt. 
+          if any remain'd, derived from his uncle Sr. Thomas Temple it 
+          must be in my Lord Cobham who is heir to him, but even his 
+          Lordship had none, because Sir Thomas's grant for Nova Scotia 
+          was but dureing his own life, if this be true the records in 
+          England must prove it. Notwithstanding this honest 
+          declaration from Mr. Nelson, Mr. Waldo's friends insisted 
+          upon buying his title and offerd 100£. <placeName ref="#us_ne" role="secondary">New England</placeName> mony, 
+          wch. he has wthin. this month accepted, and perfected deeds, 
+          wch. no doubt will be trumped up at ye Council Board in 
+          England before this can reach home ; this is a cheap purchase 
+          for Nova Scotia, which to the eastward of Kennebeck river 
+          will be upwards of fourscore millions of acres, and ye 100£. 
+          not worth more than so many ounces of silver ; 'tis much an 
+          easier purchase than Mr. Waldo would willingly have made 
+          abt. 30 months agoe in England, when one day Mr. Gulston, 
+          he and I dined at <placeName ref="#en_lon_pontacks" role="secondary">Pontacks</placeName> and talking of settling these parts, 
+          wch. was then in agitation, Mr. Waldo sayd yt. he had some 
+          pretentions to a neck of land between <placeName ref="#rv_stgeorge" role="boundary">St. Georges river</placeName> and 
+          <placeName ref="#rv_penobscot" role="boundary">Penobscot</placeName>, and if I could putt him in a way how to gett his 
+          claim confirmed by H.M. he would give a thousand guins. to 
+          any one about Court who would serve him therein. I answered 
+          that I did not know how or where to make any such application 
+          of mony. Mr. Gulston I believe would scorn to lye and I 
+          appeal to him for his testimony herein ; that claim of Mr. 
+          Waldo and Compa. (as they call themselves) is near 600,000 
+          acres, reckoning onely from St. Georges to Penobscot, but now 
+          by his petition he would include Mt. Muscougos, wch. etc. 
+          another sett of people claim and are actually settleing, waveing 
+          any pretentions but under the new terms, which many of the 
+          better sort of people tell me does ye more incourage them, 
+          because they will be under a Kingly Governmt. and hope for 
+          H.M. more immediate countenance, which these parts could 
+          never expect from the <placeName ref="#us_ma" role="indirect">Masachusetts Bay</placeName>, being at too great 
+          a distance from them, and it may appear from ye addresses 
+          contained in the 4 printed books sent by me to His Grace ye 
+          Duke of Newcastle and to my Lords Commrs. for Trade 
+          and Plantations soon after my arrival at Boston, that the 
+          Masachusets people refused to build the fort at <placeName ref="#us_me_pemaquid" role="indirect">Pemaquid</placeName> as 
+          being too remote from their Province, and therefore could be 
+          of no advantage to them, the opposition now given to the 
+          settlements is the pure effect of their principles for opposition 
+          sake, and not with any designe of settleing it themselves, they 
+          haveing land enough in the Masachusets province for 40,000 
+          familys more than they have in ye country, besides the large 
+          <placeName ref="#us_me" role="indirect">province of Main</placeName> which from
+          <placeName ref="#rv_piscataqua" role="indirect">Piscatua River</placeName> to Kennebeck is nearer 100 than 90 miles, 
+          30 of which at this time from <placeName ref="#us_me_northyarmouth" role="indirect">North Yarmouth</placeName>
+          in <placeName ref="#by_casco" role="indirect">Casco Bay</placeName> has not 30 familys upon it, ye other 
+          70 to Piscatua river, wch. parts it from <placeName ref="#us_nh" role="indirect">New Hampshire</placeName> has 
+          onely one line of townships along ye seashore and those but 8 
+          miles deep into the country, except on Piscatua river ye town 
+          of <placeName ref="#us_me_berwick" role="indirect">Berwick</placeName> 15 miles from the sea ; there are but small 
+          improvemts. in these towns, they live chiefly by their saw-mills, 
+          and are not to be restraind by any law yet in being, nor can the 
+          most diligent officers prevent such numbers of disobedient 
+          people, who very little regard the King's authority and very 
+          frequently insult his officers, a flagrant instance of this lately 
+          happened to one Capt. Lancelot a master of a ship who was 
+          attacqued, severely wounded and robbed, his wounds were 
+          such as that the people imagined they had killed him by their 
+          boasting that they had destroyed one Surveyor of ye Woods. 
+          He was a little man and was taken for Mr. Slade one of my 
+          Deputys at that time near ye same place upon his duty, who 
+          sent his horse for Mr. Lancelot to carry him to a surgn., this 
+          fact was related in one of the Boston newspapers, and is since 
+          confirmed to me by Mr. Slade etc. Refers to and repeats part 
+          of his letters Jan. 12th etc., the quit-rents due and the titles 
+          produced by the inhabitants for the lands, " particularly Collo. 
+          Westbrook." Continues : It may be worth consideration 
+          at home whether to demand the said arrears, in default of 
+          paymt. the title reverts to the Crowne ; all those patents were 
+          so much esteemed that they are registered in the town books 
+          of <placeName ref="#us_me_york" role="direct">York</placeName> which is the county towne etc. York is but 7 miles 
+          from the river of Piscataqua, and thither upon all sessions and 
+          sizes people from the west side of Kennebeck are obliged to 
+          resort upon all occasions near 90 miles, and what is yet harder 
+          upon them, they send representatives to Boston, 60 miles 
+          westward of Piscatua, and must follow any appeals thither to 
+          ye Governour and Council, and travel thro' the body of the 
+          Governmt. of New Hampshire ; there are many people tearing 
+          one another to pieces upon disputes of lands in the province of 
+          Maine, many familys at Casco who have settled and improved 
+          thereabouts for several years are now to be turn'd out by old 
+          claimants to the same lands who have layn dormant, and they 
+          are now to loose the benefit of their buildings and improvemts. 
+          by some new comers, among whom are Mr. Waldo and Mr. 
+          Westbrook who lately purchased the old titles for trifles, on 
+          purpose for erecting saw mills, as those lands are chiefly covered 
+          with large white pine trees. When I was at Casco in January 
+          last, ye Selectmen came to me in behalf of many others, and 
+          prayed me to represent their grievances home, and asked my 
+          approbation to call a towne meeting to aggree upon a petition 
+          to H.M. to annex them to this province, but I declined it, and 
+          now I have fresh application to beg in the name (as they say 
+          of 2/3) of the province of Maine that I would putt them in a way 
+          to lay their grievances before H.M., and how they may be 
+          annexed either to New Hampshire or Georgia, but I gave no 
+          answer, than, that I could not appear in it, but if they would 
+          send my petition to one of the Secretarys of State, or to my 
+          Lords Commissioners for Trade and Plantations and send 
+          substantial proof of their allegations it would be enquired 
+          into, and an answer wd. be returnd to them. I beg pardon 
+          for this long digression, and leave to observe the opinion of the 
+          Indians of ye pretended sale of lands by their ancestors, they 
+          say that their lands are unalienable, that their ancestors had 
+          onely a natural right dureing their own lives, and could not 
+          deprive their posterity of the same right, no more than they 
+          could take away their lives, nor do they pretend to any such 
+          right over their children, the tribes are much diminished, and 
+          many of them extinct ; it is very observable that when any 
+          settlemts. are made, ye Indians have insensibly decreased, and 
+          when any tribe is reduced to a few, they quit that place and 
+          incorporate with other tribes, and so the names of them are 
+          extinct ; the descendants of some in whose names formal 
+          deeds are trumpd. up, do, notwithstanding claim ye lands sold 
+          by their ancestors, and have offerd to sell their right dureing 
+          their own lives, but pretend to no more. In my first letter to 
+          His Grace the Duke of Newcastle and to my Lords Commrs. 
+          I acquainted them, upon my return from Fredericksfort, 
+          that the Proprietor of ye lands there offered to sell his right 
+          to me for a trifle. My answer was, before a great number of the 
+          Indians, that I was not come there to buy lands, for yt. all 
+          belonged to ye King of England who sent me to settle his 
+          subjects here, and no man had a right to sell any, upon this the 
+          Indians seemed grave and kept silence awhile, and then the 
+          proprietor told me with a smile, that King George was welcome, 
+          and I was welcome. I have in all my former letters sayd soe 
+          much of this country and of ye many different claims and titles 
+          to ye very same lands, yt. I can onely add, that if any of them 
+          are allowed, it will lay foundations for eternal suits and disputes 
+          among the people and endless appeals home, if ever this country 
+          be settled under those claimts., and besides it will create quarrels 
+          among ye descendants of the Indians who formerly sold, each 
+          of them insisting that the title their ancestors gave, is best. 
+          Upon the whole if H.M. allows one claim, he cannot avoyd 
+          allowing all under ye same case and then he may give over any 
+          expectation of ever hearing of a good settlement here or any 
+          advantage to ye Crowne. In some of my former letters I gave 
+          you an account of large claims eastward of Penobscot, one of 
+          20 miles square to Mr. Winnet, now of ye Council of Nova 
+          Scotia, by a grant from the French Governour before ye 
+          reduction of yt. province. To conclude I beg leave to referr 
+          to a printed case and state of the Crown's title to these lands 
+          signed by Dr. Pinfold after ye former disputes before His late 
+          Majesty in Council about ye year 1718, when for many reasons 
+          therein mentioned, ye title was absolutely declared to be in the 
+          Crowne. Now Sir in answer to what my Lords Commissioners 
+          are pleased to say relateing to the expenses I have made in 
+          laying the foundation of this Settlement. I most humbly 
+          thank their Ldsps. for the good offices they intend me, and 
+          herewith I send you an honest account of my disbursemts., 
+          so farr as I conceive they are for publique service, and I 
+          chearfully submit it to my Lords how farr they are soe ; As to 
+          the part respecting the Indians it is unavoydable, and if their 
+          Lordships will be pleased to look over my 23rd Instruction 
+          etc., it will appear how much reason I had to bestow somewhat 
+          upon these people, and yt. Instruction has farther encouraged 
+          me to promise that if by their behaviour, they deserved it, H.M. 
+          would order them some small presents, in blankits, corn, small 
+          shot and powder for their hunting ; they are now expecting 
+          them and it will be quite impossible for me not to give some- 
+          thing, I hope my Lords will recomend it ; two hundred 
+          pds. pr. year, until the quit-rent and the other penny to defray 
+          the province charges commences, will be sufficient, wch. sum 
+          must mostly be layd out in blankets, powder, swan, goose and
+          duck shot, laced hatts of about 10s. sterl. each, and some flints 
+          from London. As for travelling charges for me and my 
+          Deputys, I believe it is usual for all rideing officers, some of 
+          them are very rarely long in a place, and it is not easy to imagine 
+          the expence they are at and the fateague of travelling in this 
+          country, they are all in debt and cannot attend this duty without 
+          some addition, or travelling charges, in my humble opinion 
+          fifty pounds pr. ann. added to each of them in lieu of travelling 
+          charges would be a less expence than to pay them pr. diem. 
+          I will allways keep them full imployed ; I submit my own 
+          expences to my Lords' recommendation, and hope they will allow 
+          that I have not been idle ; the sum I charge for sloop hire and 
+          men and victuals is all payd and charged to me, it was impossible 
+          without it to give any description of ye parts which I have 
+          done in my letters ; I formerly proposed that if 200£. was 
+          allowed me I would build a proper coasting sloop, and would 
+          maintain her for so much pr. ann. ; this would enable me to 
+          view ye coast and rivers, prevent any abuses, and go any where 
+          on H.M. service. As for the other articles in my account, I 
+          found it quite impracticable to lay any foundation for a settle- 
+          ment, without some cover and security for the people, and 
+          therefore raised a dry stone wall 4 1/2 feet thick, upon ye ruins 
+          of ye old fort, wch. also commands a fine harbour, and protects 
+          vessels against any insult from the Indians, or other enemy, 
+          and so by degrees I was insensibly drawn into this expence. 
+          Any part of it that will be ordered me, I shall thankfully receive 
+          as so much given, and if any is deducted I hope it will be allowed 
+          out of the quit rents when they become due ; and were I not 
+          under incumbrances here upon account of those expences I 
+          would be well contented to be payd out of ye quit rents etc. 
+          As for the publique advantages accrueing hereby I have onely 
+          this to say, that if recovering a fine and a vast country from a 
+          wilderness and planting an usefull Collony there, raiseing a 
+          small fortification with the King's flag, a few ship guns, small 
+          armes and ammunition, and putting it in a posture of defence, 
+          and by inconsiderable presents reconcileing the savages to 
+          receive H.M. subjects with good will and friendship, instead 
+          of forceing them at an expence of blood and mony, or letting 
+          it remain a wilderness for ever, if this be not deemed to be of 
+          publique use and advantage is most humbly submitted to my 
+          superiors. It is now the 18th of June, 4 days ago Major Cosby 
+          arrived here with an Officer, serjt. and drummer and twenty 
+          men from Governour Philips's regt. from Canso. I wrote to 
+          the Governour in September last pursuant to my Instructions 
+          to send me 30 men, upon apprehensions that the Indians would 
+          give us some uneasyness being incited thereunto, but I hope 
+          nothing will persuade them to it ; if there had been occasion 
+          it appears by this how impracticable it is to depend upon any 
+          assistance from Nova Scotia. The Officer and his men are well 
+          lodged within the fort, and brought their provisions and 
+          ammunition with them. My letters are generally so very long 
+          that I fear it prevents their being taken into consideration. 
+          I have no other pleasure in writeing, but as I think it my duty, 
+          and I am really not able to do it according to my Comn. 
+          and Instructions to correspond with ye other Offices. I am 
+          frequently troubled with a little of the palsy, and cannot afford 
+          to keep any Clerk or Assistant, nor indeed to live myself, upon 
+          my present income in my ordinary expences etc. Continues : 
+          I am like to suffer here yt. I have no answer to the appeals I 
+          sent home etc. I have given security to prosecute ye appeals 
+          in a year, or to pay treble costs ; I made no doubt of a decree 
+          against Wyer upon my appeal sent to you 14 months agoe. 
+          The stock of paper etc. which I brought wth. me at my own 
+          expence is near out. I never had one sheet of paper given me, 
+          wch. others are allowed that make less use of it. I pray Sir 
+          that you will recommend this to my Lords and that you will 
+          watch an opertunity at their leisure to lay this long epistle before 
+          their Lordships with my most humble duty and thanks for all 
+          their favours, which as I am going to New Hampshire I shall 
+          take another oppertunity to do from thence. P.S. I hope 
+          by the honour I have of being a sub to Mr. Belcher in the Lt. 
+          Governour's Commission of N. Hampshire, it is not intended 
+          to take me from ye new settlemts. If I am allowed a sloop 
+          I will engage to do anything yt. may be required of me in each 
+          place. Encloses, a list of (19) forges and (6) furnaces in 
+          Massachusetts. Signed, David Dunbar. Endorsed, Recd. 7th 
+          Sept., Read 13th Oct., 1731. Holograph. 19 pp. With 
+          marginal notes for reply. [C.O. 217, 6. ff. 58-67v.]</p>
+      </div>
+      <div>
+        <dateline><num>218</num><date when="1731-06-05">June 5</date></dateline>
+        <p><placeName ref="#jm" role="from">Jamaica</placeName>. 
+          Governor Hunter to the Duke of Newcastle. Since 
+          my last, of which herewith goes a duplicate, there has nothing 
+          fallen out extraordinary <placeName ref="#jm" role="direct">here</placeName>. The Genll. Assembly was 
+          adjourn'd at their own request for a fortnight on account of 
+          the Supream Court. They are to meet again on Tuesday next. 
+          Encloses Address etc., " which contains fair promises. I shall 
+          not answer for the performances. Something may be done 
+          in the affair of the quit rents : They have resolved to subsist 
+          the two regiments for six months more. They are all at their 
+          several quarters, those in the country have suffered least being 
+          farther from rum than these in the towns, and generally speaking 
+          the whole well barrackt or lodg'd. The inclosed petition etc. 
+          was this day given me by the Chief Justice and the other Judges 
+          etc. The girl said nothing in her own defence on her tryal, 
+          but after sentence, the matter appear'd so plain, that the Bench 
+          ordered the woman to be prosecuted for perjury and recom- 
+          mended the unhappy young woman as an object of H.M. mercy, 
+          and I am an humble suitor to your Grace that her pardon may 
+          be granted etc. When the Session is over I shall inform your 
+          Grace more particularly of affairs etc. Signed, Ro. Hunter. 
+          Endorsed, R. Aug. 31st. 2 2/3 pp. Enclosed, 
+          218. i. Address of the Assembly of Jamaica to Governor 
+          Hunter. Return thanks for his Speech. As he 
+          recommended, they have come to resolutions for 
+          strengthning and securing the island and restoring 
+          its credit ; introducing white settlers, and rendering 
+          white servants more useful by a more speedy method 
+          for the recovery of their wages ; for better regulating 
+          the retailing of rum ; the making good all deficient 
+          funds ; and the better securing and more speedy 
+          collecting H.M. quit-rents etc. We shall not be 
+          wanting in rewarding the services of the regular 
+          troops. As we are of opinion an Agent is necessary 
+          to sollicite our affairs in <placeName ref="#gb" role="indirect">Great Britain</placeName>, we shall think 
+          of some proper person for that purpose etc. Copy. 1 p. 
+          218. ii. Petition of Alice Clayton to Richard Mill, C.J., and 
+          his associated Judges. Petitioner was condemned 
+          for the murder of her bastard child. She said nothing 
+          in her defence, being afraid of prejudicing in her 
+          business, her mistress, the first witness at her trial, 
+          who is a school-mistress and has maintained and 
+          employed her ever since her parents died when she 
+          was very young, if it should become known that she 
+          was acquainted with her being with child and with 
+          her delivery, petitioner little doubting but that her 
+          mistress as she often promised would on her trial set 
+          forth the facts etc. Altho' she was not so happy to 
+          be amongst people who had compassion enough to 
+          listen to her crys, yet she made earnest and loud 
+          complaints and three several times sent out one of 
+          the scholars to call Mrs. Laugher, wch. scholar was 
+          in Court ready to give her testimony, but was not 
+          produced etc. Prays to be recommended for H.M. 
+          pardon. Signed, Alice Clayton, her mark. 1 p. Overleaf. 
+          218. iii. Recommendations by the Jury and Judges of above 
+          petitioner as a fit object of H.M. mercy etc. Copy. 
+          1 p. [C.O. 137, 53. ff. 352-354, 356, 356v.]</p>
+      </div>
+      <div>
+        <dateline><num>219</num><date when="1731-06-08">June 8</date></dateline>
+        <p><placeName ref="#en_lon_goodman" role="from">Eilife Street Good Man filds</placeName>.
+          Mr. Storke to Mr. Popple. Has communicated his
+          letter of 2nd June to the gentlemen who attended the Board 
+          9th April. "They have wrote over to there correspondents at
+          <placeName ref="#us_ny" role="direct">N. York</placeName> as I have done the same, but we cannot expect to 
+          receive answears for three months to come " etc. Signed, Sam. 
+          Storke. Endorsed, Recd., Read 9th June, 1731. Addressed, 
+          Post-mark. (The usual triangular stamp, " Penny Post Paid," 
+          with the word Pidgeon written above it). (But one cannot say that 
+          this implies Pigeon-post!). 1 p. [C.O. 5, 1055. ff. 192, 193v.]</p>
+      </div>
+      <div>
+        <dateline><num>220</num><date when="1731-06-08">June 8</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. In 
+          reply to 28th Jan. have no objection to the granting to Anthony 
+          Rutgers 70 acres known as the Swamp, under the quit-rent now paid for the land at 
+          <placeName ref="#us_ny_newyork" role="direct">New York</placeName>, with provisoes that it be drained in one year etc.
+          Set out, A.P.C. III. p. 309. [C.O. 1125. pp. 166-168.]</p>
+      </div>
+      <div>
+        <dateline><num>221</num><date when="1731-06-09">June 9</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Same to the Duke of Newcastle. Abstract. Enclose 
+          extract from Governor Montgomery's letter, 21st Dec., 1730, 
+          relating to the trading house intended to be erected by the 
+          French in the <placeName ref="#us_ny_iroquoia" role="direct">Sennekees' country</placeName>. His Grace is fully apprized 
+          of the arts used by the French to withdraw the affections of 
+          the Five Nations from the English, contrary to the intent of 
+          the 15th article of the Treaty. The same consequences are to 
+          be apprehended from this new trading house, as have really 
+          happen'd from that erected some years ago at <placeName ref="us_ny_fortniagara" role="direct">Niagara</placeName>, which 
+          is now converted into a fort, by which the French have gained 
+          a possession in that place. Refer to their representations to 
+          Lord Carteret on that point. The French have now taken 
+          the very same steps in a country to which they have not the 
+          colour of any title, and should they be permitted to go on, 
+          might be of very fatal consequence to our Indian Nations, who 
+          might thereby be drawn from their allegiance to H.M. etc. 
+          Printed, N.Y., Col. Doc. V., 918, 919. Autograph signatures. 2 pp. Enclosed,                 
+          221. i. Extract from Governor Montgomery's letter, 21st Dec. 1730.          
+          221. ii-iv. Commissioner for Indian Affairs to Governor           
+          Montgomery, Nov. 26, 1730. Copy. With Minutes. 
+          Copy. (Without enclosures). [C.O. 5, 1086. ff. 22, 
+          22v., 24, 24v., 26-28v., 31, 32v. ; and 5, 1125. pp. 169, 170.]</p>
+      </div>
+      <div>
+        <dateline><num>222</num><date when="1731-06-09">June 9</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the Committee 
+          of Privy Council. Report upon petition of Ex-Governor 
+          Phenny. State case and quote Peter Goudet, Treasurer of the 
+          <placeName ref="#bs" role="direct">Bahamas</placeName>, that the sums raised during his administration were 
+          justly applied to the service of the public, and accounted for 
+          to the Assembly. The Assembly's objections appear to relate 
+          solely to the legality of the method by which the mony was 
+          levied. There was no assembly constituted during his 
+          government, so that the money was raised by the highest 
+          authority which then subsisted, and by the same power as his 
+          predecessor had levied taxes for the same purposes. Continue : 
+          We think Mr. Phenny's proceeding to be very justifiable 
+          from that part of his Commission whereby he was authorized 
+          to do everything that might conduce to the security of his 
+          Government, the good of the people, and the honour of the 
+          Crown. Acts of this kind have their foundation in reason, and
+          are vindicated from their own necessity, as well as by the 
+          practice of England towards infant Colonies. It may be further 
+          alledged in Mr. Phenney's favour, that the aforesaid levies were 
+          approved at the Quarter Sessions of the Island, which was the 
+          most popular Court that could take cognizance of such matters, 
+          before the constitution of the Assembly and the people of the 
+          Bahamas did concur in several addresses to Mr. Phenney, 
+          approving his whole conduct. It would be a very great hardship 
+          therefore if he should be obliged to stand the event of a suit 
+          at law in the Bahamas upon the abovementioned bond ; and 
+          we have no objection why H.M. may not be graciously pleased 
+          to order his Governor to deliver the said bond to Mr. Phenney's 
+          Attorney, in order to be cancelled. With respect to the sloops 
+          fitted out by Mr. Phenney, to fetch provisions for the garrison 
+          at the Bahamas, altho' he may have been a considerable sufferer 
+          by their being cast away in their return to those islands, yet 
+          as it does not appear to us that he had any orders for that 
+          equipment ; we can only submit this article, together with that 
+          of the fortifications, upon which Mr. Phenney appears to have 
+          taken a great deal of pains, to H.M. goodness and compassion. 
+          Partly set out, A.P.C. III. pp. 316-318. q.v. [C.O. 24, 1. pp. 196-201.]</p>
+      </div>
+      <div>
+        <dateline><num>223</num><date when="1731-06-09">June 9</date></dateline>
+        <p>Mr. Sharpe to Mr. Popple. I begg you will be so kind 
+          as to move the Lords Commrs. to appoint days to take 
+          the following mess, into their consideration etc. (i) An act 
+          passed in <placeName ref="#us_pa" role="direct">Pennsylvania</placeName>, 1727, for the establishing of Courts 
+          of Judicature, with the petition of John Moore against the 
+          same. This is to be heard by Councill on both sides etc. (ii) 
+          Acts of <placeName ref="#jm" role="direct">Jamaica</placeName> for the better regulating slaves etc.,
+          and (iii) enabling Capt. King and Lady Cotton to sell
+          <placeName ref="#jm_pero" role="indirect">Pero plantation</placeName> etc.
+          Endorsed, Recd. 10th, Read 5th June, 1731. Addressed. 1 p. [C.O. 137, 19. ff. 23, 24v.]</p> 
+      </div>
+      <div>
+        <dateline><num>224</num><date when="1731-06-09">June 9</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Duke of Newcastle to the Council of Trade and Plantations.
+          Encloses following etc. It is H.M. pleasure that 
+          you comply with what is desired etc. Signed, Holles Newcastle. 
+          Endorsed, Recd., Read 10th June, 1731. 1 1/2 pp. Enclosed,           
+          224. i. Address of the House of Lords to the King, 6th May,           
+          desiring that the Council of Trade and Plantations           
+          may be directed to receive all proposals that may be           
+          laid before them for preventing running of wool from           
+          <placeName ref="#en" role="direct">England</placeName> and <placeName ref="#ie" role="direct">Ireland</placeName>
+          and lay before this House proper methods for preventing the same etc.
+          Signed, Wm. Cowper, Cler. Parliamtor. Copy. 3 p.
+          224. ii. Address of the House of Commons to the King, 5th 
+          May, that the Council of Trade and Plantations be 
+          directed to lay before the House, in the next Session, 
+          a state of H.M. Colonies and Plantations in <placeName ref="#n_america" role="direct">America</placeName>, 
+          with respect to any laws made, manufactures set up, 
+          and trade carried on <placeName ref="#british_indies" role="direct">there</placeName>, which may affect the 
+          Trade, Navigation and Manufactures of this Kingdom. 
+          Copy. 1/2 p. [C.O. 323, 9. ff. 63-64, 65, 68v.]</p>
+      </div>
+      <div>
+        <dateline><num>225</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Governors of <placeName ref="#n_america" role="direct">Plantations</placeName>. Circular 
+          letter to all Governors. H.M. having been graciously pleased 
+          upon an Address of the House of Commons to give directions 
+          to my Lords Commissioners etc. to prepare a representation 
+          to be laid before the House in the next Session of the state 
+          of H.M. Colonies in <placeName ref="#british_indies" role="direct">America</placeName>, with respect to any laws made, 
+          manufactures set up and trade carried on there, which may 
+          affect the trade navigation and manufactures of <placeName ref="#en" role="indirect">this Kingdom</placeName> 
+          etc., desire that you will immediately send them the best and 
+          most particular account you can etc. on these matters. [C.O. 324, 11. p. 242.]</p>
+      </div>
+      <div>
+        <dateline><num>226</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. It 
+          having been lately represented to us, that inconveniences may 
+          arise from the devolution of Government in the <placeName ref="#leeward" role="direct">Leeward Islands</placeName> 
+          as it is at present setled by your Majesty's Commission etc., 
+          whereby it is directed, that in the absence of the Capt. General 
+          the chief command shall devolve upon the Lieut. General, and 
+          in his absence, upon the Lieut. Govr. of <placeName ref="#nevis" role="direct">Nevis</placeName> and upon the 
+          President of the Council in that Island, in the absence of the 
+          Lieut. Governor. In all probability, the first cause of giving 
+          this preference to Nevis, was, it's having been entirely settled 
+          before any other of the Leeward Islands ; but as <placeName ref="#stchristophers" role="direct">St. Christophers</placeName> 
+          and <placeName ref="#ag" role="direct">Antigua</placeName> are now become much more considerable, the 
+          reason of that preference ceases, and we most humbly offer to 
+          your Majesty, that for the future the chief command in these 
+          islands shall, in the absence of the Capt. General and Lieut. 
+          General, devolve upon the eldest Lieut. Governor being resident 
+          in any of the four islands, according to the priority of their 
+          commissions of Lt. Governor. We are induced to recommend 
+          the Lieut. Govrs. preferrably to the Presidents of the several 
+          Councils, because the former have the honour to bear your 
+          Majesty's commission, and generally speaking are persons of 
+          greater consequence, and better acquainted with the nature 
+          and methods of command and authority ; But if it should 
+          happen that neither the Governor in Chief, the Lieut. General 
+          nor any of the Lieut. Govrs. should be resident in the islands, 
+          we could humbly propose in that case that the chief 
+          command should devolve upon the President of the Council 
+          of St. Christophers, and the reason why we give preference 
+          to this island is, that it was first discovered and planted by the 
+          English in conjunction with the French, and had it not been 
+          for that partition it would probably have been first named 
+          in the Govrs' commission ; but the French part having been 
+          surrendred to <placeName ref="#gb" role="descriptive">Gt. Britain</placeName> etc., it is now entirely settled by 
+          your Majesty's subjects, and is become equal to, if not 
+          of greater consequence than any other of the Leeward 
+          Islands. The Governmt. of the Leeward Islands is now 
+          devolv'd upon the President of ye Council of Nevis, and 
+          we should have proposed this alteration sooner, had there ever 
+          been any probability that this would have happen'd. If 
+          your Majesty shall be pleased to approve of this alteration, 
+          we take leave humbly to propose that it may be made in ye 
+          draught of the Commission lately prepared for Col. Cosby. 
+          [C.O. 153, 15. pp. 107-109.]</p>
+      </div>
+      <div>
+        <dateline><num>227</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Mr. Fane. Encloses, for his opinion in point of law, 12 acts of the 
+          <placeName ref="#bs" role="direct">Bahama Islands</placeName>, 1729. [C.O. 24, 1. pp. 206-208.]</p>
+      </div>
+      <div>
+        <dateline><num>228</num><date when="1731-06-10">June 10</date></dateline>
+        <p>Extract of a letter from Col. Montgomerie to Andrew 
+          Drummond. I return you inclosed a receipt of Capt. Luckes 
+          of a box which you said, contained a seal for the Province of 
+          <placeName ref="#us_nj" role="direct">New Jersey</placeName>; his ship I hear was cast away on 
+          <placeName ref="#is_azores" role="indirect">the Western Islands</placeName>, so the seal never came to my hand.
+          You must represent this to the Lords of Trade, that a new one may be ordered. 
+          Exd. A. P. Endorsed, Recd, (from Mr. Drummond) Read 
+          10th June, 1731. 1/2 p. [C.O. 5, 972. ff. 202, 207v.]</p>
+      </div>
+      <div>
+        <dateline><num>229</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Mr. Fane. Encloses, for his opinion in point of law,
+          nine Acts of <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName>, 1728 and 1729, 
+          and five of <placeName ref="#us_nh" role="direct">New Hampshire</placeName>, 1729. [C.O. 5, 916. pp. 412-414.]</p>
+      </div>
+      <div>
+        <dateline><num>230</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. In 
+          reply to 10th March, quote their letter to Govr. Belcher of 
+          12th Dec. Continue : Since that time, we have reced. 
+          letters from him, in which he acquaints us, that notwithstanding 
+          he had formerly had, of ye next Assembly's acting more suitably 
+          to your Majesty's Instructions, yet he found they would not 
+          go beyond what had been settled in ye foregoing session, and 
+          he was sorry to acquaint us, that ye new Assembly <placeName ref="#us_ma" role="direct">[[ed. of Massachusetts]]</placeName>
+          had gon backward, and seem'd to do nothing more than had been done 
+          about forty years ago, when their present form of Government 
+          was first established. Upon this, we beg leave to inform your 
+          Majesty that by your 26th Instruction to Mr. Belcher, it is 
+          declared to be yor. Majestie's express will and pleasure, that 
+          he do not give his assent to any act, or order of Assembly etc. 
+          for any gift to be made to him etc., except only in the manner 
+          prescribed in the 27th Instruction, quoted (that he should 
+          propose to the Assembly to pass a law declaring the salary of 
+          their Governor for the time being to be 1000£ pr. ann. sterling). 
+          Continue : By the Act referred to us, it is provided that ye 
+          summ of " 2400£. shou'd be paid out of ye publick Treasury to 
+          Jonathan Belcher Esq., etc. for ye present, as an ample and 
+          honble. support, and suitable to ye dignity of his station." 
+          Likewise, " That at ye beginning of ye next ensuing May 
+          session, another Act should pass, for an ample and honourable 
+          support to ye sd. Governor Belcher, which shou'd be annually 
+          renew'd at ye beginning of every May session during his 
+          government and residence in that Province," etc. In our opinion 
+          the 2,400£. thereby intended to be given to the Governor is 
+          contrary to his 26th Instruction, and the provision thereby 
+          intended to be made, that at ye beginning of the next ensuing 
+          May session another Act should pass, for an ample and honour- 
+          able support to Governor Belcher, which should be annually 
+          renewed etc., does, by no means come up to his 27th Instruction, 
+          but seems rather calculated to leave the Govr. still dependent 
+          upon ye Assembly for his support, and we are at a loss to imagine 
+          how Mr. Belcher in his letter to the Duke of Newcastle could 
+          think that this might be taken as a settlemt. during his 
+          Governmt. [C.O. 5, 916. pp. 415-418.]</p>
+      </div>
+      <div>
+        <dateline><num>231</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#is_newprovidence" role="from">N. Providence</placeName>.
+          Governor Rogers to the Duke of Newcastle. Refers 
+          to letter of 10th Feb. (Nos. 47, 55) etc. and Mr. 
+          Colebrooke's obstruction in the matter of the fortifica- 
+          tions etc. Continues : Having at several other times bred 
+          disturbances between me and the inhabitants and also 
+          encouraged the soldiers of the garrison to mutiny here 
+          and make unjust complaints at home, he was the last 
+          Sessions indicted by the Grand Jury and also tryed and 
+          found guilty by a Petty Jury for baratry etc. Will soon 
+          transmit the whole proceedings. Continues : Mr. Colebrooke 
+          is now proceeding to appeal. I am extremely concern'd that 
+          there was a necessity for so much rigour and that if he had 
+          been suffer'd to continue his evil practices H.M. might have 
+          had a much worse account and perhaps riskt or lost the Colony, 
+          shou'd either our neighbours the Spaniards or Pirates have any 
+          view to surprize us during our dissentions occasioned by this 
+          man, for here has been more contention lately than I knew 
+          even whilst I was last here amongst the pirates. And I hope 
+          this example will prevent anything like it for the future etc. 
+          Signed, Woodes Rogers. Endorsed, R. 8th Sept. 1 p. Enclosed, 
+          231. i. Copy of indictment and sentence of John Colebrooke 
+          as a common barrator and disturber of the public 
+          peace. Fined 750£. and imprisoned till H.M. pleasure 
+          be known. N. Providence, 25th-31st May, 1731. 2 pp. 
+          231. ii. (a) Protest offered by 17 inhabitants of the  
+          <placeName ref="#bs" role="direct">Bahama Islands</placeName> against the composition of the Grand Jury 
+          which returned a true bill against John Colebrooke. 
+          It is said to have been composed of strangers, one of 
+          the garrison, and persons of infamous character. 
+          25th May, 1731. 17 signatures. Subscribed, 
+          231 ii. (b) Mr. Rogers refusing to take any cognisance of the 
+          above protest, it was delivered by Samuel Lawford, 
+          one of the signatories, to the Chief Justice in Court, 
+          and therefore and for other abuses in the face of the 
+          Court, Lawford as a ringleader was committed. Eight 
+          of the signatories were afterwards of the Petty Jury that found Colebrooke guilty. 
+          The whole, 1 p. [C.O. 23, 14. ff. 185, 187-188v.]</p> 
+      </div>
+      <div>
+        <dateline><num>232</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#is_newprovidence" role="from">New Providence</placeName>.
+          Governor Rogers to the Council of Trade and Plantations. 
+          Part duplicate of preceding letter. This goes to 
+          <placeName ref="#us_sc" role="secondary">So. Carolina</placeName> by H.M.S. Cruizer. Will soon transmit an account 
+          of the whole state of <placeName ref="#bs" role="direct">the Colony</placeName>, which is but indifferent,  
+          chiefly occasioned by Mr. Colebrooke etc. Signed, Woodes Rogers. 
+          Endorsed, Recd. 28th Sept., 1731. 1 3/4 pp. Enclosed, 
+          232. i. Duplicates of enclosures i. and ii preceding. [C.O. 23, 3. ff. 73, 73v., 80v.-82v. ;
+          and duplicate without enclosures, sent via <placeName ref="#jm" role="secondary">Jamaica</placeName> 
+          and endorsed, Recd. 9th Aug. 1731. ff. 76, 76v., 77v.]</p>
+      </div>
+      <div>
+        <dateline><num>233</num><date when="1731-06-10">June 10</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. The seal for 
+          <placeName ref="#us_nj" role="direct">New Jersey</placeName> having been lost with the ship by which it 
+          was sent, desire instructions for engraving another. [C.O. 5, 996. p. 266].</p>
+      </div>
+      <div>
+        <dateline><num>234</num><date when="1731-06-10">June 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>.
+          Order of King in Council. Approving representation of 10th,
+          and ordering that the chief command of the <placeName ref="#leeward" role="secpndary">Leeward Islands</placeName>, 
+          in the absence of the Capt. and Lt. General, shall 
+          devolve as therein proposed, and that Governor Cosby's
+          Commission be altered accordingly. Signed, W. Sharpe. Endorsed, 
+          Recd. 18th June, Read 22nd July, 1731. 2 1/2 pp. [C.O. 152, 19. ff. 55-56v.]</p>
+      </div>
+      <div>
+        <dateline><num>235</num><date when="1731-06-10">June 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>.
+          Order of King in Council. Appointing David Bray, Councillor of 
+          <placeName ref="#us_va" role="secondary">Virginia</placeName>, in place of Col. Man Page decd. Signed, 
+          W. Sharpe. Endorsed, Recd. 10th, Read 11th Aug., 1731. 
+          1 1/4 pp. [C.O. 5, 1322. ff. 169, 169v., 170v. and 5, 21. f. 7.]</p>
+      </div>
+      <div>
+        <dateline><num>236</num><date when="1731-06-12">June 12</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Governor Belcher to Duke of Newcastle. His 
+          former letters and the Journal of the Representatives enclosed 
+          must make it clear that there is no prospect of anything being 
+          done conformable to H.M. Instruction as to fixing a salary. 
+          Continues : I am, My Lord Duke, perfectly devoted to H.M. 
+          service and honour, and the interest of His British Dominions 
+          and these I think not only consistent with but a strengthning 
+          of the prosperity of his Plantations, and after this way of 
+          thinking I have conducted the administration of the King's 
+          Government <placeName ref="#us_ma" role="direct">here</placeName>. And before the year comes about I shall 
+          have spent more than the King has required for the support of 
+          his Govr., and yet have hardly been able to live as necessarily 
+          becomes H.M. Govr. I wou'd therefore with great submission 
+          repeat to your Grace that upon a sedate and reasonable review 
+          of this matter I can't believe it will be thought justice to me 
+          or for the King's honour that I must imploy my life in the 
+          King's service and that of his subjects here, to the continual 
+          consumption of my own estate, without the least support from 
+          the Crown, or from the people here. Yet this has been and is 
+          my hard case. I would therefore pray, My Lord Duke, that 
+          I may have H.M. leave to sign the inclosed bill etc. (v. 26th 
+          April, No. 157 i.) for my support, which your Grace must believe 
+          will strengthen me in the service of the Crown, and it will be a 
+          punishment upon the people to take their money, " for they 
+          really smile at the late Govr's spending 1000£. sterl. of his 
+          own estate without receiving a farthing from them " etc. 
+          Quotes cases of Lord Bellamont and Mr. Dudley. Concludes : 
+          I suppose the great affairs of <placeName ref="#europe" role="secondary">Europe</placeName> have continually ingrost 
+          your Grace, and prevent me any answer to the many letters 
+          I have wrote etc., yet even this, My Lord Duke, makes this 
+          Assembly imagine the King has given over the affair of the 27th Instruction, etc. 
+          Signed, J. Belcher. Endorsed, R. Aug. 1st. 2 pp. Enclosed, 
+          236. i. Copy of bill for granting 5,400£. to Governor Belcher etc. ; 
+          including 2,400£. previously voted but not consented to. 
+          June 8, 1731. Copy. 1 p. [C.O. 5, 898. Nos. 86, 86 i.]</p>
+      </div>
+      <div>
+        <dateline><num>237</num><date when="1731-06-12">June 12</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>. 
+          Governor Belcher to the Council of Trade and 
+          Plantations. Regrets not having heard from the Board since 
+          their letter of 12th Feb. etc. Repeats gist of preceding letter 
+          to D. of Newcastle. Adds : Should the King finally recede 
+          from his orders after so long a controversy (publisht in all the 
+          prints of <placeName ref="#europe" role="secondary">Europe</placeName> and
+          <placeName ref="#n_america" role="secondary">America</placeName>) I truly dread what would be the 
+          consequences to <placeName ref="#us_ma" role="direct">this Province</placeName>. Some might be wild enough 
+          to fancy they were able to govern and protect themselves. Signed, J. Belcher. 
+          Endorsed, Recd. 23rd July, Read 4th Aug., 1731. Copy. 2 3/4 pp. Enclosed,
+          237. i. Duplicate of preceding encl. i. [C.O. 5, 873. ff. 54-56, 57v.]</p> 
+      </div>
+      <div>
+        <dateline><num>238</num><date when="1731-06-14">June 14</date></dateline>
+        <p>Sir W. Keith to Mr. Courand. Requests him to " put 
+          His Grace in mind to procure a reference to the Board of Trade 
+          upon " his petition etc. Continues : His Grace was pleased 
+          to promise to me it should be dispatch'd two weeks agoe " etc. 
+          Signed, W. Keith. Holograph. 1 p. [C.O. 5, 12. f. 64.]</p> 
+      </div>
+      <div>
+        <dateline><num>239</num><date when="1731-06-16">June 16</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Mr. Fane. Encloses, for his opinion in point of law,
+          15 Acts of <placeName ref="#us_nj" role="direct">New Jersey</placeName>, 1730.
+          [C.O. 5, 996. pp. 267-270.]</p>
+      </div>
+      <div>
+        <dateline><num>240</num><date when="1731-06-16">June 16</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Same to Mr. Paris. Tuesday morning is appointed 
+          for the consideration of the Act of <placeName ref="#us_pa" role="direct">Pennsylvania</placeName>
+          for the establishing of Courts etc. [C.O. 5, 1294. p. 30.]</p>
+      </div>
+      <div>
+        <dateline><num>241</num><date when="1731-06-16">June 16</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to John Sharpe. In reply to his letter, 
+          the Board have appointed Tuesday morning next for the 
+          consideration of the Act of <placeName ref="#us_pa" role="direct">Pennsylvania</placeName>
+          for Establishing Courts etc. Has given Mr. Paris notice.
+          They also desire to have his objections to the Act of
+          <placeName ref="#jm" role="direct">Jamaica</placeName> for the better regulating slaves etc.
+          [C.O. 138, 17. pp. 314, 315.]</p>
+      </div>
+      <div>
+        <dateline><num>242</num><date when="1731-06-18">June 18</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>.
+          H.M. Warrant appointing David Bray to the Council 
+          of <placeName ref="#us_va" role="secondary">Virginia</placeName>.
+          Countersigned, Holles Newcastle. [C.O. 324, 36. p. 280.]</p>
+      </div>
+      <div>
+        <dateline><num>243</num><date when="1731-06-18">June 18</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston in New England</placeName>.
+          Address of the Council and Representatives of
+          <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName> to the King. 
+          We, your Majesty's loyal and dutiful subjects, in great submission to your Majesty, as 
+          well as faithfulness to your subjects of this Province, humbly 
+          implore your Majesty's indulgence, and compassionate ear, 
+          while we lay before your Majesty our great difficulty by reason 
+          of your 27th Instruction to your Governour. We account it 
+          our greatest honour, and it is our highest joy, that in the compass 
+          of your Majesty's extensive Dominions, none are more firmly 
+          and zealously attacht to your Majesties person, and the august 
+          House of Hannover, than the whole body of this people : and 
+          as we are universally fixed in the principles of loyalty and 
+          obedience, and our hearts and affections strongly engaged to 
+          your Majesty, by the repeated instances of your paternal care 
+          and tenderness towards us ; so particularly by your Majesties 
+          distinguishing goodness to this Province, in the appointment 
+          of your Majestie's present Governor, and being sincerely desirous 
+          to enable and encourage your Majesty's Governour, chearfully to 
+          manage the public affairs, your Majesties Council and the House 
+          of Representatives, soon after his arival pass'd a bill for his 
+          ample and honorable support, and again at the beginning of 
+          the present session, they have offered the sum of 5,400£., which 
+          sum he has declined accepting on account of your Majesties' 
+          Instruction, directing the settlement of a salary on the 
+          Governor ; which Instruction, in faithfulness to the rights 
+          and privileges of your Majestie's subjects here, we cannot comply 
+          with, inasmuch as it would in a great measure alter, if not 
+          subvert our happy constitution, wherein it is designed that 
+          every part of the Legislature should be induced by interest, 
+          as well as duty, to consult an harmony with the others : And 
+          we beg leave to observe that the Council, and Representatives 
+          have a great dependance on the Governor in many particulars 
+          nearly affecting their interest, and that the Governor is under 
+          little, or no inducement, as to interest to cultivate a good 
+          understanding with them, more especially the House of Repre- 
+          sentatives, except that of their granting his support. And 
+          while your Majestie's Governor refuses to accept of anything, 
+          unless in the way of a fixed salary, and your subjects here, for 
+          the reason aforesaid, cannot come into such settlement, the 
+          Governor must needs be a sufferer for want of a decent and 
+          honorable support. We would therefore most humbly intreat 
+          your Majesty, to grant your royal order of leave, that your 
+          Governor may receive the sum that has already bin granted, 
+          and such further sums as may be granted for his honorable 
+          support, suitable to the dignity of his station, when he shall 
+          judge them to be so ; which we doubt not this, and all 
+          succeeding Assemblys will readily come into, and should they not, 
+          we acknowledge your Majesty will have just reason to show your 
+          displeasure. Your Majestie's dutiful Council, and Represen- 
+          tatives would also humbly beg leave to set forth the great 
+          difficulties arising from your Majestie's 30th. Instruction, 
+          whereby, should it be comply'd with, the House of Represent- 
+          atives would be hindered from passing on those accompts, which 
+          they humbly apprehend they have a good right unto, in 
+          conjunction with the other branches of the Legislature ; 
+          and this is very consistent with the Royal Charter, forasmuch 
+          as the Governor, by warrant, with the advice and consent 
+          of your Majestie's Council, thereupon issues the money out of 
+          the Treasury, which the House of Representatives never pre- 
+          tended to intermeddle with, but always supposed, that this 
+          of right belonged to your Majestie's Governour and Council, 
+          by the Royal Charter, nor has any money ever been drawn 
+          out otherwise ; and should this instruction take effect, the 
+          House of Representatives, who raise the public money, and 
+          whose constituents pay it, would not in many cases, be in any 
+          capacity to prevent misapplications of the money, or of 
+          obtaining any redress upon undue payments, which it is humbly 
+          conceived, would be against common right and equity; for 
+          the direction as to a future examination, can serve only to 
+          aggravate our distress, but noways helps to refund the money, 
+          or gain any relief : there being no possibility of impeachment 
+          here, as there is in such cases, in <placeName ref="#en" role="secondary">our Mother Countrey</placeName>,  
+          before the Right Honorable the Lords Spiritual and Temporal in 
+          Parliament assembled. Wherefore your Majestie's Council, 
+          and House of Representatives would most humbly supplicate 
+          your Majesty to withdraw the Instruction aforesaid, so far 
+          as it respects the passing accompts. Signed, In the name, and 
+          by order of the Council, Josiah Willard, Secretary ; In the 
+          name, and by order of the House of Representatives, John 
+          Quiney, Speaker. 1 large p. [C.O. 5, 898. No. 87.]</p>
+      </div>
+      <div>
+        <dateline><num>244</num><date when="1731-06-20">June 20</date></dateline>
+        <p><placeName ref="#us_ny_newyork" role="from">New York</placeName>.
+          Governor Montgomerie to the Duke of Newcastle. 
+          Abstract. Acknowledges letter of Sept. 25, 1730. Recommends 
+          Henry Lane for Council of <placeName ref="#us_ny" role="indirect">N. Y.</placeName> in place of Robert Walters 
+          decd., and Dr. John Rodman for Council of <placeName ref="#us_nj" role="indirect">N. J.</placeName>, in place of 
+          John Hugg, decd. Has just returned from a conference at 
+          <placeName ref="#us_ny_albany" role="direct">Albany</placeName> with the Six Indian Nations, whom he found sincerely 
+          attached to <placeName ref="#gb" role="secondary">Great Britain</placeName> etc. Encloses packets lately sent to 
+          him by a courier from the Governour of <placeName ref="#ca" role="direct">Canada</placeName>. Printed, 
+          N. Y. Col. Doc. V. p. 919. Signed, J. Montgomerie. Endorsed, 
+          R. 8th Sept. Holograph. 3 pp. [C.O. 5, 1093. ff. 162-163v.]</p>
+      </div>
+      <div>
+        <dateline><num>245</num><date when="1731-06-20">June 20</date></dateline>
+        <p><placeName ref="#us_ny_newyork" role="from">New York</placeName>.
+          Governor Montgomerie to the Council of Trade and 
+          Plantations. Abstract. Has heard that his last letters were 
+          safely delivered, before he had an opportunity of sending 
+          duplicates. Longs with great impatience for their answer, 
+          as he cannot meet the Assembly of <placeName ref="#us_ny" role="direct">New York</placeName> till he has 
+          instructions about the support of the garrison at <placeName ref="#us_ny_oswego" role="direct">Oswego</placeName>, nor
+          that of <placeName ref="#us_nj" role="direct">New Jersey</placeName> till he knows the fate of the bills now before 
+          the Board. Recommends Henry Lane to fill the place in the 
+          Council of New York of Robert Walters decd., and Dr. John 
+          Rodmon as Councillor for N. Jersey in place of John Hugg decd. 
+          Has just returned from meeting the Six Indians at <placeName ref="#us_ny_albany" role="direct">Albany</placeName>, 
+          and found them sincerely attached to <placeName ref="#gb" role="secondary">Gt. Britain</placeName>. Set out, 
+          N. Y. Col. Doc. V. 290. Signed, J. Montgomerie. Endorsed, 
+          Recd. 29th July, 1731, Read 17th May, 1732. 1 1/2 pp. [C.O. 
+          5, 1056. ff. 1-2, 6v. (with abstract).]</p>
+      </div>
+      <div>
+        <dateline><num>246</num><date when="1731-06-21">June 21</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>. 
+          Governor Belcher to the Council of Trade and 
+          Plantations. Since my last (of which you have duplicate here- 
+          with) several ships are arriv'd from <placeName ref="#en_lon" role="indirect">London</placeName> without a letter 
+          from your Lordships except a few lines purely in favour of the 
+          bearer Mr. Reynolds, son to my Lord Bishop of <placeName ref="#en_lincoln" role="descriptive">Lincoln</placeName>, who 
+          not finding the collection of <placeName ref="#us_nh" role="direct">N. Hampshire</placeName> to answer his 
+          expectations returns by this conveyance. Had he remained, 
+          I should have given him all the assistance in my power etc. 
+          Continues : H.M. Council and House of Representatives <placeName ref="#us_ma" role="direct">[[ed. of Massachusetts]]</placeName>
+          send to their Agents by this conveyance the bill they have past for 
+          my support, with their Address to H.M. that I may have leave 
+          to take it, and they think they have made a great step, inasmuch 
+          as the bill they have now past is after the rate of 3000£ a year 
+          from my arrival etc., whereas they us'd to give Govr. Shute 
+          no more than 1000£ a year and that was voted only half yearly. 
+          I am really of opinion they will not give less for the future, 
+          and that they'll do it at the beginning of the year which practice 
+          will make the Govr. independent from year to year. Let that 
+          be as it will I don't suppose H.M. will withdraw his Instruction 
+          etc. Yet I can't see the reason, justice or honour of his Govr. 
+          being starv'd or consuming his own substance while he is 
+          defending the cause of the Crown etc. Hopes for the royal 
+          leave to take his support as the Assembly will give it etc. 
+          Continues : As to the 30th Instruction I cannot think it 
+          consistent with the King's honour to part with the power 
+          reserv'd to the Crown in the Royal Charter, and I really think 
+          in that article the House of Representatives thirst after a 
+          power that by no means belongs to them, and cou'd they come 
+          at it, it wou'd give them such an overbalance of power as 
+          wou'd greatly weaken the just authority of H.M. Govr. and 
+          Council, and tend to the destruction of the present happy 
+          constitution of H.M. Government here. I, therefore, hope 
+          your Lordship[s] will rightly represent this matter and prevent 
+          the mischief that might be consequent upon their obtaining 
+          what they aim at. In my next I shall give my reasons more 
+          at large against the House of Representatives having anything 
+          to do with passing or paying accompts. The Charter certainly 
+          intends that matter shou'd always be with the Govr. and 
+          Council. Signed, J. Belcher. Endorsed, Recd. 27th July, 
+          Read 4th Aug., 1731. 2 1/2 pp. [C.O. 5, 873. ff. 58-59v.]</p>
+      </div>
+      <div>
+        <dateline><num>247</num><date when="1731-06-21">June 21</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>. 
+          Same to Mr. Popple. Abstract. Acknowledges letters 
+          of 24th Feb. and 5th April, with the opinion of the Attorney 
+          and Solicitor General on fines and recoveries, which he will 
+          communicate, as there shall be occasion, " though I hardly 
+          know an instance of any such things being attempted in their 
+          Government." Repeats complaint that he has not heard 
+          from the Board, which makes the Assembly imagine that the 
+          affair of the 27th Instruction is over etc. Repeats part of 
+          preceding, the expense of his voyage, commission and 
+          supporting the King's honour <placeName ref="#us_ma" role="direct">here</placeName> to make it necessary that 
+          he should be allowed to accept the Assembly's allowance. 
+          Concludes : The appointment of the new Lieut. Governor of 
+          <placeName ref="#us_nh" role="direct">N. Hampshire</placeName> after his so vilely traducing me, has been a 
+          great weakning of the King's authority in my hands, nor do I 
+          believe it will be the least strengthening of him in his other office. 
+          I wish you Sr. very happy in every article of life, and shall 
+          be glad to render you any acceptable service in this part of the 
+          world. Signed and endorsed as preceding. 2 3/4 pp. [C.O. 5, 873. ff. 60-61v.]</p>
+      </div>
+      <div>
+        <dateline><num>248</num><date when="1731-06-11">June 11-22</date></dateline>
+        <p>Memorial by M. Desruaux. <placeName ref="#lc" role="direct">Sta. Lucia</placeName> is used as a 
+          depôt for trade betwen the French and English, whose ships 
+          arrive there daily and exchange cargoes etc. Urges necessity 
+          of settling the disputed soverainty of the island etc., and explains 
+          its value. Signed, Desruaux. French. 4 1/2 pp. [C.O. 253, 1. No. 62.]</p> 
+      </div>
+      <div>
+        <dateline><num>249.1</num><date when="1731-02-12">Feb. 12</date></dateline>
+        <p>249. Extracts from several letters from <placeName ref="#jm" role="direct">Jamaica</placeName>
+          relating to the rebellious negroes and the two Regiments. 
+          (a) Col. Thomas Townshend to Mr. Walmesley, late Agent 
+          to Br. Newton. Port Royal, 12th Feb., 1731. Three companys of ours, 
+          and three of Col. Hayes's are embarked for <placeName ref="#jm_portantonio" role="direct">Port Antonio</placeName>, 
+          where it has been said the runaway negroes have been troublesome, 
+          altho' I do not find so much in that, as has been reported, 
+          and if it were, as they have 120 miles of mountains to range 
+          in, it seems very impracticable to destroy them, the people 
+          do not seem to value them, nor do they for the most part seem 
+          well pleased at our comeing.</p>
+      </div>
+      <div>
+        <dateline><num>249.2</num><date when="1731-02-14">Feb. 14</date></dateline>
+        <p>(b) Col. Robert Hayes to Major Sowle, his Agent. 
+          <placeName ref="#jm_portroyal" role="direct">Port Royal</placeName>, 14th Feb., 1731.
+          After 7 weeks passage from <placeName ref="#gi" role="indirect">Gibraltar</placeName>, 
+          we arrived here the 7th etc., the regiment in very good health, 
+          but begin now to be very sickly. No oven sure was ever so 
+          hot. I find it affects my eyes very much, and still have the 
+          gravel very much, and my legs swell. We have yet only 14 
+          companies landed etc., for I find we are an unexpected guest. 
+          The affair of the Blacks I took upon to be quite a Bam, for I 
+          can find nobody that has either seen or felt them in a wrathfull 
+          manner ; we shall very soon be dispersed about <placeName ref="#jm" role="direct">the Island</placeName>, 
+          not a company together, after that I know no business I have 
+          here except to sacrifice my health and impoverish my fortune, 
+          for realy twice my income will not maintain me as a Collo. 
+          ought to live, and I have only the same allowance here as an 
+          Ensign which is 20s. pr. week.</p>
+      </div>
+      <div>
+        <dateline><num>249.3</num><date when="1731-03-02">March 2</date></dateline>
+        <p>(c) Col. Townsend to Col. Cope. 2nd March, 1731. The 
+          accommodations of the two Regiments here, I am affraid will 
+          not be very good : at our landing no manner of provision had 
+          been made, for I cannot find that anyone expected us, and I 
+          am very sure that at present there is no occasion for us : the 
+          affair of the rebellious negroes is a triffle, they have force 
+          sufficient of their own twenty times told, to put an end to that 
+          whenever they have a mind to exert themselves ; nor have 
+          they ever been known to appear fifty together in armes etc. 
+          In the mean time we are a burthen to <placeName ref="#jm" role="direct">the Island</placeName> of about 
+          15,000£ a year etc. Both regiments are at present ill of feavers 
+          and fluxes ; I expect to have bad account of them within these 
+          3 months etc. Everything here is excessive dear, twice dearer 
+          than at <placeName ref="#gi" role="indirect">Gibraltar</placeName>, no species of money less in value than a 
+          royale of plate, which is prodigious hardship upon the soldiers.
+          (d) Same to Mr. Walmesley. 3rd March, 1731. To same 
+          effect as preceding.</p>
+      </div>
+      <div>
+        <dateline><num>249.5</num><date when="1731-03-05">March 5</date></dateline>
+        <p>(e) Col. St. Cornwallis to Lord Cornwallis. 5th March, 1731. 
+          Most part of the regiment will be dispersed about <placeName ref="#jm" role="direct">the country</placeName> 
+          in many places where there never was a rebellious negro ever 
+          heard of, so that two regiments here are no more wanted, except 
+          they have a mind to make planters of us, (especially since we are 
+          so well with <placeName ref="#es" role="secondary">Spain</placeName>), which I believe some of them have hopes 
+          off, for most of them say they are glad we are come because they 
+          want white people and not for fear of the blacks, for no one 
+          pretends to say that thirty of them were ever seen together etc. 
+          This is the most expensive disagreeable place under the sun etc. 
+          Our people begin now to be sickly, tho' 'tis at present the 
+          healthiest time reckoned etc. Regrets that so many young men 
+          should have been sent, when the people were surprized at their 
+          coming, and there is now nothing for them to do etc. The 
+          troops to be sent to <placeName ref="#jm_portantonio" role="direct">Port Antonio</placeName> are forced to live still upon 
+          last provision, for there is at present neither provision or 
+          lodging for them, so they keep on board the ships still etc. 
+          Concludes : I fancy if you mention this to some of my friends 
+          one may have a chance to come home, etc. ; if we stay, they 
+          must provide better, but by that time perhaps above half may be dead.</p>
+      </div>
+      <div>
+        <dateline><num>249.6</num><date when="1731-03-10">March 10</date></dateline>
+        <p>(f) Same to Same. 10th March, 1731. We have buried the 
+          Major of our regiment, and I fear every account will be worse 
+          and worse etc. for our men are sent to the quarters in the county, 
+          before they have provided barracks etc. Within these two days 
+          the inhabitants of the two towns have petitioned to have two 
+          companys each, paying their lodging themselves, else they 
+          would have been dispersed in like manner. In short the upper 
+          sort of people of <placeName ref="#jm" role="direct">this island</placeName> are such brutes, and the Governour 
+          so mild, that we shall suffer most terribly, for as the majority 
+          of the last Assembly did everything to vex him, we are sadly 
+          used by that means, for they have taken from him the power 
+          of quartering the King's troops as they ought to be, for he says 
+          he could not help it, and that the Assembly would do it in 
+          spight of his teeth etc. We have an account from the party 
+          that was sent after the negroes, who say they went to
+          <placeName ref="#jm_nannytown" role="direct">their settlement</placeName>, and fought several hours,
+          and have burnt their town, but in this terrible engagement they have neither killed 
+          nor taken any one of the negroes, so presume those they pretend 
+          to have fought with so long were men in buckram etc.</p>
+      </div>
+      <div>
+        <dateline><num>249.7</num><date when="1731-03-11">March 11</date></dateline>
+        <p>(g) Col. R. Hayes to Major Soule. 11th March, 1731. Both 
+          men and officers fall sick very fast. The regiment is dispersed 
+          all over <placeName ref="#jm" role="direct">the island</placeName>, and no surgeon can go from quarter to 
+          quarter to attend them etc. Complains of their very miserable 
+          condition etc. Half a crown in <placeName ref="#en" role="secondary">England</placeName> will go farther than a 
+          pistole here etc. I shall think myself well off if this expedition 
+          costs me only 1000£. extraordinary : I have taken a little house 
+          here at a place called <placeName ref="#jm_liguanea" role="direct">Ligony</placeName>, the pleasantest part of the island, 
+          but no better than an English barn which I am obliged to pay 
+          200£. a year ; for my cook, which is a very indifft. one 50£. ; 
+          and everything dear in proportion etc.</p>
+      </div>
+      <div>
+        <dateline><num>249.8</num><date when="1731-03-15">March 15</date></dateline>
+        <p>(h) Col. Cornwallis to Lord Cornwallis. <placeName ref="#jm_portroyal" role="from">Port Royal</placeName>.  
+          15th March, 1731. One can't set 24 hours without hearing of some 
+          of the corps being either sick or dead. I'm sure there is not 
+          an officer here but with pleasure would go to the most desperate 
+          seige rather than stay in <placeName ref="#jm" role="direct">this damned unwholesome place</placeName> etc. 
+          They say everybody has a seasoning, and that seasoning has 
+          hitherto carryed off everyone that has had it etc. I fear that I 
+          shall have a dismall acct. from the country quarters, having
+          already heard from some that they have been very cruelly used 
+          and have had no care taken of them.</p>
+      </div>
+      <div>
+        <dateline><num>249.9</num><date when="1731-03-19">March 19</date></dateline>
+        <p>(i) Extract of a letter from <placeName ref="#jm_portroyal" role="direct">Port Royal</placeName> to a merchant in 
+          <placeName ref="#en_lon" role="secondary">London</placeName>. 19th March, 1731. The regiments have lost several 
+          of their principal officers (named) : abundance of the men die etc.</p>
+      </div>
+      <div>
+        <dateline><num>249.10</num><date when="1731-03-20">March 20</date></dateline>
+        <p>(j) Col. Cornwallis to Lord Cornwallis. <placeName ref="#jm_portroyal" role="direct">Port Royal</placeName>. 
+          20th March, 1731. Since my last my Coll. is dead, if ever one is to be 
+          preferred, now is the time, for no service is equal to the barbarous 
+          usage, we here suffer etc. The new negroes were never used in 
+          so ill a manner as we are. I would this moment give my 
+          commission to be in <placeName ref="#en" role="indirect">England</placeName>, to represent what ill usage so many 
+          of H.M. subjects meet with, for the sake of, I fear, a few people, 
+          for I can't be an hour in the day without hearing of some of the 
+          Regiment being either sick or dead etc.</p>
+      </div>
+      <div>
+        <dateline><num>249.11</num><date when="1731-03-20">March 20</date></dateline>
+        <p>(k) Extract of a letter from <placeName ref="#jm_portroyal" role="direct">Port Royall</placeName>, 20th March, 1731, 
+          communicated to Lord Torrington. Deplores the sickness and 
+          losses of the Regiment etc. The whole endorsed, Recd, (from 
+          Mr. Henry Popple), Read 22nd June, 1731. Collected by the 
+          order of Sr. Wm. Strickland, H.M. Secretary at War. 6 pp. 
+          [C.O. 137, 19. ff. 25-27v., 28v.]</p>
+      </div>
+      <div>
+        <dateline><num>250</num><date when="1731-06-23">June 23</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. We have lately had under 
+          consideration three Acts passed in <placeName ref="#us_nj" role="direct">New Jersey</placeName>
+          (i) for shortening law-suits etc. (ii) concerning the acknowledging 
+          and registering deeds and conveyances of land etc., and 
+          (iii) for the frequent meeting and calling of the General Assembly 
+          and for the alternate sitting thereof etc. The two first are in 
+          substance the same with two Acts passed in 1715, which were 
+          afterwards repealed etc. Quote from representation of Jan. 
+          10, 1722. Continue : Governors of Plantations are expressly 
+          forbid by your Royal Instructions to re-enact any laws which 
+          have formerly been repealed by the Crown unless they first 
+          receive your Majesty's permission for that purpose, or do insert 
+          therein proper clauses declaring them of no effect until they 
+          shall be confirmed by your Majesty. As to the last mentioned 
+          Act whereby the Assembly is made triennial etc. this is an 
+          Act of a very extraordinary nature importing a great change 
+          in the constitution of the Province, and if your Majesty should 
+          be pleased to allow of any such alteration therein, we cannot 
+          but think it very fit that it should take it's rise from the Royal 
+          authority wch. first gave being to the form of Government 
+          established in New Jersey, and not from the Assembly of that 
+          Province. In this Act likewise the suspending clause is omitted, 
+          and therefore we humbly lay it before your Majesty, together 
+          with the two first, for your disapprobation, all of them having 
+          been passed contrary to the Governor's Instructions, the two 
+          first being destructive of the jurisdiction of the law courts in 
+          New Jersey, and the last of a nature too much encroaching 
+          upon the Prerogative of the Crown. [C.O. 5, 996. pp. 270-273.]</p>
+      </div>
+      <div>
+        <dateline><num>251</num><date when="1731-06-24">June 24</date></dateline>
+        <p>Merchants of <placeName ref="#en_lon" role="indirect">London</placeName> trading to
+          <placeName ref="#us_va" role="direct">Virginia</placeName> to the Council of Trade and Plantations.
+          An act of Assembly, 1726, for laying duties on liquors imported, was continued by another 
+          act in 1730 till June, 1734. By a clause in the last act no more 
+          than half the duty is to be paid for any liquors imported in any 
+          ship or vessel wholly and solely belonging to the inhabitants 
+          of the said Colony. This clause is not part of the Act of 1726, 
+          and such exemption is a very partial proceeding, and is assuming 
+          a power of taxing H.M. subjects at large to a higher degree 
+          than themselves etc., and a setting up the shipping of that 
+          Colony in opposition to, and in great prejudice of the Navigation 
+          of this Kingdom, etc. Pray for repeal of latter act, and that 
+          the Governor may be restrained from passing any act laying 
+          any higher duty on the goods 'or ships of H.M. subjects residing 
+          in this Kingdom, than on those belonging to inhabitants of the said Colony. 
+          Signed, Micajah Perry and 13 others. Endorsed, Recd. (from Mr. Wood) 24th Read 29th June, 1731.
+          1 3/4 pp. [C.O. 5, 1322. ff. 164, 164v., 165v.]</p>
+      </div>
+      <div>
+        <dateline><num>252</num><date when="1731-06-24">June 24</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the Committee of Privy Council. 
+          Have heard Counsel for and against the confirmation of the 
+          Act of <placeName ref="#us_pa" role="direct">Pennsylvania</placeName> for the establishing of 
+          Courts etc., referred to them 14th May, 1730. Continue : The 
+          principal design of this Act is to repeal certain powers supposed 
+          to have been vested in the Supream Court of Judicature in 
+          <placeName ref="#us_pa_philadelphia" role="direct">Philadelphia</placeName> by a former law  
+          for establishing Courts of Judicature passed in 1722 etc., " which is almost in every other particular 
+          the same with that which the petitioner desires to have repealed, 
+          and as we are of opinion that the continuance of this new law 
+          might prove highly prejudicial to H.M. Revenue in Pennsylvania,
+          and be an encouragement to illegal trade in that 
+          Province by putting the Officers of the Customs under great 
+          difficulties in prosecutions upon seizures made of contraband 
+          goods imported to contrary to law etc., propose its disallowance. 
+          (v. A.P.C. III., 193). [C.O. 5, 1294. pp. 31, 32.]</p>
+      </div>
+      <div>
+        <dateline><num>253</num><date when="1731-06-24">June 24</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to Lords Commissioners of the Treasury.
+          Request payment of Office expences and Officers' salaries for quarter
+          ending Midsummer. Account annexed. [C.O. 389, 37. pp. 329, 330.]</p> 
+      </div>
+      <div>
+        <dateline><num>254</num><date when="1731-06-24">June 24</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Governor Belcher to the Council of Trade and Plantations.
+          Argues, from clause in the Charter <placeName ref="#us_ma" role="direct">[[ed. of Massachusetts]]</placeName>
+          as to the disposal of money by the Governor, that it was never intended 
+          that the House of Representatives should have the passing of 
+          public accounts or paying of them, or that the Governor should 
+          be merely a servant to the Assembly to pay the debts of the 
+          Province in exact conformity to their orders etc. Believes the 
+          Assembly will rise in a few days, when he will transmit their 
+          Journal etc. Signed, J. Belcher. Endorsed, Recd. 27th July, 
+          Read 4th Aug., 1731. 2 3/4 pp. [C.O. 5, 873. ff. 62-63v.]</p>
+      </div>
+      <div>
+        <dateline><num>255</num><date when="1731-06-24">June 24</date></dateline>
+        <p>Petty expenses of the Board of Trade, Lady day to 
+          Midsummer, 1731. (v. Journal). 5 pp. [C.O. 388, 80. Nos. 6-8.]</p> 
+      </div>
+      <div>
+        <dateline><num>256</num><date when="1731-06-27">June 27</date></dateline>
+        <p><placeName ref="#bb" role="from">Barbadoes</placeName>.
+          Governor Worsley to the Duke of Newcastle. As 
+          the French in this part of the world seem very intent in making 
+          new settlements, I think it my duty to give your Grace an 
+          account of the French which have settled at <placeName ref="#lc" role="direct">St. Lucia</placeName> as well 
+          as of the English ; By the common computation there are 
+          supposed to be three hundred French familys. I can't learn 
+          there are above five or six English, it is also computed there's 
+          as many French at <placeName ref="#dm" role="direct">Dominico</placeName>, 
+          and a great many at <placeName ref="#stvincent" role="direct">St. Vincent's</placeName>, 
+          both English and French imploy themselves in raising of stock, 
+          sowing corn, and cuting timber ; I don't find that the French 
+          have any grant for the land that they take up, but the Governour 
+          of <placeName ref="#mq" role="direct">Martinique</placeName> gives them leave to go thither to cut timber 
+          and fish, and as they clear away the ground they plant it with 
+          corn, and breed great quantities of stock, two or three of the 
+          French familys have taken up a great deal of land, and are 
+          grown rich ; one or two I am informed applyed to the Governor 
+          of Martinique for leave to plant canes, and erect cattle mills 
+          to make sugar, but he would not grant it ; the few English 
+          that are settled at Sta. Lucia took up the land which they 
+          thought convenient for them, and clear the timber which they 
+          bring hither for sale and plant corn, and provision to support 
+          their negroes which they keep there, as well as for sale here, 
+          I know not any of them have any grant or permission from the 
+          Duke of Montague, one of them Mr. Batt built a small vessell 
+          of about fifteen tons, and applyed to me for a register etc. 
+          Refers to former letter. Continues : I have been informed that 
+          the Governour of Martinique some times talks of removeing 
+          the English from off that Island. On the <placeName ref="#tobago" role="direct">Island of Tobago</placeName> 
+          there are no French familys yet settled, but the French go thither 
+          to catch turtle, and whilst they stay there make huts to live in, 
+          during the time of their fishing, the intention of the French 
+          seems to be to people these islands gradually, and as they can 
+          live much more hardy then the English, are more able to make 
+          such settlements, than they. In November last I advised your 
+          Grace that a French guardecote of Martinique had taken some 
+          English vessells at Sta. Lucia etc. Encloses the Governor's 
+          reply to his letter (encl. i). As the Assembly in their Minutes 
+          of 13th Feb. last, mention that I had demanded of them 2000£. 
+          and upwards for the pretended repairs of <placeName ref="#bb_governmenthouse" role="direct">Pilgrims House</placeName> 
+          I herewith transmit to your Grace their Addresses to me upon 
+          that head, by the first of which your Grace will observe that 
+          they desired me to lay before them, an account of the charges 
+          of the repairs of Pilgrim House which I did in Nov. 1724, and 
+          after they had examined the accounts and receipts they 
+          addressed me llth of May 1725 in these words, " It appearing 
+          to us that your Excellency has laid out, paid, and expended 
+          the sum of 2070£. 14s. 1d., current money in and about the 
+          necessary repairs of Pilgrim House and buildings " etc. The 
+          Assembly mention in the same Minutes that there was but 87 
+          barrels of powder in the great Magazine tho' there were wont to 
+          be 800. I have transmitted to your Grace their address to me 
+          the 12th day of October 1725 by which your Grace will observe, 
+          that on account of the ruinous condition of the old magazine, 
+          they desire me to appoint a proper place or places for the keeping 
+          the said powder, and stores, till the Magazine should be repair'd, 
+          or a new one erected, and accordingly I order'd it to be remov'd 
+          into the several forts, but I do not so much wonder at this 
+          proceeding since they say in the same Minutes that they know 
+          that I opposed their Sugar bill at the Board for Trade and that 
+          Mr. Sharpe my Agent opposed the same, my letter to your 
+          Grace as well as the Board for Trade will justify my conduct 
+          upon this head, and as to Mr. Sharpe's opposing the same tis 
+          now notoriously known that their Agents in <placeName ref="#en" role="secondary">England</placeName> first 
+          employed him, and then dismissed him by orders from hence, 
+          and <placeName ref="#ie" role="secondary">Ireland</placeName> and the other Colonies immediately retain'd him. 
+          The Council here some time since were very much exasperated 
+          at the treatment they met with from the Assembly, who called 
+          them incendiaries, and it might have been carried to great 
+          lengths had I not kept my temper, and conducted it calmly, 
+          but at present <placeName ref="#bb" role="direct">the Island</placeName> is very quiet, etc.
+          Signed, Henry Worsley. Endorsed, R. 27 Sept. 4 pp. Enclosed,</p> 
+      </div>
+      <div>
+        <dateline><num>256.1</num><date when="1731-05-22">May 22</date></dateline>
+        <p>Governor of <placeName ref="#mq" role="direct">Martinique</placeName> to Governor Worseley.
+          Martinique, 22nd May (N.S.), 1731. In reply to encl. iii, 
+          has waited for enclosed reasons given by M. le 
+          Procureur General for the condemnation or release 
+          in the Admiralty Court of English vessels seized at 
+          <placeName ref="#lc" role="direct">Sta. Lucia</placeName>. With regard to the complaint lodged by 
+          Mr. Farel against the Captain of the French coast 
+          guard-ship Domaine, he was ready to hear their case, 
+          but they have not pursued the matter any further 
+          as they should have done etc. Signed, Champigny. French. Copy. 2 pp.</p>
+      </div>
+      <div>
+        <dateline><num>256.2</num></dateline>
+        <p>Findings of the Admiralty Court, <placeName ref="#mq" role="direct">Martinique</placeName>, (i) 
+          The English bark Anne of Dartmouth (Capt. Shepheard) 
+          was released with costs and damages from day of 
+          seizure, it being proved that she had loaded and 
+          cleared from <placeName ref="#bb" role="direct">Barbados</placeName> and had only been 8 hours at 
+          anchor at <placeName ref="#lc" role="direct">Sta. Lucia</placeName>, (ii) The bark Jeanne Marie 
+          d'Amboye was released, with costs and damages 
+          against the Domaine. The master had no papers 
+          to prove that he had really loaded at the island of 
+          Iscap [sic], so that it appears he was generously treated 
+          on the assumption that he had been forced to put in 
+          at Sta. Lucia, (iii) The bark Two Brothers had no 
+          papers on board and was condemned and confiscated 
+          with her boat for trading at Sta. Lucia, her crew having 
+          been rowing a boat laden with a keg of brandy, (iv) 
+          The Good Intention was likewise confiscated, it being 
+          proved that she had come from Barbados in ballast 
+          and being found laden with produce of the French 
+          islands, (v) The Fortune was confiscated, for having 
+          no papers and trading at Sta. Lucia, being laden with 
+          goods admitted by the Captain, Isaac Royal, he had 
+          taken off Sta. Lucia. Copy. French. 1 1/2 pp.</p>
+      </div>
+      <div>
+        <dateline><num>256.3</num><date when="1731-02-19">Feb. 19</date></dateline>
+        <p>Governor Worsley to the Governor of <placeName ref="#mq" role="direct">Martinique</placeName>. 
+          Barbados, 19th Feb., 1731. The ship Anne, John 
+          Shepheard master, which, after leaving <placeName ref="#bb" role="direct">Barbados</placeName> for 
+          <placeName ref="#ca_nl" role="indirect">Newfoundland</placeName>, put into <placeName ref="#lc" role="direct">Sta. Lucia</placeName>,
+          having on board no cargo except 9 barrels of sugar loaded at Barbados, 
+          and its own stores, was seized with several other 
+          English vessels by a French coast-guardship and 
+          taken into Martinique. I am convinced that, if my 
+          information is correct, you will not approve this 
+          conduct, but order the immediate restitution of the 
+          said vessels etc. Signed, Henry Worsley. Copy. French. 1 1/3 pp.</p>
+      </div>
+      <div>
+        <dateline><num>256.4</num><date when="1724-11-26">Nov. 26, 1724</date></dateline>
+        <p>256. iv. Address of the Assembly of <placeName ref="#bb" role="direct">Barbados</placeName> 
+          to Governor Worsley. 26th Nov., 1724. Request account of 
+          charges for repairs of Pilgrim's. 
+          Signed, Robt. Warren, Cl. of the Assembly. Copy, 3/4 p.
+          256. v. Address of Same to Same. 12th Oct., 1725. Request
+          removal of powder whilst the magazine is being 
+          repaired etc. v. covering letter. Signed, as preceding. 1 p.
+          256. vi. Address of Same to Same. 11th May, 1725. 
+          Quoted in covering letter. Same signature. 1 p. 
+          [C.O. 28, 45. ff. 183-185v., 187, 187v., 189, 189v., 191, 193, 195.]</p>
+      </div>
+      <div>
+        <dateline><num>257</num><date when="1731-06-27">June 27</date></dateline>
+        <p><placeName ref="#bb" role="from">Barbados</placeName>.
+          Governor Worsley <placeName ref="#bb" role="direct">[[ed. of Barbados]]</placeName>to the Council of Trade and 
+          Plantations. Your Lordships' letter of the 21st of October 
+          last, I received not till about a month since. Your Lordships 
+          in the same letter desire me to give you a particular account 
+          of the number of French, which are settled at <placeName ref="#lc" role="direct">St. Lucia</placeName>, as 
+          well as of the English. Continues as preceding covering letter 
+          from, " By the common computation." Signed, Henry Worsley. 
+          Endorsed, Recd. 3rd, Read 22nd Sept., 1731. 6 pp. Enclosed, 
+          257. i-vi. Duplicates of preceding encl. i-vi. [C.O. 28, 22. 
+          ff. 116-118, 119v.-120v., 121v.-124v., 125v.-126, 127v., 128, 129v., 130, 131v.]</p>
+      </div>
+      <div>
+        <dateline><num>258</num><date when="1731-06-28">June 28</date></dateline>
+        <p><placeName ref="#is_newprovidence" role="from">New Providence</placeName>.
+          Mr. Bonnet to Mr. Delafaye. Encloses following. 
+          Mr. Colebrooke intends to appeal, but every fact alledged against 
+          him is plainly proved etc. Continues : I am glad to hear you 
+          continue the Governor's friend, and hope all affairs here will 
+          soon go better, tho' the utmost clamour possible is made <placeName ref="#bs" role="direct">here</placeName>; 
+          and false insinuations amuse the people ; and I beleive facts 
+          that cannot be justified here are represented <placeName ref="#en" role="indirect">home</placeName>, because 
+          no letters can be admitted in the vessel but from their own 
+          party, but seeing a small packett preparing from the Governor 
+          to be directed to his Grace the Duke of Newcastle on his 
+          Majesty's service which they could not deny the master of the 
+          sloop's carrying, I adventured this in it. Signed, Lews. Bonnet. 1 1/2 pp. Enclosed,
+          259. i. Duplicate of June 10 encl. ii (a) and ii (b). [C.O. 23, 14. ff. 189, 189v., 191-192v.]</p>
+      </div>
+      <div>
+        <dateline><num>259</num><date when="1731-06-29">June 29</date></dateline>
+        <p><placeName ref="#is_newprovidence" role="from">New Providence</placeName>.
+          Governor Rogers to Mr. Delafaye. Refers to letter 
+          of 10th June. Continues : The vessel by which this goes 
+          (in order to conceal the design of her proceeding to <placeName ref="#en" role="indirect">England</placeName>) 
+          is cleared out for <placeName ref="#bm" role="indirect">Bermuda</placeName> to prevent my sending any letters 
+          in her, she being hired by Mr. Colebrooke, tho' in other person's 
+          name, as I apprehend to carry hence all that he can invent, 
+          or prevail on those of the party he has made here, to joyn in, 
+          by way of complaint against me, I find there is a necessity for 
+          my taking the liberty of directing this packet to you, for a 
+          further security of its being conveyed and delivered, which I 
+          hope you will be pleased to excuse. The prosecuting Mr. 
+          Colebrooke I humbly hope will be approved, and convince 
+          the Ministry what a mischievous person he has been, and how 
+          much he has obstructed the welfare and peopling of <placeName ref="#bs" role="direct">this Colony</placeName>. 
+          For my part, I assure you, Sir, I never had so much uneasiness 
+          in my life as he has occasion'd me here ; for instead of applying 
+          himself to the improvemt. and encouragemt. of trade (which 
+          was what he came abroad for) he together with four or five 
+          more who were his companions and dependents made it their 
+          whole study to injure and distress me by continually 
+          endeavouring to stirr up sedition and animosity in the minds 
+          of the people, and discontent and mutiny in the garrison which 
+          he attempted by all the methods he could think on etc. Requests 
+          that he may be given time to answer any misrepresentations 
+          etc. Is doing all he can for Mr. Bonnet. He has lately written 
+          to " the good Lord Townshend " etc. P.S. Not being certain 
+          that this vessel goes for London, will not venture by it what he 
+          intended to the Duke of Newcastle and Board of Trade etc. 
+          Signed, Woodes Rogers. 2 pp. [C.O. 23, 14. ff. 193, 193v.]</p> 
+      </div>
+      <div>
+        <dateline><num>260</num><date when="1731-06-30">June 30</date></dateline>
+        <p><placeName ref="#is_newprovidence" role="from">New Providence</placeName>.
+          Same to Mr. Popple. Has sent preceding by another conveyance 
+          <placeName ref="#bs" role="direct">[[ed. from Bahamas]]</placeName>. A vessel will sail in about 16 days and bring 
+          such accounts as will satisfy the Board he has not been negligent 
+          etc. Mr. Colebrooke refuses to appeal in the manner prescribed 
+          in my Instructions, and has been above three weeks with two 
+          clerks writing all he can to justifie his actions etc. Repeats 
+          part of preceding etc. Signed, Woodes Rogers. Endorsed, 
+          Recd. 21st Aug., 1731. 1 p. [C.O. 23, 3. ff. 83, 86v.]</p> 
+      </div>
+      <div>
+        <dateline><num>261</num><date when="1731-06-29">June 29</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to Governor Rogers. 
+          Acknowledge letters etc. of Oct. and Feb. 10th last. Have 
+          referred the acts enclosed to Mr. Fane and will take them into 
+          consideration on receiving his report. Referring to Capt. 
+          Phenney's bond (v. Feb. 10th and June 9th), " we are of opinion 
+          that the Assembly should not have put him under so great a 
+          difficulty, and therefore we have propos'd to H.M. that this 
+          bond should be cancelled." Continue : We observe by the 
+          Minutes of Assembly of 1st Oct. last, that upon a message 
+          from them, desiring that the Council books may be laid before 
+          the Assembly, you gave directions accordingly. Upon this 
+          occasion, we must observe to you, that as by your Instructions 
+          all laws to be pass'd by you are required to be consistent with, 
+          and as near as may be consonant to the laws of this Kingdom ; 
+          so it would be proper that the proceedings of the Assembly 
+          also should resemble those of the Parliament of <placeName ref="#gb" role="indirect">Great Britain</placeName>, 
+          so far as the circumstances of <placeName ref="#bs" role="direct">the Colony</placeName> and your Instructions 
+          will permit. And as the Council with you as in all ye other 
+          Colonies abroad have two capacitys very different in their 
+          nature, and design, so their proceedings as the King's Council 
+          in political matters should be kept entirely distinct from those 
+          wherein they act as one branch of the Legislature, and ought 
+          to be fairly entered in separate books. It would be a pretty 
+          difficult task to lay down a plan for the proceedings of your 
+          Assembly in future times, or to allot the particular limits to be 
+          observed by them. But in general we may observe to you 
+          that the Constitution of <placeName ref="#en" role="indirect">England</placeName> owes its preservation very 
+          much to the maintaining of an equal ballance between the three 
+          branches of the Legislature, and that the more distinct they 
+          are kept from each other, the likelier they will be to agree, 
+          and the longer they will be likely to last. By the Minutes of 
+          the sixth of the same month, we find the Assembly desir'd 
+          Capt. Phenney's Instructions might be laid before them ; But 
+          as the Instructions, which H.M. thinks proper to give to his 
+          Governors, are only for their conduct and guidance, you will 
+          be the proper judge which of them, and when they ought 
+          to be communicated to the Assembly. By the Minutes of 12th 
+          May, 1730, the Assembly seems to have been prorogued by the 
+          Governor and Council, but as this does not appear to be the 
+          case by the Minutes of Council of the same date, you must 
+          take care to have this amended in the Journals of the Assembly, 
+          and the rather because the Council cannot claim any right of 
+          proroguing the Assembly, and altho' this is a mistake, yet some 
+          time or other, if not corrected, it may be made a precedent 
+          to claim a power never yet granted to any of H.M. Councils 
+          abroad. We have consider'd what you write concerning Mr. 
+          White and Mr. Jenner, the former of which you have 
+          suspended from his seat in Council. Upon this occasion, 
+          we must take notice that you did very wrong to desire any 
+          Member of the Council to retire at a time that you had some- 
+          thing to propose to the remaining Members, for everyone of 
+          the Council has an undoubted right to sit and debate at that 
+          Board, until H.M. shall think fit to displace him from thence, 
+          or he be suspended for sufficient reasons, in the manner 
+          prescribed by your Instructions ; and if after this usage, Mr. 
+          White has thought himself so much slighted, as to refuse to 
+          return to the Council, when you sent for him, we do not think 
+          this is a sufficient reason for suspending him. [C.O. 24, 1. pp. 201-206.]</p>
+      </div>
+      <div>
+        <dateline><num>262</num><date when="1731-06-30">June 30</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Governor Montgomerie <placeName ref="#us_ny" role="direct">[[ed. of New York]]</placeName>.
+          Encloses duplicates of circular letters of 10th. inst. and packets to be 
+          forwarded for the Governors of <placeName ref="#us_ct" role="direct">Connecticut</placeName> and 
+          <placeName ref="#us_ri" role="direct">Rhode Island</placeName>. 
+          Abstract continued : Those Proprietary Governments have 
+          long since been required to transmit authentick copies of their 
+          laws. Govr. Talcott, Governor of Connecticut, by his letter 
+          makes him not without hopes of compliance from that quarter, 
+          but Rhode Island has vouchsafed no answer to the General 
+          Queries sent them. If the laws of those provinces are printed, 
+          asks him to send copies by the first opportunity. Printed, N. Y. 
+          Col. Doc. V. pp. 921. [C.O. 5, 1125. pp. 171, 172.]</p>
+      </div>
+      <div>
+        <dateline><num>263</num><date when="1731-06-30">June 30</date></dateline>
+        <p>Case of Francis Williams of <placeName ref="#jm" role="direct">Jamaica</placeName>. John Williams, 
+          his father, being a free negro, and by his great fidelity and 
+          industry having acquired a considerable estate, he obtained 
+          an act, afterwards approved by the Crown, whereby it was 
+          enacted that no slave should be evidence against him, and that 
+          the said John Williams should henceforth be tryed by a jury 
+          according to the known laws, customs and priviledges of English- 
+          men and the practise and usage of that island. John Williams 
+          married with Dorothy a free negro by whom he had three 
+          children all sons whom he educated in the Protestant religion 
+          according to the Church of England and also gave 'em all other 
+          suitable education in a liberal manner. Another act was passed 
+          in Jamaica to give the like priviledges to the wife and children 
+          as to John Williams etc. But by an act passed 28th March 
+          for the better regulating slaves etc., severe clauses are laid on all 
+          free negroes in general ; (i) That all free negroes shall in 
+          default of every free negroe's appearing at the vestry of the 
+          parish where he resides when thereunto summoned by a warrant 
+          from any J.P. in such parish in order to having their own and 
+          the names, ages and sexes of their wives children registred, 
+          such free negro for the first offence is to forfeit 10£., for the 
+          second 20£., and for the third his or her freedom and to be 
+          transported etc., on conviction before any two Justices of the 
+          Peace and three Freeholders. This clause is apprehended to 
+          be very improper and too much for the Assembly to take upon 
+          them to enact, as it directly takes away those libertys and 
+          priviledges given the family of the Williams by the several 
+          acts beforementioned etc. Besides to lodge such an extensive 
+          power in any two Justices and three Freeholders is much too 
+          large etc. Loss of freedom will of course carry with it loss of 
+          estate, which in the family of the Williams amounts to above 
+          20,000£., which is too great a temptation to have a nefarious 
+          use made of this and the following clause ; (ii) That all free 
+          negroes from the age of 15 to 60 shall be obliged on every 
+          summons or order of every custos next magistrate collector 
+          or next commanding officer in each of the parishes to appear 
+          when and where directed in order to be sent out in any party 
+          that shall be ordered out in pursuit of the rebellious and run- 
+          away negroes, and every free negroe who shall neglect to appear 
+          or refuse to go out in such party shall for the first offence be 
+          committed to jail for six months without bail or mainprize, for 
+          the second suffer 12 months imprisonment and for the third 
+          lose his freedom. This clause is likewise thought to be in 
+          contradiction to the said acts, no such penaltys being inflicted 
+          on any white men, besides this clause hath no proviso in case 
+          of sickness nor gives no permission for sending in their places 
+          one or more hunters or woodmen properer for the service than 
+          persons educated in <placeName ref="#en" role="secondary">England</placeName> as the free negroes are to attend 
+          partys in woods and mountains almost unaccessible. It is 
+          also against the said acts, and also exceeding severe not to allow 
+          any bail or mainprize for a family who are in possession of 
+          several acts directing they shall in all cases be tryed as Englishmen 
+          and who are by all the acts of Jamaica bailable on these 
+          occasions and to punish or free people with imprisonment and 
+          loss of freedom for not appearing on those occasions in person 
+          when it may not be in his power and when he is ready 
+          to substitute one or more persons etc. is surely too hard and 
+          unreasonable etc., especially as the act has no proviso for women 
+          or children or such as are sick or absent, (iii) It is also enacted 
+          that no free negroe shall after the 2nd April 1730 wear any 
+          sword, cutlass, pistols or other arms or weapons whatsoever, 
+          excepting whilst on duty on the publick service or in the service 
+          of their employer under the penalty of 5£. (hunters and fowlers 
+          excepted), and that no free negroe do presume to buy or indent 
+          any white men under the penalty of 50£. This clause is directly 
+          levelled at Mr. Francis Williams, it being notorious that no 
+          free negroes wear a sword and pistols besides himself and 
+          what justifies him therein is not only the largeness of his estate 
+          but the liability of his being assaulted by everyone whom he 
+          sues for the recovery of his own. This clause may also be a 
+          temptation to ill-disposed people to spirit up the minds of their 
+          ignorant slaves to assault and way-lay Mr. Williams, and it is 
+          observable this law does not forbid the slaves to wear swords 
+          or pistols. Why should the free negroes then be prohibited ? 
+          etc. The latter part of this clause is still more extraordinary 
+          etc., since by a late act passed in Jamaica every planter is 
+          obliged to have one white man-servant to every 30 negroes 
+          under the penalty of 26£. 10s. per annum, so that this present 
+          act etc. lays every free negroe who hath a plantation under a 
+          necessity of incurring the penaltys of one or other of these acts 
+          etc. (iv) It is also enacted that no free Indian shall work in 
+          any sort of silver or gold or keep any shop for the sale of any 
+          gold wares or merchandize or the produce of this island under 
+          the penalty of 50£. for every offence. This clause is also thought 
+          exceeding severe, for as the laws of Jamaica always heretofore 
+          indulged free negroes with buying houses and settling plan- 
+          tations, so it would certainly be very hard should they be 
+          now debarred selling the produce of these plantations, and 
+          when that produce is converted into money should be still 
+          debarred from investing that money in any goods, wares or 
+          merchandizes for the further enlarging their fortunes under 
+          such severe penaltys as are laid by this act. And there really 
+          seems a plain intention to oppress the free negroes by comparing 
+          these two last clauses together which amount to this vizt., 
+          they shall have neither bought nor indented servants to save 
+          paying the penalty of 26£. 10s., they shall neither buy nor sell 
+          any wares or produce etc., to pay such penalty and yet they 
+          must pay etc. Prays that the Act may be repealed. Endorsed, 
+          Recd., from Mr. J. Sharpe, Read 30th June, 1731. 3 closely 
+          written pp. [C.O. 137, 19. ff. 29-30v.]</p> 
+      </div>
+      <div>
+        <dateline><num>264</num><date when="1731-07-01">July 1</date></dateline>
+        <p>Mr. Popple to Mr. Delafaye requesting his opinion 
+          concerning the proposed repeal of the <placeName ref="#jm" role="direct">Jamaica</placeName> Act 
+          re negroes and Mr. Williams' memorial. Autograph signature. 1 p. 
+          [C.O. 137, 47. f. 100 ; 138, 17, pp. 315-6.]</p>
+      </div>
+      <div>
+        <dateline><num>265</num><date when="1731-07-01">July 1</date></dateline>
+        <p>Order of King in Council. Approving Samuel Ogle 
+          appointed by Charles Lord Baltimore to be Lt. Governor of 
+          <placeName ref="#us_md" role="secondary">Maryland</placeName> in the room of Benedict Leonard Calvert,
+          provided he qualifies himself as the law requires and gives good security 
+          to observing the acts of Trade and Navigation and obeying 
+          H.M. Instructions. The Council of Trade and Plantations are 
+          to take care that such security be given accordingly. Signed, 
+          Ja. Vernon. Endorsed, Recd. 2nd, Read 7th July, 1731. [C.O. 5, 1268. ff. 13, 13v., 18v.]</p> 
+      </div>
+      <div>
+        <dateline><num>266</num><date when="1731-07-01">July 1</date></dateline>
+        <p><placeName ref="#us_ny_newyork" role="from">New York</placeName>.
+          Rip Van Dam to the Council of Trade and Plantations. 
+          Abstract : Montgomerie. As the first of H.M. Council, the government 
+          <placeName ref="#us_ny" role="direct">[[ed. of New York]]</placeName> has devolved upon him etc.
+          Printed, N.Y. Col. Doc. V. 921 ; and N. J. Archives 1st ser. V. 294.
+          Signed, Rip Van Dam. Endorsed, Recd. 3rd Sept., Read 23rd Dec., 
+          1731. 3/4 p. [C.O. 5, 1055. ff. 202, 2030.]</p>
+      </div>
+      <div>
+        <dateline><num>267</num><date when="1731-07-01">July 1</date></dateline>
+        <p><placeName ref="#us_ny_newyork" role="from">New York</placeName>.
+          Same to the Duke of Newcastle. To same effect as preceding <placeName ref="#us_ny" role="direct">[[ed. about New York]]</placeName>.
+          Signed, Rip Van Dam. Endorsed, R. 3rd Sept. Addressed (via <placeName ref="#us_ma_boston" role="secondary">Boston</placeName>).
+          Postmark, 3/4 p. [C.O. 5, 1093. ff. 164, 165v.]</p> 
+      </div>
+      <div>
+        <dateline><num>268</num><date when="1731-07-01">July 1</date></dateline>
+        <p>Lt. General Mathew to the Duke of Newcastle. 
+          Arrived here on Saturday etc. Is prevented by a fit of the gout 
+          and remains of long sickness in the <placeName ref="#indies" role="indirect">West Indies</placeName> from waiting 
+          on His Grace to return thanks for his leave of absence etc. 
+          Signed, William Mathew. Holograph. 1 p. [C.O. 152, 43. f. 149.]</p>
+      </div>
+      <div>
+        <dateline><num>269</num><date when="1731-07-01">July 1</date></dateline>
+        <p>Order of King in Council. Ordering, upon preceding 
+          representation, a new silver seal to be prepared for <placeName ref="#us_nj" role="secondary">New Jersey</placeName>. 
+          Signed, Ja. Vernon. Endorsed, Recd. 10th, Read 11th Aug., 
+          1731. 1 p. [C.O. 5, 972. ff. 225, 232v.]</p>
+      </div>
+      <div>
+        <dateline><num>270</num><date when="1731-07-01">July 1</date></dateline>
+        <p>Governor Burrington to the Council of Trade and 
+          Plantations. Abstract. Transmits report upon the state of 
+          <placeName ref="#us_nc" role="direct">the Province</placeName>. Has acted in everything to the best of his 
+          capacity. Has been entirely left to himself since he entered 
+          upon the country's business and instead of help from the Council, 
+          they are a weight upon him. " There has been no foolery or 
+          vilany sett on foot that they are not concerned inn, which has 
+          increased since John Mongomery, the Attorney General, arrived." 
+          Has the whole force of his wisdom and three others to guard 
+          against. If he is wanting in his report, it is owing to their 
+          conduct, although he has endeavoured to serve. When he 
+          mentions the Council, he does not mean all, but complains of 
+          three principally, vizt., Mr. Ashe, Mr. Porter, whom he has 
+          refused to screen from several prosecutions for his violent and 
+          unlawful proceedings in the Court of Admiralty of which he is 
+          Judge, and Mr. Smith the Chief Justice, a weak hasty young 
+          man drunk from morning till night, set on work by the other 
+          two and some of the managers in the Assembly. He has resigned 
+          his seat at the Council Board, and is reported to be going home 
+          with complaints against the Governor. His own actions will 
+          speak for themselves, and he only demands not to be censured 
+          unheard etc. Printed, N.C. Col. Rec. iii, 140. Signed, Geo. 
+          Burrington. Endorsed, Recd, (from Capt. Straudwick in 
+          <placeName ref="#en_lon_whitehall" role="secondary">Denmark Street</placeName>) 26th Oct., 1731, Read 7th June, 1732. 3 pp. 
+          Undated. Date (1st July) indicated in letter of 4th Sept. infra. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>270.1</num><date when="1731-07-01">July 1</date></dateline>
+        <p>Governor Burrington's Report to the Council of Trade 
+          and Plantations. Abstract. He arrived 25th Feb. 
+          to find <placeName ref="#us_nc" role="direct">the country</placeName> in the greatest confusion, " the 
+          Government sunk so low that neither peace or order 
+          subsisted, the General Court suppressed, the Council 
+          set aside a year and a half, and some of the Precinct 
+          Courts fallen. The Admiralty Court having no 
+          restraint began to draw all manner of business there, 
+          and proceeded in such an extraordinary manner as 
+          occasioned a general discontent and ferment among 
+          the people " etc. The Judge of that Court the chief 
+          actor in running the country into disorders. The late 
+          Governor being a very weak man was too easily put 
+          upon rash measures that have caused so many heats 
+          and divisions. Has done his best to allay them. 
+          Encloses addresses by the Grand Jury to H.M. and 
+          himself, gratefully acknowledging the same. Called 
+          a new Assembly which sat for 5 weeks from 13th April, 
+          but was then obliged to part with them, finding that 
+          the longer they sat the more their heats encreased, 
+          and less inclination to observe H.M. Instructions which 
+          he laid before them. On H.M. 19th Instruction a bill 
+          was formed for an act about fees and quit-rents. But 
+          instead of complying with H.M. instructions about 
+          the payment of these in Proclamation money, they 
+          pretended to allow the payment in that money or bills 
+          at four to one discount, but then endeavoured to reduce 
+          the fees four times as low as they were before, and then 
+          took advantage of a division in the Council and the 
+          misbehaviour of the Chief Justice etc., so that he was 
+          obliged to prorogue them. They also evaded that 
+          part of the Instruction that required registering of 
+          lands, which is necessary for getting H.M. rent-roll, 
+          for want of which and of power in the Lords Proprietors 
+          there has been great difficulty hitherto in the collecting. 
+          There being no Receiver General there, the collection 
+          of the revenue is like to be more difficult. It will 
+          require an officer inmediately commissioned, and not 
+          a Deputy as is now designed. In respect to the payment
+          of quit-rents, they had ingeniously contrived 
+          (under pretence of not being able to pay this year) 
+          that it would be near two years before rents should be 
+          paid, and then the bill added they might be paid in 
+          tobacco or rice at 11s. per cwt. as an equivalent for 
+          Proclamation money, tho' neither are worth near so 
+          much. He could get no advice from the Council as 
+          to whether any equivalent at all could be taken instead 
+          of money, and now asks for H.M. directions. Money 
+          " is hardly to be raised in that Government, it being
+          affirmed that there has not been cash eneugh at one 
+          time here to pay a year's rents, and the people have 
+          another plea that the Grand Deed to the inhabitants 
+          of Albemarle (the name this Government was then 
+          called) in 1668, under which most part of the lands 
+          are held, grants the lands to them on the same terms 
+          as in <placeName ref="#us_va" role="indirect">Virginia</placeName> where the rents are paid in tobacco or 
+          money at the choice of the parties, and it is submitted 
+          whither it would not be a means of putting people on 
+          raising tobacco and thereby increase our European 
+          trade that so much wants encouragement " etc. In 
+          reply to xxth Instruction recounts history of the 
+          paper bills of credit. All the old bills have been called 
+          in and those now subsisting are by a pretended act made 
+          in Nov., 1729 after the King had purchased etc. By 
+          it the bills let out at loan on land security are re-issued 
+          as soon as paid in, and therefore made perpetual. For 
+          want of care in the valuation of the lands mortgaged, 
+          it is said there has been a great deal of fraud. 
+          Compares it with the Virginia currency and  
+          Proclamation money. The credit of the bills is much lower 
+          than stated in the Act and is declining from the 
+          breaking up of this Assembly. It is held by many 
+          that the act itself is void, as being made and ratifyed 
+          in the name of the Lords Proprietors when they had 
+          surrendered to the Crown, and also because the 
+          Government were not empowered to make such an 
+          act, without a clause therein not to be of force, till 
+          their assent was had etc. The present Assembly, 
+          however, are of opinion that the laws made in 1729 
+          are not void, or at least ought to remain in force till 
+          H.M. pleasure be known therein (v. Journal, 28th April) 
+          the Bills have been found so necessary in facilitating 
+          payments, defraying contingent charges of the Government
+          and as a medium of trade, that the destroying 
+          them wholly would be a great loss to the country. In 
+          obedience to Instruction xxv, sends home all the 
+          laws in force. He would have had them revised, if the 
+          Assembly would have done business. Some are 
+          obsolete, others need alterations, but in general they are 
+          a body of laws well adapted to the place etc. Forbears 
+          erecting a Court of Exchequer till he sees its necessity. 
+          At present there is no one capable of trying a cause in 
+          one. Prays one may be sent. On enquiry into complaints 
+          by and against Sir R. Everard, as directed by 
+          the 41st Instruction, he was not candidly dealt by the 
+          Council. At length they gave their opinion that there 
+          was nothing material in the complaint against him, 
+          only the words spoken against H.M., which were to be 
+          proved by Collector Gale now in <placeName ref="#en" role="indirect">England</placeName>, and Col. 
+          Thomas Harvey some time dead. The Secretary was 
+          by the unanimous opinion of the Board discharged 
+          from Sir Richard's complaints against him. Mr. 
+          Porter having complained against several persons for 
+          an intended riot and combination to assassinate him, 
+          he was promised a day for hearing, if he would draw 
+          the complaint in form etc., but he having offered 
+          nothing further, concludes he has dropped it. Thinks 
+          there was no such riot or design intended. Has 
+          received a complaint against the said Judge of the 
+          Admiralty for many illegal and arbitrary proceedings 
+          in that Court, praying for his suspension. This he 
+          laid before the Council to be proceeded upon. Mr. 
+          Porter has hitherto made no reply. He laid the XLIInd 
+          Instruction before the Assembly and recommended 
+          it to them in his Speech, but nothing was done by 
+          them. To that part which relates to persons holding 
+          greater quantities of lands than their grants express, 
+          it was urged that they had a law already about 
+          resurveys in such cases. Asks for a form of patents. 
+          Thinks 50 acres to each person in a family too little 
+          to produce much pitch and tar, because 1000 acres 
+          of pine land of which 19 parts in 20 of the country 
+          consists, will hardly imploy one slave, so that, if not 
+          altered, this regulation will prove very detrimental to 
+          the revenue. In some places there are large plains 
+          called Savannas, these are boggy and as bad lands 
+          as the moors in the North. The pine lands are chiefly 
+          sandy barrens as improper for littage as the Savannas.
+          " If people have so little land it will be a very long 
+          time before all the country is settled, and if men are 
+          obliged to live so near one another they must make 
+          their own apparrel and hous'hould goods, because 
+          they cannot raise stock to purchase them brought 
+          from England. It is by breeding horses, hoggs and 
+          cattle, that people without slaves gain substance here 
+          at first, not by their labour. If but one half of the 
+          Province is inhabited, the produce of cattle etc will 
+          be but half " etc. As to any grants of land made 
+          since H.M. purchase, he has been moved by the 
+          Assembly to join in an address to H.M. to have them 
+          all confirmed, which he declined, but promised to 
+          represent the matter to the Lords of Trade fully. 
+          States case. Instruction XLIII required that in all 
+          future grants the quit-rents should be 4s. But the 
+          people urge that they have an undoubted right by the 
+          Grand Deed upon the Lords Proprietors to hold their 
+          lands on the same tennure as in Virginia, which is at 
+          2s. per hundred etc. If this Instruction be continued, 
+          it will prevent them taking up land. In reply to 
+          XLVIth Instruction, gives an account of the Courts 
+          and Jurisdictions established. Desires directions as 
+          to the power of Assistant Judges, a great dispute 
+          having been raised by the Chief Justice and his two 
+          allies in the Council, who assert that the Assistants 
+          have no judicial power, but sit only as supporters. 
+          In that case no gentleman will accompany the Chief 
+          Justice on the Bench, and it will be erecting a single 
+          Judge of the Court of Common Pleas etc. As to the 
+          XLVIIth Instruction, he never heard that any officers 
+          in North Carolina held places under the Proprietors 
+          for life, but only during their pleasure, which are all 
+          now superceeded. The Assembly have always usurped 
+          power. Instances their choosing a Public Treasurer, 
+          now Edward Moseley, Speaker and Manager of the 
+          Assembly. Refers to debate in Journal. By the 
+          Assembly in 1729 a pretended act was passed constituting 
+          eleven precinct Treasurers, who were all in 
+          the Assembly and as they have the disposition of the 
+          publick money will be constantly chosen, which forms 
+          so great a party that they can lead the Assembly as 
+          they please. Is sure it will be for H.M. service and the 
+          quiet of the Province that a Treasurer for this Government
+          be appointed by the Lords of the Treasury. In 
+          accordance with Instructions XLVIII and XIX, he 
+          ordered with the assent of the Council that all fees as 
+          they then stood should be received till further regu- 
+          lation, but they should not be compelled to receive them 
+          in Province bills unless at four for one according to 
+          the estimate made of them with respect to silver in 
+          the pretended act. Recounts dispute with Assembly 
+          on this matter. The Assembly was prorogued to 
+          6th Sept., when by a law here the biennial election 
+          comes on. By the LVIth Instruction he is commanded 
+          to appoint Courts of Oyer and Terminer yearly, at a 
+          charge not exceeding 100£. each session. If this money 
+          is to be paid in bills it will not suffice. Asks for 
+          directions. As to LXIst Instruction, there is a law 
+          concerning juries already, though it has certain incon- 
+          veniences. The LXIIIrd Instruction he recommended 
+          to the Assembly in vain. His LXIXth Instruction 
+          to countenance H.M. officers he strictly obeys, though 
+          it has made enemies of several of his former friends. 
+          The LXXVth and LXXVIth instructions, concerning 
+          Churches, he laid before the Assembly, but could not 
+          observe much sense of religion among them, or that 
+          any notice was taken. The country has no orthodox 
+          Minister legally settled, those formerly here generally 
+          gave offence by their vicious lives. Each Parish has 
+          churchwardens and a vestry empowered to raise money 
+          by a poll-tax, which is applied to maintaining the poor 
+          or paying a minister to come out from Virginia, or 
+          readers etc. Several parishes by contributions have 
+          built chapels etc. LXXVth Instruction. There are 
+          already good and wholesome laws for punishing vice, 
+          but better framed than executed. Will recommend 
+          establishment of schools, so much wanted, when the 
+          Assembly is disposed to do business. As for laws for 
+          the conversion of Negroes and Indians, does not expect 
+          much will be done, when so little regard is had to 
+          promote publick worship. LXXVIth Instruction. 
+          The Indians of late years are much diminished. There 
+          are six nations amongst them, who all live within the 
+          English settlements having land assigned them and 
+          choosing places most secure from attacks of foreign 
+          Indians. These are the Hatteras, Maremuskeets, 
+          Potaskites, Chowans, Meherrins and Tuscarora. None 
+          exceeds 20 families, except the Tuscaroras who now 
+          consist of 200 fighting men etc. There was lately 
+          complaints from the Government of <placeName ref="#us_nc" role="direct">S. Carolina</placeName> of 
+          injuries done the white people by the latter, but they 
+          denying the facts are threatened by that Government 
+          with a war from the Cherokees and Cataubas. The 
+          King of the Tuscaroras is now with him to make some 
+          proposals, that the white people of S. Carolina may 
+          not come against him, because he says it may bring 
+          on a war with the English in general. He has only 
+          one Councillor to consult with, the rest being out of 
+          the Province or at a very great distance ; will be 
+          obliged to fill up some of the vacancies. LXXVIIIth 
+          Instruction. There is a law for registering births and 
+          burials in each parish, but very little notice taken of 
+          it. There are no forts, garrisons, magazines or public 
+          arms or ammunition, CIII. Is procuring a map to 
+          be done very accurately. CIV. As to boundaries, 
+          a river boundary would be much more certain and less 
+          expensive than a land line etc. The <placeName ref="#rv_santee" role="boundary">Santee river</placeName> was 
+          the ancient boundary etc. CV. The duties are 
+          charged on imports or exports, except a powder duty, 
+          at first intended for pilotage and buoying out the 
+          inlets. Some attempts were made, but of late shamefully
+          neglected. The money is chiefly used for paying 
+          the Assembly men, who have received 10s. a day 
+          travelling expences. There is no law for their being 
+          paid, so he refused to sign a warrant at their late 
+          prorogation. Hopes for the future they will bear          
+          their own charges in North as they do in South Carolina. 
+          There are no duties on anything, and only a poll tax 
+          of 5s. each tythable bill money (and that by the 
+          pretended act in 1729 abolished) and a parish tax to 
+          be assessed by the Vestry not exceeding 5s. per poll, 
+          so that the whole tax cannot amount to above 10/s. 
+          a poll for rateable persons in bill money not exceeding 
+          1s. 6d. sterling, and though the people are thus free 
+          from taxes or impositions beyond any people in all 
+          H.M. Dominions, they seem uneasy that the King's 
+          rents should be demanded in Proclamation money or 
+          anything else but bills, CVI, CVII. The African 
+          Company's trade here has hitherto been small. All 
+          encouragement will be given to it. Will endeavour to 
+          restore the country to order : it is capable of being 
+          made a flourishing colony, and yearly will increase by 
+          the coming of people from the Northern settlements 
+          etc. The good lands lying commodiously are long 
+          since patented, the remainder, the greatest part of 
+          the country, are far from navigable waters. For the 
+          increase of H.M. revenue and good of the Province, 
+          hopes to receive an order to grant lands at 2s. (instead 
+          of 4s.) per 100 acres. Has signed but one warrant for 
+          taking up lands since his arrival. The trade of this 
+          Government is now very miserable, except at <placeName ref="#rv_capefear" role="indirect">Cape Fear River</placeName>.
+          The merchants on <placeName ref="#rv_james" role="indirect">James River</placeName> in Virginia supply 
+          most of the inhabitants on the north side of <placeName ref="#by_albemarle" role="indirect">Albemarle Sound</placeName> 
+          and <placeName ref="#rv_roanoke" role="indirect">Roanoke River</placeName> with 
+          British commodities at unreasonable rates, being 
+          brought in by land or in little canoos in small 
+          quantitys ; the people of <placeName ref="#us_ne" role="indirect">New England</placeName> send in sorry 
+          sloops which sail from river to river with West India 
+          goods and salt and carry away such things as cannot 
+          conveniently be transported into Virginia. The only 
+          method to put the traffic in a right way and make the 
+          trade advantageous to Great Britain is to settle a 
+          Custom House on <placeName ref="#is_ocracoke" role="direct">Ocacock Island</placeName>, where there is a 
+          good harbour for vessels of 300 tons etc., to be a port 
+          for the three districts of <placeName ref="#us_nc_roanoke" role="indirect">Roanoke</placeName>, 
+          <placeName ref="#us_nc_currituck" role="indirect">Currihick</placeName>,
+          and <placeName ref="#us_nc_bath" role="indirect">Bath Town</placeName>, etc. 
+          Signed, Geo. Burrington. N.C. Col. Rec. III. 140. 22 1/2 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>270.2</num><date when="1731-07-01">July 1</date></dateline>
+        <p>270. ii. Schedule of papers to be delivered to the Lords of 
+          Trade. Endorsed as covering letter, 2/3 p.
+          270. iii. Certificate that following papers are true copies etc. 
+          Signed, Geo. Burrington. 2nd July, 1731. 1 p. 
+          270. iv. Drafts of a bill to ascertain fees and quit-rents, with 
+          proceedings of Council and Assembly thereon. 31 1/2 pp. 
+          270. v. Journal of Council, 25th Feb.--22nd May, 1731. 63 pp. 
+          270. vi. Journal of Assembly, 13th April--17th May, 1731. 34 1/2 pp. 
+          270. vii. Journal of Council and Assembly, 13th April--17th May, 1731. 52 pp. 
+          270. viii. Copies of Acts passed in Nov. 1729, the validity 
+          of which is disputed (v. Report supra and Journals of 
+          Assembly), (i) Act for emitting 40,000£. public bills of credit, 
+          (ii) for the more quiet settling of the <placeName ref="#us_nc_meherrin" role="indirect">Meherin Indians' lands</placeName>,
+          (iii) to make <placeName ref="#us_nc_hyde" role="indirect">Hyde precinct</placeName> separate 
+          from <placeName ref="#us_nc_beaufort" role="indirect">Beaufort precinct</placeName>, with power of erecting a
+          Courthouse and holding Courts. (iv) to appoint part of 
+          Albemarle County to be a precinct by name of <placeName ref="#us_nc_tyrrell" role="indirect">Tyrrell</placeName> 
+          etc. (v) for the more effectual and speedy putting in 
+          execution the act for settling titles and bounds of lands. 
+          (vi) to repeal the act for encouragement of tanning leather. 
+          (vii) an additional act to the act for the tryal of small 
+          and mean causes. (viii) for regulating vestries etc. 
+          (ix) to regulate the act for appointing indifferent jury- 
+          men etc. (with lists of Jurymen). 28 pp. 
+          270. ix. (a) Copies of six confirmed laws, which are obsolete, 
+          and had been lost, but were found upon the refusal of 
+          the body of laws in 1715 etc. 
+          (b) Copies of the Laws of <placeName ref="#us_nc" role="direct">North Carolina</placeName>. With 
+          marginal notes thereon. Endorsed as covering letter. 128 pp. 
+          270. x. List of patents granted by Sir R. Everard, late 
+          Deputy Governor of N. Carolina, 1730. 20 pp. 
+          Totals : 147 Purchased patents, with quit-rents 6d. 
+          per 100 acres, = 167,611 acres ; 222 common patents, 
+          at 2s. per 100 acres (not purchased, but taken up on 
+          the Grand Deed)=91,752 acres ; 24 lapsed patents, = 
+          30,532 acres. Total acres, 289,895. Governor 
+          Burrington adds that 
+          On April 10, 1730, a patent was signed to him by Sir 
+          R. Everard for 5000 acres which he had paid for 5 years 
+          before. He had possession of the land and paid near 
+          20 years quit-rents. Sir Richard refused to give him 
+          a patent before he knew that he was appointed 
+          Governor. Signed, Geo. Burrington. 1st July, 1731. 
+          Endorsed as covering letter. 1 p. [C.O. 5, 293. ff. 28 
+          to end of volume 275v. ; and (abstract with marginal 
+          notes for reply] 5, 327. pp. 2-18.]</p>
+      </div>
+      <div>
+        <dateline><num>271</num><date when="1731-07-01">July 1</date></dateline>
+        <p><placeName ref="#us_nc" role="from">North Carolina</placeName>.
+          Governor Burrington to the Duke of Newcastle. To same effect as preceding 
+          covering letter. Adds : "<placeName ref="#us_nc" role="direct">The Province</placeName>
+          notwithstanding the artifices that have been used is in a peace- 
+          able and quiet condition." No good can be expected from an 
+          Assembly till he receives his Grace's commands etc. Will take
+          care never to give him cause for displeasure etc. Signed, Geo. 
+          Burrington. Endorsed, R. Oct. 29. 3 pp. Enclosed, 
+          271. i.-vii. Duplicate of preceding encl. i, ii, v-vii, and x.</p>
+      </div>
+      <div>
+        <dateline><num>271.8</num><date when="1731-04-01">April 1</date></dateline>
+        <p>271. viii. Address of the Grand Jury of <placeName ref="#us_nc" role="direct">North Carolina</placeName> to 
+          the King. <placeName ref="#us_nc" role="from">Edenton</placeName>. 1st April, 1731. Nothing could 
+          be more joyfully recieved than the certain news of 
+          our being immediately under the Government and 
+          direction of so mild, so just, and so indulgent a Prince 
+          whose glory is the ease and happiness of his people, 
+          whose remotest regions feel the influence and are made 
+          happy under it and whom no distance can seperate 
+          from the good and wellfare of his subjects etc. Con- 
+          tinue to same effect as Address supra, May 22. 
+          Signed, John Lovick, foreman, James Milliken and 
+          17 others. 1 p. [C.O. 5, 308. Nos. 12, 12. i-viii.]</p>
+      </div>
+
+
+
+
           
           
 </body>
