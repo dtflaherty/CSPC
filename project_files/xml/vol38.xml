@@ -101,49 +101,50 @@
         <place xml:id="pt" type="region">
           <placeName>Portugal</placeName>
           <location>
-            <geo></geo>
+            <geo>39.39987199999999 -8.224454</geo>
           </location>
         </place>
         <place xml:id="ru" type="region">
           <placeName>Russia</placeName>
           <location>
-            <geo></geo>
+            <!--Russia Central Federal District-->
+            <geo>53.7266683 37.6476206</geo>
           </location>
         </place>
         <place xml:id="es" type="region">
           <placeName>Spain</placeName>
           <location>
-            <geo></geo>
+            <geo>40.46366700000001 -3.74922</geo>
           </location>
         </place>
         <place xml:id="ch" type="region">
           <placeName>Switzerland</placeName>
           <location>
-            <geo></geo>
+            <geo>46.818188 8.227511999999999</geo>
           </location>
         </place>
         <place xml:id="ag" type="colony">
           <placeName>Antigua</placeName>
           <location>
-            <geo></geo>
+            <geo>17.0746557 -61.8175207</geo>
           </location>
         </place>
         <place xml:id="bs" type="colony">
-          <placeName>Bahamas</placeName>
+          <placeName>Bahama Islands</placeName>
           <location>
-            <geo></geo>
+            <geo>24.25 -76.0</geo>
           </location>
         </place>
         <place xml:id="bb" type="colony">
           <placeName>Barbados</placeName>
           <location>
-            <geo></geo>
+            <geo>13.193887 -59.543198</geo>
           </location>
         </place>
         <place xml:id="bm" type="colony">
           <placeName>Bermuda</placeName>
           <location>
-            <geo></geo>
+            <geo>32.3078 -64.7505</geo>
           </location>
         </place>
         <place xml:id="ca" type="colony">
@@ -401,73 +402,75 @@
         <place xml:id="ca_ns_annapolis_royal" type="place">
           <placeName>Annapolis Royal</placeName>
           <location>
-            <geo></geo>
+            <geo>44.742226 -65.515822</geo>
           </location>
         </place>
         <place xml:id="ca_ns_canso" type="place">
           <placeName>Canso</placeName>
           <location>
-            <geo></geo>
+            <geo>45.3362846 -60.9944422</geo>
           </location>
         </place>
         <place xml:id="ca_ns_stpeters" type="place">
           <placeName>St. Peter's</placeName>
           <location>
-            <geo></geo>
+            <geo>45.65603400000001 -60.87506999999999</geo>
           </location>
         </place>
         <place xml:id="ca_ns_louisbourg" type="place">
           <placeName>Louisbourg</placeName>
           <location>
-            <geo></geo>
+            <!--fortress of Louisbourg-->
+            <geo>45.89249179999999 -59.98239539999999</geo>
           </location>
         </place>
         <place xml:id="ca_on_frontenac" type="place">
           <placeName>Fort Frontenac</placeName>
           <location>
-            <geo></geo>
+            <geo>44.233333,-76.478611</geo>
           </location>
         </place>
         <place xml:id="ca_qc_montreal" type="place">
-          <placeName>Louisbourg</placeName>
+          <placeName>Montreal</placeName>
           <location>
-            <geo></geo>
+            <geo>45.5086699 -73.55399249999999</geo>
           </location>
         </place>
         <place xml:id="cu_baracoa" type="place">
           <placeName>Baracoa</placeName>
           <location>
-            <geo></geo>
+            <geo>20.350771 -74.502449</geo>
           </location>
         </place>
         <place xml:id="cu_havana" type="place">
           <placeName>Havana</placeName>
           <location>
-            <geo></geo>
+            <geo>23.1168 -82.38855699999999</geo>
           </location>
         </place>
         <place xml:id="jm_kingston" type="place">
           <placeName>Kingston</placeName>
           <location>
-            <geo></geo>
+            <!--Harbour Street, Kingston, Jamaica-->
+            <geo>17.9661566 -76.7932055</geo>
           </location>
         </place>
         <place xml:id="jm_liguanea" type="place">
           <placeName>Liguanea</placeName>
           <location>
-            <geo></geo>
+            <geo>18.0166667 -76.7666667</geo>
           </location>
         </place>
         <place xml:id="jm_nannytown" type="place">
           <placeName>Nanny Town</placeName>
           <location>
-            <geo></geo>
+            <geo>18.06667 -76.53333</geo>
           </location>
         </place>
         <place xml:id="jm_pero" type="place">
           <placeName>Pero, Jamaica</placeName>
           <location>
-            <geo></geo>
+            <geo>17.87418 -76.32</geo>
           </location>
         </place>
         <place xml:id="jm_portantonio" type="place">
@@ -479,25 +482,26 @@
         <place xml:id="jm_portroyal" type="place">
           <placeName>Port Royal</placeName>
           <location>
-            <geo></geo>
+            <geo>18.1757009 -76.45025249999999</geo>
           </location>
         </place>
         <place xml:id="lc_carenage" type="place">
           <placeName>Carenage</placeName>
           <location>
-            <geo></geo>
+            <!--Castries-->
+            <geo>14.0101094 -60.98746869999999</geo>
           </location>
         </place>
         <place xml:id="pa_portobello" type="place">
           <placeName>Porto Bello</placeName>
           <location>
-            <geo></geo>
+            <geo>9.549999999999999 -79.64999999999999</geo>
           </location>
         </place>
         <place xml:id="pe_lima" type="place">
           <placeName>Lima</placeName>
           <location>
-            <geo></geo>
+            <geo>-12.0478158 -77.0622028</geo>
           </location>
         </place>
         <place xml:id="us_me_frederick" type="place">
