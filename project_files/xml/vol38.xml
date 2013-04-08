@@ -29,25 +29,29 @@
         <place xml:id="us_ne" type="region">
           <placeName>New England</placeName>
           <location>
-            <geo></geo>
+            <!--Nashua, NH-->
+            <geo>42.7653662 -71.46756599999999</geo>
           </location>
         </place>
         <place xml:id="n_america" type="region">
           <placeName>North America</placeName>
           <location>
-            <geo></geo>
+            <!--West Virginia-->
+            <geo>38.5976262 -80.4549026</geo>
           </location>
         </place>
         <place xml:id="africa" type="region">
           <placeName>Africa</placeName>
           <location>
-            <geo></geo>
+            <!--Cameroon-->
+            <geo>7.369721999999999 12.354722</geo>
           </location>
         </place>
         <place xml:id="europe" type="region">
           <placeName>Europe</placeName>
           <location>
-            <geo></geo>
+            <!--Austria-->
+            <geo>47.516231 14.550072</geo>
           </location>
         </place>
         <place xml:id="indies" type="region">
@@ -75,40 +79,40 @@
             <geo>11.24194 -74.20528</geo>
           </location>
         </place>
-        <place xml:id="de" type="region">
-          <placeName>Germany</placeName>
-          <location>
-            <geo></geo>
-          </location>
-        </place>
         <place xml:id="en" type="region">
           <placeName>England</placeName>
           <location>
-            <geo></geo>
+            <geo>52.3555177 -1.1743197</geo>
           </location>
         </place>
         <place xml:id="fr" type="region">
           <placeName>France</placeName>
           <location>
-            <geo></geo>
+            <geo>46.227638 2.213749</geo>
+          </location>
+        </place>
+        <place xml:id="de" type="region">
+          <placeName>Germany</placeName>
+          <location>
+            <geo>51.165691 10.451526</geo>
           </location>
         </place>
         <place xml:id="gb" type="region">
           <placeName>Great Britain</placeName>
           <location>
-            <geo></geo>
+            <geo>55.378051 -3.435973</geo>
           </location>
         </place>
         <place xml:id="ie" type="region">
           <placeName>Ireland</placeName>
           <location>
-            <geo></geo>
+            <geo>53.41291 -8.24389</geo>
           </location>
         </place>
         <place xml:id="pl" type="region">
           <placeName>Poland</placeName>
           <location>
-            <geo></geo>
+            <geo>51.919438 19.145136</geo>
           </location>
         </place>
         <place xml:id="pt" type="region">
@@ -163,229 +167,231 @@
         <place xml:id="ca" type="colony">
           <placeName>Canada</placeName>
           <location>
-            <geo></geo>
+            <!--Ontario, Canada-->
+            <geo>49.25014 -84.49983</geo>
           </location>
         </place>
         <place xml:id="cu" type="colony">
           <placeName>Cuba</placeName>
           <location>
-            <geo></geo>
+            <geo>21.521757 -77.781167</geo>
           </location>
         </place>
         <place xml:id="curacao" type="colony">
           <placeName>Curacao</placeName>
           <location>
-            <geo></geo>
+            <geo>12.16957 -68.99002</geo>
           </location>
         </place>
         <place xml:id="dm" type="colony">
           <placeName>Dominica</placeName>
           <location>
-            <geo></geo>
+            <geo>15.414999 -61.37097600000001</geo>
           </location>
         </place>
         <place xml:id="gi" type="colony">
           <placeName>Gibraltar</placeName>
           <location>
-            <geo></geo>
+            <geo>36.140751 -5.353585</geo>
           </location>
         </place>
         <place xml:id="gp" type="colony">
           <placeName>Guadeloupe</placeName>
           <location>
-            <geo></geo>
+            <geo>16.265 -61.55099999999999</geo>
           </location>
         </place>
         <place xml:id="jm" type="colony">
           <placeName>Jamaica</placeName>
           <location>
-            <geo></geo>
+            <geo>18.109581 -77.297508</geo>
           </location>
         </place>
         <place xml:id="leeward" type="colony">
           <placeName>Leeward Islands</placeName>
           <location>
-            <geo></geo>
+            <geo>17.3 -62.2</geo>
           </location>
         </place>
         <place xml:id="madeira" type="colony">
           <placeName>Madeira</placeName>
           <location>
-            <geo></geo>
+            <geo>32.76070740000001 -16.9594723</geo>
           </location>
         </place>
         <place xml:id="mq" type="colony">
           <placeName>Martinique</placeName>
           <location>
-            <geo></geo>
+            <geo>14.641528 -61.024174</geo>
           </location>
         </place>
         <place xml:id="ms" type="colony">
           <placeName>Montserrat</placeName>
           <location>
-            <geo></geo>
+            <geo>16.742498 -62.187366</geo>
           </location>
         </place>
         <place xml:id="nevis" type="colony">
           <placeName>Nevis</placeName>
           <location>
-            <geo></geo>
+            <geo>17.15 -62.58333</geo>
           </location>
         </place>
         <place xml:id="pa" type="colony">
           <placeName>Panama</placeName>
           <location>
-            <geo></geo>
+            <geo>8.537981 -80.782127</geo>
           </location>
         </place>
         <place xml:id="pr" type="colony">
           <placeName>Puerto Rico</placeName>
           <location>
-            <geo></geo>
+            <geo>18.220833 -66.590149</geo>
           </location>
         </place>
         <place xml:id="stchristophers" type="colony">
           <placeName>St. Christophers</placeName>
           <location>
-            <geo></geo>
+            <geo>17.3433796 -62.7559043</geo>
           </location>
         </place>
         <place xml:id="steustatius" type="colony">
           <placeName>St. Eustatius</placeName>
           <location>
-            <geo></geo>
+            <geo>17.4890306 -62.973555</geo>
           </location>
         </place>
         <place xml:id="lc" type="colony">
           <placeName>St. Lucia</placeName>
           <location>
-            <geo></geo>
+            <geo>13.909444 -60.978893</geo>
           </location>
         </place>
         <place xml:id="stvincent" type="colony">
           <placeName>St. Vincent</placeName>
           <location>
-            <geo></geo>
+            <geo>13.2648773 -61.21024420000001</geo>
           </location>
         </place>
         <place xml:id="sr" type="colony">
           <placeName>Surinam</placeName>
           <location>
-            <geo></geo>
+            <geo>3.919305 -56.027783</geo>
           </location>
         </place>
         <place xml:id="tobago" type="colony">
           <placeName>Tobago</placeName>
           <location>
-            <geo></geo>
+            <geo>11.2673788 -60.6517354</geo>
           </location>
         </place>
         <place xml:id="ca_nl" type="colony">
           <placeName>Newfoundland</placeName>
           <location>
-            <geo></geo>
+            <!--Placentia, NL-->
+            <geo>47.242185 -53.963421</geo>
           </location>
         </place>
         <place xml:id="ca_ns" type="colony">
           <placeName>Nova Scotia</placeName>
           <location>
-            <geo></geo>
+            <geo>45.68198659999999 -63.744311</geo>
           </location>
         </place>
         <place xml:id="ca_ns_cb" type="colony">
           <placeName>Cape Breton</placeName>
           <location>
-            <geo></geo>
+            <geo>46.2486851 -60.851817</geo>
           </location>
         </place>
         <place xml:id="us_me" type="colony">
           <placeName>Maine</placeName>
           <location>
-            <geo></geo>
+            <geo>45.253783 -69.4454689</geo>
           </location>
         </place>
         <place xml:id="us_nh" type="colony">
           <placeName>New Hampshire</placeName>
           <location>
-            <geo></geo>
+            <geo>43.1938516 -71.5723953</geo>
           </location>
         </place>
         <place xml:id="us_ma" type="colony">
           <placeName>Massachusetts</placeName>
           <location>
-            <geo></geo>
+            <geo>42.4072107 -71.3824374</geo>
           </location>
         </place>
         <place xml:id="us_ri" type="colony">
           <placeName>Rhode Island</placeName>
           <location>
-            <geo></geo>
+            <geo>41.5800945 -71.4774291</geo>
           </location>
         </place>
         <place xml:id="us_ct" type="colony">
           <placeName>Connecticut</placeName>
           <location>
-            <geo></geo>
+            <geo>41.6032207 -73.087749</geo>
           </location>
         </place>
         <place xml:id="us_ny" type="colony">
           <placeName>New York</placeName>
           <location>
-            <geo></geo>
+            <geo>43.2994285 -74.21793260000001</geo>
           </location>
         </place>
         <place xml:id="us_nj" type="colony">
           <placeName>New Jersey</placeName>
           <location>
-            <geo></geo>
+            <geo>40.0583238 -74.4056612</geo>
           </location>
         </place>
         <place xml:id="us_pa" type="colony">
           <placeName>Pennsylvania</placeName>
           <location>
-            <geo></geo>
+            <geo>41.2033216 -77.1945247</geo>
           </location>
         </place>
         <place xml:id="us_de" type="colony">
           <placeName>Delaware</placeName>
           <location>
-            <geo></geo>
+            <geo>38.9108325 -75.52766989999999</geo>
           </location>
         </place>
         <place xml:id="us_md" type="colony">
           <placeName>Maryland</placeName>
           <location>
-            <geo></geo>
+            <geo>39.0457549 -76.64127119999999</geo>
           </location>
         </place>
         <place xml:id="us_va" type="colony">
           <placeName>Virginia</placeName>
           <location>
-            <geo></geo>
+            <geo>37.4315734 -78.6568942</geo>
           </location>
         </place>
         <place xml:id="us_nc" type="colony">
           <placeName>North Carolina</placeName>
           <location>
-            <geo></geo>
+            <geo>35.7595731 -79.01929969999999</geo>
           </location>
         </place>
         <place xml:id="us_sc" type="colony">
           <placeName>South Carolina</placeName>
           <location>
-            <geo></geo>
+            <geo>33.836081 -81.1637245</geo>
           </location>
         </place>
         <place xml:id="us_fl" type="colony">
           <placeName>Florida</placeName>
           <location>
-            <geo></geo>
+            <geo>27.6648274 -81.5157535</geo>
           </location>
         </place>
         <place xml:id="us_la" type="colony">
           <placeName>Louisiana</placeName>
           <location>
-            <geo></geo>
+            <geo>31.2448234 -92.14502449999999</geo>
           </location>
         </place>
         <place xml:id="bb_stphilip" type="place">
@@ -520,235 +526,235 @@
         <place xml:id="us_me_frederick" type="place">
           <placeName>Fort Frederick</placeName>
           <location>
-            <geo></geo>
+            <geo>43.8772 -69.523</geo>
           </location>
         </place>
         <place xml:id="us_me_pemaquid" type="place">
           <placeName>Pemaquid</placeName>
           <location>
-            <geo></geo>
+            <!--Colonial Pemaquid-->
+            <geo>43.87908119999999 -69.5212465</geo>
           </location>
         </place>
         <place xml:id="us_me_newharbor" type="place">
           <placeName>New Harbor</placeName>
           <location>
-            <geo></geo>
+            <geo>43.8755047 -69.4922699</geo>
           </location>
         </place>
         <place xml:id="us_me_york" type="place">
           <placeName>York, ME</placeName>
           <location>
-            <geo></geo>
+            <!--York Harbor-->
+            <geo>43.16174830000001 -70.6482581</geo>
           </location>
         </place>
         <place xml:id="us_me_portland" type="place">
           <placeName>Portland</placeName>
           <location>
-            <geo></geo>
+            <geo>43.66147100000001 -70.2553259</geo>
           </location>
         </place>
         <place xml:id="us_me_norridgewock" type="place">
           <placeName>Norridgewock</placeName>
           <location>
-            <geo></geo>
+            <geo>44.7130794 -69.7905955</geo>
           </location>
         </place>
         <place xml:id="us_me_scarborough" type="place">
           <placeName>Scarborough</placeName>
           <location>
-            <geo></geo>
+            <geo>43.5901974 -70.33449209999999</geo>
           </location>
         </place>
         <place xml:id="us_me_falmouth" type="place">
           <placeName>Falmouth, ME</placeName>
           <location>
-            <geo></geo>
+            <geo>43.7405556 -70.2772222</geo>
           </location>
         </place>
         <place xml:id="us_me_richmond" type="place">
           <placeName>Fort Richmond</placeName>
           <location>
-            <geo></geo>
+            <!--Richmond, ME-->
+            <geo>44.0881035 -69.8025739</geo>
           </location>
         </place>
         <place xml:id="us_me_george" type="place">
           <placeName>Fort George</placeName>
           <location>
-            <geo></geo>
-          </location>
-        </place>
-        <place xml:id="us_me_brunswick" type="place">
-          <placeName>Brunswick</placeName>
-          <location>
-            <geo></geo>
+            <!--Brunswick, ME-->
+            <geo>43.9140162 -69.9669961</geo>
           </location>
         </place>
         <place xml:id="us_me_harrington" type="place">
           <placeName>Bristol, ME</placeName>
           <location>
-            <geo></geo>
+            <geo>43.9575 -69.5091667</geo>
           </location>
         </place>
         <place xml:id="us_me_walpole" type="place">
           <placeName>Walpole</placeName>
           <location>
-            <geo></geo>
+            <geo>43.955914 -69.5586582</geo>
           </location>
         </place>
         <place xml:id="us_me_townshend" type="place">
           <placeName>Boothbay</placeName>
           <location>
-            <geo></geo>
+            <geo>43.8764706 -69.633657</geo>
           </location>
         </place>
         <place xml:id="us_me_newcastle" type="place">
           <placeName>Newcastle, ME</placeName>
           <location>
-            <geo></geo>
+            <geo>44.0365242 -69.53861859999999</geo>
           </location>
         </place>
         <place xml:id="us_me_woolwich" type="place">
           <placeName>Woolwich</placeName>
           <location>
-            <geo></geo>
+            <geo>43.9187038 -69.8009529</geo>
           </location>
         </place>
         <place xml:id="us_me_torrington" type="place">
           <placeName>Waldoboro</placeName>
           <location>
-            <geo></geo>
+            <geo>44.0952725 -69.37560169999999</geo>
           </location>
         </place>
         <place xml:id="us_me_northyarmouth" type="place">
           <placeName>North Yarmouth</placeName>
           <location>
-            <geo></geo>
+            <geo>43.8511111 -70.2341667</geo>
           </location>
         </place>
         <place xml:id="us_me_berwick" type="place">
           <placeName>Berwick</placeName>
           <location>
-            <geo></geo>
+            <geo>43.26831989999999 -70.8635506</geo>
           </location>
         </place>
         <place xml:id="us_nh_exeter" type="place">
           <placeName>Exeter, NH</placeName>
           <location>
-            <geo></geo>
+            <geo>42.9814292 -70.9477546</geo>
           </location>
         </place>
         <place xml:id="us_nh_portsmouth" type="place">
           <placeName>Portsmouth, NH</placeName>
           <location>
-            <geo></geo>
+            <geo>43.0717552 -70.7625532</geo>
           </location>
         </place>
         <place xml:id="us_nh_williammary" type="place">
           <placeName>Fort William and Mary</placeName>
           <location>
-            <geo></geo>
+            <geo>43.0713608 -70.7101527</geo>
           </location>
         </place>
         <place xml:id="us_ma_boston" type="place">
           <placeName>Boston</placeName>
           <location>
-            <geo></geo>
+            <geo>42.3584308 -71.0597732</geo>
           </location>
         </place>
         <place xml:id="us_ma_cambridge" type="place">
           <placeName>Cambridge</placeName>
           <location>
-            <geo></geo>
+            <geo>42.3736158 -71.10973349999999</geo>
           </location>
         </place>
-        <place xml:id="us_ma_newbury" type="place">
-          <placeName>Newbury</placeName>
+        <place xml:id="us_ma_newburyport" type="place">
+          <placeName>Newburyport</placeName>
           <location>
-            <geo></geo>
+            <geo>42.8125913 -70.87727509999999</geo>
           </location>
         </place>
         <place xml:id="us_ma_reading" type="place">
           <placeName>Reading, MA</placeName>
           <location>
-            <geo></geo>
+            <geo>42.5256563 -71.0952891</geo>
           </location>
         </place>
         <place xml:id="us_ma_salem" type="place">
           <placeName>Salem</placeName>
           <location>
-            <geo></geo>
+            <geo>42.51954 -70.8967155</geo>
           </location>
         </place>
         <place xml:id="us_ma_taunton" type="place">
           <placeName>Taunton</placeName>
           <location>
-            <geo></geo>
+            <geo>41.900101 -71.0897674</geo>
           </location>
         </place>
         <place xml:id="us_ma_wilmington" type="place">
           <placeName>Wilmington, MA</placeName>
           <location>
-            <geo></geo>
+            <geo>42.5481714 -71.1724467</geo>
           </location>
         </place>
         <place xml:id="us_ma_woburn" type="place">
           <placeName>Woburn</placeName>
           <location>
-            <geo></geo>
+            <geo>42.4792618 -71.1522765</geo>
           </location>
         </place>
         <place xml:id="us_ny_putnam" type="place">
           <placeName>Putnam County, NY</placeName>
           <location>
-            <geo></geo>
+            <geo>41.4351069 -73.7948516</geo>
           </location>
         </place>
         <place xml:id="us_ny_iroquoia" type="place">
           <placeName>Iroquoia</placeName>
           <location>
-            <geo></geo>
+            <!--Onondaga-->
+            <geo>43.026819 -76.17837390000001</geo>
           </location>
         </place>
         <place xml:id="us_ny_newyork" type="place">
           <placeName>New York City</placeName>
           <location>
-            <geo></geo>
+            <geo>40.7143528 -74.00597309999999</geo>
           </location>
         </place>
         <place xml:id="us_ny_oswego" type="place">
           <placeName>Oswego</placeName>
           <location>
-            <geo></geo>
+            <!--Fort Ontario-->
+            <geo>43.4659017 -76.508275</geo>
           </location>
         </place>
         <place xml:id="us_ny_fortniagara" type="place">
           <placeName>Fort Niagara</placeName>
           <location>
-            <geo></geo>
+            <geo>43.2630008 -79.0640399</geo>
           </location>
         </place>
         <place xml:id="us_ny_albany" type="place">
           <placeName>Albany</placeName>
           <location>
-            <geo></geo>
+            <geo>42.6525793 -73.7562317</geo>
           </location>
         </place>
         <place xml:id="us_pa_philadelphia" type="place">
           <placeName>Philadelphia</placeName>
           <location>
-            <geo></geo>
+            <geo>39.952335 -75.16378900000001</geo>
           </location>
         </place>
         <place xml:id="us_de_newcastle" type="place">
           <placeName>New Castle, DE</placeName>
           <location>
-            <geo></geo>
+            <geo>39.6620572 -75.56631320000001</geo>
           </location>
         </place>
         <place xml:id="us_de_lewes" type="place">
           <placeName>Lewes</placeName>
           <location>
-            <geo></geo>
+            <geo>38.7745565 -75.13934979999999</geo>
           </location>
         </place>
         <place xml:id="us_va_gloucester" type="place">
@@ -2835,7 +2841,7 @@
           of the <placeName ref="#us_ma" role="indirect">Massachusetts Bay</placeName>, I embarked on board the 
           sloop Endeavour 5th Nov., 1730, and after sailing to 
           <placeName ref="#us_me_george" role="direct">Fort George</placeName>
-          in <placeName ref="#us_me_brunswick" role="indirect">Brunswick</placeName> and to the blockhouse on 
+          in Brunswick and to the blockhouse on 
           <placeName ref="#rv_stgeorge" role="direct">St. George's river</placeName>, we anchored in the harbour of 
           <placeName ref="#us_me_pemaquid" role="direct">Pemaquid</placeName> before the ruins of the old Fort William, 
           where the King's flagg was flying. Soon after came 
@@ -10796,7 +10802,7 @@
           from <placeName ref="#us_ma_boston" role="direct">Boston</placeName> from the Chief Governour were only to renew a 
           former vote impowering a Committee to meet another from 
           <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName> at 
-          <placeName ref="#us_ma_newbury" role="direct">Newbury</placeName> about setling the lines, and 
+          <placeName ref="#us_ma_newburyport" role="direct">Newbury</placeName> about setling the lines, and 
           then immediately to prorogue them to September. I was 
           surprized a few moments before I had the honour to meet the 
           Assembly to be told that a speech was expected from me, and 
