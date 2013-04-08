@@ -11,9 +11,8 @@
   <div class="span4 locations">
     <ul>
       <% @locations.each do |location| %>
-        <li><%= location.formatted_address %></li>
-      <li><%= location.latitude %></li>
-      <li><%= location.longitude %></li>
+        <li><strong><%= location.formatted_address %></strong>:<br/>
+          &lt;geo&gt;<%= location.latitude %> <%= location.longitude %>&lt;/geo&gt;
     <% end %>
     </ul>
 
@@ -101,7 +100,7 @@ $(function() {
     var outputContainer = $('.xmlsnip');
     var xml = $('<place xml:id="us_ne" type="region"><placeName>New England</placeName>location><geo></geo></location></place>');
 
-    outputContainer.append(xml);
+    //outputContainer.append(xml);
 
   }
 
