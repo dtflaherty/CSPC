@@ -1,4 +1,6 @@
-require 'sinatra/base'
+require "sinatra"
+require "sinatra/content_for"
+
 require_relative 'routes/init'
 
 class Locator < Sinatra::Base

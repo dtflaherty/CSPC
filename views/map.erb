@@ -12,25 +12,27 @@
     <ul>
       <% @locations.each do |location| %>
         <li><strong><%= location.formatted_address %></strong>:<br/>
-          &lt;geo&gt;<%= location.latitude %> <%= location.longitude %>&lt;/geo&gt;
-    <% end %>
+        &lt;geo&gt;<%= location.latitude %> <%= location.longitude %>&lt;/geo&gt;
+      <% end %>
     </ul>
 
-    <div class="xmlsnip">
 
-    </div>
   </div>
 </div>
 
-
 <script>
 $(function() {
+
+  OpenLayers.IMAGE_RELOAD_ATTEMPTS = 3;
+  OpenLayers.ImgPath = 'http://js.mapbox.com/theme/dark/';
 
   var SHADOW_Z_INDEX = 10;
   var MARKER_Z_INDEX = 11;
 
   var DIAMETER = 200;
-  var map, layer, features;
+  var proj = new OpenLayers.Projection("EPSG:4326");
+
+  var map, layer, center, marker;
 
   var options = {
     controls: [
@@ -39,11 +41,12 @@ $(function() {
       new OpenLayers.Control.LayerSwitcher({'ascending':false}),
       new OpenLayers.Control.Permalink(),
       new OpenLayers.Control.MousePosition(),
-      new OpenLayers.Control.KeyboardDefaults()
+      new OpenLayers.Control.KeyboardDefaults(),
+      new OpenLayers.Control.LayerSwitcher()
     ]
   };
 
-  var map = new OpenLayers.Map('map', options);
+  map = new OpenLayers.Map('map', options);
 
   var gphy = new OpenLayers.Layer.Google(
     "Google Physical",
@@ -62,19 +65,27 @@ $(function() {
     {type: google.maps.MapTypeId.SATELLITE, numZoomLevels: 22}
   );
 
-  layer = new OpenLayers.Layer.Vector("Marker Drop Shadows");
-  map.addLayers([gphy, gmap, ghyb, gsat]);
 
-  map.addControl(new OpenLayers.Control.LayerSwitcher());
+  map.addLayers([gphy]);
+
+  var markers = new OpenLayers.Layer.Markers( "Markers" );
+  map.addLayer(markers);
+
+   var size = new OpenLayers.Size(21,25);
+   var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);
+   var icon = new OpenLayers.Icon('/images/marker-gold.png',size,offset);
+
+   <% @locations.each do |location| %>
+     var point = new OpenLayers.LonLat(<%= location.longitude %>, <%= location.latitude %>);
+     point.transform(proj, map.getProjectionObject());
+     markers.addMarker(new OpenLayers.Marker(point, icon));
+  <% end %>
 
   var center = new OpenLayers.LonLat(-8795761.71761, 3404810.9874);
 
   if(!map.getCenter()) {
     map.setCenter(center, 4);
   }
-
-  drawLocations();
-  writeXml();
 
   function drawLocations() {
     layer.removeFeatures(layer.features);
@@ -89,25 +100,14 @@ $(function() {
           new OpenLayers.Geometry.Point(lonLat.lon, lonLat.lat)
       )
       );
+
     <% end %>
 
     layer.addFeatures(features);
-
-
   }
-
-  function writeXml() {
-    var outputContainer = $('.xmlsnip');
-    var xml = $('<place xml:id="us_ne" type="region"><placeName>New England</placeName>location><geo></geo></location></place>');
-
-    //outputContainer.append(xml);
-
-  }
-
-
-
-
 });
 
 
 </script>
+
+

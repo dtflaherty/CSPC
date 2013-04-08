@@ -22,9 +22,6 @@
 
 $(function() {
 
-  var options = {};
-
-  var map = new OpenLayers.Map('map', options);
-
+  
 
 });
