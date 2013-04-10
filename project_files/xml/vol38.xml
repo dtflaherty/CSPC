@@ -785,98 +785,100 @@
         <place xml:id="us_va_gloucester" type="place">
           <placeName>Gloucester County</placeName>
           <location>
-            <geo></geo>
+            <geo>37.4128281 -76.5025742</geo>
           </location>
         </place>
         <place xml:id="us_va_norfolk" type="place">
-          <placeName>Norfolk County (Chesapeake, VA)</placeName>
+          <placeName>Norfolk County</placeName>
           <location>
-            <geo></geo>
+            <!--City of Chesapeake, VA-->
+            <geo>36.68765 -76.31216</geo>
           </location>
         </place>
         <place xml:id="us_va_northernneck" type="place">
           <placeName>Northern Neck</placeName>
           <location>
-            <geo>37.966667,-76.633333</geo>
+            <geo>37.966667 -76.633333</geo>
           </location>
         </place>
         <place xml:id="us_va_princessanne" type="place">
           <placeName>Princess Anne County</placeName>
           <location>
-            <!--Virginia Beach-->
-            <geo></geo>
+            <!--City of Virginia Beach-->
+            <geo>36.73765 -76.00521</geo>
           </location>
         </place>
         <place xml:id="us_va_williamsburg" type="place">
           <placeName>Williamsburg</placeName>
           <location>
-            <geo></geo>
+            <geo>37.2707022 -76.7074571</geo> 
           </location>
         </place>
         <place xml:id="us_nc_bath" type="place">
           <placeName>Bath, NC</placeName>
           <location>
-            <geo></geo>
+            <geo>35.4771094 -76.8116045</geo>
           </location>
         </place>
         <place xml:id="us_nc_beaufort" type="place">
           <placeName>Beaufort County, NC</placeName>
           <location>
-            <geo></geo>
+            <geo>35.4613504 -76.91820969999999</geo>
           </location>
         </place>
         <place xml:id="us_nc_capefear" type="place">
           <placeName>Cape Fear</placeName>
           <location>
-            <geo></geo>
+            <!--Wilmington, NC-->
+            <geo>34.2257255 -77.9447102</geo> 
           </location>
         </place>
         <place xml:id="us_nc_currituck" type="place">
           <placeName>Currituck</placeName>
           <location>
-            <geo></geo>
+            <geo>36.4465659 -76.0142968</geo> 
           </location>
         </place>
         <place xml:id="us_nc_edenton" type="place">
           <placeName>Edenton</placeName>
           <location>
-            <geo></geo>
+            <geo>36.057938 -76.6077213</geo> 
           </location>
         </place>
         <place xml:id="us_nc_hyde" type="place">
           <placeName>Hyde County, NC</placeName>
           <location>
-            <geo></geo>
+            <geo>35.5624867 -75.95500489999999</geo>
           </location>
         </place>
         <place xml:id="us_nc_meherrin" type="place">
           <placeName>Mouth of Meherrin River</placeName>
           <location>
-            <geo></geo>
+            <geo>36.43154 -76.94802</geo>
           </location>
         </place>
         <place xml:id="us_nc_roanoke" type="place">
-          <placeName>Roanoke</placeName>
+          <placeName>Roanoke Island</placeName>
           <location>
-            <geo></geo>
+            <geo>35.8897427 -75.66153840000001</geo> 
           </location>
         </place>
         <place xml:id="us_nc_tyrrell" type="place">
           <placeName>Tyrrell County, NC</placeName>
           <location>
-            <geo></geo>
+            <geo>35.8925537 -76.17837390000001</geo> 
           </location>
         </place>
         <place xml:id="us_sc_charleston" type="place">
           <placeName>Charleston</placeName>
           <location>
-            <geo></geo>
+            <geo>32.7765656 -79.93092159999999</geo> 
           </location>
         </place>
         <place xml:id="us_mi_fortdetroit" type="place">
           <placeName>Fort Detroit</placeName>
           <location>
-            <geo></geo>
+            <geo>42.328889 -83.045833</geo>
           </location>
         </place>
         <place xml:id="en_lon" type="place">
