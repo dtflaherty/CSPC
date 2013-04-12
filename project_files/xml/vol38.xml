@@ -109,6 +109,12 @@
             <geo>53.41291 -8.24389</geo>
           </location>
         </place>
+        <place xml:id="nl" type="region">
+          <placeName>The Netherlands</placeName>
+          <location>
+            <geo>52.132633 5.291265999999999</geo>
+          </location>
+        </place>
         <place xml:id="pl" type="region">
           <placeName>Poland</placeName>
           <location>
@@ -126,6 +132,13 @@
           <location>
             <!--Russia Central Federal District-->
             <geo>53.7266683 37.6476206</geo>
+          </location>
+        </place>
+        <place xml:id="se" type="region">
+          <placeName>Sweden</placeName>
+          <location>
+            <!--Kumla-->
+            <geo>59.1166667 15.1333333</geo>
           </location>
         </place>
         <place xml:id="es" type="region">
@@ -171,6 +184,13 @@
             <geo>49.25014 -84.49983</geo>
           </location>
         </place>
+        <place xml:id="lv" type="colony">
+          <placeName>Courland</placeName>
+          <location>
+            <!--Mitau (Jelgava), Latvia-->
+            <geo>56.6511091 23.7213541</geo>
+          </location>
+        </place>
         <place xml:id="cu" type="colony">
           <placeName>Cuba</placeName>
           <location>
@@ -189,6 +209,18 @@
             <geo>15.414999 -61.37097600000001</geo>
           </location>
         </place>
+        <place xml:id="gd" type="colony">
+          <placeName>Grenada</placeName>
+          <location>
+            <geo>12.1165 -61.67899999999999</geo>
+          </location>
+        </place>
+        <place xml:id="gf" type="colony">
+          <placeName>Cayenne, French Guiana</placeName>
+          <location>
+            <geo>4.9227 -52.32689999999999</geo>
+          </location>
+        </place>
         <place xml:id="gi" type="colony">
           <placeName>Gibraltar</placeName>
           <location>
@@ -205,7 +237,15 @@
         <place xml:id="gp" type="colony">
           <placeName>Guadeloupe</placeName>
           <location>
-            <geo>16.265 -61.55099999999999</geo>
+            <!--Basse-terre Island, GP-->
+            <geo>16.1296293 -61.6538052</geo>
+          </location>
+        </place>
+        <place xml:id="gw" type="colony">
+          <placeName>Guinea</placeName>
+          <location>
+            <!--Guinea-Bissau-->
+            <geo>11.803749 -15.180413</geo>
           </location>
         </place>
         <place xml:id="jm" type="colony">
@@ -294,6 +334,12 @@
         </place>
         <place xml:id="tobago" type="colony">
           <placeName>Tobago</placeName>
+          <location>
+            <geo>11.2673788 -60.6517354</geo>
+          </location>
+        </place>
+        <place xml:id="trinidad" type="colony">
+          <placeName>Trinidad</placeName>
           <location>
             <geo>11.2673788 -60.6517354</geo>
           </location>
@@ -421,6 +467,12 @@
             <geo>17.00681 -61.76256</geo>
           </location>
         </place>
+        <place xml:id="ag_fortberkeley" type="place">
+          <placeName>Fort Berkeley</placeName>
+          <location>
+            <geo>17.0044567 -61.7633021</geo>
+          </location>
+        </place>
         <place xml:id="bb_stphilip" type="place">
           <placeName>St. Philip Parish</placeName>
           <location>
@@ -524,6 +576,18 @@
           <placeName>Havana</placeName>
           <location>
             <geo>23.1168 -82.38855699999999</geo>
+          </location>
+        </place>
+        <place xml:id="gp_grandterre" type="place">
+          <placeName>Grand-Terre Island</placeName>
+          <location>
+            <geo>16.2732353 -61.46689620000001</geo>
+          </location>
+        </place>
+        <place xml:id="gp_marygalante" type="place">
+          <placeName>Marie-Galante Island</placeName>
+          <location>
+            <geo>15.9232223 -61.2568777</geo>
           </location>
         </place>
         <place xml:id="jm_kingston" type="place">
@@ -790,6 +854,12 @@
             <geo>42.4096528 -71.8571331</geo>
           </location>
         </place>
+        <place xml:id="us_ri_newport" type="place">
+          <placeName>Newport</placeName>
+          <location>
+            <geo>41.4901024 -71.3128285</geo>
+          </location>
+        </place>
         <place xml:id="us_ny_putnam" type="place">
           <placeName>Putnam County, NY</placeName>
           <location>
@@ -916,6 +986,12 @@
             <geo>34.2257255 -77.9447102</geo> 
           </location>
         </place>
+        <place xml:id="us_nc_chowan" type="place">
+          <placeName>Chowan</placeName>
+          <location>
+            <geo>36.1354131 -76.6181655</geo> 
+          </location>
+        </place>
         <place xml:id="us_nc_currituck" type="place">
           <placeName>Currituck</placeName>
           <location>
@@ -956,6 +1032,12 @@
           <placeName>Charleston</placeName>
           <location>
             <geo>32.7765656 -79.93092159999999</geo> 
+          </location>
+        </place>
+        <place xml:id="us_la_neworleans" type="place">
+          <placeName>New Orleans</placeName>
+          <location>
+            <geo>29.95106579999999 -90.0715323</geo>
           </location>
         </place>
         <place xml:id="us_mi_fortdetroit" type="place">
@@ -1084,6 +1166,12 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="en_lon_temple" type="place">
+          <placeName>Inner Temple</placeName>
+          <location>
+            <geo>51.5134677 -0.1099168</geo>
+          </location>
+        </place>
         <place xml:id="en_bath" type="place">
           <placeName>Bath</placeName>
           <location>
@@ -1100,6 +1188,12 @@
           <placeName>Grendon, Warwickshire, UK</placeName>
           <location>
             <geo>52.59264899999999 -1.592153</geo>
+          </location>
+        </place>
+        <place xml:id="en_horringer" type="place">
+          <placeName>Horringer, Suffolk, UK</placeName>
+          <location>
+            <geo>52.22679 0.6735409000000001</geo>
           </location>
         </place>
         <place xml:id="en_lincoln" type="place">
@@ -1130,6 +1224,12 @@
           <placeName>The Downs</placeName>
           <location>
             <geo>51.23333 1.43333</geo>
+          </location>
+        </place>
+        <place xml:id="de_hanau" type="place">
+          <placeName>Hanau (Hesse)</placeName>
+          <location>
+            <geo>50.1258442 8.930633499999999</geo>
           </location>
         </place>
         <place xml:id="es_cadiz" type="place">
@@ -1172,6 +1272,24 @@
           <placeName>Lisbon</placeName>
           <location>
             <geo>38.7252993 -9.150036400000001</geo>
+          </location>
+        </place>
+        <place xml:id="se_gothenburg" type="place">
+          <placeName>Gothenburg</placeName>
+          <location>
+            <geo>57.70887 11.97456</geo>
+          </location>
+        </place>
+        <place xml:id="se_stockholm" type="place">
+          <placeName>Stockholm</placeName>
+          <location>
+            <geo>59.32893000000001 18.06491</geo>
+          </location>
+        </place>
+        <place xml:id="se_uppsala" type="place">
+          <placeName>Uppsala</placeName>
+          <location>
+            <geo>59.85856380000001 17.6389267</geo>
           </location>
         </place>
         <place xml:id="gf_stlawrence" type="natural">
@@ -1286,6 +1404,12 @@
           <placeName>Manhattan</placeName>
           <location>
             <geo></geo>
+          </location>
+        </place>
+        <place xml:id="is_margarita" type="natural">
+          <placeName>Margarita Island</placeName>
+          <location>
+            <geo>10.9970723 -63.91132959999999</geo>
           </location>
         </place>
         <place xml:id="is_newprovidence" type="natural">
@@ -1548,6 +1672,12 @@
         </place>
         <place xml:id="rv_merrimack" type="natural">
           <placeName>Merrimack River</placeName>
+          <location>
+            <geo></geo>
+          </location>
+        </place>
+        <place xml:id="rv_savannah" type="natural">
+          <placeName>Savannah River</placeName>
           <location>
             <geo></geo>
           </location>
@@ -10089,7 +10219,7 @@
           Potaskites, Chowans, Meherrins and Tuscarora. None 
           exceeds 20 families, except the Tuscaroras who now 
           consist of 200 fighting men etc. There was lately 
-          complaints from the Government of <placeName ref="#us_nc" role="direct">S. Carolina</placeName> of 
+          complaints from the Government of <placeName ref="#us_sc" role="direct">S. Carolina</placeName> of 
           injuries done the white people by the latter, but they 
           denying the facts are threatened by that Government 
           with a war from the Cherokees and Cataubas. The 
@@ -12486,7 +12616,7 @@
       <div>
         <dateline><num>325</num><date when="1731-07-27">July 27</date></dateline>
         <p>Mr. Yeamans to the Council of Trade and Plantations. 
-          Requests grant of 12 cannon with necessaries for the stone fort 
+          Requests grant of 12 cannon with necessaries for <placeName ref="#ag_fortberkeley" role="direct">the stone fort</placeName> 
           erected by the people of <placeName ref="#ag" role="direct">Antigua</placeName> for the defence of  
           H.M. ships and storehouses at <placeName ref="#ag_englishharbour" role="direct">English Harbour</placeName> etc.
           Set out, A.P.C. III, p. 251. Endorsed, Recd., Read 27th July, 1731. 
@@ -14654,600 +14784,1308 @@
           chargeable work." Prays that the matter may be considered, 
           and the law subjoined recommended for confirmation. Signed, John Yeamans. 
           Endorsed, Recd., Read 26th Aug., 1731. 2 1/2 pp. [C.O. 152, 19. ff. 64-65v.]</p> 
+      </div>
+      <div>
+        <dateline><num>386</num><date when="1731-08-27">August 27</date></dateline>
+        <p>Representation of the General Assembly of <placeName ref="#bb" role="direct">Barbados</placeName> 
+          to the Council of Trade and Plantations. The said Island 
+          has for many years past been a very profitable colony to 
+          <placeName ref="#gb" role="indirect">G. Britain</placeName>, as well by its produce and import of sugar, rum, 
+          molosses, cotton, ginger and aloes, as by its taking off from 
+          thence great quantities of woollen and other manufactures and 
+          goods that pay duties to the Crown, (which by means of ye 
+          Barbados trade, are part consumed among the inhabitants of 
+          the said island, and other part thereof are exported from Great Britain to 
+          <placeName ref="#africa" role="indirect">Africa</placeName> and <placeName ref="#madeira" role="indirect">Madera</placeName>
+          and <placeName ref="#n_america" role="indirect">the Northern British Colonies</placeName>, for the purchase of negroes, 
+          wine, fish and other goods for the use of this Island, and thereby numberless hands have been 
+          employ'd in H.M. Kingdoms and Territories, and great revenues 
+          have accrued to the Crown) and has also been a great support 
+          to H.M. Northern Colonies, and given a very great and profitable 
+          vent to their fishery and other produce as also to the produce 
+          of <placeName ref="#ie" role="indirect">Ireland</placeName>: Besides employing in those several trades great 
+          numbers of shipping and seamen etc., and after all has used 
+          to leave a considerable ballance in England to the benefit of 
+          the national stock. The intrest of this Island and all other 
+          <placeName ref="#british_indies" role="indirect">H.M. Sugar Colonies</placeName> is closely united with that of Great Britain, 
+          and all those Sugar Colonies must ever be dependent on it, and 
+          be supply'd from thence, because they have no trade or 
+          manufactures which can interfere with those of Great Britain. 
+          Within these few years great improvements have been made by 
+          the French and Dutch in their Sugar Colonies, and great and 
+          extraordinary encouragements have been given to them, not 
+          only from their Mother-countrys, but also from a pernicious 
+          trade carried on to and from Ireland and the British Northern 
+          Colonies, and have to spare for <placeName ref="#nl" role="indirect">Holland</placeName>, 
+          <placeName ref="#de" role="indirect">Germany</placeName>, <placeName ref="#it" role="indirect">Italy</placeName> 
+          and other parts of <placeName ref="#europe" role="indirect">Europe</placeName>, and the French and Dutch Sugar Colonies 
+          have lately supply'd the Northern British Colonies with very 
+          large quantities of melosses, for the making of rum and other 
+          uses ; and even with rum of their own manufacture, to the 
+          vast prejudice of H.M. Sugar Colonies, as rum is a commodity 
+          on which next to sugar they mostly depend, and have had in 
+          return for such sugar, rum and molosses, shipping, horses, 
+          boards, staves, hoops, lumber, timber for building, fish, bread, 
+          bacon, corn, flower and other Plantation necessaries, at as easy 
+          rates as H.M. subjects of the Sugar Colonies have. And the 
+          continual supplies received by the French and Dutch from the 
+          Northern British Colonies, have enabled them to put on and 
+          maintain a great number of slaves on their plantations, and 
+          to enlarge their sugar works and make new settlements in new 
+          fertile soils, and at the same time cost little, being now purchased 
+          chiefly with molosses, which before the late intercourse between 
+          <placeName ref="#foreign_indies" role="indirect">the foreign Colonies</placeName> and the Northern British Colonies, were 
+          flung away, as of no value. And thus the French and Dutch 
+          Colonies are daily improving, while H.M. Sugar Colonies are 
+          apparently declining, and instead of supplying, as they used to 
+          do, <placeName ref="#fr" role="indirect">France</placeName> and Holland, and many other parts of Europe with 
+          sugar, are now almost confined to the home consumption in 
+          Great Britain, and are in a great measure excluded from the 
+          Kingdom of Ireland, and the Northern British Colonies, who, 
+          instead of sending their produce as usual, to H.M. Sugar Colonies, 
+          and taking rum and sugar in return, do now often send it directly 
+          to the foreign Sugar Colonies in exchange for the produce of 
+          those foreign colonies : and whenever they do send their produce 
+          to the British Sugar Colonies, they insist upon being paid for 
+          it in cash, which they export to, and lay out among the foreign 
+          Sugar Colonies, in the purchase of the very same goods that 
+          they formerly used to supply themselves with from H.M. Sugar 
+          Colonies, to the enriching the foreign Sugar Colonies, and 
+          impoverishing His Majesty's. The mischiefs arising to H.M. 
+          Sugar Colonies from this commerce (which is apparently in 
+          derogation and evasion of the 5th and 6th Articles of the Treaty 
+          of Peace in America etc., 1686), are very many and evident, 
+          and will increase more and more, if some effectual stop be not 
+          put to it. <placeName ref="#mq" role="indirect">Martinico</placeName> is now arrived to a very great pitch of prosperity and power, 
+          and affords new supplies of people for settling the neighbouring islands of <placeName ref="#dm" role="indirect">Dominico</placeName>, 
+          <placeName ref="#stvincent" role="indirect">St. Vincents</placeName> and <placeName ref="#lc" role="indirect">Sta. Lucia</placeName>;
+          and <placeName ref="#gp" role="indirect">Guardaloupe</placeName>, <placeName ref="#gp_grandterre" role="indirect">Grand-Terre</placeName>, 
+          <placeName ref="#gp_marygalante" role="indirect">Marygalante</placeName>, <placeName ref="#gd" role="indirect">Granada</placeName>
+          and <placeName ref="#gf" role="indirect">Cayene</placeName> encrease and flourish in proportion : and 
+          on <placeName ref="#is_hispaniola" role="indirect">Hispaniola</placeName>, the French spread so fast as to become formidable 
+          to their neighbours, whilst many of the planters in the British 
+          Sugar Colonies and particularly in this Island, have been and 
+          daily are necessitated to forsake their ancient well built estates 
+          and shelter themselves in <placeName ref="#us_pa" role="indirect">Pennsylvania</placeName>,
+          <placeName ref="#us_ny" role="indirect">New York</placeName> and other Northern British Colonies. 
+          This apparent increase of the riches and power of the French Sugar Colonies 
+          is in great measure owing to the commerce aforesaid, which is destructive to the 
+          British Sugar Colonies, but highly advantageous to the French, 
+          who thereby find a vent not only for their sugar, but also for 
+          their rum and molosses etc., and have those supplies of lumber, 
+          horses and plantation stores, without which they never could 
+          have enlarged or supported, nor can support their sugar planta- 
+          tions etc. Other causes contribute to make H.M. Sugar Colonies 
+          decline and the French Sugar Colonies flourish. The French 
+          Sugar Colonies receive the greatest encouragement from their 
+          Mother Country, and their duties are less than ours. The 
+          French King is daily sending men to his Sugar Colonies, and 
+          pays their passage thither, and maintains them there a year 
+          after their arrival. He encourages their trade to <placeName ref="#gw" role="indirect">Guinea</placeName> by 
+          giving a proemium for every negro imported thither from Africa. 
+          He remits one half of the duty upon such goods of the produce 
+          of his Sugar Colonies as are brought home in return for such 
+          negroes. He maintains the fortifications in his Sugar Colonies. 
+          He permits Spanish ships to trade with them, and particularly 
+          for pieces of 8/8 in exchange for flower and other goods, wch. 
+          they get from the British Northern Colonies in return for their 
+          sugar, rum and molosses. He permits them to trade to the 
+          Spanish Islands of <placeName ref="#is_margarita" role="indirect">Margaritta</placeName>,
+          <placeName ref="#trinidad" role="indirect">Trinidado</placeName> and <placeName ref="#pr" role="indirect">Porto Rico</placeName>,
+          and he allows them to send directly to the ports of <placeName ref="#es" role="indirect">Spain</placeName> sugars 
+          of all sorts (except raw or muscovado sugars) and also all other 
+          goods of the product of the French Islds. in America, paying a 
+          duty of one pr. cent, only on exportation, without first importing 
+          them into France. Whilst on the other hand H.M. Sugar 
+          Colonies have no such encouragements. The inhabitants of 
+          this and all other H.M. Sugar Colonies are obliged to carry their 
+          sugars and all other enumerated goods first into Great Britain, 
+          after paying in the Colonies where they are produced (<placeName ref="#jm" role="indirect">Jamaica</placeName> 
+          excepted) a duty of 4 1/2 p.c. in specie on exportation, before they 
+          can carry them anywhere else (except to the other British 
+          Colonies) and are obliged upon exporting them afterwards from 
+          Great Britain, to leave in <placeName ref="#en" role="indirect">England</placeName> a duty of near 2 p.c., and 
+          are put to the risque of a double voyage, besides the charge 
+          of it, which amounts to not less than 20 p.c. more. H.M. 
+          subjects of this and other his Sugar Colonies pay upwards of 
+          10 p.c. more than the French and Dutch do, for what sugar is 
+          carried to H.M. Northern Colonies and consumed there, by 
+          which means those Colonies are mostly supply'd with foreign 
+          sugar, to the prejudice of the Plantation duties (being part of 
+          the aggragate fund, which might otherwise be greatly increased) 
+          and altho' the French and Dutch subjects of the Sugar Colonies 
+          do so send their sugar as well as their rum and molosses to the 
+          Northern British Colonies, yet the subjects of H.M. Sugar 
+          Colonies are restrained from vending their produce to the French 
+          or Dutch Colonies, and at the same time H.M. subjects of the 
+          Northern British Colonies and Ireland have that advantage. 
+          And the French are at liberty to send their sugars directly to 
+          Ireland, without first importing them into Great Britain, and 
+          paying a duty there to H.M., which H.M. subjects of the Sugar 
+          Colonies are obliged to do, and they are supply'd with beef 
+          and other provisions directly from Ireland on as easy terms as 
+          H.M. subjects are. Those and many other advantages the 
+          foreign Sugar Colonies, and especially the French have over 
+          H.M. Sugar Colonies, and particularly this Island, whom it has 
+          pleased the Almighty God in his good Providence to afflict 
+          lately in a more especial manner by a most violent tempest 
+          and hurricane, which began on the 13th day of this instant 
+          August, and lasted all that and the succeeding day, with the 
+          utmost fury, to the inexpressible terror and immense damage of 
+          the inhabitants, who have had not only a great many of their 
+          corn-fields, plaintain-walks, fruit and timber trees blown down, 
+          broken or torn up by the roots, and their canes damaged, but 
+          their dwelling-houses, windmills, boyling-houses and other their 
+          best and most substantial buildings, some of them wholly 
+          demolished, and others overset, rent, uncover'd or otherwise 
+          greatly damnify'd ; and so general has the calamity been, that 
+          there is scarce a person throughout the whole Island but who 
+          has received a considerable loss by this dreadful storm, the 
+          consequences of which are still more grievous, for that there is 
+          not in this Island (nor has been here for some years since that 
+          pernicious trade between the Northern British Colonies and the 
+          foreign Sugar Colonies began) lumber sufficient to repair a tenth 
+          part of the buildings damaged by this tempest. This scarcity of 
+          lumber is one of the many mischievous effects of that trade, and 
+          great is the number of our poor inhabitants, who now have no 
+          place to lay their heads in, and ly exposed to all the injuries 
+          of the approaching rainy season for want of those northern 
+          supplies which our neighbours the French are plentifully 
+          furnished with. So great is our present desolation that many 
+          of the poorer inhabitants, unable to rebuild their ruined houses, 
+          will be driven to quit the Island ; and thus our strength decays, 
+          and at the same time the exorbitant power of the French at our 
+          very doors, threatens us with instant destruction in case of a 
+          war. For their isles are full of men and arms, whilst the inhabi- 
+          tants of this Island grow every day thinner, and want allmost 
+          everything necessary for their defence. But should a war not 
+          happen, yet the British Sugar Colonies will still be in danger 
+          of being lost to the British Nation, unless some speedy care be 
+          taken to save them from the ruin now impending over them ; 
+          and if they are lost, Great Britain will lose the export of all the 
+          British manufactures now taken off by the Sugar Colonies, and 
+          the whole benefit arising from the importation of their product. 
+          Our Navigation and seamen must necessarily fall off and 
+          diminish, the African trade as chiefly depending on the Sugar 
+          Colonies must decay : and our sugar-works and other plantation 
+          stock and utensils become of no use, and thereby so much 
+          wealth will be sunk and lost to the British Nation. And in 
+          that case too, such of the Northern British Colonies as now 
+          court a French trade and French dependance, will soon be 
+          reduced to a condition too wretched to be named, and an end 
+          be put to the British Empire in America ; But may God avert 
+          those evils ! Nor are we without hopes that the British Sugar 
+          Colonies may still be preserved, and even restored to their 
+          former flourishing condition, if timely measures be yet taken 
+          for removing the many and great disadvantages they now ly 
+          under in point of trade ; and proper encouragement be given 
+          them. Whether a prohibition of the importation of all sugar, 
+          rum and melosses of the growth, product or manufacture of 
+          any of the Plantations in America, which are not in the 
+          possession of or under the dominion of His Majesty, into the 
+          Kingdoms of Great Britain or Ireland, or any of H.M. Colonies 
+          or Plantations in America, or any other H.M. British Dominions, 
+          or a total prohibition of trade between the Northern British 
+          Colonies and the foreign Sugar Colonies, or of any particular 
+          branches of trade, as namely those of horses and lumber, or the 
+          granting H.M. subjects of the Sugar Colonies the like advantages 
+          in their trade, as the subjects of the foreign Sugar Colonies now 
+          actually have, whether all or any of these, or what other 
+          measures in particular may be proper and sufficient to attain 
+          the good ends desired etc., we presume not to say ; but humbly 
+          hope that your Lordships will be pleased to take the premises 
+          into consideration and thereupon do what to your Lordships 
+          in your great wisdom shall seem fitting. Read and agreed to 
+          nemine contradicente 27th Aug., 1731. Signed, Robt. Warren, 
+          Clk. of the Assembly. Endorsed, Recd, (from Mr. Foster) 25th, 
+          Read 28th Oct., 1731. 3 1/2 large pp. Torn. [C.O. 28, 22. ff. 132-133v.]</p> 
+      </div>
+      <div>
+        <dateline><num>387</num><date when="1731-08-27">August 27</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Governor Belcher to the Duke of Newcastle. Since 
+          the closing my last I have by the advice of H.M. Council 
+          adjourned the General Assembly for a month, altho' there's 
+          no money in the Treasury for the defence of <placeName ref="#us_ma" role="direct">H.M. Government</placeName> 
+          and the protection of the inhabitants. I now inclose the 
+          Representation mentioned to be made to the several towns, 
+          and I earnestly pray for H.M. especial order in this important 
+          affair. Signed, J. Belcher. 1 p. [C.O. 5, 898. No. 95.]</p>
+      </div>
+      <div>
+        <dateline><num>388</num><date when="1731-08-27">August 27</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Same to the Council of Trade and Plantations. 
+          Duplicate of preceding. Signed, J. Belcher. Endorsed, Recd. 
+          9th, Read 19th Oct., 1731. 1 p. Enclosed, 
+          388. i. Journal of House of Representatives of 
+          <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName>, Aug. 18, 1731. Printed, by Thomas Fleet. 
+          Endorsed as covering letter. 14 pp. [C.O. 5, 873. ff. 220, 221v.-228v., 229v.]</p> 
+      </div>
+      <div>
+        <dateline><num>389</num><date when="1731-08-28">August 28</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>.  
+          Lord Harrington to the Council of Trade and Plantations. 
+          Encloses following for their report. Signed, Harrington. 
+          Endorsed, Recd. 29th, Read 31st Aug., 1731. 1 p. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>389.1</num><date when="1731-05-05">May 5</date></dateline>
+        <p>389. i. Extract of letter from Mr. Finch, H.M. Envoy Extraordinary 
+          at Stockholm to Lord Harrington. <placeName ref="#se_stockholm" role="from">Stockholm</placeName>
+          5th May, 1731. There is a project to carry on at 
+          <placeName ref="#se_gothenburg" role="direct">Gottenburg</placeName> a trade directly to the 
+          <placeName ref="#indies" role="direct">West Indies</placeName>, in order to buy raw sugar and tobacco 
+          at first hand which are to be refined and manufactured here, a ship is 
+          actually bought for this trade, but so great a mistery 
+          is made of it, that I cannot give your Lordship any 
+          distinct account about it, tho' I am told that it is 
+          grounded on a grant of some place in America made 
+          formerly by the Dutch to a Prince of the House of 
+          <placeName ref="#de_hanau" role="descriptive">Hanau</placeName>, an account of which is to be found in 
+          Dr. John Becker's Political Discourses in Dutch p. 1032 etc. Same endorsement. Copy, 3/4 p.</p>
+      </div>
+      <div>
+        <dateline><num>389.2</num><date when="1731-08-11">August 11</date></dateline>
+        <p>389. ii. Extract of letter from Same to Same. <placeName ref="#se_stockholm" role="from">Stockholm</placeName>, 
+          11th August., 1731. Continues : Besides [the above 
+          grant] Count Bonde told me that they have their view 
+          on the <placeName ref="#tobago" role="direct">Island of Tabago</placeName>, which it is said was granted 
+          by King Charles II to James, Duke of <placeName ref="#lv" role="descriptive">Courland</placeName>, the 
+          present Duke offering now to make a cession of it for 
+          a summ of money to this Crown. Count Bonde 
+          desired me in a friendly manner to inform him if I 
+          knew any particulars relating to this matter, and 
+          whether the Crown of <placeName ref="#en" role="indirect">England</placeName> had still any pretensions 
+          to it in order to form the opinion of the Chancery etc. I have sent to 
+          <placeName ref="#se_uppsala" role="indirect">Upsala</placeName> to see if anything is to be found in Rymer's Foedera 
+          relating to it etc. Same endorsement. Copy. 1 1/2pp. [C.O. 388, 30. ff. 247. 28.]</p>
+      </div>
+      <div>
+        <dateline><num>390</num><date when="1731-08-28">August 28</date></dateline>
+        <p><placeName ref="#en_horringer" role="from">Horringer</placeName>. 
+          Capt. Davers to Mr. Brudenell. I find some people 
+          are very solicitous to have my seat in Counsill in the Iland of 
+          <placeName ref="#bb" role="direct">Barbadoes</placeName>, insinuating that I never intend to goe there again 
+          etc. My interest will oblige me to goe there if my inclinations 
+          did not prompt me to it etc. Hopes to be continued in the Council 
+          etc. Signed, J. Davers. Endorsed, Recd., Read 31st Aug., 
+          1731. Holograph. 1 p. [C.O. 28, 22. ff. 85, 86v.]</p> 
+      </div>
+      <div>
+        <dateline><num>391</num><date when="1731-08-30">August 30</date></dateline>
+        <p>Sir W. Keith to the Council of Trade and Plantations. 
+          Haveing observed with great attention what was said at the 
+          Board on last Wedensday to the Switz petitioners etc. (v. 10th 
+          Aug., 1st Sept.), and being myself fully convinced of the many 
+          and great advantages which would most certainly accrue to 
+          the public interest of this Kingdom by <placeName ref="#rv_hawksbill" role="direct">such a settlement</placeName>, I 
+          should be very sory if so noble a design was altogether laid 
+          aside etc. Continues : If H.M. could be moved to appoint 
+          a fit person with proper authorities to grant those lands to such 
+          as should actually come to setle there, under the same conditions 
+          which were proposed by the Board to the Switz petitioners, 
+          I am perswaded the encouragement could be sufficient to invite 
+          forreigners as well as others thankfully to accept of it etc. As 
+          the person so appointed must be invested with the necessary 
+          powers of governing and directing the first settlement of so 
+          important a Colony, he ought to be a man of experience in 
+          military as well as civil affairs, possessed of a character in all 
+          respects equal to the trust and likeways upon the spot to execute 
+          it with effect. Collo. Spotswood whose present situation in 
+          <placeName ref="#us_va" role="direct">Virginia</placeName> is in a maner contiguous to the proposed settlement 
+          seems to be of all others the fittest person etc. His integrity 
+          and great abilities are well known to your Lordships etc. Your 
+          Lordships will do me the justice to believe, it is my regard for 
+          the public service, and not any privat view to myself which 
+          has induced me to lay these maters before you etc. Signed, 
+          W. Keith. Endorsed, Recd. 30th Aug., Read 21st Sept., 1731. 
+          Holograph. 1 3/4 pp. [C.O. 5, 1322. ff. 177, 177v., 178v.]</p> 
+      </div>
+      <div>
+        <dateline><num>392</num><date when="1731-08-30">August 30</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>. 
+          Mr. Wheelock to Mr. Fane. Encloses, for his opinion in point of law, 
+          act of <placeName ref="#ag" role="direct">Antigua</placeName>, 1731, to enable Henry Lyons of 
+          Antigua, gent., to dispose of certain lands etc. [C.O. 153, 15. p. 111.]</p>
+      </div>
+      <div>
+        <dateline><num>393</num><date when="1731-08-31">August 31</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. 
+          Storehouses have been lately built at your Majesty's expence, at 
+          <placeName ref="#ag_englishharbour" role="direct">English Harbour</placeName> in Antigua, which has been thought a 
+          proper place for careening and refitting ships of war on that 
+          station etc. The people of  <placeName ref="#ag" role="direct">Antigua</placeName> have granted your Majesty 
+          a proper tract of land contiguous to the said harbour, upon 
+          which they have at their own charge erected <placeName ref="#ag_fortberkeley" role="direct">a stone fort</placeName> for 
+          the defence of your Majesty's ships and storehouses and they 
+          humbly pray that your Majesty will be pleased to grant them 
+          twelve peices of cannon, to be mounted in the said fort, six of 
+          which they desire may be twelve-pounders and the rest eighteen 
+          pounders, with carriages, rammers, sponges, ladles, and all 
+          other necessaries requisite. Whereupon having discoursed 
+          with Colo. Cosby, considering that it is highly expedient for 
+          your Majesty's service, both for the defence of the said storehouses,
+          and the security of the harbour, that the fort should be 
+          furnished with proper ordnance and the necessary stores of war, 
+          we take leave humbly to propose that your Majesty should be 
+          graciously pleased to comply with their request. [C.O. 153, 15. pp. 111-113.]</p>
+      </div>
+      <div>
+        <dateline><num>394</num><date when="1731-08-31">August 31</date></dateline>
+        <p><placeName ref="#us_nh_portsmouth" role="from">Portsmouth in New Hampshire in New England in America</placeName>.
+          Address of Members of Council, Judges, Justices and 
+          other officers and inhabitants of <placeName ref="#us_nh" role="direct">New Hampshire</placeName> to the King. 
+          Refer to former address expressing gratitude for continuing a 
+          Governor so acceptable to the people. Continue : Notwithstanding 
+          which, some restless persons for about three weeks 
+          past, have been endeavouring to disquiet the minds of the 
+          weaker sort amongst us in order to memorial " the Governour 
+          to the Lords of Trade etc. as a person not a friend to the Province, 
+          and to pray that New Hamps. may be no longer under the 
+          Governour of <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName>; wch. essay gives birth 
+          to the present Address etc. For in duty to our Sovereign, in 
+          honour to our Governour, in faithfullness to the Province, and 
+          in justice to our-selves we cannot be dumb on such an occasion, 
+          but most humbly crave leave to bear testimony against an 
+          attempt (tho' never so unlikely to succeed), wch. tends to sap 
+          the very foundation of our happiness etc. Your Majesty's 
+          Councill can witness the Governour's solicitous concern for 
+          the settlement of the divisional line between the two Provinces, 
+          and his unwearied endeavours to accomplish it with the strictest 
+          impartiallity ; which is what we earnestly supplicate may have 
+          as speedy an issue as is consistant with your Majesty's royal 
+          pleasure ; for the longer the difference lyes open, the greater 
+          are the mischiefs wch. attend it. But to return to His 
+          Excellency, What is it that we can't all say, (without a 
+          compliment) even the little number of discontented, themselves, 
+          in praise of our Governour whose administration is so wise, 
+          so just, so equal, and to such universall acceptance, and who 
+          will without any question make such unbiased remonstrances 
+          to your Majesty upon this unfortunate misunderstanding as 
+          may be a means at last to bring it to a happy issue. May it 
+          please your Majesty, this your Majesty's Province is so small, 
+          the people so few and in general so poor that it makes the 
+          settlement of the lines still more necessary, and is no bad 
+          argument to enforce our humble request for being continued 
+          under the Governour of the Massachusetts Bay, and especially 
+          him who at present is, and we hope will long continue in that 
+          station. For we have done our utmost already, even to our 
+          almost undoing, in fixing so large a sum for the Governour's 
+          sallary, pursuant to your Majesty's Instruction, and if more 
+          should be required to support the dignity of a resident 
+          Governour, we can forsee nothing but inevitable ruin : and 
+          besides if we should again be visited with a French or Indian 
+          war, or both (as at this juncture we are threatened,) then yet 
+          more deplorable would our condition be, for now we can ask 
+          succours (as occasion may require) from the common Father 
+          of both Provences, with hopes of success ; but how it may be 
+          upon a different footing God alone knows. Numberless 
+          arguments we humbly concieve might be used to induce yr. 
+          Majesty's favour in continuing us under our present Governour, 
+          but your Majesty's consummate wisdom, as well as goodness 
+          makes them unnecessary, and as we know what has been offered 
+          (by any who are the troublers of our Israel) in a way of 
+          impeachment of H.E. conduct, can't fail of redounding to his honour 
+          (even without a reply) so we shall attempt no particular answer, 
+          but leave that to himself if he shall think it worth his while. 
+          Pray for H.M. long and glorious reign etc., " and when the 
+          period of mortal life expires, that your Majesty may be 
+          translated to the mansions of bliss, and there reign with the King 
+          Eternal for ever and ever. With humble obeysance we now 
+          withdraw from vour Majesty's presence " etc. 72 signatures. 
+          4 pp. [C.O. 5, 10. ff. [92-93v. old.]</p>
+      </div>
+      <div>
+        <dateline><num>395</num><date when="1731-08-31">August 31</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Popple to Robert Jackson, late Minister in <placeName ref="#se" role="direct">Sweden</placeName>.
+          The Board desires to speak with him concerning some papers referred 
+          to them relating to trade from Sweden to the <placeName ref="#indies" role="direct">West Indies</placeName>, 
+          and concerning <placeName ref="#tobago" role="direct">Tobago</placeName>. [C.O. 389, 28. p. 453.]</p>
+      </div>
+      <div>
+        <dateline><num>396</num><date when="1731-08-31">August 31</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Wheelock to Robert Jackson. The Board desire 
+          the favour of speaking with you etc., having under consideration 
+          some papers referred to them received from Mr. Finch, H.M. 
+          Envoy Extraordinary in <placeName ref="#se" role="direct">Sweden</placeName> relating to the trade between 
+          that Kingdom and H.M. Dominions. [C.O. 389, 28. p. 453].</p> 
+      </div>
+      <div>
+        <dateline><num>397</num><date when="1731-08-27">August 27</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Governor Belcher <placeName ref="#us_ma" role="direct">[[ed. of Massachusetts]]</placeName> to the 
+          Council of Trade and Plantations. Abstract. He wishes he was rid of 
+          Lt. Govr. Dunbar <placeName ref="#us_nh" role="direct">[[ed. of New Hampshire]]</placeName>, who, 
+          he hears, is representing that he has debarred 
+          him of all the perquisites of a Lt. Governor, which he supposes 
+          arises from his orders relating to passes for vessels to pass the 
+          fort. It is doubtless the Lt. Governor's duty to give them in 
+          the manner he directs, but suspecting that he would not do so, 
+          he sent passes of his own, that the trade might not suffer. 
+          Thereupon, the Lt. Gov. sent (27th Aug.) a paper to the 
+          Collector, copy enclosed. Till he refused signing the passes 
+          in conformity with these orders, he always gave them and 
+          received the perquisites of them. The great difference between 
+          them is whether he shall control the Governor, or be subject 
+          to him. He will suffer no insult from Col. Dunbar. For 30 
+          years it has been ruled from home, that the Governor of both 
+          Provinces was always present in each when in either, and the 
+          Lieut. Govr. did everything by the Governor's orders ; and the 
+          late Lt. Govr. Vaughan was dismist in Govr. Shute's time for 
+          presuming to do otherwise. If the present Lt. Govr. will behave 
+          with proper respect and good manners, and ask him, as a favour, 
+          for what his predecessor enjoyed, he shall have it. He hopes 
+          the Board will never countenance the thirst he has to subvert 
+          all good order and government. Signed, J. Belcher. Endorsed, 
+          Recd. 15th, Read 19th Oct., 1731. 2 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>397.1</num><date when="1731-08-18">August 18</date></dateline>
+        <p>Copy of Aug. 20 encl. vii. Subscribed, Whereas the 
+          chief Governor has sent blank lett passes from <placeName ref="#us_ma_boston" role="direct">Boston</placeName> 
+          for all vessels to pass the port and is pleased to claim 
+          all perquisites, he may also send blank registers and 
+          all other papers for which there are fees paid etc. for 
+          I do not think fit to do any act, whereby to receive any 
+          perquisite till the question is decided etc. Signed, 
+          David Dunbar. Copy. Endorsed as preceding. 
+          2 1/2 pp. [C.O. 5, 873. ff. 230, 230v., 231v.-233v.]</p>
+      </div>
+      <div>
+        <dateline><num>398</num><date when="1731-09-01">Sept. 1</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Wheelock to Horatio Walpole. Encloses Mr. 
+          Attorney and Solicitor General's report upon the right to 
+          <placeName ref="#us_me_sagadahock" role="direct">lands between the Rivers Kennebeck and St. Crois</placeName>, 
+          upon which, being judged a matter of great consequence as well in regard 
+          to H.M. Quit-rents in the Plantations as in other respects etc., 
+          my Lords Commissioners will be glad to confer with you, as 
+          a Member of the Board, etc. [C.O. 5, 916. p. 432.]</p>
+      </div>
+      <div>
+        <dateline><num>399</num><date when="1731-09-01">Sept. 1</date></dateline>
+        <p>Mr. Ochs and Mr. Stauber to the Council of Trade and 
+          Plantations. Return thanks for favourable reception of and 
+          offer their final proposals, as suggested by the Board. As to 
+          the Board's view that the <placeName ref="#rv_hawksbill" role="direct">intended Colony</placeName> should not be charged 
+          with the maintenance of a Governour, submit that the success 
+          of the Colony will be chiefly in the conduct of the managers, 
+          who will be at great expence in collecting settlers from <placeName ref="#de" role="indirect">Germany</placeName>
+          and <placeName ref="#ch" role="indirect">Switzerland</placeName>, providing passages and cattle for them, 
+          planting white mulberry trees for silk-worms, mills and tools 
+          etc. Mr. Stauber has already spent 200£. and two years' time, 
+          and will require at least 100£. more to engage and conduct the 
+          people for the first time etc. As their Lordships do not incline 
+          to grant a certain district of land as was desired etc. the managers 
+          therefore humbly desire to be granted the privilege to dispose 
+          of all the land that shall be taken up within 10 years from 
+          their first arrival at 10£. sterl. pr. 100 acres, more or less according 
+          to the quality of the land etc., which sum will be saved to the 
+          people in the first year in the passage buying of cattle etc., and 
+          that the two managers may be granted a certain quantity of 
+          land free for ever from quit-rents etc. " But it is to be hoped 
+          that Mr. Bury's proposal is not to be instanced to this Colony 
+          for the different situation and labour, and if their Lordships 
+          knew his circumstances and conduct they would take no notice 
+          thereof." If the Board find it necessary, though nobody would 
+          be willing in the interest of the Colony to appoint one of the 
+          Managers as Governor, without some appointment, yet one of 
+          the Managers, though he would rather be without the trouble, 
+          will submit to their proposals and terms etc. The fixing of the 
+          quit-rent etc. is submitted to their Lordships' discretion etc. 
+          Naturalisation is desired for all Protestants that settle there 
+          in general, or for a small charge to have a naturalization granted 
+          by the Governor. It is desired that the laws of <placeName ref="#gb" role="indirect">this Kingdom</placeName> 
+          may be administered in German etc., and to have liberty to make 
+          laws and ordinances with the approbation of the Government, 
+          like other Colonies. If their Lordships would ordain that all 
+          Protestants without distinction of opinion might equally enjoy 
+          all priviledges and rights alike, it would much add to the increase 
+          of the Colony, which had so great an effect in <placeName ref="#us_pa" role="indirect">Pensilvania</placeName>, that 
+          the people resorted thither in much greater numbers. This 
+          Colony being an inland country, the inhabitants are obliged to 
+          pass through other colonies, as <placeName ref="#us_va" role="direct">Virginia</placeName>, 
+          <placeName ref="#us_md" role="indirect">Maryland</placeName> and Pensilvania etc. It is desired that these Provinces 
+          may not have power to lay any duty or custom upon their goods passing 
+          through their Colonys, nor for the selling of their horses, cattle 
+          or production in the sayd Colonys. As the language of this 
+          people is German, desire that they should always have in future 
+          a Governour appointed to them of the best qualify'd person 
+          among them, of which the Assembly to nominate 2, 3 or more 
+          persons and the Government to chuse which would be most 
+          acceptable thereof etc. As this Colony is to be a new Province 
+          under the Government of the Crown, it is humbly presumed 
+          that the Commission, Patent and required instruments will be 
+          delivered without charge, which their Lordships are desired 
+          to procure with as much expedition as possible. Endorsed, 
+          Recd. 1st, Read 21st Sept., 1731. 3 pp. [C.O. 5, 1322. ff. 175-176v.]</p> 
+      </div>
+      <div>
+        <dateline><num>400</num><date when="1731-09-01">Sept. 1</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Wheelock to Mr. Carkesse. Governor Worseley 
+          having acquainted my Lords Commissioners (20th Nov. 1730), 
+          that a merchant of <placeName ref="#bb" role="direct">Barbados</placeName> sent thence to 
+          <placeName ref="#lc" role="direct">Sta. Lucia</placeName> English carpenters with ironwork, plank, masts, sails, 
+          cordage and all necessaries for building and fitting a ship to sea, the timber only 
+          excepted ; and afterwards made application to him to register 
+          her, which he refused ; and that he has since heard, application 
+          has been made to the Commissrs of H.M. Customs in <placeName ref="#en_lon" role="indirect">London</placeName> 
+          upon that subject, etc., enquires whether any such application 
+          has been made, and what has been done therein. [C.O. 29, 15. p. 232.]</p>
+      </div>
+      <div>
+        <dateline><num>401</num><date when="1731-09-01">Sept. 1</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Same to Humphry Morice, Micajah Perry and Richard 
+          Harris. My Lords Commissioners desire you, or any other of 
+          the Gentlemen concerned in the petition relating to the recovery 
+          of debts and the partiality of some duties in the <placeName ref="#n_america" role="direct">Colonies</placeName> and 
+          <placeName ref="#british_indies" role="direct">Plantations</placeName> etc., will lay before the Board by the first 
+          opportunity as particular an account as may be of the facts complain'd 
+          of, as likewise of the several acts and the Colonys where the 
+          same have been pass'd, whereby the Plantations favour them- 
+          selves in prejudice of <placeName ref="#gb" role="indirect">this Kingdom</placeName>, and so soon as their 
+          Lordships shall have perused the same, and compared them 
+          with the acts and papers in their office, on that subject, they 
+          will appoint a day for hearing the petitioners in order to their 
+          relief. [C.O. 324, 11. pp. 246, 247.]</p>
+      </div>
+      <div>
+        <dateline><num>402</num><date when="1731-09-02">Sept. 2</date></dateline>
+        <p><placeName ref="#us_ri" role="from">Custom-house, Rhode Island</placeName>.
+          N. Kay to the Council of Trade and Plantations. I 
+          had some years since your commands etc. to send any laws made 
+          in <placeName ref="#us_ri" role="direct">this Government</placeName> that might be prejudiciall to 
+          <placeName ref="#gb" role="indirect">great Brittain</placeName>. In pursuance of which I have 
+          from time to time sent the acts made for the emitting bills of creditt, 
+          upon land securitie, which amount to more than 120,000£. now standing out : and 
+          notwithstanding H.M. commands to other Governments, not to 
+          issue out any such bills ; this colony in their last General 
+          Assembly hath passed an act for emitting 60,000£., upon land 
+          securitie, to be lett out at interest ; and tho' the present 
+          Governour, the Honourble. Joseph Jenks Esqr., would not give 
+          his sanction to itt. Which being so great a grievance ; the 
+          best of H.M. good subjects here have presumed to petition his 
+          royall and sacred person ; and our Governour resenting the 
+          indignitie offer'd to him, hath made his Address to the King 
+          etc. All the papers proving these matters of fact are sent to 
+          Mr. Thomas Sandford, a very worthy gentleman and mercht. 
+          of <placeName ref="#en_lon" role="indirect">London</placeName>, and will be laid before your honourable Board etc. 
+          Signed, Nathl. Kay. Endorsed, Recd, (from Mr. Sandford) 
+          9th, Read 12th Nov., 1731. Holograph. 2 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>402.1</num><date when="1731-08-30">August 30</date></dateline>
+        <p>402. i. Petition of several inhabitants of <placeName ref="#us_ri" role="direct">Rhode Island</placeName> to 
+          the Council of Trade and Plantations. Rhode Island 
+          in New England, 30th Aug., 1731. We having presented
+          a memorial at the last sessions of our General 
+          Assembly to prevent the emitting of more bills of 
+          credit, to be let out at interest upon land security ; and 
+          having no redress from that honoble. body ; but on 
+          the contrary another publick act made by them for
+          emitting 60,000£., have presumed by the hands of 
+          Mr. Sandford etc. to lay before your Lordships our 
+          memorial presented to the General Assembly ; after 
+          their reading of which, and hearing our Councils 
+          arguments thereon, they made the said act, and have 
+          emitted the money without the assent of the Governr., 
+          who hath now address'd himself to our gracious 
+          Sovereign Lord the King in a letter enclos'd with our 
+          papers to Mr. Sandford, etc. After we had taken out 
+          copies of our memorial etc., and of the said act, with 
+          the Governor's dissent thereunto, which was given us 
+          by the Secretary with proper attestations. The Deputy 
+          Govr. John Wanton Esq. hearing of these proceedings, 
+          immediately summon'd in the General Assembly ; 
+          which the Govr. wou'd not do : and the said Assembly
+          took away all our attested copies before mention' d, 
+          made an addition to their act, and order'd our memorial
+          to be dismist in this torne and tatter'd manner, which 
+          are humbly concieving to be exceeding injorious to
+          H.M. faithfull and loyal subjects, and presuming upon 
+          your Lordships' patronage, Have made our most 
+          humble and most dutiful petition to our gracious 
+          Sovereign and praying your Lordships favour for Mr. 
+          Sandford's access, and having no other view, but what 
+          is sett forth in our humble memorial : If any objections 
+          be made against it ; we humbly pray for a favourable 
+          hearing, that we may approve ourselves. Signed, 
+          Nathl. Kay, John Brown jr., and 17 others. Endorsed as preceding. 3 pp.</p>
+      </div>
+      <div>
+        <dateline><num>402.2</num></dateline>
+        <p>402. ii. Act of <placeName ref="#us_ri" role="direct">Rhode Island</placeName> for emitting 60,000£. in bills of 
+          of credit. June, 1731. The act concludes : Major 
+          Thomas Fry and Capt. Benjamin Ellery protest against 
+          the aforesaid act etc. as being an infringement on the 
+          King's prerogative. Copy, examined by R. Ward, Secry. Same endorsement. 5 1/2 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>402.3</num><date when="1731-08-03">August 3</date></dateline>
+        <p>402. iii. An additional act of Assembly of <placeName ref="#us_ri" role="direct">Rhode Island</placeName>, 
+          <placeName ref="#us_ri_newport" role="indirect">Newport</placeName> 3rd Aug., 1731. This Assembly having 
+          considered an addition at the foot of the act of 
+          Assembly made and past on the 14th June, 1731, for 
+          emitting 60,000£. etc., entred in these words, his 
+          Honr. ye Govr. dissents from ye said vote, Do declare 
+          the same to be no part of sd. act of Assembly and 
+          that said act be noways encumbred thereby, but that 
+          the said dissent be deemed null and void for the 
+          following reasons : (i) For that the said act was 
+          made and past at the sessions began on 14th June 
+          1731, and continued till 24th June and no longer as 
+          may appear by the records etc. and that during said
+          time the Genl. Assembly were not apprised or knowing 
+          of any dissent but caused said act to be published and 
+          the same has taken effect and proceedings have been 
+          made thereon accordingly, (ii) For that it appears 
+          said dissent was given in to the Secry. and entred on 
+          the 25th June, which was one day after the rising of 
+          sd. Genl. Assembly, which is conceived inconsistant 
+          with all rule and methods of proceeding it not being 
+          in the power of the Legislative authority to act except 
+          when duly conveen'd much less for any single member 
+          to incumber any act by dissenting or protesting after 
+          the rising of the Court, (iii) For that it is not clear 
+          what vote sd. dissent referred to there being many 
+          votes preceeding the same, (iv) For that the aforesaid 
+          post entry of sd. dissent depriv'd the Genl. Assembly 
+          of the benefit of considering the consequence thereof. 
+          Copy. Signed and endorsed as preceding. 1 1/2 pp.
+          [C.O. 5, 1268. ff. 21-23v., 24v., 26-28v., 29v.-30v., 33v.]</p> 
+      </div>
+      <div>
+        <dateline><num>403</num><date when="1731-09-04">Sept. 4</date></dateline>
+        <p>Certificate re lands in <placeName ref="#us_nc" role="direct">Carolina</placeName> to same effect as 17 
+          July supra, no. 305. Signed, Henry Bertie. Endorsed, as 
+          July 17. 1/2 p. [C.O. 5, 362. ff. 32, 35v.]</p> 
+      </div>
+      <div>
+        <dateline><num>404</num><date when="1731-09-04">Sept. 4</date></dateline>
+        <p><placeName ref="#us_nc" role="from">North Carolina</placeName>
+          Governor Burrington to the Council of Trade and Plantations. 
+          Abstract. Refers to letter of 1st July. In spite of opposition in the House of Burgesses, 
+          spirited up by some of the Council, he has kept <placeName ref="#us_nc" role="direct">the country</placeName>
+          in perfect peace, and entirely stopped the riots which used to be so frequent. 
+          The rioters were headed by Edmond Porter, Judge of the Admiralty, 
+          a man of so infamous a character that it would be for H.M. 
+          service if he were removed from the Council. Mr. Smith, late 
+          Chief Justice, has secretly left for <placeName ref="#en" role="indirect">England</placeName>, promising to obtain 
+          the removal of the Governor etc. He has left with the character 
+          of a silly rash boy, a busy fool and egregious sot. He is, besides, 
+          an ungratefull perfidious scoundrel, and as much wanting in 
+          truth as in understanding etc. Owing to his absence and that 
+          of other Councillors, he has had difficulty about holding a General 
+          Court and Court of Admiralty, besides a dispute with Mr. Smith 
+          about the Governor's power to fill vacancies in the Council. 
+          Recommends Mr. Lovick for the Council, against whom neither 
+          Sir Richard Everard nor Porter had the least evidence to support 
+          their complaints. " We expect our Indians will be attackt 
+          by those of <placeName ref="#us_sc" role="direct">S. Carolina</placeName> etc. The Five Nations are in alliance 
+          with ours, and have promised to assist them with 1000 men, 
+          part of which are already come into this Province." Has sworn 
+          Mr. Lovick as a Councillor, and also Edmond Gale, and 
+          appointed John Palin Chief Justice. Believes Mr. Porter will 
+          trouble the Board with his reasons against his appointing 
+          Councillors, of which he encloses a copy and answers. Porter 
+          is a man of infamous character etc. A new Assembly is to meet 
+          in November, but no good can be done until H.M. pleasure is 
+          known upon the pretended laws of 1729, after H.M. purchase 
+          was completed, and as to quit-rents etc., and officers' fees being 
+          paid in proclamation or bills as rated by the Assembly. Proposes 
+          to prorogue the Assembly until instructed on these points. 
+          Refers to former remarks on Act relating to escheated lands. 
+          Has refused to grant patents for such lands, as he finds that 
+          law not consistent with his 43rd Instruction. Gives further 
+          reasons against the Act for biennial Assemblies, and proposes 
+          to alter the present distribution of seats, settled by that act, 
+          which also allows all freemen to vote for burgesses, contrary 
+          to his 12th Instruction that none but freeholders be admitted 
+          to vote, which has occasioned a great deal of heat among the 
+          people. Hopes the Act will be repealed. Awaits the arrival 
+          of an Auditor before sending public accounts, very little money 
+          having as yet been received or paid, and there being no Auditor, 
+          Receiver General or public Treasurer. A multiplicity of business 
+          and a dangerous sickness have hitherto prevented him from 
+          surveying the harbours in accordance with his 100th Instruction. 
+          It will be a work of some difficulty and expence. The 
+          inhabitants declare very much against fortifications, but as 
+          there are three harbours capable of receiving large ships, some 
+          must be erected. Will report thereon before Christmas. Gives 
+          an account of the value and currency of the bills of credit. A 
+          pistole is not to be purchased under eight pounds in bills. 
+          English goods sell from 15 to 20 in bills above their cost price 
+          in England, but if the bills are allowed by H.M. to be current, 
+          believes they will soon come to the value they are rated, which 
+          is four for one in Proclamation money. Mr. Moseley was much 
+          concerned with Sir R. Everard in taking up lands. When the 
+          enquiry into the complaints against Sir Richard were begun 
+          in Council Mr. Smith, Mr. Porter and Mr. Ashe succeeded in 
+          stopping it. Has had information of malpractices by Mr. 
+          Moseley and his deputies in returning to the Secretary's office 
+          imaginary surveys, by which his relations hold great quantities 
+          of land more than are specified in their patents. Explains his 
+          own purchase of some lands which he is assured will be the 
+          subject of complaint against him. He heard that Indians took 
+          up ore on those lands of which they made bullets. He gave 
+          more for them than they are judged to be worth. They are 100 
+          miles above the falls of <placeName ref="#rv_capefear" role="direct">Cape Fear River</placeName> The greater part he 
+          bought of Moseley, the great land jobber of this country, who 
+          has still 20,000 acres to sell when he can find purchasers. Gives 
+          a state of the Councill and proposes persons for vacancies. 
+          Some of the owners of lands gained by the new boundary with 
+          <placeName ref="#us_va" role="direct">Virginia</placeName> refuse to take out patents for them, on which he desires 
+          instructions. Will send an account of the Militia, and of 
+          improvements that may be made in the county, which entirely 
+          depends upon the quit-rents that are to be paid for lands to be 
+          taken up, and opening a port on <placeName ref="#is_ocracoke" role="direct">Ocacock Island</placeName> etc. Many 
+          people have come into the country to settle lately ; more are 
+          coming from neighbouring colonies, notwithstanding there is 
+          but one entry for taking up land, neither has the person who 
+          made the entry gone on with the survey by reason of the quit- 
+          rent etc. " When I undertook the settlement of the Southern 
+          part of this Province (with consent of the Proprietors' Council) 
+          warrants were given to people that were disposed to settle there, 
+          by which inducement a great many people did then seat lands 
+          in that uninhabited country and have not since had patents. 
+          I think it will be hard upon these people to be removed, many 
+          of them would be ruined. I pray your Lordships' directions 
+          in this tender affair. Printed, N.C. Col. Rec. iii, 202. Signed, G. Burrington. 
+          Endorsed, Recd. 16th Nov., 1731, Read 16th June, 1732. 16 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>404.1</num><date when="1731-07-27">July 27</date></dateline>
+        <p>404. i. Opinion of E. Porter in humble manner to H.E. 
+          27th July, 1731. There being seven members of 
+          Council in <placeName ref="#us_nc" role="direct">the Province</placeName>, thinks no other can be 
+          admitted to Council until H.M. pleasure be known. 
+          Signed, E. Smith. Endorsed as preceding. Holograph. 1 p.</p>
+      </div>
+      <div>
+        <dateline><num>404.2</num><date when="1731-07-31">July 31</date></dateline>
+        <p>404. ii. Mr. Byrd to Governor Burrington. <placeName ref="#us_va" role="from">Virginia</placeName>. 20th 
+          July, 1731. Acknowledges letter. Continues: I think 
+          etc. that country will cost a pretty deal of trouble 
+          to bring it into order, and a less spirit than yours will 
+          never be able to affect it, people accustomed to live 
+          without law or gospel will with great reluctance 
+          submitt to either. It must be owned <placeName ref="#us_nc" role="direct">North Carolina</placeName>
+          is a very happy country where people may live with 
+          least labour that they can in any part of the world, 
+          and if the lower parts are moist, and consequently a 
+          little unwholesome, everywhere above <placeName ref="#us_nc_chowan" role="direct">Chowan</placeName>, as 
+          far as I have seen, people may live both in health and 
+          plenty etc. I should be very glad to follow so good a 
+          pattern as yours, to make such distant lands profitable 
+          in my time. It is true the soil is good etc., but transporting 
+          the fruits of our labour to a markett makes 
+          all the difficulty etc. Enquires as to terms of settlement 
+          etc. and how a highland territory can be made 
+          immediately profitable etc. Wishes him success in 
+          reducing that anarchy into a regular Government etc. 
+          Concludes : I'm informed there is a subscription in 
+          <placeName ref="#en" role="indirect">England</placeName> for setling an hundred familys of poor debtors 
+          on <placeName ref="#rv_savannah" role="indirect">Savana River</placeName>, which I fear will prove a grave for 
+          them. They had better send them to North Carolina. 
+          Signed, W. Byrd. Copy. " I sent the original to 
+          the Speaker of the House of Commons " etc. Signed, 
+          G. Burrington. Endorsed as preceding. 1 p. [C.O. 
+          5, 294. ff. 1-12v. (with abstract)] ; and (abstract only, 
+          with marginal notes for reply) 5, 327. pp. 18-26.]</p>
+      </div>
+      <div>
+        <dateline><num>405</num><date when="1731-09-04">Sept. 4</date></dateline>
+        <p><placeName ref="#en_lon_customhouse" role="from">Custom House, London</placeName>.
+          Mr. Carkesse to Mr. Popple. In reply to 1st Sept., 
+          encloses following opinion, which was taken and laid before the 
+          Board in Aug., 1730 by some merchts. of <placeName ref="#en_lon" role="direct">this City</placeName>, upon which 
+          they sent a copy to their Offrs. in <placeName ref="#bb" role="direct">Barbadoes</placeName> for their Governmt. 
+          Signed, Cha. Carkesse. Endorsed, Recd. 7th, Read 22nd Sept., 1731. 1 p. Enclosed,</p> 
+      </div>
+      <div>
+        <dateline><num>405.1</num><date when="1730-08-03">August 3, 1730</date></dateline>
+        <p>405. i. Opinion of Attorney General, 3rd Aug. 1730, upon 
+          question of registering a vessel built at <placeName ref="#lc" role="direct">St. Lucia</placeName> by 
+          a merchant of <placeName ref="#bb" role="direct">Barbados</placeName> etc. St. Lucia being expressly 
+          within the Commission granted by H.M. to the Govr. 
+          Barbadoes, I think that alone, without entring into a 
+          nice enquiry concerning the property or possession of 
+          the island, is sufficient to entitle an English merchant, 
+          who hath caused a ship to be built there at his own 
+          expence with timber of the growth of that place to 
+          have his ship registred either in Barbadoes or in <placeName ref="#en" role="indirect">England</placeName>.
+          Signed, P. Yorke. Copy. 1 p. [C.O. 28, 22, ff. 95, 96, 98v.]</p> 
+      </div>
+      <div>
+        <dateline><num>406</num><date when="1731-09-08">Sept. 8</date></dateline>
+        <p><placeName ref="#us_va" role="from">Virginia</placeName>. 
+          Lt. Governor Gooch to the Council of Trade and Plantations. 
+          Having seen the bill which passed the House of 
+          Commons the last sessions, a bill for the better secureing and 
+          encourageing the trade of H.M. Sugar Plantations, and the vote 
+          wherein it was resolved to address H.M., that the Lords of 
+          Trade etc., I did presume to think, notwithstanding the great 
+          variety of pamphlets published on the subject, something might         
+          be said from the Southern part of the Continent that would be 
+          acceptable to your Lordships etc. The main scope of this bill, 
+          as appears by the preamble, is to prohibit all trade from H.M. 
+          Plantations on <placeName ref="#n_america" role="direct">the Continent of America</placeName> to any of the 
+          <placeName ref="#foreign_indies" role="direct">foreign Sugar Islands</placeName>, and this in order to promote 
+          the welfare and prosperity of <placeName ref="#british_indies" role="direct">H.M. own Sugar Islands</placeName>.
+          If this could be accomplished without notable prejudice to the other 
+          Plantations at least equally valuable, and of as much consequence and 
+          importance to the Navigation, strength and wealth of <placeName ref="#gb" role="indirect">Great Britain</placeName> 
+          no man would envy the Sugar Colonies any benefits which the 
+          indulgence of their Sovereign, or the benevolence of a British 
+          Parliament should think proper to conferr : But if the 
+          prohibition desired shal appear manifestly injurious to the 
+          Provinces on the Continent, who may humbly hope for an equal 
+          share of the affections of their Mother Country, it may be 
+          expected that all measures will be discouraged which tend to 
+          raise the grandeur of one part of H.M. Plantations upon the 
+          ruin of the other. The commoditys with which the Plantations 
+          on the Continent supply the Sugar Islands are flower, bisket, 
+          beef, pork, fish, staves, heading and all kinds of lumber : in 
+          return of which the Continent receive chiefly, sugar melasses 
+          and rum. And it must be observed that as the Sugar Colonys 
+          could not subsist without such supplies from the Continent, so 
+          are they generally so great plenty, that they often spare of these 
+          provisions to the French and Dutch, the merchants of <placeName ref="#bb" role="indirect">Barbados</placeName>
+          and the <placeName ref="#leeward" role="indirect">Leeward Islands</placeName> being the first that taught the people 
+          of the Continent to find out a market in the foreign Islands for 
+          those superfluous commoditys our own could not consume, 
+          In like manner when the crops in our Sugar Plantations have 
+          happened to miscarry, as they frequently do through great 
+          droughts or hurricanes, the same merchants thought it no way 
+          inconsistent with the interest of their own sugar colonys to 
+          purchase from their foreign neighbours the commoditys 
+          necessary for the people on the Continent, and even to furnish 
+          the British markets with the same. The plenty of all kind of 
+          provisions with which the Plantations on the Continent abound 
+          being more than sufficient to supply the Sugar Islands, it seems, 
+          not a little hard, to prohibit them from seeking a market where 
+          they can find one : But it will appear very impolitic to cramp 
+          their industry by the prohibition proposed, for the following 
+          reasons : First, most of the Northern Colonys have scarce any 
+          other way of making remittances to Great Britain than by the 
+          provision and lumber they export to the <placeName ref="#indies" role="direct">West Indies</placeName>, and the 
+          sugar they ship there for <placeName ref="#en" role="indirect">England</placeName> to purchase such necessaries 
+          as they want from thence : and whether these returns be made 
+          in sugars of the product of H.M. islands or of those of foreigners, 
+          Great Brittain is still the mart for both, and the returns the 
+          Continent receive are in British manufactures. But if they 
+          can find no other vent for their provisions and lumber than 
+          what H.M. Sugar Islands afford, the remittances for Britain, 
+          and their consumption of British manufactures must be 
+          proportionable diminished, and the people forced by necessity 
+          to apply themselves to manufactures of their own to make up 
+          that deficiency. Secondly, as the French sugars and melasses 
+          are purchased commonly at half the price the like commoditys 
+          bear in the British Islands, it is with the former that the 
+          Northern parts of the Continent are chiefly supplied for their 
+          own consumption : and it needs no art to demonstrate that by 
+          this means the exports of the French Plantations to the 
+          <placeName ref="#europe" role="indirect">European markets</placeName> are much lessened, and that of the British 
+          Sugar Colonys not decreased, since all their produce which is 
+          not taken off by the Plantations must be carried to the British 
+          markets. Thirdly, this prohibition may often prove of ill 
+          consequence to the trade of Great Britain, as well as a detriment 
+          to the Plantations on the Continent : for since it frequently 
+          happens that the crops in the British Sugar Islands fail, as it 
+          is probable they will this year in particular, by the unseasonableness 
+          of the weather, it would not only be highly injurious 
+          to the Continent to deny them the liberty of supplying yourselves 
+          elsewhere, but it will also deprive them of the means of furnishing 
+          the British markets with foreign sugars, thereby still making 
+          Britain the general staple for the sugar trade, which otherwise 
+          upon any such accident must be transfer'd to another Nation. 
+          Fourthly, as the prohibition seems chiefly calculated to give 
+          the Sugar Islands an advantage over the rest of H.M. 
+          Plantations, in obliging the people on the Continent to sell 
+          their commoditys and take sugar melosses and rum at what 
+          price the West Indians think fit ; it may not be amiss to consider 
+          the great disadvantages the inhabitants on the Continent 
+          already ly under with respect to their trade to the Sugar 
+          Islands, as thus. Very often their provisions yield little more 
+          than the first cost : that the charge for cask for rum and 
+          melasses, the commissions for storage and factorage, with the 
+          expence of the masters of the vessels trading thither, who have 
+          an extraordinary allowance over and above their pay, eats 
+          out the greatest part of the profits of the most prosperous 
+          voyages. Another very great advantage the Sugar Colonys 
+          have in trade is, that all the necessaries they want are brought 
+          to their doors without any risque to them, whilst the people 
+          on the Continent are forced to run the hazard outward and 
+          homeward, and that a great part of the commoditys purchased 
+          in the Sugar Islands for the Continent is with Bills of Exchange 
+          payable in Great Britain. Whereas on the other hand no 
+          instance can be given of any such payments for commoditys 
+          carried to the West India market. One would imagine that 
+          these advantages in trade, together with the benefit of their 
+          situation, which saves them the expence of cloathing their 
+          slaves, and is so great a charge to the Provinces on the Continent, 
+          might well serve to content these Gentlemen, without asking 
+          further advantages over their fellow-subjects. However, let 
+          us now turn our thoughts to the effect this prohibition in all 
+          likelihood will produce. And it frequently happens that the 
+          pit the mischievous man digs, he fals into himself. Now tho' 
+          it must be confessed that the Provinces on the Continent 
+          through long usage can ill bear a total privation of rum, one of 
+          the principal commoditys with which they are furnished from 
+          the Sugar Islands, yet it is very evident they can easily provide 
+          themselves with spirits of equal goodness, whenever the people 
+          shal think fit to apply their industry that way. The more 
+          Northern Colonys are already so well improved in husbandry 
+          that they make malt liquor little inferiour to any in England : 
+          and if the people of <placeName ref="#us_va" role="direct">Virginia</placeName> and 
+          <placeName ref="#us_md" role="direct">Maryland</placeName> should be forced by necessity, 
+          or disposed by choice to sett apart some of their best land, which they now solely employ 
+          in the production of tobacco, for sowing of barley, it is certain they might be as 
+          well supplied with malt liquor as any country in H.M. Dominions ; 
+          and so also might the Province of <placeName ref="#us_sc" role="direct">Carolina</placeName>, where 
+          there is much good land proper for that grain ; so that there is 
+          no family in either of these Provinces, but what may furnish 
+          themselves with much cheaper and more wholesome liquor, 
+          than any they can be provided with from the West Indies ; 
+          and if their servants or slaves require the more spirituous 
+          liquor, there will be found little difference Malt spirits which 
+          may be made in plenty, and the rum of the West Indies now so 
+          highly prized, unless it be in the cleanliness of the materials of 
+          the first, compared with the nastiness of the last. Add to this 
+          the great quantitys of cider with which all the Colonys on the 
+          Continent abound, and they afford a sufficient fund to supply 
+          themselves with that kind of brandy, which, if well distilled, 
+          doth far exceed any rum the Sugar Islands have yet produced. 
+          Then as to the melasses, which in <placeName ref="#us_ne" role="direct">New England</placeName> and the other 
+          Northern Colonys is only employed for distillation, and in the 
+          Southern Colonys on the Continent for brewing beer, there 
+          would be no manner of need of it for either of these uses, and 
+          thus the disadvantages the prohibition would bring the people of 
+          the Continent under, will very quickly fall upon the contrivers 
+          of it. They might then keep their rum and melasses to them- 
+          selves, and be forced to send for their provisions and lumber 
+          at their own risque, and pay such price as those who will furnish 
+          them think fit to impose. Whereas, would they be content to 
+          enjoy the trade as it is now carried on, the people on the 
+          Continent would still be willing to take off their commoditys 
+          as they have hitherto done, tho' under very apparent inequality 
+          in all the branches of the trade between them. As to sugar it 
+          must be acknowledged that the Plantations on the Continent 
+          can hardly subsist without it, but then the people are not 
+          ignorant that it may be had as cheap from England as from 
+          the place of its manufacture, allowing for the Plantation duty 
+          paid upon the exportation of sugar from the West Indies to 
+          other Colonys, and the drawback upon its exportation from 
+          Great Britain. But admitting that the British Sugar Islands 
+          and the Continent should mutually engage to carry on the 
+          projected trade, and should be able to subsist without foreign 
+          help, how are the gentlemen of our Islands sure that this 
+          prohibition will diminish the trade of the foreign Colonys : 
+          Have not the French new settlements going on both at the 
+          <placeName ref="#us_la_neworleans" role="indirect">mouth of the Messisippi</placeName>, and at 
+          <placeName ref="#ca_ns_cb" role="indirect">Cape Breton</placeName> sufficient to furnish 
+          their sugar settlements with lumber for cask, and with the 
+          ordinary application of that Nation may be able in a few years 
+          to furnish them with bread and other provisions ; and if they 
+          want vessels for transportation, they may be supplied by the 
+          present owners of ships in New England, <placeName ref="#us_ri" role="indirect">Rhode Island</placeName> and 
+          <placeName ref="#bm" role="indirect">Bermudas</placeName> now the common carryers between the West Indies 
+          and the Continent, who would then have nothing else to do but 
+          to sell their vessels, unless they charitably delivered them up 
+          to their discarded mariners to seek their fortunes in the way 
+          of piracy, since 'tis morally impossible that such a number of 
+          stout fellows as are now employed in that trade, can content 
+          ymselves to starve on shore. The Dutch indeed they have 
+          no settlements on the Continent to support their sugar 
+          plantations, but 'tis not to be imagined that they will desert 
+          them, if the West Indian gentlemen should prevail in their 
+          pursuit : for since it is well known the Dutch can afford without 
+          one stick of timber of their own growth to build ships much 
+          cheaper than their neighbours, it will be no great difficulty for 
+          them to find cash for their own sugar, without being beholden 
+          to the British Plantations ; nor will they be under much greater 
+          difficulty to transport thither provisions, such as their settle- 
+          ments stand in need of, from Europe, when it is considered how 
+          many ships of force and great burthen they send annually to 
+          trade on the <placeName ref="#spanishcoast" role="indirect">Spanish coast</placeName>, which, 
+          besides their ordinary cargos, can stow each a large quantity both of 
+          staves and provisions, and deliver the same at <placeName ref="#gr" role="indirect">Surinam</placeName>
+          and <placeName ref="#curacao" role="indirect">Curasso</placeName>, where they 
+          generally touch without any considerable interruption to their 
+          principal voyage. Hence I think it appears that neither French 
+          nor Dutch will be much embarrassed by the prohibition of 
+          provisions or lumber ; and as for horses, it will be found, upon 
+          a more strict scrutiny, that the number and value of them is so 
+          very small, that it was not worth while to mention them for 
+          any other reason than to shew that an horse is a creature which 
+          may be employed to turn a sugar mill on occasion, as well as to 
+          carry an officer out of the way of his duty, whilst an interloper 
+          is loading goods prohibited by the ordinances of the port, as 
+          most of the horse of any value carryed to the foreign islands 
+          are designed. Seeing therefore that this prohibition can have 
+          no other influence upon the foreign Sugar Islands, than to 
+          quicken their diligence in improving their settlements so as to 
+          want no supplies from us ; that it plainly tends to the increasing 
+          of the foreign Navigation, and at the same time lessens that of 
+          H.M. subjects ; that whatever specious pretences may have 
+          been used to induce the Honourable House of Commons to the 
+          passing of the bill, yet that the true design is to entail lasting 
+          disadvantages on H.M. subjects on the Continent, by obliging 
+          them to sell their commoditys to the West Indies at what price 
+          those people are pleased to give, and to receive payment at an 
+          advance on the goods they have in return, it will be no new 
+          thing if the inhabitants on the Continent get from under the 
+          load as soon as they can etc. To conclude, it is evident that 
+          for so much foreign sugars as shal be taken off by H.M. subjects 
+          on the Continent, whether the same be expended amongst 
+          themselves or carried to Great Britain, so much less of that 
+          commodity will be exported from these foreign colonys to 
+          Europe, where it is the interest of England to keep the markets 
+          under its own power ; and since it cannot be denied but that 
+          if Great Britain could engross all the sugar made in America, 
+          it would be of great advantage to the general trade of the Nation, 
+          I humbly offer to your Lordships' consideration, whether in the 
+          stead of this prohibiting bill, another might not be brought in, 
+          whereby all H.M. subjects may be permitted to carry to the 
+          foreign settlements all such commoditys as are not forbid by 
+          law to be exported thither ; that, continuing still the same 
+          restriction against the importation of goods of the growth, 
+          production or manufacture of Europe, all such enumerated 
+          commoditys as shall be laden at those foreign Plantations, 
+          shal be brought from thence directly to Great Britain, or some 
+          of H.M. Plantations under the severest penaltys ; and that 
+          if any of the said commoditys are to be again exported, the 
+          same shal be under the like bonds and restrictions as the 
+          commoditys of the growth of H.M. Plantations now are. Such 
+          an act would employ a great number of people on the Continent. 
+          It will enlarge the importation of sugars into Great Britain, 
+          and lessen that of our rival neighbours, besides many other 
+          advantages etc. Signed, William Gooch. Endorsed, Recd. 10th Nov., 
+          Read 7th Dec., 1731. Holograph. 7 pp. [C.O. 5, 1322. ff. 187-190, 191v.]</p> 
+      </div>
+      <div>
+        <dateline><num>407</num><date when="1731-09-09">Sept. 9</date></dateline>
+        <p><placeName ref="#en_lon_temple" role="from">Inner Temple</placeName>.
+          Certificate by H.M. Remembrancer that Lt. Gov. Ogle <placeName ref="#us_md" role="direct">[[ed. of Maryland]]</placeName>
+          has given security etc. Signed, James Pearse. Endorsed, 
+          Recd. 9th Sept., Read 27th Oct., 1731. 1/2 p. [C.O. 5, 1268. ff. 20, 20v.]</p> 
+
+408. Rip Van Dam, President of the Council of New York 
+to the Duke of Newcastle. Abstract. Refers to letter of 1st 
+July. He thought it necessary to summon to the Assembly 
+in order to get a supply for the trading house at Oswego, the 
 
 
-Aug. 27. 386. Representation of the General Assembly of Barbados 
-to the Council of Trade and Plantations. The said Island 
-has for many years past been a very profitable colony to G. 
-Britain, as well by its produce and import of sugar, rum, 
-molosses, cotton, ginger and aloes, as by its taking off from 
-thence great quantities of woollen and other manufactures and 
-goods that pay duties to the Crown, (which by means of ye 
-Barbados trade, are part consumed among the inhabitants of 
-the said island, and other part thereof are exported from Great 
-Britain to Africa and Madera and the Northern British Colonies, 
-for the purchase of negroes, wine, fish and other goods for the 
-use of this Island, and thereby numberless hands have been 
-employ'd in H.M. Kingdoms and Territories, and great revenues 
-have accrued to the Crown) and has also been a great support 
-to H.M. Northern Colonies, and given a very great and profitable 
-vent to their fishery and other produce as also to the produce 
-of Ireland : Besides employing in those several trades great 
-numbers of shipping and seamen etc., and after all has used 
-to leave a considerable ballance in England to the benefit of 
-the national stock. The intrest of this Island and all other 
-H.M. Sugar Colonies is closely united with that of Great Britain, 
-and all those Sugar Colonies must ever be dependent on it, and 
-be supply'd from thence, because they have no trade or manu- 
-factures which can interfere with those of Great Britain. 
-Within these few years great improvements have been made by 
-the French and Dutch in their Sugar Colonies, and great and 
-extraordinary encouragements have been given to them, not 
-only from their Mother-countrys, but also from a pernicious 
-trade carried on to and from Ireland and the British Northern 
-Colonies, and have to spare for Holland, Germany, Italy and 
-other parts of Europe, and the French and Dutch Sugar Colonies 
-have lately supply'd the Northern British Colonies with very 
-large quantities of melosses, for the making of rum and other 
-uses ; and even with rum of their own manufacture, to the 
-vast prejudice of H.M. Sugar Colonies, as rum is a commodity 
+
+AMERICA AND WEST INDIES. 
 
 
 
-AMERICA AND WEST INDIES. 243 
+263 
 
 
 
-1731. [386] 
+1731. [408] 
 
-on which next to sugar they mostly depend, and have had in 
-return for such sugar, rum and molosses, shipping, horses, 
-boards, staves, hoops, lumber, timber for building, fish, bread, 
-bacon, corn, flower and other Plantation necessaries, at as easy 
-rates as H.M. subjects of the Sugar Colonies have. And the 
-continual supplies received by the French and Dutch from the 
-Northern British Colonies, have enabled them to put on and 
-maintain a great number of slaves on their plantations, and 
-to enlarge their sugar works and make new settlements in new 
-fertile soils, and at the same time cost little, being now purchased 
-chiefly with molosses, which before the late intercourse between 
-the foreign Colonies and the Northern British Colonies, were 
-flung away, as of no value. And thus the French and Dutch 
-Colonies are daily improving, while H.M. Sugar Colonies are 
-apparently declining, and instead of supplying, as they used to 
-do, France and Holland, and many other parts of Europe with 
-sugar, are now almost confined to the home consumption in 
-Great Britain, and are in a great measure excluded from the 
-Kingdom of Ireland, and the Northern British Colonies, who, 
-instead of sending their produce as usual, to H.M. Sugar Colonies, 
-and taking rum and sugar in return, do now often send it directly 
-to the foreign Sugar Colonies in exchange for the produce of 
-those foreign colonies : and whenever they do send their produce 
-to the British Sugar Colonies, they insist upon being paid for 
-it in cash, which they export to, and lay out among the foreign 
-Sugar Colonies, in the purchase of the very same goods that 
-they formerly used to supply themselves with from H.M. Sugar 
-Colonies, to the enriching the foreign Sugar Colonies, and 
-impoverishing His Majesty's. The mischiefs arising to H.M. 
-Sugar Colonies from this commerce (which is apparently in 
-derogation and evasion of the 5th and 6th Articles of the Treaty 
-of Peace in America etc., 1686), are very many and evident, 
-and will increase more and more, if some effectual stop be not 
-put to it. Martinico is now arrived to a very great pitch of 
-prosperity and power, and affords new supplies of people for 
-settling the neighbouring islands of Dominico, St. Vincents 
-and Sta. Lucia ; and Guardaloupe, Grand-Terre, Marygalante, 
-Granada and Cayene encrease and flourish in proportion : and 
-on Hispaniola, the French spread so fast as to become formidable 
-to their neighbours, whilst many of the planters in the British 
-Sugar Colonies and particularly in this Island, have been and 
-daily are necessitated to forsake their ancient well built estates 
-and shelter themselves in Pennsylvania, New York and other 
-Northern British Colonies. This apparent increase of the riches 
-and power of the French Sugar Colonies is in great measure 
-owing to the commerce aforesaid, which is destructive to the 
-British Sugar Colonies, but highly advantageous to the French, 
-who thereby find a vent not only for their sugar, but also for 
-their rum and molosses etc., and have those supplies of lumber, 
+building of a new fort at Albany and the renewal of the Militia 
+Act and an Act for farming the excise, both of which were about 
+to expire. They are still sitting and have taken into 
+consideration the supply of Oswego, but have referred the 
+building of the fort till another Sessions, the small pox raging, 
+especially in this City, so that many Members are absent. 
+Encloses his speech and votes of Assembly etc. Signed, Rip 
+Van Dam. Endorsed, R. 3rd. If pp. Enclosed, 
+
+408. i. Journal of Assembly of New York, Aug. 25th-28th, 
+
+1731. Printed. 4 pp. [C.O. 5, 1093. ff. 168, 168u., 
+169u.-171i> . ; and (duplicate of covering letter, endorsed, 
+R. Jan. 5th) 172, 178u.] 
+
+Sept. 11. 409. President Van Dam to the Council of Trade and 
+New York. Plantations. To same effect as preceding. Set out, N.Y. Col. 
+Doc. V, 924. Signed, Rip Van Dam. Endorsed, Reed. 5th 
+Nov., 1731, Read 17th May, 1732. 1 p. Enclosed, 
+
+409. i. Duplicate of preceding enclosure. [C.O. 5, 1056. 
+
+ff. 3, 40., 7-8v.] 
 
 
 
-244 COLONIAL PAPERS. 
+Sept. 11. 
+
+Portsmouth, 
+
+New 
+Hampshire. 
 
 
 
-1731. [386] 
-
-horses and plantation stores, without which they never could 
-have enlarged or supported, nor can support their sugar planta- 
-tions etc. Other causes contribute to make H.M. Sugar Colonies 
-decline and the French Sugar Colonies flourish. The French 
-Sugar Colonies receive the greatest encouragement from their 
-Mother Country, and their duties are less than ours. The 
-French King is daily sending men to his Sugar Colonies, and 
-pays their passage thither, and maintains them there a year 
-after their arrival. He encourages their trade to Guinea by 
-giving a proemium for every negro imported thither from Africa. 
-He remits one half of the duty upon such goods of the produce 
-of his Sugar Colonies as are brought home in return for such 
-negroes. He maintains the fortifications in his Sugar Colonies. 
-He permits Spanish ships to trade with them, and particularly 
-for pieces of in exchange for flower and other goods, wch. 
-they get from the British Northern Colonies in return for their 
-sugar, rum and molosses. He permits them to trade to the 
-Spanish Islands of Margaritta, Trinidado and Porto Rico, and 
-he allows them to send directly to the ports of Spain sugars 
-of all sorts (except raw or muscovado sugars) and also all other 
-goods of the product of the French Islds. in America, paying a 
-duty of one pr. cent, only on exportation, without first importing 
-them into France. Whilst on the other hand H.M. Sugar 
-Colonies have no such encouragements. The inhabitants of 
-this and all other H.M. Sugar Colonies are obliged to carry their 
-sugars and all other enumerated goods first into Great Britain, 
-after paying in the Colonies where they are produced (Jamaica 
-excepted) a duty of 4| p.c. in specie on exportation, before they 
-can carry them anywhere else (except to the other British 
-Colonies) and are obliged upon exporting them afterwards from 
-Great Britain, to leave in England a duty of near 2 p.c., and 
-are put to the risque of a double voyage, besides the charge 
-of it, which amounts to not less than 20 p.c. more. H.M. 
-subjects of this and other his Sugar Colonies pay upwards of 
-10 p.c. more than the French and Dutch do, for what sugar is 
-carried to H.M. Northern Colonies and consumed there, by 
-which means those Colonies are mostly supply'd with foreign 
-sugar, to the prejudice of the Plantation duties (being part of 
-the aggragate fund, which might otherwise be greatly increased) 
-and altho' the French and Dutch subjects of the Sugar Colonies 
-do so send their sugar as well as their rum and molosses to the 
-Northern British Colonies, yet the subjects of H.M. Sugar 
-Colonies are restrained from vending their produce to the French 
-or Dutch Colonies, and at the same time H.M. subjects of the 
-Northern British Colonies and Ireland have that advantage. 
-And the French are at liberty to send their sugars directly to 
-Ireland, without first importing them into Great Britain, and 
-paying a duty there to H.M., which H.M. subjects of the Sugar 
-Colonies are obliged to do, and they are supply'd with beef 
+410. Lt. Governor Dunbar to Mr. Popple. Encloses receipt 
+for letters sent on 23rd Aug. Has waited in hopes of farther 
+orders from England and of seeing Governor Belcher, " tho' 
+the people at the new settlemts. are at a stand and idle for want 
+of me, and great numbers there waiting for me that have no 
+beginning to work upon " etc. Will now sail at once. Encloses 
+one of Govr. Belcher's lett passes, the fee whereof is but one 
+shilling sterl., as he fancies it would hardly be credited that he 
+would send such from another province, " the filling up is with 
+the hand of H.E.'s Naval Officer, pray observe it." Continues : 
+The new Collector therein named [Richard Wibird] had 
+a seizure made in his own warehouse of tobacco illegally 
+imported here, the Depty. Collr. from home made the seizure, 
+and of the vessel that imported it. After him the new Collector 
+seized and marked his own tobacco and vessel, and some other 
+vessels haveing been seized here by order of Governour Belcher 
+for omitting some little ceremonys with his new officers, the 
+Judge of Vice Admiralty with the Advocate General, and other 
+Officers of ye Court came hither from Boston, and held Courts 
+on the 9th and 10th inst. Each of said Collectors exhibited 
+their libels, the old Collector against the vessel and tobacco, 
+but the Judge, who is Mr. Belcher's brother by marriage, dis- 
+missed it and decreed costs of Court against him, the new 
+Collector dropt his seizure of his own vessel, and disowned 
+ye tobacco, wch. was thereupon condemned. I was all the 
+time in Court and was provoked to see such partiallity and 
+thereupon desird the trial might be adjourned to yesterday 
+morning with intent to get ye names of ye wittnesses from the 
+old Collector, which he readily gave me, but they were secretted 
 
 
 
-AMERICA AND WEST INDIES. 245 
+264 COLONIAL PAPERS. 
 
 
 
-1731. [386] 
+1731. [410] 
 
-and other provisions directly from Ireland on as easy terms as 
-H.M. subjects are. Those and many other advantages the 
-foreign Sugar Colonies, and especially the French have over 
-H.M. Sugar Colonies, and particularly this Island, whom it has 
-pleased the Almighty God in his good Providence to afflict 
-lately in a more especial manner by a most violent tempest 
-and hurricane, which began on the 13th day of this instant 
-August, and lasted all that and the succeeding day, with the 
-utmost fury, to the inexpressible terror and immense damage of 
-the inhabitants, who have had not only a great many of their 
-corn-fields, plaintain-walks, fruit and timber trees blown down, 
-broken or torn up by the roots, and their canes damaged, but 
-their dwelling-houses, windmills, boyling-houses and other their 
-best and most substantial buildings, some of them wholly 
-demolished, and others overset, rent, uncover'd or otherwise 
-greatly damnify'd ; and so general has the calamity been, that 
-there is scarce a person throughout the whole Island but who 
-has received a considerable loss by this dreadful storm, the con- 
-sequences of which are still more grievous, for that there is not 
-in this Island (nor has been here for some years since that per- 
-nicious trade between the Northern British Colonies and the 
-foreign Sugar Colonies began) lumber sufficient to repair a tenth 
-part of the buildings damaged by this tempest. This scarcity of 
-lumber is one of the many mischievous effects of that trade, and 
-great is the number of our poor inhabitants, who now have no 
-place to lay their heads in, and ly exposed to all the injuries 
-of the approaching rainy season for want of those northern 
-supplies which our neighbours the French are plentifully 
-furnished with. So great is our present desolation that many 
-of the poorer inhabitants, unable to rebuild their ruined houses, 
-will be driven to quit the Island ; and thus our strength decays, 
-and at the same time the exorbitant power of the French at our 
-very doors, threatens us with instant destruction in case of a 
-war. For their isles are full of men and arms, whilst the inhabi- 
-tants of this Island grow every day thinner, and want allmost 
-everything necessary for their defence. But should a war not 
-happen, yet the British Sugar Colonies will still be in danger 
-of being lost to the British Nation, unless some speedy care be 
-taken to save them from the ruin now impending over them ; 
-and if they are lost, Great Britain will lose the export of all the 
-British manufactures now taken off by the Sugar Colonies, and 
-the whole benefit arising from the importation of their product. 
-Our Navigation and seamen must necessarily fall off and 
-diminish, the African trade as chiefly depending on the Sugar 
-Colonies must decay : and our sugar-works and other plantation 
-stock and utensils become of no use, and thereby so much 
-wealth will be sunk and lost to the British Nation. And in 
-that case too, such of the Northern British Colonies as now 
-court a French trade and French dependance, will soon be 
-
-
-
-246 
+away, and when I complained in ye Court of the injustice done 
+to H.M. thereby, the Judge in open Court told me I came in 
+there as an informer, and harrangued the Court with telling 
+them with a high voice that as Surveyor of the Woods I putt 
+the poor people in terrors by seizures of their trees and logs, 
+all I could say to him availed nothing. I have often complained 
+of him to no purpose, besides his very great age (now 79 years) 
+he has allways been an unmannerly brutish man, notwith- 
+standing which I should have committed him for his insult 
+and treatment of me but in respect to my Lds. of the Admiralty 
+whose officer he is ; By the 46th Instruction to Govr. Shute 
+and 56th to the late Govr. Barnet, they were directed not to 
+admit any officer to act until they had quallifyed themselves 
+by takeing the oaths required by law, upon which, and not 
+knowing Mr. Belcher's Instruction upon that head, I produced 
+the two original beforementiond Instructions in Court and 
+thereupon delivered to the Court a paper etc., copy enclosed. 
+The Judge read it and was outragious calling it an odd, turbulent 
+paper. I desired the Advocate's opinion of it, wch. he refused, 
+but another lawyer told me ye qualification therein mentioned 
+was absolutely necessary in this Province. Notwithstanding 
+all this, he made decrees and went away wth. his officers to 
+Boston, boasting how he had used me ; a Leiut. Governour 
+under my present circumstances, as to power is a needless 
+officer lyable to affronts without remedy here, one instance at 
+this time of it is an order lately sent by the Govr. to a Capt. 
+of a troop of militia to meet H.E. with his troops on the lines 
+between the two Provinces next week without takeing any 
+notice of me. I am sensible I am under some obligations of 
+corresponding with the Comrs. of the Customes, but as I do 
+not know in what manner for want of Instructions, I beg 
+to be excused to them. I send you a copy of a comn. to a 
+new officer Mr. Belcher has made here. It may be presumed 
+that he will soon appoint Commissioners of Customes, since 
+he has begun to make officers that none such were ever here 
+before, this Comptroller is son to the new Collector, another 
+son is Deputy Naval Officer, and all concerned in one shop, 
+ships and warehouses. Lett me desire the favour Sir, that 
+a copy of this may be layd before my Lords Commrs. of the 
+Admiralty. My brother will do it if you permit him, and 
+if any part is requisite for the Commissioners of the Customes, 
+I beg the same favour etc. P.S. I told you that Governour 
+Belcher would not permit the Lt. Govr. of the Masachusets 
+to sitt in Council with him. Here the Lt. Govrs. allways sat 
+at table and were Councillours by particular mandamus to 
+each, and as I have none such, if the Govr. does not except 
+against my sitting in Council, I must sitt mute there, not having 
+any right to open my mouth, but my goeing to Fredericksfort 
+will prevent all disputes until I hear from you. It is now 
 
 
 
-COLONIAL PAPERS. 
+AMERICA AND WEST INDIES. 265 
 
 
+
+1731. [410] 
+
+Sunday morning the 12th of 7ber. Since yesterday I have been 
+told by several people that Mr. Belcher's friends rejoyce openly 
+at the treatment I met with from the old Judge of the 
+Admiralty, but if he had sayd or done more I had no remedy, 
+all officers and majestrates here refuseing any obedience but 
+to the chief Governour's orders. I had a late instance of this 
+from one of the Sheriffs, who refused to obey my warrant to 
+search for the tobacco beforementioned ; surely the Commis- 
+sioners of the Customes will take some method to prevent such 
+abuses, and not trust shopkeepers and merchants wth. the care 
+of the customes abroad. The Advocate General has given me 
+his opinion that the words absence and return in the clause of 
+Belcher's Comn. etc. must be expounded a personal departure 
+from or a personal presence in the Province etc. Awaits deter- 
+mination from home etc. Signed, David Dunbar. Endorsed, 
+Reed. 1st, Read 10th Nov., 1731. 6 pp. Enclosed, 
+
+410. i. Warrant by Governor Belcher's Warrant appointing 
+Richard Wibird jr., Comptroller of H.M. Customs in 
+the County of York and Port of Newbury, N.H., 30th 
+Aug., 1731. Signed, J. Belcher. Endorsed as pre- 
+ceding. Copy. 1^ pp. Overleaf, 
+
+410. ii. Extract from Governour's Commission impowering 
+him to appoint a Collector only, in case of death or 
+absence of the Surveyor General of Customs. | p. 
+410. iii. Receipt for pacquets from Lt. Govr. to Mr. Popple, 
+Lord Harrington, Charles Delafaye and Martin Bladen, 
+etc. Aug. 23, 1731. Signed, Richard Stephens. | p. 
+410. iv. Pass for a vessel to pass. Fort William and Mary. 
+27th Aug., 1731. Blank form. Signed, J. Belcher. 
+Slip. 
+
+410. v. Paper delivered to the Court of Admiralty by Lt. 
+Governor Dunbar. Portsmouth. 10th Sept., 1731. 
+Whereas a Court of Vice-Admiralty was yesterday 
+held in this town, which proceeded upon the tryal of 
+several cases without any commission being proclaimed 
+or registred within this Province by the Judge and 
+some other officers of the Court or without taking 
+the oaths required by law etc., I desire the opinion of 
+the said Court or of H.M. Advocate General, how far 
+it was necessary that the said Commissions should be 
+read or entered and the oaths taken as above. Signed, 
+David Dunbar, Lt. Gov. Endorsed as covering letter. 
+Copy, certified by, John Boydell, Regr. 1 p. [C.O. 
+5, 873. ff. 248-2501?., 251i>.-254u.] 
+
+Sept. 15. 411. Richard Partridge, Agent for New Jersey, to the Duke 
+London. o f Newcastle. Encloses following and prays that a separate 
+Governor may be appointed for New Jersey. Signed, Richd. 
+Partridge. 1 p. Enclosed, 
+
+
+
+266 COLONIAL PAPERS. 
 
 1731. 
 
-
-
-Aug. 27. 
-
-Boston. 
-
-
-
-Aug. 27. 
-
-Boston. 
-
-
-
-Aug. 28. 
-
-Hampton 
-Court. 
-
-
-
-[386] 
-
-reduced to a condition too wretched to be named, and an end 
-be put to the British Empire in America ; But may God avert 
-those evils ! Nor are we without hopes that the British Sugar 
-Colonies may still be preserved, and even restored to their 
-former flourishing condition, if timely measures be yet taken 
-for removing the many and great disadvantages they now ly 
-under in point of trade ; and proper encouragement be given 
-them. Whether a prohibition of the importation of all sugar, 
-rum and melosses of the growth, product or manufacture of 
-any of the Plantations in America, which are not in the 
-possession of or under the dominion of His Majesty, into the 
-Kingdoms of Great Britain or Ireland, or any of H.M. Colonies 
-or Plantations in America, or any other H.M. British Dominions, 
-or a total prohibition of trade between the Northern British 
-Colonies and the foreign Sugar Colonies, or of any particular 
-branches of trade, as namely those of horses and lumber, or the 
-granting H.M. subjects of the Sugar Colonies the like advantages 
-in their trade, as the subjects of the foreign Sugar Colonies now 
-actually have, whether all or any of these, or what other 
-measures in particular may be proper and sufficient to attain 
-the good ends desired etc., we presume not to say ; but humbly 
-hope that your Lordships will be pleased to take the premises 
-into consideration and thereupon do what to your Lordships 
-in your great wisdom shall seem fitting. Read and agreed to 
-nemine contradicente 27th Aug., 1731. Signed, Robt. Warren, 
-Clk. of the Assembly. Endorsed, Reed, (from Mr. Foster) 25th, 
-Read 28th Oct., 1731. 3| large pp. Torn. [C.O. 28, 22. 
-ff. 132-133i;.] 
-
-387. Governor Belcher to the Duke of Newcastle. Since 
-the closing my last I have by the advice of H.M. Council 
-adjourned the General Assembly for a month, altho' there's 
-no money in the Treasury for the defence of H.M. Government 
-and the protection of the inhabitants. I now inclose the 
-Representation mentioned to be made to the several towns, 
-and I earnestly pray for H.M. especial order in this important 
-affair. Signed, J. Belcher. 1 p. [C.O. 5, 898. No. 95.] 
-
-388. Same to the Council of Trade and Plantations. 
-Duplicate of preceding. Signed, J. Belcher. Endorsed, Reed. 
-9th, Read 19th Oct., 1731. 1 p. Enclosed, 
-
-388. i. Journal of House of Representatives of the Massa- 
-
-chusetts Bay, Aug. 18, 1731. Printed, by Thomas 
-Fleet. Endorsed as covering letter. 14 pp. [C.O. 5, 873. 
-ff. 220, 221u.-228u., 229^.] 
-
-389. Lord Harrington to the Council of Trade and 
-Plantations. Encloses following for their report. Signed, 
-Harrington. Endorsed, Reed. 29th, Read 31st Aug., 1731. 
-1 p. Enclosed, 
-
-
-
-AMERICA AND WEST INDIES. 247 
-
-1731. 
-
-389. i. Extract of letter from Mr. Finch, H.M. Envoy Extra- 
-ordinary at Stockholm to Lord Harrington. Stockholm 
-5th May, 1731. There is a project to carry on at 
-Gottenburg a trade directly to the West Indies, in 
-order to buy raw sugar and tobacco at first hand which 
-are to be refined and manufactured here, a ship is 
-actually bought for this trade, but so great a mistery 
-is made of it, that I cannot give your Lordship any 
-distinct account about it, tho' I am told that it is 
-grounded on a grant of some place in America made 
-formerly by the Dutch to a Prince of the House of 
-Hanau, an account of which is to be found in Dr. 
-John Becker's Political Discourses in Dutch p. 1032 
-etc. Same endorsement. Copy, f p. 
-
-389. ii. Extract of letter from Same to Same. Stockholm, 
-11th August., 1731. Continues : Besides [the above 
-grant] Count Bonde told me that they have their view 
-on the Island of Tabago, which it is said was granted 
-by King Charles II to James, Duke of Courland, the 
-present Duke offering now to make a cession of it for 
-a summ of money to this Crown. Count Bonde 
-desired me in a friendly manner to inform him if I 
-knew any particulars relating to this matter, and 
-whether the Crown of England had still any pretensions 
-to it in order to form the opinion of the Chancery etc. 
-I have sent to Upsala to see if anything is to be found 
-in Rymer's Fredera relating to it etc. Same endorse- 
-ment. Copy. \\pp. [C.O. 388, 30. ff. 247. 28.] 
-
-Aug. 28. 390. Capt. Davers to Mr. Brudenell. I find some people 
-Horringer. are very solicitous to have my seat in Counsill in the Hand of 
-Barbadoes, insinuating that I never intend to goe there again 
-etc. My interest will oblige me to goe there if my inclinations 
-did not prompt me to it etc. Hopes to be continued in the Council 
-etc. Signed, J. Davers. Endorsed, Reed., Read 31st Aug., 
-1731. Holograph. 1 p. [C.O. 28, 22. ff. 85, 86u.] 
-
-Aug. 30. 391 . Sir W. Keith to the Council of Trade and Plantations. 
-Haveing observed with great attention what was said at the 
-Board on last Wedensday to the Switz petitioners etc. (v. 10th 
-Aug., 1st Sept.), and being myself fully convinced of the many 
-and great advantages which would most certainly accrue to 
-the public interest of this Kingdom by such a settlement, I 
-should be very sory if so noble a design was altogether laid 
-aside etc. Continues : If H.M. could be moved to appoint 
-a fit person with proper authorities to grant those lands to such 
-as should actually come to setle there, under the same conditions 
-which were proposed by the Board to the Switz petitioners, 
-I am perswaded the encouragement could be sufficient to invite 
-
-
-
-248 
-
-
-
-COLONIAL PAPERS. 
-
-
-
-1731. 
-
-
-
-Aug. 30. 
-
-Whitehall. 
-
-
-
-Aug. 31. 
-
-Whitehall. 
-
-
-
-Aug. 81. 
-
-Portsmouth 
-in New 
-
-Hampshire 
-in New 
-
-England in 
-America. 
-
-
-
-[391] 
-
-forreigners as well as others thankfully to accept of it etc. As 
-the person so appointed must be invested with the necessary 
-powers of governing and directing the first settlement of so 
-important a Colony, he ought to be a man of experience in 
-military as well as civil affairs, possessed of a character in all 
-respects equal to the trust and likeways upon the spot to execute 
-it with effect. Collo. Spotswood whose present situation in 
-Virginia is in a maner contiguous to the proposed settlement 
-seems to be of all others the fittest person etc. His integrity 
-and great abilities are well known to your Lordships etc. Your 
-Lordships will do me the justice to believe, it is my regard for 
-the public service, and not any privat view to myself which 
-has induced me to lay these maters before you etc. Signed, 
-W. Keith. Endorsed, Reed. 30th Aug., Read" 21st Sept., 1731. 
-Holograph. If pp. [C.O. 5, 1322. ff. 177, 177v., 178u.] 
-
-392. Mr. Wheelock to Mr. Fane. Encloses, for his opinion 
-in point of law, act of Antigua, 1731, to enable Henry Lyons of 
-Antigua, gent., to dispose of certain lands etc. [C.O. 153, 15. 
-p. 111.] 
-
-393. Council of Trade and Plantations to the King. 
-Storehouses have been lately built at your Majesty's expence, 
-at English Harbour in Antigua, which has been thought a 
-proper place for careening and refitting ships of war on that 
-station etc. The people of Antigua have granted your Majesty 
-a proper tract of land contiguous to the said harbour, upon 
-which they have at their own charge erected a stone fort for 
-the defence of your Majesty's ships and storehouses and they 
-humbly pray that your Majesty will be pleased to grant them 
-twelve peices of cannon, to be mounted in the said fort, six of 
-which they desire may be twelve-pounders and the rest eighteen 
-pounders, with carriages, rammers, sponges, ladles, and all 
-other necessaries requisite. Whereupon having discoursed 
-with Colo. Cosby, considering that it is highly expedient for 
-your Majesty's service, both for the defence of the said store- 
-houses, and the security of the harbour, that the fort should be 
-furnished with proper ordnance and the necessary stores of war, 
-we take leave numbly to propose that your Majesty should be 
-graciously pleased to comply with their request. [C.O. 153, 
-15. pp. 111-113.] 
-
-394. Address of Members of Council, Judges, Justices and 
-other officers and inhabitants of New Hampshire to the King. 
-Refer to former address expressing gratitude for continuing a 
-Governor so acceptable to the people. Continue : Notwith- 
-standing which, some restless persons for about three weeks 
-past, have been endeavouring to disquiet the minds of the 
-weaker sort amongst us in order to memorial " the Governour 
-
-
-
-AMERICA AND WEST INDIES. 249 
-
-
-
-1731. [394] 
-
-to the Lords of Trade etc. as a person not a friend to the Province, 
-and to pray that New Hamps. may be no longer under the 
-Governour of the Massachusetts Bay ; wch. essay gives birth 
-to the present Address etc. For in duty to our Sovereign, in 
-honour to our Governour, in faithfullness to the Province, and 
-in justice to our-selves we cannot be dumb on such an occasion, 
-but most humbly crave leave to bear testimony against an 
-attempt (tho' never so unlikely to succeed), wch. tends to sap 
-the very foundation of our happiness etc. Your Majesty's 
-Councill can witness the Governour's solicitous concern for 
-the settlement of the divisional line between the two Provinces, 
-and his unwearied endeavours to accomplish it with the strictest 
-impartiallity ; which is what we earnestly supplicate may have 
-as speedy an issue as is consistant with your Majesty's royal 
-pleasure ; for the longer the difference lyes open, the greater 
-are the mischiefs wch. attend it. But to return to His 
-Excellency, What is it that we can't all say, (without a 
-compliment) even the little number of discontented, themselves, 
-in praise of our Governour whose administration is so wise, 
-so just, so equal, and to such universall acceptance, and who 
-will without any question make such unbiased remonstrances 
-to your Majesty upon this unfortunate misunderstanding as 
-may be a means at last to bring it to a happy issue. May it 
-please your Majesty, this your Majesty's Province is so small, 
-the people so few and in general so poor that it makes the 
-settlement of the lines still more necessary, and is no bad 
-argument to enforce our humble request for being continued 
-under the Governour of the Massachusetts Bay, and especially 
-him who at present is, and we hope will long continue in that 
-station. For we have done our utmost already, even to our 
-almost undoing, in fixing so large a sum for the Governour's 
-sallary, pursuant to your Majesty's Instruction, and if more 
-should be required to support the dignity of a resident 
-Governour, we can forsee nothing but inevitable ruin : and 
-besides if we should again be visited with a French or Indian 
-war, or both (as at this juncture we are threatened,) then yet 
-more deplorable would our condition be, for now we can ask 
-succours (as occasion may require) from the common Father 
-of both Provences, with hopes of success ; but how it may be 
-upon a different footing God alone knows. Numberless 
-arguments we humbly concieve might be used to induce yr. 
-Majesty's favour in continuing us under our present Governour, 
-but your Majesty's consummate wisdom, as well as goodness 
-makes them unnecessary, and as we know what has been offered 
-(by any who are the troublers of our Israel) in a way of impeach- 
-ment of H.E. conduct, can't fail of redounding to his honour 
-(even without a reply) so we shall attempt no particular answer, 
-but leave that to himself if he shall think it worth his while. 
-Pray for H.M. long and glorious reign etc., " and when the 
-
-
-
-250 
-
-
-
-COLONIAL PAPERS. 
-
-
-
-1731. 
-
-
-
-Aug. 31. 
-
-Whitehall. 
-
-
-
-Aug. 31. 
-
-Whitehall. 
-
-
-
-Aug. 81. 
-
-Boston. 
-
-
-
-[394] 
-
-period of mortal life expires, that your Majesty may be trans- 
-lated to the mansions of bliss, and there reign with the King 
-Eternal for ever and ever. With humble obeysance we now 
-withdraw from vour Majesty's presence " etc. 72 signatures. 
-4 pp. [C.O. 5, 10. ff. [92-980. old.] 
-
-395. Mr. Popple to Robert Jackson, late Minister in Sweden. 
-The Board desires to speak with him concerning some papers 
-referred to them relating to trade from Sweden to the West 
-Indies, and concerning Tobago. [C.O. 389, 28. p. 453.] 
-
-396. Mr. Wheelock to Robert Jackson. The Board desire 
-the favour of speaking with you etc., having under consideration 
-some papers referred to them received from Mr. Finch, H.M. 
-Envoy Extraordinary in Sweden relating to the trade between 
-that Kingdom and H.M. Dominions. [C.O. 389, 28. p. 453]. 
-
-397. Governor Belcher to the Council of Trade and 
-Plantations. Abstract. He wishes he was rid of Lt. Govr. 
-Dunbar, who, he hears, is representing that he has debarred 
-him of all the perquisites of a Lt. Governor, which he supposes 
-arises from his orders relating to passes for vessels to pass the 
-fort. It is doubtless the Lt. Governor's duty to give them in 
-the manner he directs, but suspecting that he would not do so, 
-he sent passes of his own, that the trade might not suffer. 
-Thereupon, the Lt. Gov. sent (27th Aug.) a paper to the 
-Collector, copy enclosed. Till he refused signing the passes 
-in conformity with these orders, he always gave them and 
-received the perquisites of them. The great difference between 
-them is whether he shall control the Governor, or be subject 
-to him. He will suffer no insult from Col. Dunbar. For 30 
-years it has been ruled from home, that the Governor of both 
-Provinces was always present in each when in either, and the 
-Lieut. Govr. did everything by the Governor's orders ; and the 
-late Lt. Govr. Vaughan was dismist in Govr. Shute's time for 
-presuming to do otherwise. If the present Lt. Govr. will behave 
-with proper respect and good manners, and ask him, as a favour, 
-for what his predecessor enjoyed, he shall have it. He hopes 
-the Board will never countenance the thirst he has to subvert 
-all good order and government. Signed, J. Belcher. Endorsed, 
-Reed. 15th, Read 19th Oct., 1731. 2 pp. Enclosed, 
-
-397. i. Copy of Aug. 20 encl. vii. Subscribed, Whereas the 
-chief Governor has sent blank lett passes from Boston 
-for all vessels to pass the port and is pleased to claim 
-all perquisites, he may also send blank registers and 
-all other papers for which there are fees paid etc. for 
-I do not think fit to do any act, whereby to receive any 
-perquisite till the question is decided etc. Signed, 
-David Dunbar. Copy. Endorsed as preceding. 
-2| pp. [C.O. 5, 873. ff. 230, 230*;., 231i?.-233-t;.] 
-
-
-
+4-11. i. Copy of Address of Council of New Jersey, July 18, 
+1731. v. supra. 19th July. [C.O. 5, 983. ff. 29, 
+30-32.] 
 
           
           
