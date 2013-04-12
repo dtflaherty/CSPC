@@ -195,6 +195,13 @@
             <geo>36.140751 -5.353585</geo>
           </location>
         </place>
+        <place xml:id="gl" type="colony">
+          <placeName>Greenland</placeName>
+          <location>
+            <!--Kujalleq-->
+            <geo>60.90831739999999 -44.4400156</geo>
+          </location>
+        </place>
         <place xml:id="gp" type="colony">
           <placeName>Guadeloupe</placeName>
           <location>
@@ -315,6 +322,13 @@
           <location>
             <!--Lewiston, ME-->
             <geo>44.100351 -70.21477639999999</geo>
+          </location>
+        </place>
+        <place xml:id="us_me_sagadahock" type="place">
+          <placeName>Province of Sagadahock</placeName>
+          <location>
+            <!--Bangor, ME-->
+            <geo>44.80118210000001 -68.77781379999999</geo>
           </location>
         </place>
         <place xml:id="us_nh" type="colony">
@@ -686,10 +700,22 @@
             <geo>43.26831989999999 -70.8635506</geo>
           </location>
         </place>
+        <place xml:id="us_me_smallpoint" type="place">
+          <placeName>Small Point Harbor</placeName>
+          <location>
+            <geo>43.7354367 -69.8581002</geo>
+          </location>
+        </place>
         <place xml:id="us_nh_exeter" type="place">
           <placeName>Exeter, NH</placeName>
           <location>
             <geo>42.9814292 -70.9477546</geo>
+          </location>
+        </place>
+        <place xml:id="us_nh_newcastle" type="place">
+          <placeName>New Castle, NH</placeName>
+          <location>
+            <geo>43.06346 -70.71777</geo>
           </location>
         </place>
         <place xml:id="us_nh_portsmouth" type="place">
@@ -824,6 +850,12 @@
           <placeName>Lewes</placeName>
           <location>
             <geo>38.7745565 -75.13934979999999</geo>
+          </location>
+        </place>
+        <place xml:id="us_md_annapolis" type="place">
+          <placeName>Annapolis</placeName>
+          <location>
+            <geo>38.9784453 -76.4921829</geo>
           </location>
         </place>
         <place xml:id="us_va_gloucester" type="place">
@@ -1073,19 +1105,31 @@
         <place xml:id="en_lincoln" type="place">
           <placeName>Lincoln</placeName>
           <location>
-            <geo></geo>
+            <geo>53.230688 -0.5405789999999999</geo>
           </location>
         </place>
         <place xml:id="en_liverpool" type="place">
           <placeName>Liverpool</placeName>
           <location>
-            <geo></geo>
+            <geo>53.4083714 -2.9915726</geo>
+          </location>
+        </place>
+        <place xml:id="en_plymouth" type="place">
+          <placeName>Plymouth, UK</placeName>
+          <location>
+            <geo>50.3754565 -4.1426565</geo>
+          </location>
+        </place>
+        <place xml:id="en_sussex" type="place">
+          <placeName>Sussex</placeName>
+          <location>
+            <geo>51.0 0.0</geo>
           </location>
         </place>
         <place xml:id="en_thedowns" type="place">
           <placeName>The Downs</placeName>
           <location>
-            <geo></geo>
+            <geo>51.23333 1.43333</geo>
           </location>
         </place>
         <place xml:id="es_cadiz" type="place">
@@ -1099,7 +1143,13 @@
           <location>
             <geo>48.856614 2.3522219</geo>
           </location>
-        </place>        
+        </place>  
+        <place xml:id="ie_cork" type="place">
+          <placeName>Cork</placeName>
+          <location>
+            <geo>51.8968917 -8.4863157</geo>
+          </location>
+        </place>
         <place xml:id="ie_dublin" type="place">
           <placeName>Dublin</placeName>
           <location>
@@ -1169,13 +1219,13 @@
         <place xml:id="by_delaware" type="natural">
           <placeName>Delaware Bay</placeName>
           <location>
-            <geo></geo>
+            <geo>39.1201705 -75.2479061</geo>
           </location>
         </place>
         <place xml:id="by_green" type="natural">
           <placeName>Green Bay</placeName>
           <location>
-            <geo></geo>
+            <geo>45.02971 -87.46094</geo>
           </location>
         </place>
         <place xml:id="by_honduras" type="natural">
@@ -1514,6 +1564,18 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="mt_cherokee" type="natural">
+          <placeName>Cherokee Mountains</placeName>
+          <location>
+            <geo>35.4505757 -83.3772457</geo>
+          </location>
+        </place>
+        <place xml:id="cape_henry" type="natural">
+          <placeName>Cape Henry</placeName>
+          <location>
+            <geo>36.9315359 -76.01993139999999</geo>
+          </location>
+        </place>
         <place xml:id="lachine" type="natural">
           <placeName>Lachine Rapids</placeName>
           <location>
@@ -1532,6 +1594,12 @@
             <geo></geo>
           </location>
         </place>
+        <place xml:id="baltic_sea" type="natural">
+          <placeName>Baltic Sea</placeName>
+          <location>
+            <geo>58.48795200000001 19.863281</geo>
+          </location>
+        </place>
         <place xml:id="pacific" type="natural">
           <placeName>Pacific Ocean</placeName>
           <location>
@@ -1544,7 +1612,7 @@
             <!--Pedro Bank-->
             <geo>17.0833333 -78.33333329999999</geo>
           </location>
-        </place>
+        </place>       
       </settingDesc>
     </profileDesc>
   </teiHeader>
@@ -2082,9 +2150,10 @@
         12th Novr. last. According to the clause of the Charter cited 
         in my memorial these lands My Lords are doubtless a part of 
         this Province, and agreeable thereto your Lordships will find 
-        in H.M. Commission to me these words, " And the lands lying 
-        between the said territory of <placeName ref="#ca_ns" role="indirect">Nova Scotia</placeName>, and the <placeName ref="#us_me" role="indirect">Province of 
-        Main</placeName>." Quotes Commission to show that it makes the Charter 
+        in H.M. Commission to me these words, " And <placeName ref="#us_me_sagadahock" role="direct">the lands</placeName> lying 
+        between the said territory of <placeName ref="#ca_ns" role="indirect">Nova Scotia</placeName>, 
+        and the <placeName ref="#us_me" role="indirect">Province of Main</placeName>." 
+        Quotes Commission to show that it makes the Charter 
         " the great rule of my Government " etc. Continues : How 
         dare I then disobey H.M. or betray the trust he has repos'd 
         in me by refusing a legal protection to his good subjects, when 
@@ -2138,18 +2207,18 @@
         <dateline><num>13.1</num><date when="1730-05-15">May 15, 1730</date></dateline>
         <p>Memorial of Governor Belcher to the King. 15th 
         May, 1730. Has received accounts from <placeName ref="#us_ne" role ="indirect">New England</placeName> 
-        that Col. Dunbar hath made settlements on lands 
-        lying between the <placeName ref="#rv_kennebec" role="direct">River of Sagadehock</placeName> and the <placeName ref="#gf_stlawrence" role="direct">Gulph 
-        of St. Lawrence</placeName>, which the <placeName ref="#us_ma" role ="direct">Province of the Massa- 
-        chusetts Bay</placeName> apprehend to be part of the lands of that 
+        that Col. Dunbar hath made settlements on <placeName ref="#us_me_sagadahock" role="direct">lands</placeName> 
+        lying between the <placeName ref="#rv_kennebec" role="indirect">River of Sagadehock</placeName> 
+        and the <placeName ref="#gf_stlawrence" role="indirect">Gulph of St. Lawrence</placeName>, 
+        which the <placeName ref="#us_ma" role ="direct">Province of the Massachusetts Bay</placeName> 
+        apprehend to be part of the lands of that 
         Province and not to be alienated but by grant from 
         them according to the Royal Charter etc. quoted. Asks 
         for plenary instructions how to conduct himself in this 
         affair, and that Col. Dunbar may in the mean time be 
         directed to withdraw from those lands, and forbear 
-        any further proceedings, till the right be fully deter- 
-        mined etc. Signed, J. Belcher. Endorsed, Recd. 23rd 
-        Feb. 1730/1. Copy. 2 pp.</p>
+        any further proceedings, till the right be fully determined 
+        etc. Signed, J. Belcher. Endorsed, Recd. 23rd Feb. 1730/1. Copy. 2 pp.</p>
       </div>
       <div>
         <dateline><num>13.2</num><date when="1730-05-15">Dec. 29, 1730</date></dateline>
@@ -2919,7 +2988,7 @@
           their duty, I added to the Council Richard Waldron Esqr., a 
           gentleman every way qualify'd etc. He is now applying home 
           for H.M. royal mandamus etc. Signed, J. Belcher. Endorsed, 
-          R. 19th [? March}. 2 1/2 pp. Enclosed, 28. i. Governor Belcher's
+          R. 19th [? March]. 2 1/2 pp. Enclosed, 28. i. Governor Belcher's
           Instructions to Governor Lt. Tailer and others, Oct. 29, 1730.</p>
       </div>
       <div>
@@ -3474,7 +3543,7 @@
           Attorney and Sollicitor General a full state of this matter for 
           their opinion in point of law, who are now hearing Council on 
           both sides thereon, it will shortly receive a decision. In the 
-          mean time you are at liberty to lay out lands as directed by your 
+          mean time you are at liberty to lay out <placeName ref="#us_me_sagadahock" role="direct">lands</placeName> as directed by your 
           Instructions between the rivers <placeName ref="#rv_penobscot" role="boundary">Penobscot</placeName>
           and <placeName ref="#rv_stcroix" role="boundary">St. Croix</placeName> and 
           their Lordships wish you success in such settlements as you 
@@ -4419,7 +4488,7 @@
           till such time at least as H.M. title to that tract of land should 
           be determined. It is not to be doubted but that Colo. Dunbar's 
           Office as Surveyor of the Woods, as well as his Instructions for 
-          settling ye lands betwen <placeName ref="#rv_kennebec" role="boundary">Kennebeck</placeName>
+          settling ye <placeName ref="#us_me_sagadahock" role="direct">lands</placeName> betwen <placeName ref="#rv_kennebec" role="boundary">Kennebeck</placeName>
           and <placeName ref="#rv_stcroix" role="boundary">Croix</placeName> must have 
           rais'd him many enemies in <placeName ref="#us_ma" role="direct">ye Massachusets Bay</placeName>, where it is 
           but too evident that every man who does his duty to the Crown, 
@@ -6241,7 +6310,7 @@
           consists of two regiments of foot with a troop of horse 
           in each, (xiii) There is one fort or place of defence 
           called <placeName ref="#us_nh_williammary" role="direct">Fort William and Mary</placeName>, situate on
-          <placeName ref="#is_newcastle" role="direct">the great island in Newcastle</placeName>, which commands the entrance of 
+          <placeName ref="#us_nh_newcastle" role="direct">the great island in Newcastle</placeName>, which commands the entrance of 
           <placeName ref="#rv_piscataqua" role="direct">Piscataqua river</placeName>, but is in poor low circumstances, 
           much out of repair, and greatly wanting stores of war, 
           there not being one barrel of gunpowder at this time 
@@ -9372,7 +9441,7 @@
           they desired me to lay before them, an account of the charges 
           of the repairs of Pilgrim House which I did in Nov. 1724, and 
           after they had examined the accounts and receipts they 
-          addressed me llth of May 1725 in these words, " It appearing 
+          addressed me 11th of May 1725 in these words, " It appearing 
           to us that your Excellency has laid out, paid, and expended 
           the sum of 2070£. 14s. 1d., current money in and about the 
           necessary repairs of Pilgrim House and buildings " etc. The 
@@ -10328,7 +10397,7 @@
         <dateline><num>279</num><date when="1731-07-07">July 7</date></dateline>
         <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Order of Committee of Privy Council. Agreeing to 
-          report of the Council of Trade and Plantations llth May, and 
+          report of the Council of Trade and Plantations 11th May, and 
           ordering that they prepare an additional Instruction for Lt. 
           Gov. Pitt, to recommend in H.M. name to the Assembly of 
           <placeName ref="#bm" role="direct">Bermuda</placeName>, that they pay him an adequate salary, not exceeding 
@@ -12993,7 +13062,7 @@
           on the request of Mr. Sharpe attending on his behalf as Agent 
           of <placeName ref="#jm" role="direct">Jamaica</placeName>, in regard of his receiving too short notice for offering 
           his reasons in support of the Act laying duties on negroes etc., 
-          the Board has appointed " to-morrow sevnight the llth inst. 
+          the Board has appointed " to-morrow sevnight the 11th inst. 
           at eleven o'clock for hearing petitioners " etc. [C.O. 138, 17. pp. 335, 336.]</p> 
       </div>
       <div>
@@ -13241,1704 +13310,1351 @@
       <div>
         <dateline><num>353</num><date when="1731-08-11">August 11</date></dateline>
         <p>Mr. Attorney and Mr. Solicitor General to the Council 
-of Trade and Plantations. Report upon the right to a tract 
-of land between the Rivers Kennebeck and St. Croix and the 
-petitions of Sir Bibye Lake and others and Samuel Waldo and 
-others etc. State case. Have heard Agents and Council on 
-behalf of the parties and H.M. Treasury. Report : 
-[Whereupon] it appears to us, that all the said tract of lands 
+          of Trade and Plantations. Report upon the right to a tract 
+          of <placeName ref="#us_me_sagadahock" role="direct">land between</placeName> the <placeName ref="#rv_kennebec" role="boundary">Rivers Kennebeck</placeName>
+          and <placeName ref="#rv_stcroix" role="boundary">St. Croix</placeName> and the 
+          petitions of Sir Bibye Lake and others and Samuel Waldo and 
+          others etc. State case. Have heard Agents and Council on 
+          behalf of the parties and H.M. Treasury. Report : 
+          [Whereupon] it appears to us, that all the said tract of lands 
+          is granted by the Charter to the inhabitants of 
+          <placeName ref="#us_ma" role="direct">the [Massachusetts Bay]</placeName>, and that thereby power is given to the 
+          Governor and General Assembly to make grants of lands within 
+          the said limits, subject to a provisoe that no such grants should 
+          be of any force until H.M. etc. should have signified his approval 
+          etc. It appears also by the said Charter that the rights of 
+          Governmt. granted to the said Province extend over this tract 
+          of land. It doth not appear to us that the inhabitants of the 
+          said Province have been guilty of any such neglect or refusal 
+          to defend this part of the country as can create a forfeiture of 
+          that subordinate right of Government of the same, or of such 
+          property in the soil as was granted to them by the said Charter ; 
+          it being sworn by several of the affidavits that a fort was erected 
+          there and for some time defended at the charge of the Province, 
+          and that magistrates and Courts of Justice have been appointed 
+          within this district, and that one of the Council of the Province 
+          hath always been chosen for this division ; and tho' it is certain 
+          that this part of the Province hath not been improved equally 
+          with other parts thereof, yet considering the vast extent of 
+          countrey granted by this Charter, and the great improvements 
+          made in several parts of it, we conceive that will not create 
+          a forfeiture, because in such cases it is not to be expected that 
+          the whole should be cultivated and improved to the same 
+          advantage, and whether there hath been such a neglect or 
+          non-user of any part as may amount to a forfeiture must be 
+          judged of, not upon the particular circumstances attending that 
+          part only, but upon the circumstances of the whole. And if 
+          the Province had incurred any forfeiture in the present case, 
+          no advantage could be taken thereof but by a legal proceeding 
+          by scire facias to repeal their Charter, or by inquisition finding 
+          such forfeiture. As to the question stated in the case upon 
+          the effect of the conquest of this tract of countrey by the French, 
+          and the re-conquest thereof by General Nicholson, we conceive 
+          that the said tract not having been yielded by the Crown of 
+          England to France by any treaty, the conquest thereof by the 
+          French created according to the law of Nations only a 
+          suspension of the property of the former owners and not an 
+          extinguishment of it, and that upon the re-conquest by General 
+          Nicholson all the ancient rights both of the province and of 
+          private persons, subjects of the Crown of Great Britain, did 
+          revive and were restored jure post liminii. This rule holds the 
+          more strongly in the present case in regard it appears by the 
+          affidavits that the Province joined their forces to those which 
+          came thither under General Nicholson in this service. For 
+          these reasons we are of opinion that the said Charter still remains 
+          in force, and that the Crown hath not power to appoint a 
+          particular Governour over this part of the Province, or to 
+          assign lands to persons desirous to settle there ; nor can the 
+          Province grant these lands to private proprietors, without the 
+          approbation of the Crown according to the Charter. As to the 
+          case of the petitioners, who insist upon particular titles in 
+          themselves to certain parcels of land lying within the district 
+          in question, etc., we find by the deeds etc. produced by them, 
+          that several of the petitioners and those under whom they claim 
+          have had conveyances made to them of several of the said 
+          parcels of land, some from the Council of Plimouth, which was 
+          constituted by Charter in the reign of James the first and 
+          whose grants are confirmed by the Charter of King William 
+          and Queen Mary, and others from Indians pretending to be 
+          owners thereof, under which grants large sums of money appear 
+          by the affidavits to have been laid out in endeavouring to settle 
+          and improve the lands therein comprized, several of which 
+          sums were expended not many years agoe particularly a sum 
+          of 20001. by Sir Bibye Lake in 1714, and other sums by others 
+          of the petitioners in 1719 and 1720. And tho' these settlements 
+          and improvements have been in great measure interrupted 
+          and defeated by frequent wars and incursions of the Indians, 
+          yet several of the petitioners or their tenants appear to 
+          be still in possession of some parts of the said tract of 
+          land. Some objections were made before as to the nature 
+          of the grants and conveyances under which the petitioners 
+          claimed, and to the manner of deducing down their titles ; 
+          But we conceive that in questions of this kind concerning 
+          rights to lands in the <placeName ref="#n_america" role="indirect">West Indies</placeName>, and upon enquiries 
+          of this nature, the same regularity and exactness is not 
+          to be expected as in private suits concerning titles to 
+          lands in <placeName ref="#en" role="indirect">England</placeName>, but that in these cases the principal 
+          regard ought to be had to the possession, and the expences the 
+          partys have been at in endeavouring to settle and cultivate 
+          such lands. Therefore upon the whole matter, we are of opinion 
+          that the petitioners, their tenants or agents ought not to be 
+          disturbed in their possession or interrupted in carrying on their 
+          settlements in the lands granted to them within the district 
+          in question. Signed, P. Yorke, C. Talbot. Endorsed, Recd. 
+          14th Aug., Read 1st Sept., 1731. 23 1/2 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>353.1</num></dateline>
+        <p>353. i. Case of claim of <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName> to 
+          <placeName ref="#us_me_sagadahock" role="direct">the tract of land</placeName> referred to in preceding. 2 3/4 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>353.2</num></dateline>
+        <p>353. ii. Petition of Sr. Bibye Lake to the King, relating to the 
+          right to land near <placeName ref="#rv_kennebec" role="direct">R. Kennebeck</placeName>, where Col. Dunbar 
+          has lately made a settlement. Endorsed, Recd. 13th May, 1731. Copy. 10 1/2 pp.</p>
+      </div>
+      <div>
+        <dateline><num>353.3</num></dateline>
+        <p>353. iii. Petition of Samuel Waldoe etc. to the King, relating
+          to the right to land near <placeName ref="#rv_penobscot" role="direct">R. Penobscot</placeName>, where Col. 
+          Dunbar has recently made a settlement. 13 1/4 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>353.4</num><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>353. iv. Deposition of Jeremiah Dunbar, 7th Jan., 1730 (1731). 
+          In January last he travelled, as Depty. Surveyor of H.M. Woods, 
+          a great many miles between <placeName ref="#rv_stcroix" role="direct">R. St. Croix</placeName> and 
+          <placeName ref="#rv_kennebec" role="direct">R. Kennebeck</placeName>, and did not see one 
+          house or anything done towards improving and 
+          setling <placeName ref="#us_me_sagadahock" role="direct">the said country</placeName>, except what was built and 
+          done by the several familyes which went over thither 
+          with Col. Dunbar in Oct. 1729 etc. Signed, Jer. Dunbar. 2/3 p.</p>
+      </div>
+      <div>
+        <dateline><num>353.5</num><date when="1731-01-26">Jan. 26</date></dateline>
+        <p>353. v. Deposition of Jeremiah Dunbar, 26th Jan., 1730 (1731). In Jan. last 
+          deponent received following paper from Col. Dunbar, and believes
+          that unless the <placeName ref="#us_me_sagadahock" role="direct">lands</placeName> between 
+          <placeName ref="#rv_stcroix" role="boundary">St. Croix</placeName> and <placeName ref="#rv_kennebec" role="boundary">Kennebeck rivers</placeName>
+          are speedily allotted to them, they will leave etc. Signed, Jer. Dunbar. 2/3 p.</p>
+      </div>
+      <div>
+        <dateline><num>353.6</num></dateline>
+        <p>353. vi. Petition of setlers on E. side of <placeName ref="#rv_kennebec" role="direct">Kennebeck R.</placeName> 
+          to Col. Dunbar, " Commander and Settler of 
+          <placeName ref="#us_me_sagadahock" role="direct">H.M. Provance of Georgia</placeName>." Pray him to grant 
+          them a township E. of Kennebeck R., to be laid out this fall, that they 
+          may make clearings and be ready to plant and build 
+          houses in the spring etc. 44 signatures. 1 1/4 pp.</p>
+      </div>
+      <div>
+        <dateline><num>353.7</num><date when="1731-01-07">Jan. 7</date></dateline>
+        <p>353. vii. Deposition of Thomas Coram. Jan. 7th 1730/1. 
+          Narrates history of the <placeName ref="#us_me_frederick" role="direct">fort at Pemaquid</placeName> etc. and the 
+          taking and retaking of <placeName ref="#us_me_sagadahock" role="direct">that tract of land</placeName> v. C.S.P. 
+          supra. 3 pp. Signed, Thomas Coram. 3 pp.</p>
+      </div>
+      <div>
+        <dateline><num>353.8</num><date when="1731-02-04">Feb. 4</date></dateline>
+        <p>353. viii. Deposition of Sir Bibye Lake. 4th Feb., 1730/1.
+          Succeeding with Josiah Walcott and Col. Hutchinson 
+          to the lands (described) purchased of the Indians, E. of 
+          <placeName ref="#rv_kennebec" role="direct">Kennebeck river</placeName> by Major Thomas Clark and Capt. 
+          Thomas Lake, they, in 1714, sent over John Watts to 
+          settle 100 families <placeName ref="#is_arrowsic" role="direct">there</placeName>. Deponent advanced 2000£. 
+          to Watts for that purpose, who died after building 
+          several houses and settling upwards of 20 families 
+          there. Mr. Penhallow, marrying his widow, looked 
+          over the said settlements in the best manner he could 
+          till the Indians destroyed them in 1720, except a 
+          house or fortification made by Mr. Watts, being 
+          repulsed after many attempts to destroy it. This house, 
+          together with some others defended by it, is now standing. 11 1/4 pp.</p>
+      </div>
+      <div>
+        <dateline><num>353.9</num></dateline>
+        <p>353. ix. Deposition of James Alford, late of <placeName ref="#us_ma_boston" role="indirect">Boston</placeName> but now 
+          of <placeName ref="#en_lon" role="indirect">London</placeName>, merchant, Ebenezer Wentworth of 
+          <placeName ref="#us_nh_portsmouth" role="indirect">Portsmouth, N.H.</placeName>, now in London, and William Wentworth, 
+          ditto, shipwright. The French never made any settlement
+          or improvements on the land between <placeName ref="#rv_kennebec" role="boundary">Kennebeck river</placeName>
+          and <placeName ref="#ca_ns" role="boundary">Nova Scotia</placeName>. Alford, who was born in 
+          Boston and lived there for 30 years till 1728, says 
+          there was constantly chosen every year one Councillor 
+          for <placeName ref="#us_me_sagadahock" role="direct">Sagadahock</placeName> etc. It was owing to the constant 
+          wars with the Indians that the Eastern parts of 
+          Massachusetts Bay are not settled, etc. Signed, James 
+          Alford, Eben. Wentworth, William Wentworth. 1 1/3 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>353.7</num><date when="1731-01-13">Jan. 13</date></dateline>
+        <p>353. x. Deposition of John Blower, Capt. of one of H.M. 
+          Independent Companies at <placeName ref="#en_plymouth" role="secondary">Plymouth</placeName>, James Erskine, 
+          Lt. in Col. Phillips' regiment, and James Alvord 
+          (v. No. ix). 13th Jan., 1730/1. Four regiments raised in 
+          <placeName ref="#us_ne" role="indirect">New England</placeName>, but principally by 
+          <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName>, took part in the expedition 
+          against <placeName ref="#ca_ns_annapolisroyal" role="direct">Port Royal</placeName> in 1710 etc. 
+          Signed, John Blower, James Erskine, James Alford. 1 p.</p>
+      </div>
+      <div>
+        <dateline><num>353.11</num><date when="1731-07-21">July 21</date></dateline>
+        <p>353. xi. Deposition of Joshua Winslow, of <placeName ref="#us_ma_boston" role="indirect">Boston</placeName> merchant, 
+          now residing in <placeName ref="#en_lon" role="indirect">London</placeName>, 21st July, 1731. Deponent 
+          accompanied Governor Shute, 1718, into <placeName ref="#us_me_sagadahock" role="direct">the eastern parts of N.E.</placeName>,
+          to ratify a peace with the Indians at <placeName ref="#is_arrowsic" role="direct">Arrowsick I</placeName>.
+          He saw there about 40 very good houses, 
+          inhabited by English families, one of which was a 
+          very strong fortified and walled brick house planted 
+          with cannon, in which were placed soldiers commanded 
+          by a Captain in the pay of <placeName ref="#us_ma" role="secondary">the Province</placeName>.  
+          He understood that all the said families held the same under 
+          some grant from Sir Bibye Lake and Col. Edwd. 
+          Hutchinson and Joshua Winslow. 2 1/2 pp.</p>
+      </div>
+      <div>
+        <dateline><num>353.12</num><date when="1731-07-22">July 22</date></dateline>
+        <p>353. xii. Deposition of Samuel Penhallow, late of <placeName ref="#us_nh" role="indirect">N.H.</placeName>, 
+          merchant, and now residing in <placeName ref="#en_lon" role="indirect">London</placeName>. 22nd July, 
+          1731. Confirms Nos. viii and xi. In 1718 deponent 
+          visited his brother, Capt. John Penhallow at the town 
+          of <placeName ref="#us_me_smallpoint" role="direct">Augusta, als. Smallpoint</placeName>, who was Justice of Peace 
+          and commanded the fort of the said town, and went 
+          with him about 7 miles by land to the <placeName ref="#rv_kennebec" role="direct">river Kennebeck</placeName> 
+          which they crossed to <placeName ref="#is_arrowsic" role="direct">Arrowsick Island</placeName>, where they 
+          went to a well fortified brick house then in the 
+          possession of Eliza Watts, widow, and did also view the 
+          town (called George Town) there, consisting of about 40 
+          very good dwelling houses some of which were 
+          garrisoned. Capt. John Penhallow has since married 
+          the Widow Watts and commanded the said fortified 
+          brick house, wherein were placed a number of soldiers 
+          under the pay of <placeName ref="#us_ma" role="secondary">the Massachusetts Bay</placeName>. Deponent 
+          saw some cattle there belonging to the inhabitants, 
+          who held under a grant from Sir B. Lake etc. Signed, 
+          Samuel Penhallow. 3 3/4 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>353.13</num><date when="1731-07-20">July 20</date></dateline>
+        <p>353. xiii. Deposition of William Clarke of <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, Gentleman, 
+          now residing in <placeName ref="#en_lon" role="indirect">London</placeName>. 20th July, 1731. Deponent accompanied 
+          Lt. Gov. Dummer in 1726 into <placeName ref="#us_me_sagadahock" role="direct">the Eastern part of N.E.</placeName>, 
+          when he went to ratify a peace with the Indians etc. 
+          At <placeName ref="#is_arrowsic" role="direct">Arrowsick I.</placeName> he saw about 20 very 
+          good dwelling houses, inhabited by English families) 
+          etc. Corroborates preceding. He saw the ruins of a 
+          great number of houses in George Town, destroyed by 
+          the Indians in the last war. Deponent also visited a 
+          place called <placeName ref="#us_me_richmond" role="direct">Richmond</placeName>, N. of Arrowsick I., on the 
+          <placeName ref="#rv_kennebec" role="indirect">River Kennebeck</placeName>, where he saw a large fort or garrison 
+          house fortified with 10 cannon and a number of English 
+          or New England soldiers commanded by Capt. Joseph 
+          Heath in the pay of <placeName ref="#us_ma" role="secondary">the Massachusetts Bay</placeName>.
+          Signed, William Clarke. 3 1/2 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>353.14</num><date when="1731-01-26">Jan. 26</date></dateline>
+        <p>353. xiv. Deposition of Ebenezer and William Wentworth 
+          (v. No. ix). 26th Jan., 1730/1). The warrs with the 
+          Indians were continuous and bloody, but in the 
+          intervals attempts at settlement were made by the 
+          inhabitants of <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName> etc. William, 
+          brother of Ebenezer, lived with Elihu Guninson, a noted 
+          shipwright, at a late town called <placeName ref="#rv_sheepscot" role="direct">Sheepsgutt</placeName> near
+          <placeName ref="#us_me_pemaquid" role="indirect">Pemaquid</placeName> about 40 years since etc. Signed, Ebenezer 
+          Wentworth, William Wentworth. 1 3/4 pp. [C.O. 5, 873. ff. 84-96, 97, 98, 100-112v., 
+          113v., 114, 115, 116, 117-118, 119, 121-128, 129-130, 131-135v., 136v.]</p>
+      </div>
+      <div>
+        <dateline><num>354</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>.
+          Order of King in Council. Approving draught of Instruction to 
+          Governor Belcher <placeName ref="#us_ma" role="direct">[[ed. of Massachusettts]]</placeName> to pass the Act for granting 5,400£.
+          for the support of H.M. Governor etc. Signed, Ja. Vernon. Endorsed, 
+          Recd. 8th, Read 21st Sept., 1731. 1 p. [C.O. 5, 873. ff. 137, 138v.]</p>
+      </div>
+      <div>
+        <dateline><num>355</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Referring to the Council 
+          of Trade and Plantations for their report thereon 18 acts passed 
+          in <placeName ref="#us_ma" role="direct">the Massachusetts Bay</placeName>, Feb.-April, 1731, and delivered to 
+          the Clerk of the Council in waiting. Signed, Ja. Vernon. 
+          Endorsed, Recd. 24th, Read 26th Aug., 1731. 3/4 p. Enclosed, 
+          355. i. List of following Acts, under the public Seal. <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, 
+          14th May, 1731. Signed, J. Belcher, J. Willard, senr. 2 pp.
+          355. ii. Acts referred to supra. Printed. 2 pp. 
+          [C.O. 5, 873. ff. 70, 71, 71v., 73-82v., 83v.]</p>
+      </div>
+      <div>
+        <dateline><num>356</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#us_sc_charleston" role="from">Charles Town</placeName>.
+          Governor Johnson to the Duke of Newcastle. 
+          Encloses answer relating to the executorship of one Albert 
+          Muller as required by Lord Townshend, 9th Dec. 1729. 
+          Continues : It gives me great pleasure I have been able to obey 
+          your Grace's commands in procuring from the General Assembly 
+          Mr. Fury's being appointed Agent for <placeName ref="#us_sc" role="direct">this Province</placeName>, with a 
+          sallary of 100£. a year. I am sorry I was not able to procure 
+          for him more than the last Agent had etc. Will send publick 
+          transactions at conclusion of Sessions. Signed, Robt. Johnson. 
+          Endorsed, R. Oct. 15th. 1 p. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>356.1</num><date when="1731-05-29">May 29</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>
+          356. i. Andrew Allen to Governor Johnson. 29th May, 
+          1731. An account of the administration of the estate 
+          of Albert Muller, who under a patent of naturalisation 
+          in 1727 purchased a house in <placeName ref="#us_sc_charleston" role="direct">Charlestown</placeName> etc. 
+          1 p. [C.O. 5, 388. ff. 36. (Nos. 10, 11.)]</p>
+      </div>
+      <div>
+        <dateline><num>357</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Ordering establishment 
+          of office fees for the Board of Trade, (v. 19th May), the Secretary 
+          and Clerks to receive no other gratuities. Set out, A.P.C. III. 
+          No. 236. Signed, Ja. Vernon. Endorsed, Recd. 24th, Read 
+          26th Aug., 1731. 1 3/4 pp. Enclosed, 
+          357. i. Schedule of fees for Board of Trade, v. A.P.C. III. 
+          No. 236. 1 p. [C.O. 388, 80. Nos. 9, 9 i.]</p>
+      </div>
+      <div>
+        <dateline><num>358</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Governor Rogers <placeName ref="#bs" role="secondary">[[ed. of the Bahamas]]</placeName> 
+          is to deliver up the bond entered into by Governor Phenney etc. to 
+          be cancelled etc. (v. A.P.C. III. p. 318). Signed, Ja. Vernon. 
+          Endorsed, Recd. 8th, Read 21st Sept., 1731. 4 1/2 pp. [C.O. 23, 2. ff. 253-255, 256v.]</p>
+      </div>
+      <div>
+        <dateline><num>359</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Approving reports of
+          Committee and Board of Trade and empowering the Governor 
+          of <placeName ref="#us_ny" role="direct">New York</placeName> to make a grant of " the Swamp " to Anthony 
+          Rutgers etc. v. A.P.C. III. No. 227. Signed, Jas. Vernon. 
+          Endorsed, Recd. 8th, Read 21st Sept., 1731. 1 3/4 pp. [C.O. 5, 1055. ff. 196, 196v., 197v.]</p> 
+      </div>
+      <div>
+        <dateline><num>360</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Approving reports of 
+          Committee and Board of Trade, and repealing Act of <placeName ref="#us_ny" role="direct">New York</placeName>
+          to prevent the taking or levying on specialtys more than the principal 
+          interest and cost of suit etc. Signed and endorsed as preceding. 
+          1 1/2 pp. [C.O. 5, 1055, 198, 198v., 199v.]</p>
+      </div>
+      <div>
+        <dateline><num>361</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>.
+          Order of King in Council. Approving report of 
+          Council of Trade and Plantations and repealing act of 
+          <placeName ref="#us_pa" role="direct">Pennsylvania</placeName> for the establishing of Courts of Judicature etc. 
+          Signed, Ja. Vernon. Endorsed, Recd. 8th, Read 21st Sept., 1731. 
+          1 3/4 pp. [C.O. 5, 1268. ff. 19, 19v., 25v.]</p> 
+      </div>
+      <div>
+        <dateline><num>362</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#us_pa_philadelphia" role="from">Philadelphia</placeName>.
+          Mr. Browne to Mr. Popple. Major Gordon and I have 
+          within these few days finished the examinations of witnesses 
+          etc. He refuses to give me an answer to my charge, and says 
+          these depositions are a sufficient one. However I am preparing 
+          some remarks etc. which I doubt not will fully evince the greater 
+          part of the depositions of his side to be entirely foreign to the 
+          purpose ; and that by the cross examinations on my part they 
+          will also appear to be false in every materiall article. Major 
+          Gordon took up three months to do what I presume I refuted 
+          in two days, and I cannot apprehend what he means by the 
+          load of papers you will receive from him, unless to prevent their being read etc. 
+          I wait for the opinion of Councill <placeName ref="#us_pa" role="direct">[[ed. of Pennsylvania]]</placeName>
+          on a clandestine proceeding in Chancery against me, of wch. I was acquitted 
+          without knowing it, and could not obtain a copy thereof till 
+          within these few days. Prays that the arrival of his remarks 
+          may be awaited etc. Signed, J. Browne. Endorsed, Recd. 
+          12th Nov., 1731, Read 3rd May, 1732. Holograph. 2 pp. 
+          [C.O. 5, 1268. ff. 82, 82v., 86v.]</p>
+      </div>
+      <div>
+        <dateline><num>363</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Approving representation on Act of 
+          <placeName ref="#us_va" role="direct">Virginia</placeName> for amending the staple of tobacco and ordering 
+          it to lye probationary, the Lords of the Committee being reported 
+          that " the subject matter of this act is of very great consequence, 
+          as it relates to so principall a branch of the Plantation trade, 
+          as that of tobacco, in which great numbers of your Majesty's 
+          subjects are concerned, and as it is not certain whether it may 
+          tend to the encreasing or lessening of your Majesty's revenue 
+          upon that commodity " etc. Signed, Ja. Vernon. Endorsed, 
+          Recd. 8th, Read 21st Sept., 1731. 1 3/4 pp. [C.O. 5, 1322. ff. 179, 179v., 180v.]</p>
+      </div>
+      <div>
+        <dateline><num>364</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Approving representation on Act of 
+          <placeName ref="#us_va" role="direct">Virginia</placeName> for continuing a part of an act for laying a 
+          duty on liquors etc., and repealing it accordingly. Signed and 
+          endorsed as preceding. 2 pp. [C.O. 5, 1322. ff. 181, 181v., 182v.]</p>
+      </div>
+      <div>
+        <dateline><num>365</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Approving report of the 
+          Committee for Plantation Affairs (23rd July), and disallowing 
+          the Act of <placeName ref="#ag" role="direct">Antigua</placeName> of 1728 to supply the defects of the Act for 
+          constituting a Court of Chancery in the absence of the Commander 
+          in Chief from the island etc. The Committee reported that 
+          they had been attended by Counsel on the petition of the 
+          traders to Antigua, and examined some of the inhabitants as 
+          to the necessity of such an act, but agreed that there had not 
+          been laid before them sufficient reasons for differing in opinion 
+          from the Board of Trade. They recommended, for the reasons 
+          advanced by the Board, that an Instruction be given to Governor 
+          Cosby to recommend to the Assembly the passing an act to 
+          repeal so much of the Act of 1715 as restrains the power of the 
+          Crown herein, and another Instruction for redressing the 
+          inconveniencys complained of as soon as the Assembly shall 
+          have past the act of repeal. Instructions were ordered 
+          accordingly. Set out, A.P.C. III. pp. 322-325. Signed, Ja. Vernon. 
+          Endorsed, Recd. 24th, Read 26th Aug., 1731. [C.O. 152, 19. ff. 69-70v., 72v.]</p>
+      </div>
+      <div>
+        <dateline><num>366</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Repealing above act of 
+          <placeName ref="#ag" role="secondary">Antigua</placeName> (1728). Signed, Ja. Vernon. Endorsed, Recd. 8th, 
+          Read 21st Sept., 1731. 2 pp. [C.O. 152, 19. ff. 72, 72v., 73v.]</p>
+      </div>
+      <div>
+        <dateline><num>367</num><date when="1731-08-12">August 12</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Order of King in Council. Referring following to the 
+          Council of Trade and Plantations to examine and report their 
+          opinion thereupon. Signed, Ja. Vernon. Endorsed, Recd. 
+          21st, Read 24th Aug., 1731. 1 1/2 pp. Enclosed, 
+          367. i. Petition of several merchants of the <placeName ref="#en_lon" role="direct">City of London</placeName>, 
+          in behalf of themselves and others trading H.M. 
+          <placeName ref="#n_america" role="indirect">Colonys and Plantations in America</placeName>, to the King. 
+          They have great sums due to them from the 
+          inhabitants, and as the laws now stand in some of the 
+          <placeName ref="#british_indies" role="indirect">Colonys and Plantations</placeName>, H.M. subjects residing in 
+          <placeName ref="#gb" role="indirect">Great Britain</placeName> are left without any remedy for the 
+          recovery of their just debts, or have such remedy only 
+          as is very partiall and precarious, whereby they are 
+          like to be considerable sufferers in their property and 
+          are greatly discouraged in their trade to America. 
+          In severall of the said Colonys and Plantations greater 
+          and higher dutys and impositions are laid on the ships 
+          and goods belonging to your petitioners and other 
+          persons residing in this Kingdom than are laid on 
+          the goods and ships of persons inhabiting the said 
+          Colonys etc., to the great discouragement of the Navigation of Great Britain etc. 
+          Pray for relief. Signed, Rd. Harris, Micajah Perry, Hum. Morrice, and 29 
+          others. Copy. 1 3/4 pp. [C.O. 323, 9. ff. 68-69v., 71v.]</p> 
+      </div>
+      <div>
+        <dateline><num>368</num><date when="1731-08-13">August 13</date></dateline>
+        <p><placeName ref="#us_sc_charleston" role="from">Charles Town</placeName>.
+          Governor Johnson to Mr. Popple. Sr. I have received 
+          your favour of the 8th of April last and entertain the advice 
+          you give me, as I am very well persuaded you mean it as my 
+          friend and for my service, and shall in due time recommend to 
+          the Assembly what their Lordships of Trade have commanded 
+          me, in relation to the summons instead of a capias ; tho I 
+          cannot give great hopes they will be prevailed on to alter the 
+          law from the present practice of a capias to a summons ; which 
+          is indeed (tho so called) no other than a capias, only with this 
+          difference, that it brings the defendt. into Court tho not 
+          personally served, but by leaving at his habitation, which 
+          was attended by many abuses ; many people having had 
+          judgments obtain'd against them, without knowing they ever 
+          had been summoned ; and consequently in no capacity of 
+          making their defence, for oportunitys were taken when people 
+          were abroad (perhaps at the <placeName ref="#mt_cherokee" role="indirect">Charekie mountains</placeName>) 
+          to thrust a summons under a person's door, and the Marshal swearing he 
+          left the summons at the party's dwelling house, was sufficient 
+          to proceed against the defendt. ex party ; and so judgmt. went 
+          against him for what was charged in the writ, which was always 
+          double the debt, and many times actions only of mallice to 
+          prejudice anothers credit. The first process in the Courts <placeName ref="#us_sc" role="direct">here</placeName> 
+          were from the first settlement until the year 1713, by a capias 
+          only, as in <placeName ref="#en" role="indirect">England</placeName>, when a law was made to proceed by a 
+          summons, being limited to two years, it then returnd to the 
+          old way of a capias, and so continued until 1720, when the 
+          summons law was again revived, but the aforementioned inconveniencies 
+          being found in it, it was again repealed in 1726 and 
+          so continues. What their Lordps. mean by the first process 
+          in England being supposed to be a summons is (I suppose) no 
+          other than a demand of the debt ; but here the summons was 
+          a copy of the capias or writ, which being left at the house of 
+          the defendt. was to have the same effect as the writ personally 
+          served ; which I am afraid the people here will never again 
+          consent to. The Assembly of both Houses have now passd 
+          a law for regulating the Jurys, in which was proposd to be a 
+          clause obliging the plaintiff to try his suit against the defendt. 
+          at the Precinct Court where the defendt. lived ; which was the 
+          law and with great difficulty has been thrown out of the bill ; 
+          and the action is now triable where the plaintif pleases ; which 
+          has very much lessend the authority of the precinct Courts, 
+          to the great satisfaction of the merchants, and trading people 
+          here, and will be of great ease and advantage to the Marshall, 
+          in the execution of his office, with which I hope they will be 
+          satisfyed at present, and they may be assured I shall impartially 
+          espouse their interest when it is founded on justice and publick 
+          credit. The sessions is now almost at an end at the conclusion 
+          of which I shall do myself the honour of acquainting their 
+          Lordships with what has been transacted, which I hope will be 
+          to their satisfaction. I shall on all occasions shew a due regard 
+          to any of your friends, and endeavour to convince you that I 
+          am, Sr., Your most humble servant, signed, Robt. Johnson. 
+          Endorsed, Recd. 16th Oct., Read 16th Nov., 1731. 2 pp. 
+          [C.O. 5, 362 ; and (abstract) 5, 406. fo. 28, ff. 38, 38v., 39v.]</p>
+      </div>
+      <div>
+        <dateline><num>369</num><date when="1731-08-15">August 15</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          R. Mountague to Mr. Delafaye. On behalf of Governor Rogers 
+          <placeName ref="#bs" role="secondary">[[ed. of the Bahamas]]</placeName>. Communicates proceedings against Mr. 
+          Colebrooke etc. (v. 10th June), and in case any complaints are 
+          made, proposes to acquaint him with details of his offences, 
+          etc. Signed, R. Mountague. Endorsed, Aug. 15, 1731. 
+          Addressed. 1 1/2 pp. [C.O. 23, 14. ff. 195, 195v., 196v.]</p>
+      </div>
+      <div>
+        <dateline><num>370</num><date when="1731-08-16">August 16</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Minutes of Privy Council. The further report of the 
+          Board of Trade, Aug. 11, concerning the two regiments at 
+          <placeName ref="#jm" role="direct">Jamaica</placeName> was read, and extracts of letters to Col. Cope from 
+          the late Lt. Col. Townshend and Lt. Col. Cornwallis with a 
+          message, inclosed, from the Assembly to the Council of Jamaica. 
+          Their Lordships are humbly of opinion, that it may be for 
+          H.M. service, that the two regiments be sent for home ; but 
+          that in order to provide for the security of the island, Lt. Col. 
+          Cornwallis, the Commanding Officer in either of the two 
+          Regiments, be directed to review the two Independant 
+          Companies there, and see that they be compleated by draughts, to 
+          be made in proportion, out of both the Regiments that are to 
+          come home, and as an encouragement to the soldiers that 
+          shall be thus turned over, a bounty of 10£. a man be given them ; 
+          That the Governor be directed, to induce the Assembly to give 
+          all fitting encouragement for engageing the private men in 
+          the said two Regiments to settle, with their families, in the 
+          island, and that a proper discharge be given to such of them 
+          as shall be willing to settle there ; But that the soldiers should 
+          have their option, whether they will settle as inhabitants, or 
+          go into the Independant Companies ; and that for the 
+          Governor's direction, in the execution of these orders, copys 
+          be sent him of ye several reports of the Board of Trade on this 
+          head. 1 1/2 pp. [C.O. 5, 36. ff. 24, 24v.]</p>
+      </div>
+      <div>
+        <dateline><num>371</num><date when="1731-08-16">August 16</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Mr. Wheelock to Mr. Scrope. Encloses draft of bond for 
+          Lt. Governor Ogle (v. 28th July) <placeName ref="#us_md" role="direct">[[ed. of Maryland]]</placeName>, for which 
+          Lord Baltimore has proposed George Ogle, of <placeName ref="#ie_dublin" role="descriptive">Dublin</placeName>,
+          and John Broughton of <placeName ref="#en_lon_westminster" role="descriptive">Westminster</placeName> as sureties. Annexed, 
+          371. i. Form of bond referred to in preceding. [C.O. 5, 1294. pp. 34-42.]</p>
+      </div>
+      <div>
+        <dateline><num>372</num><date when="1731-08-17">August 17</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          Duke of Newcastle to Governor Belcher. Mr. William 
+          Shirley a very sensible man, and a friend and neighbour of mine 
+          in <placeName ref="#en_sussex" role="indirect">Sussex</placeName>, who was bred to the law, in which he is very well 
+          skilled, going to <placeName ref="#us_ne" role="direct">New England</placeName> to settle and to follow his 
+          profession there, I trouble you with this letter by him, to 
+          recommend him to your protection, and to desire that you will 
+          give him all the countenance and assistance that may lye in 
+          your power, which I shall acknowledge as a particular 
+          obligation ; and it would be an additional favour, if you could 
+          suggest anything by which I might further contribute to his 
+          encouragement. Signed, Holles Newcastle. [C.O. 324, 36. p. 307.]</p> 
+      </div>
+      <div>
+        <dateline><num>373</num><date when="1731-08-18">August 18</date></dateline>
+        <p><placeName ref="#us_nh_portsmouth" role="from">Portsmouth, New Hampshire</placeName>. 
+          Lt. Governor Dunbar to Mr. Delafaye. Refers to 
+          letter of 15th July. Would write oftener to the Duke, but 
+          fears to be troublesome etc. " People, tho' seemingly Saints 
+          in <placeName ref="#us_ne" role="direct">New England</placeName>, have little regard to truth when straining of 
+          it will serve their interest, and my imploymt. is so obnoxious 
+          to them, haveing never before been under any restraint, that 
+          they would stick at nothing to get me removed. I defye them 
+          all to assigne any true cause for it, and I hope his Grace will 
+          not regard their mallice ; Here is a glareing fresh instance of it 
+          as well as their disobeying H.M. Comn. to me as Lieut. 
+          Govr. I scarce expect it to be believed, I need not comment 
+          upon it ; My brother will wait upon you and shew you some 
+          other authentick papers to explain it etc., to be laid before His Grace," 
+          etc. Signed, David Dunbar. Endorsed, R. Oct. 6. Holograph. 1 1/2 pp. Enclosed,</p> 
+      </div>
+      <div>
+        <dateline><num>373.1</num><date when="1731-08-16">August 16</date></dateline>
+        <p>373. i. Lt. Governor Dunbar to Governor Belcher. 
+          <placeName ref="#us_nh_portsmouth" role="direct">Portsmouth, N.H.</placeName>, Aug. 16, 1731. 
+          He did not intend to answer his letter of 2nd inst., as it was impossible 
+          to do so, and keep within the bounds of the respect 
+          he would pay to his Commission, but he then little 
+          imagined what had come at the same time, though it 
+          has been the town talk ever since. He was very angry 
+          with the Gentleman who told him he had sent such 
+          orders to Capt. Walton etc. (v. encl. ii, iii), because he 
+          thought it an idle, ridiculous story, but upon being 
+          told that there might be something in it, he hired a 
+          boat and went to <placeName ref="#us_nh_newcastle" role="direct">the town of Newcastle</placeName> etc. Continues : 
+          I went to a publick house, and sent for the Captain 
+          of the <placeName ref="#us_nh_williammary" role="direct">Fort</placeName> etc. Upon his telling me your Excellency's 
+          orders, I desired to see them, which he refused, until 
+          I said I had a right to see you, and should not regard 
+          them until I did ; the Captain thereupon sent for 
+          them, and left me, to go to the fort, the gate whereof 
+          he shut, and put his garrison, consisting of two men, 
+          under arms, I waited some time for his return and for 
+          the man he had sent for your Excellency's letter, and 
+          neither coming, I walked towards the fort, in the same 
+          dress and posture I always walk in, with my sword 
+          in my belt and my cane in my hand. I went alone 
+          to the gate and knocked with my cane etc. The 
+          Captain said I should not enter except I would go as 
+          a private man etc. I insisted upon going in as Lieut- 
+          Governour, and commanded him to read H.M. 
+          Commission to me, which he positively refused, saying 
+          he would obey H.E.'s orders etc. All this was in the 
+          hearing of the [three] gentlemen [who had accompanied 
+          him], and 40 or 50 fishermen, and others belonging to 
+          the towne. The Captain then ordered your 
+          Excellency's orders to be read aloud etc. I desired 
+          an attested copy, which favour was granted etc. The 
+          Captain then opened the gate and invited me to walk 
+          in as a private gentleman etc. Although contrary 
+          to H.M. Commission, such was his submission to H.E.'s 
+          commands that he did not enter, " tho a thousand 
+          men might drive sheep into the fort at any place but 
+          the gate," and though he believes it was his duty to 
+          have put the company of militia of the town of 
+          Newcastle under arms and arrested the Captain for 
+          rebellion, but his chief motive being to preserve peace, 
+          he hopes a favourable construction will be placed at 
+          home upon his not doing so. Continues : After this 
+          I do not take it that I can stay here with safety, I am 
+          sure I cannot with honour, for all your friends and 
+          some in the Commission of the Peace say, that since 
+          this order to Collo. Walton, my commission is superseded 
+          or suspended, for, as by it, he is to receive no 
+          orders from any but your Excellency, of consequence 
+          others are not ; that fort etc. was always part of the 
+          perquisites of my predecessors, and the Province 
+          built an apartment in it where several of them have 
+          lodged when they tho't fit, and tho' H.M. Commission 
+          gives me all rights, privileges, profits, perquisites and 
+          advantages to the same belonging, I never made any 
+          pretention to this, purely to avoid disputes, but I 
+          now acquaint your Excellency that I think it my 
+          due, as well as 200£. per annum this currency of the 
+          600£. salary setled by the Province, out of which my 
+          predecessor always reced. so much from yours, as was 
+          intended by the General Court, who setled it. I had 
+          no tho't of ever mentioning this to you, but that this 
+          most extraordinary step of yours puts me upon it. 
+          And to convince you that no body is infallible, I send 
+          you a copy of your dedimus etc., whereby you gave a 
+          power to administer oaths which are abrogated by 
+          Act of Parliament. Your Excellency has likewise 
+          found fault with me for not administering oaths upon 
+          Commissions which you yourself have allowed to be 
+          so deficient as to make out new ones, etc. Will make 
+          no complaint <placeName ref="#en" role="indirect">home</placeName>, if he is given reasonable 
+          satisfaction etc. Signed, David Dunbar. Copy. 3 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>373.2</num><date when="1731-08-02">August 2</date></dateline>
+        <p>373. ii. Governor Belcher to Collo. Walton, Capt. of the 
+          <placeName ref="#us_nh_williammary" role="direct">Fort [? William and Mary]</placeName>. 
+          <placeName ref="#us_ma_boston" role="from">Boston</placeName>. Aug. 2, 1731. I 
+          observe you have' (with Collo. Sherburne) administered 
+          the oaths to Capt. Wybird, which is well, and that 
+          the Lt. Governor had made a pretence to suspend the 
+          Secretary, which I now write him is out of his power, 
+          and I order the Secretary to go on chearfully in his 
+          office, notwithstanding that insignificant paper he 
+          signed, as I do you again to abide by the commission 
+          I gave you for Fort Mary, and not to suffer the least 
+          insult on your commission from any person whatsoever, 
+          nor to let any one come into the fort but those that 
+          come in a curteous civil manner, I mean that the 
+          Lieutenant Governor nor any others should come by 
+          way of command or in derogation to the orders I have 
+          given you etc. The Lieut. Governour writes me he 
+          shall order you to attend continually at the fort. I 
+          would have you always remember you are to receive 
+          no orders but from me, and mine are to do in your 
+          command of the fort as the late Lieut. Governour did, 
+          for you shall be present or absent from your command, 
+          as I shall judge proper. Signed, J. Belcher. Copy. Overleaf,</p>
+      </div>
+      <div>
+        <dateline><num>373.3</num><date when="1731-08-14">August 14</date></dateline>
+        <p>373. iii. Certificate that Col. Walton showed above to Col. 
+          Dunbar. <placeName ref="#us_nh_newcastle" role="direct">Newcastle</placeName>, Aug. 14, 1731. Signed, Benning 
+          Wentworth, Theodore Atkinson. The whole, 1 1/4 pp. 
+          [C.O. 5, 10. ff. 88, 88v. 89v.-91 (without encl. ii, iii) ; 
+          and (encl. ii., iii., only) 5, 898. No. 93.]</p>
+      </div>
+      <div>
+        <dateline><num>374</num><date when="1731-08-18">August 18</date></dateline>
+        <p><placeName ref="#us_nh_portsmouth" role="from">Portsmouth, New Hampshire</placeName>. 
+          Lt. Governor Dunbar to Mr. Popple. Refers to papers sent by Capt. Bax
+          (v. 11th July) and copies by way of <placeName ref="#ie_cork" role="secondary">Cork</placeName> 
+          and some new ones to his brother to be laid before the Board. 
+          Continues : I take that method because ye sight of 
+          so many at once might frighten you. Repeats part of preceding 
+          covering letter and encloses copies of Nos. i, ii preceding. 
+          Continues : I am very apprehensive I shall be blamed for 
+          submitting to the orders etc. I shall be impatient to have an 
+          answer to this etc. Requests him to assist his brother in putting 
+          these papers into a method to be laid before the Board. Among 
+          them is the case and dispute between the Governor and Theodore 
+          Atkinson who has acted two years as Collector. The Commission 
+          of the Peace has not yet been amended. Six townships 
+          are still without Magistrates. Encloses a dedimus from the 
+          Governor to administer oaths wch. are contrary to law and his 
+          Instructions. " All these mistakes are (I believe) chiefly oweing 
+          to a little pert Attorney here, who is now Secretary of the 
+          Province, a Judge and Justice of the Peace, and H.E.'s chief 
+          Counsellour, it is to this gentleman that the divisions and 
+          confusions in <placeName ref="#us_nh" role="direct">this small province</placeName> are owing " etc. Repeats 
+          complaint against Act, due to his persuasion and pique to this 
+          town, for removing the Courts from <placeName ref="#us_nh_portsmouth" role="direct">Portsmouth</placeName> to three 
+          country towns. People are obliged to travel 100 miles in 
+          <placeName ref="#us_me" role="direct">Maine</placeName> to <placeName ref="#us_me_york" role="direct">York</placeName>,
+          the County town, which is within 7 miles of 
+          Portsmouth. Hopes the act will be disallowed. " He was 
+          forced to promise to emit mony, I mean bills of credit here, 
+          to get their consent to pass that act, and he then told them he 
+          could not signe the mony bills without orders." There are 
+          daily complaints about the boundary lines. He hopes- H.M. 
+          will explain the Charter etc. Continues : " Here is a report 
+          that Mr. Secretary Waldron and his emissarys are getting a 
+          number of names to a petition in some private manner by way 
+          of contradiction to the representation I was desired to send 
+          to you, and that was very publique, and 500 names could have 
+          been got, but I sayd there was no occasion. It is a melancholly 
+          circumstance to be at such a distance from <placeName ref="#en" role="indirect">home</placeName> as to be under 
+          a necessity of lying long under distress and difficultys " etc. 
+          Prays him to dispatch answers etc. Signed, David Dunbar. 
+          Endorsed, Recd. 28th Sept., Read 13th Oct., 1731. Holograph. 
+          4 pp. [C.O. 5, 873. ff. 154-155v., 156v.]</p> 
+      </div>
+      <div>
+        <dateline><num>375</num><date when="1731-08-19">August 19</date></dateline>
+        <p>Address of the Upper and Lower Houses of Assembly 
+          of <placeName ref="#us_md" role="direct">Maryland</placeName> to Benedict Leonard Calvert, Lt. Governor of 
+          Maryland. <placeName ref="#us_md_annapolis" role="from">Annapolis</placeName>, 19th Aug. 1731. Reply to queries 
+          as to the trade and produce of the Province transmitted by 
+          the Council of Trade and Plantations. Continue : For want 
+          of an opportunity to examine the books of the Officers of the 
+          Customs, we cannot be so particular as we wish to be etc. 
+          Continue: There are very few trading vessels belonging to 
+          the inhabitants, several of the twelve counties having not one 
+          etc. We could not learn any more than one small vessel has 
+          gone from this province (belonging to the inhabitants thereof) 
+          to any of the foreign <placeName ref="#foreign_indies" role="indirect">Sugar Plantations</placeName>; a few vessels have 
+          gone to <placeName ref="#madeira" role="indirect">Madera</placeName>, and others of the Portuguese islands, one, two 
+          or three in a year, and for several years none. This Province 
+          has very little trade with any part of <placeName ref="#europe" role="indirect">Europe</placeName> beside 
+          <placeName ref="#gb" role="indirect">Great Britain</placeName>, and that confin'd to a few voyages by three or four 
+          small vessels in several years past to <placeName ref="#pt_lisbon" role="indirect">Lisbon</placeName>, which carried 
+          grain and lumber thither. All the commodities ever exported 
+          to, or imported from any of the foreign Plantations, belonging 
+          to the French and Dutch, by the inhabitants of this Province, 
+          that we could learn, has only been the lading of the small vessels 
+          already mention'd, which carried lumber and provisions, and 
+          brought back mellosses ; save that sometimes when vessels 
+          have been disappointed of their lading in H.M. Colonies, they 
+          have taken in some salt in the said foreign Plantations. The 
+          trade to Madera and other Portuguese islands has been more 
+          considerable : sometimes one small vessel and sometimes two 
+          or three, but never more that we could learn (belonging to this 
+          province) have gone thither in a year ; which vessels have 
+          carried wheat, Indian corn and other provisions, and staves, 
+          and brought back Madera and other wines of the produce of 
+          those islands and salt. As to vessels belonging to other parts of 
+          H.M. Dominions, whose ladings are purchased in this province, 
+          we cannot give any account of them. The climate here is 
+          moderate, the soil productive of all sorts of grain, and many 
+          sorts of fruit, and has great quantities of valuable timber ; and 
+          in many places good pasturage ; and the rivers and <placeName ref="#by_chesapeake" role="indirect">bay</placeName> full 
+          of great variety of fish, especially herrings : But the inhabitants, 
+          ever since the first settlement of this country, have applied 
+          themselves principally to the making tobaco, which is our only 
+          staple, neglecting manufactures and tillage, when tobaco has 
+          been valuable ; the produce of that commodity alone being 
+          then sufficient to supply the people with cloathing, and other 
+          necessaries, in great plenty, from Great Britain, with an overplus 
+          in mony, which has always been lodged there ; not only as the 
+          securest, but the most advantageous repository, whence the 
+          people cou'd be supplied with every thing for their own use or 
+          for traffick ; hence it has happen'd that the people have receiv'd 
+          very little advantage from a moderate climate, and a fertile 
+          and fruitful soil, besides provisions, and the produce of their 
+          tobaco, which for several years past has been really so very low 
+          that it would not supply the inhabitants with one half of the 
+          necessaries of life ; and the expectation of an amendment has 
+          occasion'd their continuing in the old beaten tract so long, 
+          that they are now reduc'd to an incapacity to carry on any 
+          considerable trade or manufactures. It is true, that extreme 
+          want and necessity have driven some of the poorer sort of people 
+          in several parts to make some small quantities of coarse linens 
+          and woollens for their own particular use, without which they 
+          must have gone naked and been starved ; of these manufactures 
+          we are confident there are none exported ; and that very few 
+          (if any) make enough of them to supply their own necessities ; 
+          As to the value of other commodities of the growth and 
+          production of the country, annually exported besides tobaco, 
+          we cannot make any estimate. Those concern'd in the 
+          exportation, and who reap the advantages arising from it, being 
+          such as come from other parts to purchase what the people 
+          can spare, which their necessities oblige them to part with at 
+          very cheap rates. Thus, may it please your Excellency, we have 
+          given a full state of the circumstances of the country concerning 
+          its trade, as we could : and we can assure you that we have 
+          not represented it's condition worse than it really is. Signed 
+          by all the Members of both Houses. A true coppy of the 
+          Journalls of the Upper House transmitted to me. Signed, 
+          Baltimore. Endorsed, Recd, (from Ld. Baltimore) Read 1st 
+          Feb., 1731/2. 5 2/3 pp. [C.O. 5, 1268. ff. 70v.-73v.]</p> 
+      </div>
+      <div>
+        <dateline><num>376</num><date when="1731-08-19">August 19</date></dateline>
+        <p><placeName ref="#en_lon_merchanttaylors" role="from">Mercht. Taylors Hall</placeName>.
+          Mr. North to Mr. Popple. Several of the petitioners 
+          (v. 5th Aug.) intend to wait on the Board on Wednesday next 
+          at eleven according to the appointmt. when I last attended etc. 
+          Signed, Geo. North. Subscribed, Memorandum of verbal acceptance. 
+          Endorsed, Recd. 19th Augt., 1731. 1 p. [C.O. 28, 22. ff. 73, 74, 74v.]</p> 
+      </div>
+      <div>
+        <dateline><num>377</num><date when="1731-08-20">August 20</date></dateline>
+        <p><placeName ref="#us_nh_portsmouth" role="from">Portsmouth</placeName>. 
+          Lt. Governor Dunbar to Mr. Popple. Has received 
+          reply from Governor Belcher (v. Aug. 18), justifying his order 
+          for shutting him out of <placeName ref="#us_nh_williammary" role="direct">the Fort</placeName> etc. Continues : This order 
+          of the 18th of July is grounded upon falsitys reported to him 
+          by a poor old creature formerly one of this country Collonels, 
+          and now made Capt. of the Fort, to whom I solemnly declare 
+          that I sayd no more than, that the command of the Fort, and 
+          any little perquisits attending it, allways belonged to the 
+          Leiut. Governours, and I had a right by my Comn. to 
+          everything enjoyd. by them, he replyed he had H.E.'s 
+          Commissn. to be Capt of it, and hoped, as he was very antient I 
+          would not deprive him of the small perquisits he had by it, my 
+          answer was, that if it was my right as Lieut. Governour I would 
+          either have it, or he should own the obligation to me, that it 
+          was not worth disputeing, and that if I could not have it without 
+          a comission from Governour Belcher, I would not have it at 
+          all, for I would take no commission from him etc. Mr. Walton 
+          has, it seems, made something more of it etc. You see his 
+          Excellency thanks him for a list of the restless and uneasy, I 
+          wish my Lords would ask Coll. Shute, Mr. Walton's character, 
+          it is such that nobody here would hang a cat upon his evidence, 
+          and for this reason some former Govrs., particularly Shute had 
+          his name put far back in the list of the Council, yt. he might 
+          have no chance of ever commanding <placeName ref="#us_nh" role="direct">the Province</placeName>; Many 
+          people from <placeName ref="#us_ma_boston" role="direct">Boston</placeName> and the late Governour Dummer have 
+          sent me their opinion, which also aggrees with the gentlemen 
+          of best note here, that by the last clause in the chief Governour's 
+          Commission, he has no power but when he is actually present 
+          in the Province ; agt. that paragraph he has left the 36th 
+          article of his instructions upon the Secretary's files etc. Fears 
+          he will be blamed for giving in to him, but could not avoid it 
+          without violence. As he has occasion in other places, will go 
+          hence till he receives further orders. If Mr. Belcher is judged 
+          in the right, begs to be excused serving under him. " I am not 
+          the onely man by a great many he uses ill ; he never darst 
+          offer the least affront to man until now that he lords it over all, 
+          for he has formerly been chastized by cane, whip and foot, 
+          without resenting it, wch. makes it the more griveous to be ill 
+          used by such a man etc., by his carriage and style he seems to 
+          think himself King. He does not permit the Lieut. Governour 
+          of <placeName ref="#us_ma" role="direct">ye Massachusetts</placeName>, tho' one of his own recommendation, to 
+          sitt in Council with him, so that he is quite a stranger to 
+          all the busyness of the Province etc. I suppose when he comes 
+          here, he will tell me I have no busyness in Council whilst he sitts 
+          there, but I will not submit to that etc. I have for some time 
+          expected a Comn. for a new Judge of Vice-Admiralty at 
+          Boston. I am sure there is a necessity for it etc. I have some 
+          time since seized a parcel of masts in <placeName ref="#rv_piscataqua" role="direct">Piscatua river</placeName> at 
+          <placeName ref="#us_nh_portsmouth" role="direct">this towne</placeName>, and intended to try them here but as they were cutt 
+          on the other side of the river in the <placeName ref="#us_me" role="direct">province of Maine</placeName>, they 
+          must be tryed in the Massachusets Govt., upon which I sent 
+          to the Advocate Genll, for an opinion and to get a deputation 
+          for George Jeffrey Esq. who has long acted and is now Deputy 
+          Judge of Vice-Admiralty, to hold a Court on the other side 
+          this river etc. Mr. Belcher upon hearing this has prevaild upon 
+          the old Judge of Admiralty at Boston, to give a deputation to 
+          one Gambling etc. ; this is done on purpose to oppose H.M. 
+          interest, Mr. Gambling haveing allways as an Attorny appeared 
+          on the other side, and now there will be new cases, and Doctor 
+          Cook, Govr. Belcher's chief favourite, will be the first, who haveing in open defyance 
+          to authority cutt mast trees far up in <placeName ref="#rv_saco" role="direct">Saco River</placeName> 
+          near <placeName ref="#us_me_portland" role="indirect">Casco</placeName>, I have seized them in boards, as I 
+          have done several quantitys in this province etc. I will try 
+          what a Court will judge in this case, but now think I have 
+          very little chance. Encloses the Governor's orders to me 
+          relateing to a Collector, and least I should not give lett passes 
+          as he directs, he has sent some blank passes signed by himself, 
+          and as he has given orders to the Captain of the Fort to receive 
+          no orders from me, I intend they make use of their own papers. 
+          I have already mentioned a clandestine petition etc., and I am 
+          desired to send vou extracts of former letters to the Province 
+          Agents, signed by the promoters of this petition as a Comittee 
+          appointed by the Genll. Court for yt. purpose, to shew you that 
+          it is no new chimera, as is now alledged. I am very sensible 
+          I must be thought too troublesome to my Lords Commissioners 
+          etc. If my Lords will be pleased to part Mr. Belcher and me 
+          it will save much of it. I send you one of the clearances of his 
+          new Collector, and an impression of a seal which will make any 
+          vessel lyable to a seizure, as all Custome Houses in H.M. 
+          Dominions know each others seal, this I have told the new 
+          Collector, and that he is not quallifyed by law to act as you'l 
+          see in your pacqt. by the oaths wch. have been administerd to 
+          him, but we live under a Governour that will salve all mistakes 
+          with a volo and jubeo" etc. Signed, David Dunbar. Endorsed, 
+          Recd. 28th Sept., Read 13th Oct., 1731. Holograph. Addressed. 6 3/4 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>377.1</num><date when="1731-08-03">August 3</date></dateline>
+        <p>377. i. Warrant by Governor Belcher impowering Shadrach Walton and 
+          Henry Sherburne to administer the oaths <placeName ref="#us_nh" role="direct">[[ed. in New Hampshire]]</placeName>
+          of allegiance and supremacy, the abjuration oath and 
+          the office oaths to any person hereafter commissionated 
+          etc. 3rd Aug., 1731. Signed, J. Belcher. Same endorsement. 
+          Copy, certified by, Richd. Waldron, Secretary, 3/4 p. 
+          377. ii. Copy of Governor Belcher's 38th Instruction. Same endorsement. 1 p. 
+          377. iii. Lt. Governor Dunbar to Governor Belcher, 16th 
+          Aug. Copy of Aug. 18 encl. i. Same endorsement. 3 pp.</p>
+      </div>
+      <div>
+        <dateline><num>377.4</num><date when="1731-07-18">July 18</date></dateline>
+        <p>377. iv. Governor Belcher to Capt. Walton. <placeName ref="#us_ma_boston" role="from">Boston</placeName>, July 
+          18, 1731. I have yours before me of 16 currant and 
+          am apt to think the strange appearances you mention 
+          will soon vanish into smoke, and the people will come 
+          to themselves, and believe who have designs to hurt 
+          and ruin them, and who are their friends. I thank 
+          you for a list of the restless and uneasy. If some 
+          people might enjoy all the places of profit and honour 
+          in the Province, as they have for many years past, 
+          they wou'd be well content. But I think it time and 
+          very reasonable some other families shou'd share in 
+          the advantages of the Government. I particularly 
+          observe these words in your letter " As for <placeName ref="#us_nh_williammary" role="direct">the fort</placeName>
+          your Excellency has been pleased to favour me with 
+          the Leiut. Govr. says he shall never accept your 
+          Commission for it, for that he says he looks upon with 
+          contempt, but swears nobody shall command there 
+          but a commission from himself." Since the Leiut. 
+          Govr. does not know his duty or is not willing to 
+          practice it my order is that you abide by the 
+          Commission, I have given you, and not suffer him, nor 
+          any other person to come into the fort, or have 
+          anything to do with it, but by such orders, as you receive 
+          from me from time to time. As to the complaint sent 
+          <placeName ref="#en" role="indirect">home</placeName> against me in the ship that sail'd from 
+          <placeName ref="#rv_piscataqua" role="direct">your river</placeName> the 15th currt., I shall laugh at all they can 
+          say, if they don't lye. The common complaint has 
+          been that <placeName ref="#us_nh" role="direct">New Hampshire</placeName> is not able to support a 
+          Government in the present circumstances, how can 
+          they then pretend to be an independant Government. 
+          For 30 odd years that Province has been under the 
+          same Governor with <placeName ref="#us_ma" role="direct">the Massachusetts</placeName>, how comes 
+          it then, all on a sudden to be necessary to have a new regulation ? 
+          Because some men out of office want to be in etc. 
+          Signed, J. B. Same endorsement. Copy, certified by J. Belcher. 1 2/3 pp.
+          377. v. Duplicate of Aug. 18. [[ed. - #373]] Nos. ii, iii.</p> 
+      </div>
+      <div>
+        <dateline><num>377.6</num><date when="1731-08-18">August 18</date></dateline>
+        <p>377. vi. Deposition of Benning Wentworth and Theodore Atkinson. 
+          <placeName ref="#us_nh_portsmouth" role="from">Portsmouth</placeName>, Aug. 18, 1731. Describe Col. 
+          Walton's refusal to allow Lt. Gov. Dunbar to enter
+          and view <placeName ref="#us_nh_williammary" role="direct">Fort William and Mary</placeName>. 
+          Signed, Benning Wentworth, Theodore Atkinson. 4 pp.</p> 
+      </div>
+      <div>
+        <dateline><num>377.7</num><date when="1731-08-18">August 18</date></dateline>
+        <p>377. vii. Impression of Seal of Arms of <placeName ref="#us_nh" role="direct">New Hampshire</placeName>
+          sent to Capt. Wybird for a Custom House Seal by Governor Belcher. 
+          Aug. 18, 1731. Signed, David Dunbar. Same endorsement. 1 p.</p>
+      </div>
+      <div>
+        <dateline><num>377.8</num><date when="1731-08-16">August 16</date></dateline>
+        <p>377. viii. Governor Belcher to Lt. Gov. Dunbar. <placeName ref="#us_ma_boston" role="from">Boston</placeName>, 
+          16th Aug., 1731. The post being here (who came 
+          away the day after your Honour's of 12th present) 
+          and bringing me no further account of the Indians 
+          you mention, I hope they were got together on no other 
+          account than what Collo. Harman intimated. Sr. I 
+          believe I have some time since notifyed you of my 
+          appointing Richard Wibird Esq., Collector of 
+          <placeName ref="#us_nh" role="direct">New Hampshire</placeName>, since which I wrote the late Deputy 
+          Collector that I had sent a dedimus for administering 
+          the oaths to Capt. Wibird, and expected his conforming 
+          thereto, and in answer he wrote me, he wou'd neither 
+          deliver the seal of office, nor the instructions he had, 
+          and since that refused to do it on a special warrant 
+          I sent him, and has also presum'd to give clearances 
+          as a Collector, and the present Collector writes me, 
+          as well as the Capt. of <placeName ref="#us_nh_williammary" role="direct">Fort William and Mary</placeName>, that 
+          you have given passes for vessels cleared by him, and 
+          to some of them that have not cleared at the Naval 
+          Office. I hope those who have been advisers in the 
+          matter, especially to the poor men who have violated 
+          the Acts of Trade in not clearing at the Naval Office, 
+          will make good to them the damage and difficulties 
+          they may have run themselves into. As to the late 
+          Deputy Collector, he's not worth my further notice 
+          at present. But to prevent all breaches of the Acts 
+          of Trade for the future, and loss of the subjects' 
+          estate, or any interruption to the trade, I once more 
+          tell your Honour, that I have appointed Richard 
+          Wibird etc. It is my order that you be at all times 
+          aiding and assisting him, and sign no pass for any 
+          vessel to the Capt. of the Fort without mentioning 
+          therein, the said vessel's being duly cleared by Richard 
+          Wibird Esq., Collector of New Hampshire. Same endorsement. 2 pp.</p>
+      </div>
+      <div>
+        <dateline><num>377.9</num><date when="1731-08-20">August 20</date></dateline>
+        <p>377. ix. Clearance of the sloop Dimont from <placeName ref="#us_nh" role="direct">New Hampshire</placeName> 
+          to <placeName ref="#ca_nl" role="direct">Newfoundland</placeName>. 20th Aug., 1731. Signed, Thos. 
+          Wibird, Depty. N. Officer, R. Wibird, Coll. Same 
+          endorsement. Printed form. 1 p.</p>
+      </div>
+      <div>
+        <dateline><num>377.10</num></dateline>
+        <p>377. x. Copy of last clause but one of Governor Belcher's 
+          Instructions, assigning his powers to the Lt. Governor in his absence 
+          out of <placeName ref="#us_nh" role="direct">the Province</placeName> etc. Same endorsement. 1/2 p.</p>
+      </div>
+      <div>
+        <dateline><num>377.11</num><date when="1731-08-18">August 18</date></dateline>
+        <p>377. xi. Governor Belcher to Lt. Governor Dunbar. <placeName ref="#us_ma_boston" role="from">Boston</placeName>, 
+          18th Aug., 1731. Benjamin Akerman brought me 
+          your letter this morning about 11 o'clock I can't 
+          really say whether 4 1/2 minutes before or after, tho' 
+          these niceties are great things with you, or you would 
+          not think my mistaking the name of <placeName ref="#us_nh_williammary" role="direct">the Fort</placeName> worth 
+          mentioning, and to convince you that infallibility is 
+          not your talent, I send you a copy of Capt. Husk's 
+          commission only to show you what you writ under it, 
+          and to know whether any man living can tell the 
+          day or year you administred the oaths to him, but 
+          these are trifles I think not worth your notice or 
+          mine, and notwithstanding the mistake Mr. Secry. 
+          Waldron might make in writing the dedimus, I doubt 
+          not but the proper oaths have been duly administred 
+          etc. I am freely willing you should send <placeName ref="#en" role="indirect">home</placeName> copies 
+          of my letters, depending you'll be so just as to send 
+          copies of yours to me etc. Sends copy of his letter to 
+          Capt. Walton, 18 July (No. iv supra). The Commissions 
+          I give are the King's Commissions and it is 
+          your duty to treat them with great respect etc. The 
+          late Lt. Govr. kept command of the fort by my 
+          proclamation, and no otherwise, nor do I find anything 
+          in your commission, or any act of the Government 
+          that settles the command of that fort upon the Leiut. 
+          Govr. etc. Would have given it to him, if he had asked 
+          for it and not treated his commission with contempt. 
+          Continues : The passes you give to the fort are 
+          properly mine and so I believe you'll find the licences 
+          for marriage etc. My only answer to what you say, 
+          about sharing my salary, is that it made me smile. 
+          Your predecessor never had the face to say a word 
+          to me on that head, nor did I practice any mean 
+          condescentions with the Assembly to get it done, 
+          but told 'em frankly and freely before they did it, 
+          no one shou'd ever have a farthing of it, and I have 
+          long since recd. an approbation from home, of the 
+          handsome manner in which I got the salary settled 
+          etc. It was a fault in you not to administer the oaths 
+          when the gentn. waited on you by my order. The 
+          commissions were not deficient, but good and full, 
+          so far as I had extended 'em. If I pleas'd to enlarge 
+          'em afterwards, that was more than you knew in the 
+          time of it etc. You are too assuming in your letters. 
+          Nor do I want your dictating to whom I shall read 
+          your letters or my own etc. Continues : I am under 
+          no concern about your complaint home, because I 
+          insist upon it, that I am always present at <placeName ref="#us_nh" role="direct">New Hampshire</placeName> 
+          when <placeName ref="#us_ma" role="direct">here</placeName>, or that government wou'd be 
+          a monster with three heads. If I am absent, so 
+          wou'd you, if you cross the river into <placeName ref="#us_me" role="direct">York county</placeName>, 
+          and then the President of the Council might turn the 
+          Government into all confusion etc. Is prepared to 
+          justify himself in this as in the affair of <placeName ref="#us_me_frederick" role="direct">Frederick's Fort</placeName>.
+          Was obliged to go into the country and therefore 
+          to detain the express, " which those who sent 
+          it, I beleive must be content to pay etc. Signed, J. 
+          Belcher. Same endorsement. 3 3/4 pp. [C.O. 5, 873. 
+          ff. 157-165v., 166v.-167v., 168v.-172v., 173v.-177v.]</p>
+      </div>
+      <div>
+        <dateline><num>378</num><date when="1731-08-20">August 20</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Governor Belcher to the Council of Trade and 
+          Plantations. Abstract. Col. Dunbar is a gentleman of such 
+          an uncommon temper that he expects to have to be constantly 
+          defending himself against his unjust insinuations. Refers to 
+          letter of 12th July. Col. Dunbar's thirst of power and honour 
+          beyond his rank cannot be acceded to by any Governor. When 
+          the Capt. of <placeName ref="#us_nh_williammary" role="direct">Fort William and Mary</placeName> reported that the Lieut. 
+          Governor said he would never accept his commission for it, he 
+          thought it high time to assert the King's honour against insults 
+          and behaviour which could only lead to anarchy. The Governor 
+          has never been esteemed absent from <placeName ref="#us_nh" role="direct">New Hampshire</placeName> when at 
+          <placeName ref="#us_ma" role="direct">the Massachusetts</placeName>. Refers to 36th instruction. It cannot be 
+          imagined that the King only made him Governor for about six 
+          weeks in the year the time he spends with the Assembly there. 
+          Repeats former arguments. It being but 66 miles from <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, 
+          and the post passing every week, regrets that he has to trouble 
+          the Board with the enclosed letters, but he expects Col. Dunbar 
+          will dress up an extraordinary relation of this affair. He will 
+          esteem it a great favour to be delivered from this uneasy gentleman etc.  
+          Signed, J. Belcher. Endorsed, Recd. 5th, Read 19th Oct., 1731, 4 pp. Enclosed, 
+          378. i. Copy of preceding encl. x. 
+          378. ii. Copy of Aug. 18 encl. i. 
+          378. iii. Copy of preceding encl. iv. 
+          378. iv. Copy of Aug. 18 encl. ii. Nos. i-iv. Endorsed as covering letter. 
+          [C.O. 5, 873. ff. 201-203v., 204v., 206-207v., 208v., 210-211v., 214v.-213v., 214v., 215, 216v. (with abstract).]</p>
+      </div>
+      <div>
+        <dateline><num>379</num><date when="1731-08-21">August 21</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Same to the Council of Trade and Plantations. 
+          Duplicate of preceding, mutatis mutandis. Signed, J. Belcher. 
+          Endorsed, Reed. 28th Sept., Read 19th Oct., 1731. 2 3/4 pp. 
+          [C.O. 5, 873. ff. 217, 218-219v.]</p>
+      </div>
+      <div>
+        <dateline><num>380</num><date when="1731-08-21">August 21</date></dateline>
+        <p><placeName ref="#us_ma_boston" role="from">Boston</placeName>.
+          Governor Belcher to the Duke of Newcastle. I am 
+          now to confirm what I wrote your Grace 26 of last month, 
+          respecting the supply of the Treasury. The Assembly have 
+          now been sitting upwards 12 weeks, and seem resolved to 
+          provide no money for the defence of <placeName ref="#us_ma" role="direct">the Government</placeName>, and the 
+          protection of the inhabitants, unless I wou'd sign a bill for it 
+          in open violation of H.M. commands, and upon a motion the 
+          House of Representatives made to me for a recess, I immediately 
+          ordered all the members of H.M. Council, to attend their duty 
+          in the General Court, and then demanded of them, upon the 
+          oath they had taken, answers to the questions your Grace will 
+          find in my message to the House of Representatives of 28 July 
+          (as by their Journals inclos'd). Upon this they summon'd 
+          their absent members to attend, and when they came together, 
+          the result was, to make a declaration, and send it to every 
+          town in the Province, in order to call the inhabitants of each 
+          town together, to have their orders or instructions about the 
+          supply of the Treasury, and I have no reason to believe but 
+          their answer will be just as the Representatives wou'd have it, 
+          vizt. That the Treasury shou'd not be supply'd in conformity 
+          to the King's Instruction. Upon the whole, my Lord Duke, 
+          I think it my duty seasonably to represent to you the great 
+          difficulty and hazard this matter must necessarily (and very 
+          soon) bring upon H.M. Government here, and all his good 
+          subjects. For your Grace must be sensible, it's impossible for 
+          a Government to subsist long without money. For my own 
+          part, I am fully in opinion that H.M. Instruction to me in this 
+          matter is exactly agreeable to the Royal Charter, as well as to 
+          the best safety and happiness of this Government and people. 
+          Yet as I have no reason to believe the House of Representatives 
+          will comply with it, it is absolutely necessary for the preservation 
+          of H.M. Government and people here, that your Grace transmit 
+          me as soon as possible the King's special order upon this head. 
+          For altho' the Assembly have been sitting now near 13 weeks, 
+          yet I believe they will go on to sit, till I have an answer from 
+          your Grace, and their so doing will be a vast burden to the 
+          Province, and no service, for they have done nothing of any 
+          significancy for several weeks past. P.S. I had almost forgot 
+          to acquaint your Grace that notwithstanding the royal 
+          explanatory Charter says that " it shall be lawful for the 
+          Representatives etc. to adjourn themselves from day to day 
+          (and if occasion shall require for the space of two days) but 
+          not for any longer time without leave from the Governor etc," 
+          yet the Representatives did on Saturday 10th July adjourn 
+          themselves to Tuesday, 13th. On which day I sent a message 
+          to them on that subject, which they so little regarded as to 
+          repeat such an adjournment the 24th of July. Their pretence 
+          for this is the intervention of the Lord's Day, which I think 
+          can by no means support such an unwarrantable practice. 
+          For I believe the maxim of dies dominicus non est dies jucundus, 
+          was the reason of that saving for 'em in the explanatory charter 
+          (and if occasion shall require for the space of two days) that 
+          they might not be oblig'd to sit on the Lord's Day. I hope 
+          your Grace will let me know H.M. pleasure on this head. Signed, 
+          J. Belcher. 2 3/4 pp. [C.O. 5, 898. No. 94.]</p> 
+      </div>
+      <div>
+        <dateline><num>381</num><date when="1731-08-25">August 25</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>. 
+          Mr. Wheelock to Lt. Governor Gooch <placeName ref="#us_va" role="direct">[[ed. of Virginia]]</placeName>. 
+          Transmits Order in Council repealing act laying a duty on liquors etc. 
+          (v. 6th July), and duplicate of letter of 27th May. [C.O. 5, 1366. pp. 78, 79.]</p>
+      </div>
+      <div>
+        <dateline><num>382</num><date when="1731-08-25">August 25</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>. 
+          Council of Trade and Plantations to the King. An 
+          act was pass'd in your Majesty's Colony in <placeName ref="#us_va" role="direct">Virginia</placeName> in Oct., 
+          1705, against importing tobacco from <placeName ref="#us_sc" role="indirect">Carolina</placeName> and other parts 
+          without the <placeName ref="#cape_henry" role="indirect">Capes of Virginia</placeName>; and in 1726, another act was 
+          pass'd for the more effectual preventing the bringing tobacco from 
+          <placeName ref="#us_nc" role="direct">North Carolina</placeName> and the bounds in controversy ; We have lately 
+          received a memorial on the part of the inhabitants of <placeName ref="#us_nc_albemarle" role="direct">Albemarle County</placeName>
+          in North Carolina, setting forth the great hardships they 
+          labour under, from being denyed the liberty of exporting their 
+          tobacco to <placeName ref="#gb" role="secondary">Great Britain</placeName> from the ports in Virginia. 
+          Whereupon we beg leave to represent to your Majesty that the only 
+          commodious port in North Carolina is at <placeName ref="#us_nc_capefear" role="direct">Cape Fear</placeName>, scituated 
+          near the southern boundary of that county, so that if those 
+          planters who are settled to the northward near the borders of 
+          Virginia, are cut off from all communication with that Province 
+          both by land and water, as these acts import, they will lye 
+          under very great difficulties in exporting their tobacco to Great 
+          Britain, therefore will probably desist from planting that 
+          commodity, and turn their industry to other manufactures, 
+          which may be attended with very bad consequences to the 
+          trade of this Kingdom, from whence the inhabitants of North 
+          Carolina have hitherto taken considerable quantities of British 
+          manufactures, which they have been enabled to pay for by their 
+          tobacco. These laws are therefore manifestly disadvantagious
+          to the trade of this Kingdom, and it would seem to us, highly 
+          unreasonable, that any of your Majesty's subjects should be 
+          debar'd from the liberty of making use of any ports belonging 
+          to your Majesty, or from carrying on any legal trade not prohibited 
+          by the laws of Great Britain in any part of your Majesty's 
+          Dominions ; We likewise conceive that these laws are 
+          inconsistent with an Act of Parliament, 25th of K. Charles II, for 
+          the encouragement of the <placeName ref="#gl" role="secondary">Greenland</placeName> and 
+          <placeName ref="#baltic_sea" role="secondary">Eastland</placeName> trades etc. By this last act, the productions 
+          of the <placeName ref="#n_america" role="secondary">British Colonies in America</placeName> are allowed to be 
+          exported from one English Province to another, under certain duties etc. 
+          For these reasons we humbly beg leave to lay these laws
+          before your Majesty for your disallowance. [C.O. 5, 1366. pp. 76-78.]</p> 
+      </div>
+      <div>
+        <dateline><num>383</num><date when="1731-08-25">August 25</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>. 
+          Council of Trade and Plantations to the Committee of the Privy Council. 
+          In obedience to orders of 7th July, have heard the merchants of <placeName ref="#en_lon" role="indirect">London</placeName>, 
+          <placeName ref="#en_bristol" role="indirect">Bristol</placeName> and <placeName ref="#en_liverpool" role="indirect">Liverpool</placeName>
+          in support of their petition against the Act of <placeName ref="#jm" role="direct">Jamaica</placeName> for raising 
+          several sums of money etc., and likewise Mr. Sharp in defence 
+          of it. This act lays a duty of 15s. on negroes imported and 
+          30s. on negroes exported, and 100£. on convicts imported etc. 
+          This act so far as it relates to duties on negroes is a burthen 
+          upon the British trade and navigation and contrary to Governor 
+          Hunter's additional Instruction, 13th Nov.. 1727 etc. Altho' 
+          H.M. was graciously pleased by his said instruction to allow that 
+          the Assembly might lay such a tax on the negroes of the said 
+          island bought there as they should think fit, yet this indulgence 
+          was never designed to be extended to the present case, where 
+          duties of import are laid upon all slaves imported, whether the 
+          property be changed or not, during their stay in the island, 
+          and a duty of export also laid without any exception for such 
+          slaves as should be imported only for refreshment, which must 
+          necessarily affect all slaves brought thither on account of the 
+          Assiento contract, etc. The duty upon convicts is a strong 
+          infringement of the Act of Parliament etc. for the further preventing 
+          robbery etc., and for the more effectual transportation of 
+          felons, which extends to all H.M. Plantations in general ; but 
+          by this exorbitant duty is now become impracticable with 
+          relation to Jamaica. For these reasons therefore we should 
+          propose to your Lordps., that this act might be laid before 
+          H.M. for his disallowance. But forasmuch as the same is only 
+          a temporary law ; that it will expire in Feb. next, that it would 
+          be some time before H.M. disallowance could reach Jamaica, 
+          and that the duties raised by this law are in part applicable 
+          to the additional subsistence of the two regiments now in that 
+          island ; considering also that we have lately proposed to H.M. 
+          that the soldiers of the said two regiments after filling up the 
+          independant companies their to their full complement may be 
+          disbanded and left in Jamaica for the defence of that island 
+          provided the Assembly will settle them to their entire satisfaction, 
+          which must be a considerable expence to the Colony, 
+          we would submit to your Lordps. in the present situation 
+          whether it may not be adviseable to suffer this act even bad 
+          as it is to have its effect. But at the same time, lest the 
+          Assembly should be thereby encouraged to make any attempts 
+          of the like nature on the Trade and Navigation of Great Britain 
+          for the future, we would humbly propose that your Lordps. 
+          should advise H.M. to signify his dissatisfaction of this 
+          proceeding to Major General Hunter, and to command him upon 
+          pain of his royal displeasure to adhere more strictly to his 
+          instruction for the future. And since the Assembly of Jamaica 
+          have made so bad an use of H.M. indulgence to them in his 
+          abovementioned Instruction, we would further propose that 
+          the Governor should be absolutely forbid for the future to give 
+          his assent to any law imposing duties upon slaves imported 
+          payable by the importer and upon slaves exported, that have 
+          not been sold in the island and continued there for the space of 
+          twelve months : But ye merchants are willing and we have 
+          no objection to their laying duties upon the purchase of slaves 
+          in Jamaica, to be paid by the purchaser, and not by the importer, 
+          provided the South Sea Company and their Factors be exempted 
+          from paying any duties for such slaves as shall be consigned to 
+          them, or which they may purchase there from the traders to 
+          the coast of <placeName ref="#africa" role="secondary">Africa</placeName> in order to fulfill the Assiento contract. 
+          And should your Lordps. concur with us in opinion with respect 
+          to the future regulation of these duties, we would take leave to 
+          propose that the same might be made a general rule for 
+          <placeName ref="#british_indies" role="indirect">all the Plantations</placeName>, and that Instructions 
+          may be prepared accordingly for H.M. Govrs. of 
+          <placeName ref="#n_america" role="indirect">the several Colonies in America</placeName>. [C.O. 138, 17. pp. 344-349.]</p>
+      </div>
+      <div>
+        <dateline><num>383.1</num><date when="1731-08-26">August 26</date></dateline>
+        <p><placeName ref="#en_lon_hampton" role="from">Hampton Court</placeName>. 
+          [[ed. - misnumbered in CSPC; not actually related to #383]]
+          John Coureand to Governor Belcher. Encloses following by order 
+          of the Duke of Newcastle. Signed, Jno. Coureand. Annexed, 
+          383. i. H.M. Additional Instruction to Governor Belcher. 
+          Hampton Court, 13th Aug. 1731. As proposed Aug. 10, supra. 
+          Copy, Signed, G. R. [C.O. 324, 36. pp. 282-284.]</p>
+      </div>
+      <div>
+        <dateline><num>384</num><date when="1731-08-26">August 26</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>. 
+          Mr. Wheelock to Robert Lowther, late Governor of 
+          <placeName ref="#bb" role="direct">Barbados</placeName>. Enquires what the value of the perquisites of a 
+          Governor of Barbados may be, one year with another. [C.O. 29, 15. p. 231.]</p> 
+      </div>
+      <div>
+        <dateline><num>385</num><date when="1731-08-26">August 26</date></dateline>
+        <p>Mr. Yeamans to Mr. Wheelock. Submits a book 
+          containing the collection of the general Acts of the 
+          <placeName ref="#leeward" role="direct">Leeward Islands</placeName> and of the Acts of Antigua, which was returned to
+          <placeName ref="#ag" role="direct">Antigua</placeName> for a public attestation at the request of the Board. 
+          A law is now subjoined confirming and establishing this 
+          collection, but relates only to the acts of Antigua, as it was 
+          concieved that the general laws could not be attested by the 
+          Legislature of Antigua etc. Continues:--"It was purely owing 
+          to recommendation of my Lords Commissioners signified to 
+          the Councill and Assembly, I think, by the late Governor Hart, 
+          and the assurances that were given them that the collection 
+          when compleated should be printed at H.M. expence, that the 
+          island was at first induc'd to undertake this troublesome and 
+          chargeable work." Prays that the matter may be considered, 
+          and the law subjoined recommended for confirmation. Signed, John Yeamans. 
+          Endorsed, Recd., Read 26th Aug., 1731. 2 1/2 pp. [C.O. 152, 19. ff. 64-65v.]</p> 
 
-
-
-218 COLONIAL PAPERS. 
-
-
-
-1731. [353] 
-
-is granted by the Charter to the inhabitants of the 
-[Massachusetts Bay], and that thereby power is given to the 
-Governor and General Assembly to make grants of lands within 
-the said limits, subject to a provisoe that no such grants should 
-be of any force until H.M. etc. should have signified his approval 
-etc. It appears also by the said Charter that the rights of 
-Governmt. granted to the said Province extend over this tract 
-of land. It doth not appear to us that the inhabitants of the 
-said Province have been guilty of any such neglect or refusal 
-to defend this part of the country as can create a forfeiture of 
-that subordinate right of Government of the same, or of such 
-property in the soil as was granted to them by the said Charter ; 
-it being sworn by several of the affidavits that a fort was erected 
-there and for some time defended at the charge of the Province, 
-and that magistrates and Courts of Justice have been appointed 
-within this district, and that one of the Council of the Province 
-hath always been chosen for this division ; and tho' it is certain 
-that this part of the Province hath not been improved equally 
-with other parts thereof, yet considering the vast extent of 
-countrey granted by this Charter, and the great improvements 
-made in several parts of it, we conceive that will not create 
-a forfeiture, because in such cases it is not to be expected that 
-the whole should be cultivated and improved to the same 
-advantage, and whether there hath been such a neglect or 
-non-user of any part as may amount to a forfeiture must be 
-judged of, not upon the particular circumstances attending that 
-part only, but upon the circumstances of the whole. And if 
-the Province had incurred any forfeiture in the present case, 
-no advantage could be taken thereof but by a legal proceeding 
-by scire facias to repeal their Charter, or by inquisition finding 
-such forfeiture. As to the question stated in the case upon 
-the effect of the conquest of this tract of countrey by the French, 
-and the re-conquest thereof by General Nicholson, we conceive 
-that the said tract not having been yielded by the Crown of 
-England to France by any treaty, the conquest thereof by the 
-French created according to the law of Nations only a 
-suspension of the property of the former owners and not an 
-extinguishment of it, and that upon the re-conquest by General 
-Nicholson all the ancient rights both of the province and of 
-private persons, subjects of the Crown of Great Britain, did 
-revive and were restored jure post liminii. This rule holds the 
-more strongly in the present case in regard it appears by the 
-affidavits that the Province joined their forces to those which 
-came thither under General Nicholson in this service. For 
-these reasons we are of opinion that the said Charter still remains 
-in force, and that the Crown hath not power to appoint a 
-particular Governour over this part of the Province, or to 
-assign lands to persons desirous to settle there ; nor can the 
-Province grant these lands to private proprietors, without the 
-
-
-
-AMERICA AND WEST INDIES. 219 
-
-
-
-1731. [353] 
-
-approbation of the Crown according to the Charter. As to the 
-case of the petitioners, who insist upon particular titles in 
-themselves to certain parcels of land lying within the district 
-in question, etc., we find by the deeds etc. produced by them, 
-that several of the petitioners and those under whom they claim 
-have had conveyances made to them of several of the said 
-parcels of land, some from the Council of Plimouth, which was 
-constituted by Charter in the reign of James the first and 
-whose grants are confirmed by the Charter of King William 
-and Queen Mary, and others from Indians pretending to be 
-owners thereof, under which grants large sums of money appear 
-by the affidavits to have been laid out in endeavouring to settle 
-and improve the lands therein comprized, several of which 
-sums were expended not many years agoe particularly a sum 
-of 20001. by Sir Bibye Lake in 1714, and other sums by others 
-of the petitioners in 1719 and 1720. And tho' these settlements 
-and improvements have been in great measure interrupted 
-and defeated by frequent wars and incursions of the Indians, 
-yet several of the petitioners or their tenants appear to 
-be still in possession of some parts of the said tract of 
-land. Some objections were made before as to the nature 
-of the grants and conveyances under which the petitioners 
-claimed, and to the manner of deducing down their titles ; 
-But we conceive that in questions of this kind concerning 
-rights to lands in the West Indies, and upon enquiries 
-of this nature, the same regularity and exactness is not 
-to be expected as in private suits concerning titles to 
-lands in England, but that in these cases the principal 
-regard ought to be had to the possession, and the expences the 
-partys have been at in endeavouring to settle and cultivate 
-such lands. Therefore upon the whole matter, we are of opinion 
-that the petitioners, their tenants or agents ought not to be 
-disturbed in their possession or interrupted in carrying on their 
-settlements in the lands granted to them within the district 
-in question. Signed, P. Yorke, C. Talbot. Endorsed, Reed. 
-14th Aug., Read 1st Sept., 1731. 23 pp. Enclosed, 
-
-353. i. Case of claim of the Massachusetts Bay to the tract 
-
-of land referred to in preceding. 2f pp. 
-353. ii. Petition of Sr. Bibye Lake to the King, relating to the 
-
-right to land near R. Kennebeck, where Col. Dunbar 
-
-has lately made a settlement. Endorsed, Reed. 13th 
-
-May, 1731. Copy. 10% pp. 
-353. iii. Petition of Samuel Waldoe etc. to the King, relating 
-
-to the right to land near R. Penobscot, where Col. 
-
-Dunbar has recently made a settlement. 13 j pp. 
-353. iv. Deposition of Jeremiah Dunbar, 7th Jan., 1730 
-
-(1731). In January last he travelled, as Depty. 
-
-Surveyor of H.M. Woods, a great many miles between 
-
-R. St. Croix and R. Kennebeck, and did not see one 
-
-
-
-220 COLONIAL PAPERS. 
-
-
-
-1731. [353. iv] 
-
-house or anything done towards improving and 
-setling the said country, except what was built and 
-done by the several familyes which went over thither 
-with Col. Dunbar in Oct. 1729 etc. Signed, Jer. 
-Dunbar. f p. 
-
-353. v. Deposition of Jeremiah Dunbar, 26th Jan., 1730 
-(1731). In Jan. last deponent received following 
-paper from Col. Dunbar, and believes that unless the 
-lands between St. Croix and Kennebeck rivers are 
-speedily allotted to them, they will leave etc. Signed, 
-Jer. Dunbar. f p. 
-
-353. vi. Petition of setlers on E. side of Kennebeck R. to Col. 
-Dunbar, " Commander and Settler of H.M. Provance 
-of Georgia." Pray him to grant them a township 
-E. of Kennebeck R., to be laid out this fall, that they 
-may make clearings and be ready to plant and build 
-houses in the spring etc. 44 signatures. 1 pp. 
-
-353. vii. Deposition of Thomas Coram. Jan. 7th 173'i. 
-Narrates history of the fort at Pemaquid etc. and the 
-taking and retaking of that tract of land v. C.S.P. 
-supra. 3 pp. Signed, Thomas Coram. 3 pp. 
-
-353. viii. Deposition of Sir Bibye Lake. 4th Feb., 173r- 
-Succeeding with Josiah Walcott and Col. Hutchinson 
-to the lands (described) purchased of the Indians, E. of 
-Kennebeck river by Major Thomas Clark and Capt. 
-Thomas Lake, they, in 1714, sent over John Watts to 
-settle 100 families there. Deponent advanced 2000/. 
-to Watts for that purpose, who died after building 
-several houses and settling upwards of 20 families 
-there. Mr. Penhallow, marrying his widow, looked 
-over the said settlements in the best manner he could 
-till the Indians destroyed them in 1720, except a 
-house or fortification made by Mr. Watts, being re- 
-pulsed after many attempts to destroy it. This house, 
-together with some others defended by it, is now 
-standing. 11% pp. 
-
-353. ix. Deposition of James Alford, late of Boston but now 
-of London, merchant, Ebenezer Wentworth of Ports- 
-mouth, N.H., now in London, and William Wentworth, 
-ditto, shipwright. The French never made any settle- 
-ment or improvements on the land between Kennebeck 
-river and Nova Scotia. Alford, who was born in 
-Boston and lived there for 30 years till 1728, says 
-there was constantly chosen every year one Councillor 
-for Sagadahock etc. It was owing to the constant 
-wars with the Indians that the Eastern parts of 
-Massachusetts Bay are not settled, etc. Signed, James 
-Alford, Eben. Wentworth, William Wentworth. 1| 
-pp. 
-
-
-
-AMERICA AND WEST INDIES. 221 
-
-1731. 
-
-353. x. Deposition of John Blower, Capt. of one of H.M. 
-Independent Companies at Plymouth, James Erskine, 
-Lt. in Col. Phillips' regiment, and James Alvord 
-(v. No. ix). 13th Jan., 173f. Four regiments raised in 
-New England, but principally by the Massachusetts 
-Bay, took part in the expedition against Port Royal in 
-1710 etc. Signed, John Blower, James Erskine, James 
-Alford. 1 p. 
-
-353. xi. Deposition of Joshua Winslow, of Boston merchant, 
-now residing in London, 21st July, 1731. Deponent 
-accompanied Governor Shute, 1718, into the eastern 
-parts of N.E., to ratify a peace with the Indians at 
-Arrowsick I. He saw there about 40 very good houses, 
-inhabited by English families, one of which was a 
-very strong fortified and walled brick house planted 
-with cannon, in which were placed soldiers commanded 
-by a Captain in the pay of the Province. He under- 
-stood that all the said families held the same under 
-some grant from Sir Bibye Lake and Col. Edwd. 
-Hutchinson and Joshua Winslow. 2| pp. 
-
-353. xii. Deposition of Samuel Penhallow, late of N.H., 
-merchant, and now residing in London. 22nd July, 
-1731. Confirms Nos. viii and xi. In 1718 deponent 
-visited his brother, Capt. John Penhallow at the town 
-of Augusta, als. Smallpoint, who was Justice of Peace 
-and commanded the fort of the said town, and went 
-with him about 7 miles by land to the river Kennebeck 
-which they crossed to Arrowsick Island, where they 
-went to a well fortified brick house then in the 
-possession of Eliza Watts, widow, and did also view the 
-town (called George Town) there, consisting of about 40 
-very good dwelling houses some of which were 
-garrisoned. Capt. John Penhallow has since married 
-the Widow Watts and commanded the said fortified 
-brick house, wherein were placed a number of soldiers 
-under the pay of the Massachusetts Bay. Deponent 
-saw some cattle there belonging to the inhabitants, 
-who held under a grant from Sir B. Lake etc. Signed, 
-Samuel Penhallow. 3| pp. 
-
-353. xiii. Deposition of William Clarke of Boston, Gentleman, 
-now residing in London. 20th July, 1731. Deponent 
-accompanied Lt. Gov. Dummer in 1726 into the Eastern 
-part of N.E., when he went to ratify a peace with the 
-Indians etc. At Arrowsick I. he saw about 20 very 
-good dwelling houses, inhabited by English families) 
-etc. Corroborates preceding. He saw the ruins of a 
-great number of houses in George Town, destroyed by 
-the Indians in the last war. Deponent also visited a 
-place called Richmond, N. of Arrowsick I., on the 
-
-
-
-222 
-1731. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Charles 
-Town. 
-
-
-
-COLONIAL PAPERS. 
-
-[353. xiii] 
-
-River Kennebeck, where he saw a large fort or garrison 
-house fortified with 10 cannon and a number of English 
-or New England soldiers commanded by Capt. Joseph 
-Heath in the pay of the Massachusetts Bay. Signed, 
-William Clarke. 3| pp. 
-
-353. xiv. Deposition of Ebenezer and William Wentworth 
-(v. No. ix). 26th Jan., 173?). The warrs with the 
-Indians were continuous and bloody, but in the 
-intervals attempts at settlement were made by the 
-inhabitants of the Massachusetts Bay etc. William, 
-brother of Ebenezer, lived with Elihu Guninson, a noted 
-shipwright, at a late town called Sheepsgutt near 
-Pemaquid about 40 years since etc. Signed, Ebenezer 
-Wentworth, William Wentworth. If pp. [C.O. 5, 
-873. ff. 84-96, 97, 98, 100-112i;., 118u., 114, 115, 
-116, 117-118, 119, 121-128, 129-130, 131-135U., 
-
-
-
-354. Order of King in Council. Approving draught of Instruc- 
-tion to Governor Belcher to pass the Act for granting 5,4001. for 
-the support of H.M. Governor etc. Signed, Ja. Vernon. Endorsed, 
-Reed. 8th, Read 21st Sept., 1731. 1 p. [C.O. 5, 873. ff. 137, 
-I38v.] 
-
-355. Order of King in Council. Referring to the Council 
-of Trade and Plantations for their report thereon 18 acts passed 
-in the Massachusetts Bay, Feb.-April, 1731, and delivered to 
-the Clerk of the Council in waiting. Signed, Ja. Vernon. 
-Endorsed, Reed. 24th, Read 26th Aug., 1731. f p. Enclosed, 
-
-355. i. List of following Acts, under the public Seal. Boston, 
-14th May, 1731. Signed, J. Belcher, J. Willard, senr. 
-2 pp. 
-
-355. ii. Acts referred to supra. Printed. 2 pp. [C.O. 5, 
-
-873. ff. 70, 71, 710., 78-820., 881;.] 
-
-356. Governor Johnson to the Duke of Newcastle. 
-Encloses answer relating to the executorship of one Albert 
-Muller as required by Lord Townshend, 9th Dec. 1729. Con- 
-tinues : It gives me great pleasure I have been able to obey 
-your Grace's commands in procuring from the General Assembly 
-Mr. Fury's being appointed Agent for this Province, with a 
-sallary of 1001. a year. I am sorry I was not able to procure 
-for him more than the last Agent had etc. Will send publick 
-transactions at conclusion of Sessions. Signed, Robt. Johnson. 
-Endorsed, R. Oct. 15th. 1 p. Enclosed, 
-
-356. i. Andrew Allen to Governor Johnson. 29th May, 
-1731. An account of the administration of the estate 
-of Albert Muller, who under a patent of naturalisation 
-in 1727 purchased a house in Charlestown etc. 1 p. 
-[C.O. 5, 388. ff. 36. (Nos. 10, 11.)] 
-
-
-
-AMERICA AND WEST INDIES. 
-
-
-
-223 
-
-
-
-1731. 
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Philadelphia. 
-
-
-
-357. Order of King in Council. Ordering establishment 
-of office fees for the Board of Trade, (v. 19th May), the Secretary 
-and Clerks to receive no other gratuities. Set out, A.P.C. III. 
-No. 236. Signed, Ja. Vernon. Endorsed, Reed. 24th, Read 
-26th Aug., 1731. If pp. Enclosed, 
-
-357. i. Schedule of fees for Board of Trade, v. A.P.C. III. 
-
-M>. 236. 1 p. [C.O. 388, 80. Nos. 9, 9 i.] 
-
-358. Order of King in Council. Governor Rogers is to 
-deliver up the bond entered into by Governor Phenney etc. to 
-be cancelled etc. (v. A.P.C. III. p. 318). Signed, Ja. Vernon. 
-Endorsed, Reed. 8th, Read 21st Sept., 1731. 4| pp. [C.O. 23, 
-2. ff. 253-255, 256t;.] 
-
-359. Order of King in Council. Approving reports of 
-Committee and Board of Trade and empowering the Governor 
-of New York to make a grant of " the Swamp " to Anthony 
-Rutgers etc. v. A.P.C. III. No. 227. Signed, Jas. Vernon. 
-Endorsed, Reed. 8th, Read 21st Sept., 1731. If pp. [C.O. 5, 
-1055. ff. 196, 196u., 197u.] 
-
-360. Order of King in Council. Approving reports of 
-Committee and Board of Trade, and repealing Act of New York 
-to prevent the taking or levying on specialty s more than the principal 
-interest and cost of suit etc. Signed and endorsed as preceding. 
-1| pp. [C.O. 5, 1055, 198, l9Sv., IQQv.] 
-
-361 . Order of King in Council. Approving report of 
-Council of Trade and Plantations and repealing act of Pennsyl- 
-vania for the establishing of Courts of Judicature etc. Signed, 
-Ja. Vernon. Endorsed, Reed. 8th, Read 21st Sept., 1731. 
-If pp. [C.O. 5, 1268. ff. 19, IQv., 25u.] 
-
-362. Mr. Browne to Mr. Popple. Major Gordon and I have 
-within these few days finished the examinations of witnesses 
-etc. He refuses to give me an answer to my charge, and says 
-these depositions are a sufficient one. However I am preparing 
-some remarks etc. which I doubt not will fully evince the greater 
-part of the depositions of his side to be entirely foreign to the 
-purpose ; and that by the cross examinations on my part they 
-will also appear to be false in every materiall article. Major 
-Gordon took up three months to do what I presume I refuted 
-in two days, and I cannot apprehend what he means by the 
-load of papers you will receive from him, unless to prevent their 
-being read etc. I wait for the opinion of Councill on a clandestine 
-proceeding in Chancery against me, of wch. I was acquitted 
-without knowing it, and could not obtain a copy thereof till 
-within these few days. Prays that the arrival of his remarks 
-may be awaited etc. Signed, J. Browne. Endorsed, Reed. 
-12th Nov., 1731, Read 3rd May, 1732. Holograph. 2 pp. 
-[C.O. 5, 1268. ff. 82, 82v., 8Qv.] 
-
-
-
-224 
-
-
-
-COLONIAL PAPERS. 
-
-
-
-1731. 
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-363. Order of King in Council. Approving representation 
-on Act of Virginia for amending the staple of tobacco and ordering 
-it to lye probationary, the Lords of the Committee being reported 
-that " the subject matter of this act is of very great consequence, 
-as it relates to so principal! a branch of the Plantation trade, 
-as that of tobacco, in which great numbers of your Majesty's 
-subjects are concerned, and as it is not certain whether it may 
-tend to the encreasing or lessening of your Majesty's revenue 
-upon that commodity " etc. Signed, Ja. Vernon. Endorsed, 
-Reed. 8th, Read 21st Sept., 1731. If pp. [C.O. 5, 1322. ff. 
-179, 
-
-
-
-364. Order of King in Council. Approving representation 
-on Act of Virginia for continuing a part of an act for laying a 
-duty on liquors etc., and repealing it accordingly. Signed and 
-endorsed as preceding. 2 pp. [C.O. 5, 1322. ff. 181, 181t>., 
-1820.] 
-
-365. Order of King in Council. Approving report of the 
-Committee for Plantation Affairs (23rd July), and disallowing 
-the Act of Antigua of 1728 to supply the defects of the Act for 
-constituting a Court of Chancery in the absence of the Commander 
-in Chief from the island etc. The Committee reported that 
-they had been attended by Counsel on the petition of the 
-traders to Antigua, and examined some of the inhabitants as 
-to the necessity of such an act, but agreed that there had not 
-been laid before them sufficient reasons for differing in opinion 
-from the Board of Trade. They recommended, for the reasons 
-advanced by the Board, that an Instruction be given to Governor 
-Cosby to recommend to the Assembly the passing an act to 
-repeal so much of the Act of 1715 as restrains the power of the 
-Crown herein, and another Instruction for redressing the 
-inconveniencys complained of as soon as the Assembly shall 
-have past the act of repeal. Instructions were ordered 
-accordingly. Set out, A.P.C. III. pp. 322-325. Signed, Ja. 
-Vernon. Endorsed, Reed. 24th, Read 26th Aug., 1731. [C.O. 
-152, 19. ff. 69-70U., 72v.] 
-
-366. Order of King in Council. Repealing above act of 
-Antigua (1728). Signed, Ja. Vernon. Endorsed, Reed. 8th, 
-Read 21st Sept., 1731. 2 pp. [C.O. 152, 19. ff. 72, 72v., 
-
-
-
-Aug. 12. 
-
-Hampton 
-Court. 
-
-
-
-367. Order of King in Council. Referring following to the 
-Council of Trade and Plantations to examine and report their 
-opinion thereupon. Signed, Ja. Vernon. Endorsed, Reed. 
-21st, Read 24th Aug., 1731. l pp. Enclosed, 
-
-367. i. Petition of several merchants of the City of London, 
-in behalf of themselves and others trading H.M. 
-
-
-
-AMERICA AND WEST INDIES. 225 
-
-1731. [367. i] 
-
-Colonys and Plantations in America, to the King. 
-They have great sums due to them from the 
-inhabitants, and as the laws now stand in some of the 
-Colonys and Plantations, H.M. subjects residing in 
-Great Britain are left without any remedy for the 
-recovery of their just debts, or have such remedy only 
-as is very partiall and precarious, whereby they are 
-like to be considerable sufferers in their property and 
-are greatly discouraged in their trade to America. 
-In severall of the said Colonys and Plantations greater 
-and higher dutys and impositions are laid on the ships 
-and goods belonging to your petitioners and other 
-persons residing in this Kingdom than are laid on 
-the goods and ships of persons inhabiting the said 
-Colonys etc., to the great discouragement of the Navi- 
-gation of Great Britain etc. Pray for relief. Signed, 
-Rd. Harris, Micajah Perry, Hum. Morrice, and 29 
-others. Copy. If pp. [C.O. 323, 9. ff. 68-69i\, 
-7lv.] 
-
-Aug. 13. 368. Governor Johnson to Mr. Popple. Sr. I have received 
-Charles your favour of the 8th of April last and entertain the advice 
-you give me, as I am very well persuaded you mean it as my 
-friend and for my service, and shall in due time recommend to 
-the Assembly what their Lordships of Trade have commanded 
-me, in relation to the summons instead of a capias ; tho I 
-cannot give great hopes they will be prevailed on to alter the 
-law from the present practice of a capias to a summons ; which 
-is indeed (tho so called) no other than a capias, only with this 
-difference, that it brings the defendt. into Court tho not 
-personally served, but by leaving at his habitation, which 
-was attended by many abuses ; many people having had 
-judgments obtain'd against them, without knowing they ever 
-had been summoned ; and consequently in no capacity of 
-making their defence, for oportunitys were taken when people 
-were abroad (perhaps at the Charekie mountains) to thrust a 
-summons under a person's door, and the Marshal swearing he 
-left the summons at the party's dwelling house, was sufficient 
-to proceed against the defendt. ex party ; and so judgmt. went 
-against him for what was charged in the writ, which was always 
-double the debt, and many times actions only of mallice to 
-prejudice anothers credit. The first process in the Courts here 
-were from the first settlement until the year 1713, by a capias 
-only, as in England, when a law was made to proceed by a 
-summons, being limited to two years, it then returnd to the 
-old way of a capias, and so continued until 1720, when the 
-summons law was again revived, but the aforementioned incon- 
-veniencies being found in it, it was again repealed in 1726 and 
-so continues. What their Lordps. mean by the first process 
-
-Wt. 441 C.P. XXXIIIV 15 
-
-
-
-226 COLONIAL PAPERS. 
-
-
-
-1731. [368] 
-
-in England being supposed to be a summons is (I suppose) no 
-other than a demand of the debt ; but here the summons was 
-a copy of the capias or writ, which being left at the house of 
-the defendt. was to have the same effect as the writ personally 
-served ; which I am afraid the people here will never again 
-consent to. The Assembly of both Houses have now passd 
-a law for regulating the Jurys, in which was proposd to be a 
-clause obliging the plaintiff to try his suit against the defendt. 
-at the Precinct Court where the defendt. lived ; which was the 
-law and with great difficulty has been thrown out of the bill ; 
-and the action is now triable where the plaintif pleases ; which 
-has very much lessend the authority of the precinct Courts, 
-to the great satisfaction of the merchants, and trading people 
-here, and will be of great ease and advantage to the Marshall, 
-in the execution of his office, with which I hope they will be 
-satisfyed at present, and they may be assured I shall impartially 
-espouse their interest when it is founded on justice and publick 
-credit. The sessions is now almost at an end at the conclusion 
-of which I shall do myself the honour of acquainting their 
-Lordships with what has been transacted, which I hope will be 
-to their satisfaction. I shall on all occasions shew a due regard 
-to any of your friends, and endeavour to convince you that I 
-am, Sr., Your most humble servant, signed, Robt. Johnson. 
-Endorsed, Reed. 16th Oct., Read 16th Nov., 1731. 2 pp. 
-[C.O. 5, 362 ; and (abstract) 5, 406. fo. 28, ff. 38, 38i;., 
-
-
-
-[Aug. 15]. 369. R. Mountague to Mr. Delafaye. On behalf of 
-Governor Rogers. Communicates proceedings against Mr. 
-Colebrooke etc. (v. 10th June), and in case any complaints are 
-made, proposes to acquaint him with details of his offences, 
-etc. Signed, R. Mountague. Endorsed, Aug. 15, 1731. 
-Addressed. 1| pp. [C.O. 23, 14. ff. 195, 195*;., 196u.] 
-
-Aug. 16. 370. Minutes of Privy Council. The further report of the 
-Hampton Board of Trade, Aug. 11, concerning the two regiments at 
-Jamaica was read, and extracts of letters to Col. Cope from 
-the late Lt. Col. Townshend and Lt. Col. Cornwallis with a 
-message, inclosed, from the Assembly to the Council of Jamaica. 
-Their Lordships are humbly of opinion, that it may be for 
-H.M. service, that the two regiments be sent for home ; but 
-that in order to provide for the security of the island, Lt. Col. 
-Cornwallis, the Commanding Officer in either of the two 
-Regiments, be directed to review the two Independant Com- 
-panies there, and see that they be compleated by draughts, to 
-be made in proportion, out of both the Regiments that are to 
-come home, and as an encouragement to the soldiers that 
-shall be thus turned over, a bounty of Wl. a man be given them ; 
-That the Governor be directed, to induce the Assembly to give 
-
-
-
-AMERICA AND WEST INDIES. 
-
-
-
-227 
-
-
-
-1731. 
-
-
-
-Aug. 16. 
-
-Whitehall. 
-
-
-
-Aug. 17. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 18. 
-
-Portsmouth, 
-
-New 
-Hampshire. 
-
-
-
-[370] 
-
-all fitting encouragement for engageing the private men in 
-the said two Regiments to settle, with their families, in the 
-island, and that a proper discharge be given to such of them 
-as shall be willing to settle there ; But that the soldiers should 
-have their option, whether they will settle as inhabitants, or 
-go into the Independant Companies ; and that for the 
-Governor's direction, in the execution of these orders, copys 
-be sent him of ye several reports of the Board of Trade on this 
-head. 1| pp. [C.O. 5, 36. ff. 24, 24i>.] 
-
-371 . Mr. Wheelock to Mr. Scrope. Encloses draft of bond 
-for Lt. Governor Ogle (v. 28th July), for which Lord Baltimore 
-has proposed George Ogle, of Dublin, and John Broughton of 
-Westminster as sureties. Annexed, 
-
-371. i. Form of bond referred to in preceding. [C.O. 5, 
-
-1294. pp. 34-42.] 
-
-372. Duke of Newcastle to Governor Belcher. Mr. William 
-Shirley a very sensible man, and a friend and neighbour of mine 
-in Sussex, who was bred to the law, in which he is very well 
-skilled, going to New England to settle and to follow his 
-profession there, I trouble you with this letter by him, to 
-recommend him to your protection, and to desire that you will 
-give him all the countenance and assistance that may lye in 
-your power, which I shall acknowledge as a particular obliga- 
-tion ; and it would be an additional favour, if you could 
-suggest anything by which I might further contribute to his 
-encouragement. Signed, Holies Newcastle. [C.O. 324, 36. 
-p. 307.] 
-
-373. Lt. Governor Dunbar to Mr. Delafaye. Refers to 
-letter of 15th July. Would write oftener to the Duke, but 
-fears to be troublesome etc. " People, tho' seemingly Saints 
-in New England, have little regard to truth when straining of 
-it will serve their interest, and my imploymt. is so obnoxious 
-to them, haveing never before been under any restraint, that 
-they would stick at nothing to get me removed. I defye them 
-all to assigne any true cause for it, and I hope his Grace will 
-not regard their mallice ; Here is a glareing fresh instance of it 
-as well as their disobeying H.M. Comn. to me as Lieut. 
-Govr. I scarce expect it to be believed, I need not comment 
-upon it ; My brother will wait upon you and shew you some 
-other authentick papers to explain it etc., to be laid before His 
-Grace," etc. Signed, David Dunbar. Endorsed, R. Oct. 6. 
-Holograph. \\ pp. Enclosed, 
-
-373. i. Lt. Governor Dunbar to Governor Belcher. Ports- 
-mouth, N.H., Aug. 16, 1731. He did not intend to 
-answer his letter of 2nd inst., as it was impossible 
-to do so, and keep within the bounds of the respect 
-he would pay to his Commission, but he then little 
-
-
-
-228 COLONIAL PAPERS. 
-
-1731. [373. i] 
-
-
-
-imagined what had come at the same time, though it 
-has been the town talk ever since. He was very angry 
-with the Gentleman who told him he had sent such 
-orders to Capt. Walton etc. (v. encl. ii, iii), because he 
-thought it an idle, ridiculous story, but upon being 
-told that there might be something in it, he hired a 
-boat and went to the town of Newcastle etc. Continues : 
-I went to a publick house, and sent for the Captain 
-of the Fort etc. Upon his telling me your Excellency's 
-orders, I desired to see them, which he refused, until 
-I said I had a right to see you, and should not regard 
-them until I did ; the Captain thereupon sent for 
-them, and left me, to go to the fort, the gate whereof 
-he shut, and put his garrison, consisting of two men, 
-under arms, I waited some time for his return and for 
-the man he had sent for your Excellency's letter, and 
-neither coming, I walked towards the fort, in the same 
-dress and posture I always walk in, with my sword 
-in my belt and my cane in my hand. I went alone 
-to the gate and knocked with my cane etc. The 
-Captain said I should not enter except I would go as 
-a private man etc. I insisted upon going in as Lieut- 
-Governour, and commanded him to read H.M. 
-Commission to me, which he positively refused, saying 
-he would obey H.E.'s orders etc. All this was in the 
-hearing of the [three] gentlemen [who had accompanied 
-him], and 40 or 50 fishermen, and others belonging to 
-the towne. The Captain then ordered your 
-Excellency's orders to be read aloud etc. I desired 
-an attested copy, which favour was granted etc. The 
-Captain then opened the gate and invited me to walk 
-in as a private gentleman etc. Although contrary 
-to H.M. Commission, such was his submission to H.E.'s 
-commands that he did not enter, " tho a thousand 
-men might drive sheep into the fort at any place but 
-the gate," and though he believes it was his duty to 
-have put the company of militia of the town of 
-Newcastle under arms and arrested the Captain for 
-rebellion, but his chief motive being to preserve peace, 
-he hopes a favourable construction will be placed at 
-home upon his not doing so. Continues : After this 
-I do not take it that I can stay here with safety, I am 
-sure I cannot with honour, for all your friends and 
-some in the Commission of the Peace say, that since 
-this order to Collo. Walton, my commission is super- 
-seded or suspended, for, as by it, he is to receive no 
-orders from any but your Excellency, of consequence 
-others are not ; that fort etc. was always part of the 
-perquisites of my predecessors, and the Province 
-
-
-
-AMERICA AND WEST INDIES. 22!) 
-
-1731. [373. i] 
-
-built an apartment in it where several of them have 
-lodged when they tho't fit, and tho' H.M. Commission 
-gives me all rights, privileges, profits, perquisites and 
-advantages to the same belonging, I never made any 
-pretention to this, purely to avoid disputes, but I 
-now acquaint your Excellency that I think it my 
-due, as well as 200/. per annum this currency of the 
-600/. salary setled by the Province, out of which my 
-predecessor always reced. so much from yours, as was 
-intended by the General Court, who setled it. I had 
-no tho't of ever mentioning this to you, but that this 
-most extraordinary step of yours puts me upon it. 
-And to convince you that no body is infallible, I send 
-you a copy of your dedimus etc., whereby you gave a 
-power to administer oaths which are abrogated by 
-Act of Parliament. Your Excellency has likewise 
-found fault with me for not administering oaths upon 
-Commissions which you yourself have allowed to be 
-so deficient as to make out new ones, etc. Will make 
-no complaint home, if he is given reasonable satis- 
-faction etc. Signed, David Dunbar. Copy. 3 pp. 
-
-373. ii. Governor Belcher to Collo. Walton, Capt. of the 
-Fort [? William and Mary]. Boston. Aug. 2, 1731. I 
-observe you have' (with Collo. Sherburne) administered 
-the oaths to Capt. Wybird, which is well, and that 
-the Lt. Governor had made a pretence to suspend the 
-Secretary, which I now write him is out of his power, 
-and I order the Secretary to go on chearfully in his 
-office, notwithstanding that insignificant paper he 
-signed, as I do you again to abide by the commission 
-I gave you for Fort Mary, and not to suffer the least 
-insult on your commission from any person whatsoever, 
-nor to let any one come into the fort but those that 
-come in a curteous civil manner, I mean that the 
-Lieutenant Governor nor any others should come by 
-way of command or in derogation to the orders I have 
-given you etc. The Lieut. Governour writes me he 
-shall order you to attend continually at the fort. I 
-would have you always remember you are to receive 
-no orders but from me, and mine are to do in your 
-command of the fort as the late Lieut. Governour did, 
-for you shall be present or absent from your command, 
-as I shall judge proper. Signed, J. Belcher. Copy. 
-Overleaf, 
-
-373. iii. Certificate that Col. Walton showed above to Col. 
-Dunbar. Newcastle, Aug. 14, 1731. Signed, Benning 
-Wentworth, Theodore Atkinson. The whole, 1| pp. 
-[C.O. 5, 10. ff. 88, 881;. 89i>.-91 (without end. ii, iii) ; 
-and (end. ii., iii., only) 5, 898. No. 93.] 
-
-
-
-230 COLONIAL PAPERS. 
-
-
-
-1731. 
-
-Aug. 18. 374. Lt. Governor Dunbar to Mr. Popple. Refers to 
-Portsmouth, papers sent by Capt. Bax (v. llth July) and copies by way of 
-
-Hampshire. Cork and some new ones to his brother to be laid before the 
-Board. Continues : I take that method because ye sight of 
-so many at once might frighten you. Repeats part of preceding 
-covering letter and encloses copies of Nos. i, ii preceding. 
-Continues : I am very apprehensive I shall be blamed for 
-submitting to the orders etc. I shall be impatient to have an 
-answer to this etc. Requests him to assist his brother in putting 
-these papers into a method to be laid before the Board. Among 
-them is the case and dispute between the Governor and Theodore 
-Atkinson who has acted two years as Collector. The Com- 
-mission of the Peace has not yet been amended. Six townships 
-are still without Magistrates. Encloses a dedimus from the 
-Governor to administer oaths wch. are contrary to law and his 
-Instructions. " All these mistakes are (I believe) chiefly oweing 
-to a little pert Attorney here, who is now Secretary of the 
-Province, a Judge and Justice of the Peace, and H.E.'s chief 
-Counsellour, it is to this gentleman that the divisions and 
-confusions in this small province are owing " etc. Repeats 
-complaint against Act, due to his persuasion and pique to this 
-town, for removing the Courts from Portsmouth to three 
-country towns. People are obliged to travel 100 miles in 
-Maine to York, the Coilnty town, which is within 7 miles of 
-Portsmouth. Hopes the act will be disallowed. " He was 
-forced to promise to emit mony, I mean bills of credit here, 
-to get their consent to pass that act, and he then told them he 
-could not signe the mony bills without orders." There are 
-daily complaints about the boundary lines. He hopes- H.M. 
-will explain the Charter etc. Continues : " Here is a report 
-that Mr. Secretary Waldron and his emissarys are getting a 
-number of names to a petition in some private manner by way 
-of contradiction to the representation I was desired to send 
-to you, and that was very publique, and 500 names could have 
-been got, but I sayd there was no occasion. It is a melancholly 
-circumstance to be at such a distance from home as to be under 
-a necessity of lying long under distress and difficulty s " etc. 
-Prays him to dispatch answers etc. Signed, David Dunbar. 
-Endorsed, Reed. 28th Sept., Read 13th Oct., 1731. Holograph. 
-4 pp. [C.O. 5, 873. ff. 154-155i;., 156u.] 
-
-375. Address of the Upper and Lower Houses of Assembly 
-of Maryland to Benedict Leonard Calvert, Lt. Governor of 
-Maryland. Annapolis, 19th Aug. 1731. Reply to queries 
-as to the trade and produce of the Province transmitted by 
-the Council of Trade and Plantations. Continue : For want 
-of an opportunity to examine the books of the Officers of the 
-Customs, we cannot be so particular as we wish to be etc. 
-Continue: There are very few trading vessels belonging to 
-
-
-
-AMERICA AND WEST INDIES. 231 
-
-
-
-1731. [375] 
-
-the inhabitants, several of the twelve counties having not one 
-etc. We could not learn any more than one small vessel has 
-gone from this province (belonging to the inhabitants thereof) 
-to any of the foreign Sugar Plantations ; a few vessels have 
-gone to Madera, and others of the Portuguese islands, one, two 
-or three in a year, and for several years none. This Province 
-has very little trade with any part of Europe beside Great 
-Britain, and that confin'd to a few voyages by three or four 
-small vessels in several years past to Lisbon, which carried 
-grain and lumber thither. All the commodities ever exported 
-to, or imported from any of the foreign Plantations, belonging 
-to the French and Dutch, by the inhabitants of this Province, 
-that we could learn, has only been the lading of the small vessels 
-already mention'd, which carried lumber and provisions, and 
-brought back mellosses ; save that sometimes when vessels 
-have been disappointed of their lading in H.M. Colonies, they 
-have taken in some salt in the said foreign Plantations. The 
-trade to Madera and other Portuguese islands has been more 
-considerable : sometimes one small vessel and sometimes two 
-or three, but never more that we could learn (belonging to this 
-province) have gone thither in a year ; which vessels have 
-carried wheat, Indian corn and other provisions, and staves, 
-and brought back Madera and other wines of the produce of 
-those islands and salt. As to vessels belonging to other parts of 
-H.M. Dominions, whose ladings are purchased in this province, 
-we cannot give any account of them. The climate here is 
-moderate, the soil productive of all sorts of grain, and many 
-sorts of fruit, and has great quantities of valuable timber ; and 
-in many places good pasturage ; and the rivers and bay full 
-of great variety of fish, especially herrings : But the inhabitants, 
-ever since the first settlement of this country, have applied 
-themselves principally to the making tobaco, which is our only 
-staple, neglecting manufactures and tillage, when tobaco has 
-been valuable ; the produce of that commodity alone being 
-then sufficient to supply the people with cloathing, and other 
-necessaries, in great plenty, from Great Britain, with an overplus 
-in mony, which has always been lodged there ; not only as the 
-securest, but the most advantageous repository, whence the 
-people cou'd be supplied with every thing for their own use or 
-for traffick ; hence it has happen'd that the people have receiv'd 
-very little advantage from a moderate climate, and a fertile 
-and fruitful soil, besides provisions, and the produce of their 
-tobaco, which for several years past has been really so very low 
-that it would not supply the inhabitants with one half of the 
-necessaries of life ; and the expectation of an amendment has 
-occasion'd their continuing in the old beaten tract so long, 
-that they are now reduc'd to an incapacity to carry on any 
-considerable trade or manufactures. It is true, that extreme 
-want and necessity have driven some of the poorer sort of people 
-
-
-
-232 
-
-
-
-COLONIAL PAPERS. 
-
-
-
-Aug. 19. 
-
-Mercht. 
-Taylors Hall. 
-
-
-
-1781. 
-
-in several parts to make some small quantities of coarse linens 
-and woollens for their own particular use, without which they 
-must have gone naked and been starved ; of these manufactures 
-we are confident there are none exported ; and that very few 
-(if any) make enough of them to supply their own necessities ; 
-As to the value of other commodities of the growth and 
-production of the country, annually exported besides tobaco, 
-we cannot make any estimate. Those concern'd in the 
-exportation, and who reap the advantages arising from it, being 
-such as come from other parts to purchase what the people 
-can spare, which their necessities oblige them to part with at 
-very cheap rates. Thus, may it please your Excellency, we have 
-given a full state of the circumstances of the country concerning 
-its trade, as we could : and we can assure you that we have 
-not represented it's condition worse than it really is. Signed 
-by all the Members of both Houses. A true coppy of the 
-Journalls of the Upper House transmitted to me. Signed, 
-Baltimore. Endorsed, Reed, (from Ld. Baltimore) Read 1st 
-Feb., 173|. 5| pp. [C.O. 5, 1268. ff. 70u.-73u.] 
-
-376. Mr. North to Mr. Popple. Several of the petitioners 
-(t>. 5th Aug.) intend to wait on the Board on Wednesday next 
-& ^ eleven according to the appointmt. when I last attended etc. 
-Signed, Geo. North. Subscribed, Memorandum of verbal 
-acceptance. Endorsed, Reed. 19th Augt., 1731. 1 p. [C.O. 
-28, 22. ff. 73, 74, 740.] 
-
-Aug. 20. 377. Lt. Governor Dunbar to Mr. Popple. Has received 
-Portsmouth, reply from Governor Belcher (v. Aug. 18), justifying his order 
-for shutting him out of the Fort etc. Continues : This order 
-of the 18th of July is grounded upon falsity s reported to him 
-by a poor old creature formerly one of this country Collonels, 
-and now made Capt. of the Fort, to whom I solemnly declare 
-that I sayd no more than, that the command of the Fort, and 
-any little perquisits attending it, allways belonged to the 
-Leiut. Governours, and I had a right by my Comn. to 
-everything enjoyd. by them, he replyed he had H.E.'s Com- 
-missn. to be Capt of it, and hoped, as he was very antient I 
-would not deprive him of the small perquisits he had by it, my 
-answer was, that if it was my right as Lieut. Governour I would 
-either have it, or he should own the obligation to me, that it 
-was not worth disputeing, and that if I could not have it without 
-a comission from Governour Belcher, I would not have it at 
-all, for I would take no commission from him etc. Mr. Walton 
-has, it seems, made something more of it etc. You see his 
-Excellency thanks him for a list of the restless and uneasy, I 
-wish my Lords would ask Coll. Shute, Mr. Walton's character, 
-it is such that nobody here would hang a cat upon his evidence, 
-and for this reason some former Govrs., particularly Shute had 
-
-
-
-AMERICA AND WEST INDIES. 233 
-
-
-
-1731. [377] 
-
-his name put far back in the list of the Council, yt. he might 
-have no chance of ever commanding the Province ; Many 
-people from Boston and the late Governour Dummer have 
-sent me their opinion, which also aggrees with the gentlemen 
-of best note here, that by the last clause in the chief Governour's 
-Commission, he has no power but when he is actually present 
-in the Province ; agt. that paragraph he has left the 36th 
-article of his instructions upon the Secretary's files etc. Fears 
-he will be blamed for giving in to him, but could not avoid it 
-without violence. As he has occasion in other places, will go 
-hence till he receives further orders. If Mr. Belcher is judged 
-in the right, begs to be excused serving under him. " I am not 
-the onely man by a great many he uses ill ; he never darst 
-offer the least affront to man until now that he lords it over all, 
-for he has formerly been chastized by cane, whip and foot, 
-without resenting it, wch. makes it the more griveous to be ill 
-used by such a man etc., by his carriage and style he seems to 
-think himself King. He does not permit the Lieut. Governour 
-of ye Massachusetts, tho' one of his own recommendation, to 
-sitt in Council with him, so that he is quite a stranger to 
-all the busyness of the Province etc. I suppose when he comes 
-here, he will tell me I have no busyness in Council whilst he sitts 
-there, but I will not submit to that etc. I have for some time 
-expected a Comn. for a new Judge of Vice -Admiralty at 
-Boston. I am sure there is a necessity for it etc. I have some 
-time since seized a parcel of masts in Piscatua river at this 
-towne, and intended to try them here but as they were cutt 
-on the other side of the river in the province of Maine, they 
-must be tryed in the Massachusets Govt., upon which I sent 
-to the Advocate Genii, for an opinion and to get a deputation 
-for George Jeffrey Esq. who has long acted and is now Deputy 
-Judge of Vice- Admiralty, to hold a Court on the other side 
-this river etc. Mr. Belcher upon hearing this has prevaild upon 
-the old Judge of Admiralty at Boston, to give a deputation to 
-one Gambling etc. ; this is done on purpose to oppose H.M. 
-interest, Mr. Gambling haveing allways as an Attorny appeared 
-on the other side, and now there will be new cases, and Doctor 
-Cook, Govr. Belcher's chief favourite, will be the first, who 
-haveing in open defyance to authority cutt mast trees far up 
-in Saco River near Casco, I have seized them in boards, as I 
-have done several quantitys in this province etc. I will try 
-what a Court will judge in this case, but now think I have 
-very little chance. Encloses the Governor's orders to me 
-relateing to a Collector, and least I should not give lett passes 
-as he directs, he has sent some blank passes signed by himself, 
-and as he has given orders to the Captain of the Fort to receive 
-no orders from me, I intend they make use of their own papers. 
-I have already mentioned a clandestine petition etc., and I am 
-desired to send vou extracts of former letters to the Province 
-
-
-
-234 COLONIAL PAPERS. 
-
-
-
-1731. [377] 
-
-Agents, signed by the promoters of this petition as a Comittee 
-appointed by the Genii. Court for yt. purpose, to shew you that 
-it is no new chimera, as is now alledged. I am very sensible 
-I must be thought too troublesome to my Lords Commissioners 
-etc. If my Lords will be pleased to part Mr. Belcher and me 
-it will save much of it. I send you one of the clearances of his 
-new Collector, and an impression of a seal which will make any 
-vessel lyable to a seizure, as all Custome Houses in H.M. 
-Dominions know each others seal, this I have told the new 
-Collector, and that he is not quallifyed by law to act as you'l 
-see in your pacqt. by the oaths wch. have been administerd to 
-him, but we live under a Governour that will salve all mistakes 
-with a volo and jubeo" etc. Signed, David Dunbar. Endorsed, 
-Reed. 28th Sept., Read 13th Oct., 1731. Holograph. Ad- 
-dressed. 6f pp. Enclosed, 
-
-377. i. Warrant by Governor Belcher impowering Shadrach 
-Walton and Henry Sherburne to administer the oaths 
-of allegiance and supremacy, the abjuration oath and 
-the office oaths to any person hereafter commissionated 
-etc. 3rd Aug., 1731. Signed, J. Belcher. Same 
-endorsement. Copy, certified by, Richd. Waldron, 
-Secretary, f p. 
-377. ii. Copy of Governor Belcher's 38th Instruction. Same 
-
-endorsement. 1 p. 
-
-377. iii. Lt. Governor Dunbar to Governor Belcher, 16th 
-Aug. Copy of Aug. 18 encl. i. Same endorsement. 
-3pp. 
-
-377. iv. Governor Belcher to Capt. Walton. Boston, July 
-18, 1731. I have yours before me of 16 currant and 
-am apt to think the strange appearances you mention 
-will soon vanish into smoke, and the people will come 
-to themselves, and believe who have designs to hurt 
-and ruin them, and who are their friends. I thank 
-you for a list of the restless and uneasy. If some 
-people might enjoy all the places of profit and honour 
-in the Province, as they have for many years past, 
-they wou'd be well content. But I think it time and 
-very reasonable some other families shou'd share in 
-the advantages of the Government. I particularly 
-observe these words in your letter " As for the fort 
-your Excellency has been pleased to favour me with 
-the Leiut. Govr. says he shall never accept your 
-Commission for it, for that he says he looks upon with 
-contempt, but swears nobody shall command there 
-but a commission from himself." Since the Leiut. 
-Govr. does not know his duty or is not willing to 
-practice it my order is that you abide by the Com- 
-mission, I have given you, and not suffer him, nor 
-any other person to come into the fort, or have any- 
-
-
-
-AMERICA AND WEST INDIES. 235 
-
-
-
-1731. [377. iv] 
-
-thing to do with it, but by such orders, as you receive 
-from me from time to time. As to the complaint sent 
-home against me in the ship that sail'd from your 
-river the 15th currt., I shall laugh at all they can 
-say, if they don't lye. The common complaint has 
-been that New Hampshire is not able to support a 
-Government in the present circumstances, how can 
-they then pretend to be an independant Government. 
-For 30 odd years that Province has been under the 
-same Governor with the Massachusetts, how comes 
-it then, all on a sudden to be necessary to have a new 
-regulation ? Because some men out of office want 
-to be in etc. Signed, J. B. Same endorsement. Copy, 
-certified by J. Belcher. If pp. 
-
-377. v. Duplicate of Aug. 18. Nos. ii, iii. 
-
-377. vi. Deposition of Benning Wentworth and Theodore 
-Atkinson. Portsmouth, Aug. 18, 1731. Describe Col. 
-Walton's refusal to allow Lt. Gov. Dunbar to enter 
-and view Fort William and Mary. Signed, Benning 
-Wentworth, Theodore Atkinson. 4 pp. 
-
-377. vii. Impression of Seal of Arms of New Hampshire sent 
-to Capt. Wybird for a Custom House Seal by Governor 
-Belcher. Aug. 18, 1731. Signed, David Dunbar. 
-Same endorsement. 1 p. 
-
-377. viii. Governor Belcher to Lt. Gov. Dunbar. Boston, 
-16th Aug., 1731. The post being here (who came 
-away the day after your Honour's of 12th present) 
-and bringing me no further account of the Indians 
-you mention, I hope they were got together on no other 
-account than what Collo. Harman intimated. Sr. I 
-believe I have some time since notifyed you of my 
-appointing Richard Wibird Esq., Collector of New 
-Hampshire, since which I wrote the late Deputy 
-Collector that I had sent a dedimus for administering 
-the oaths to Capt. Wibird, and expected his conforming 
-thereto, and in answer he wrote me, he wou'd neither 
-deliver the seal of office, nor the instructions he had, 
-and since that refused to do it on a special warrant 
-I sent him, and has also presum'd to give clearances 
-as a Collector, and the present Collector writes me, 
-as well as the Capt. of Fort William and Mary, that 
-you have given passes for vessels cleared by him, and 
-to some of them that have not cleared at the Naval 
-Office. I hope those who have been advisers in the 
-matter, especially to the poor men who have violated 
-the Acts of Trade in not clearing at the Naval Office, 
-will make good to them the damage and difficulties 
-they may have run themselves into. As to the late 
-Deputy Collector, he's not worth my further notice 
-
-
-
-236 COLONIAL PAPERS. 
-
-
-
-1731. [377. viii] 
-
-at present. But to prevent all breaches of the Acts 
-of Trade for the future, and loss of the subjects' 
-estate, or any interruption to the trade, I once more 
-tell your Honour, that I have appointed Richard 
-Wibird etc. It is my order that you be at all times 
-aiding and assisting him, and sign no pass for any 
-vessel to the Capt. of the Fort without mentioning 
-therein, the said vessel's being duly cleared by Richard 
-Wibird Esq., Collector of New Hampshire. Same 
-endorsement. 2 pp. 
-
-377. ix. Clearance of the sloop Dimont from New Hampshire 
-to Newfoundland. 20th Aug., 1731. Signed, Thos. 
-Wibird, Depty. N. Officer, R. Wibird, Coll. Same 
-endorsement. Printed form. 1 p. 
-
-377. x. Copy of last clause but one of Governor Belcher's 
-Instructions, assigning his powers to the Lt. Governor 
-in his absence out of the Province etc. Same endorse- 
-ment. | p. 
-
-377. xi. Governor Belcher to Lt. Governor Dunbar. Boston, 
-18th Aug., 1731. Benjamin Akerman brought me 
-your letter this morning about 11 o'clock I can't 
-really say whether 4| minutes before or after, tho' 
-these niceties are great things with you, or you would 
-not think my mistaking the name of the Fort worth 
-mentioning, and to convince you that infallibility is 
-not your talent, I send you a copy of Capt. Husk's 
-commission only to show you what you writ under it, 
-and to know whether any man living can tell the 
-day or year you administred the oaths to him, but 
-these are trifles I think not worth your notice or 
-mine, and notwithstanding the mistake Mr. Secry. 
-Waldron might make in writing the dedimus, I doubt 
-not but the proper oaths have been duly administred 
-etc. I am freely willing you should send home copies 
-of my letters, depending you'll be so just as to send 
-copies of yours to me etc. Sends copy of his letter to 
-Capt. Walton, 18 July (No. iv supra}. The Commis- 
-sions I give are the King's Commissions and it is 
-your duty to treat them with great respect etc. The 
-late Lt. Govr. kept command of the fort by my 
-proclamation, and no otherwise, nor do I find any- 
-thing in your commission, or any act of the Government 
-that settles the command of that fort upon the Leiut. 
-Govr. etc. Would have given it to him, if he had asked 
-for it and not treated his commission with contempt. 
-Continues : The passes you give to the fort are 
-properly mine and so I believe you'll find the licences 
-for marriage etc. My only answer to what you say, 
-about sharing my salary, is that it made me smile. 
-
-
-
-AMERICA AND WEST INDIES. 237 
-
-
-
-1731. [377. xi] 
-
-Your predecessor never had the face to say a word 
-to me on that head, nor did I practice any mean 
-condescentions with the Assembly to get it done, 
-but told 'em frankly and freely before they did it, 
-no one shou'd ever have a farthing of it, and I have 
-long since reed, an approbation from home, of the 
-handsome manner in which I got the salary settled 
-etc. It was a fault in you not to administer the oaths 
-when the gentn. waited on you by my order. The 
-commissions were not deficient, but good and full, 
-so far as I had extended 'em. If I pleas'd to enlarge 
-'em afterwards, that was more than you knew in the 
-time of it etc. You are too assuming in your letters. 
-Nor do I want your dictating to whom I shall read 
-your letters or my own etc. Continues : I am under 
-no concern about your complaint home, because I 
-insist upon it, that I am always present at New 
-Hampshire when here, or that government wou'd be 
-a monster with three heads. If I am absent, so 
-wou'd you, if you cross the river into York county, 
-and then the President of the Council might turn the 
-Government into all confusion etc. Is prepared to 
-justify himself in this as in the affair of Frederick's 
-Fort. Was obliged to go into the country and there- 
-fore to detain the express, " which those who sent 
-it, I beleive must be content to pay etc. Signed, J. 
-Belcher. Same endorsement. 3| pp. [C.O. 5, 873. 
-ff. 157-165i;., 166u.-167i;., 168i;.-172i;., 173i;.-177t;.] 
-
-Aug. 20. 378. Governor Belcher to the Council of Trade and 
-Boston. Plantations. Abstract. Col. Dunbar is a gentleman of such 
-an uncommon temper that he expects to have to be constantly 
-defending himself against his unjust insinuations. Refers to 
-letter of 12th July. Col. Dunbar's thirst of power and honour 
-beyond his rank cannot be acceded to by any Governor. When 
-the Capt. of Fort William and Mary reported that the Lieut. 
-Governor said he would never accept his commission for it, he 
-thought it high time to assert the King's honour against insults 
-and behaviour which could only lead to anarchy. The Governor 
-has never been esteemed absent from New Hampshire when at 
-the Massachusetts. Refers to 36th instruction. It cannot be 
-imagined that the King only made him Governor for about six 
-weeks in the year the time he spends with the Assembly there. 
-Repeats former arguments. It being but 66 miles from Boston, 
-and the post passing every week, regrets that he has to trouble 
-the Board with the enclosed letters, but he expects Col. Dunbar 
-will dress up an extraordinary relation of this affair. He will 
-esteem it a great favour to be delivered from this uneasy gentle- 
-man etc. Signed, J. Belcher. Endorsed, Reed. 5th, Read 19th 
-Oct., 1731, 4 pp. Enclosed, 
-
-
-
-238 
-
-
-
-COLONIAL PAPERS. 
-
-
-
-i. 
-
-ii. 
-
-
-
-Copy of preceding encl. x. 
-Copy of Aug. 18 encl. i. 
-
-
-
-1731. 
-
-378. 
-
-378. 
-
-378. iii. Copy of preceding encl. iv. 
-
-378. iv. Copy of Aug. 18 encl. ii. Nos. i-iv. Endorsed as 
-covering letter. [C.O. 5, 873. ff. 201-203i;., 204i;., 
-206-207i;., 208u., 210-211u., 214t;.-213i;., 214u., 215, 
-216t>. (with abstract).] 
-
-Aug. 21. 379. Same to the Council of Trade and Plantations. 
-Boston. Duplicate of preceding, mutatis mutandis. Signed, J. Belcher. 
-Endorsed, Reed. 28th Sept., Read 19th Oct., 1731. 2f pp. 
-[C.O. 5, 873. ff. 217, 218-2190.] 
-
-Aug. 21. 380. Governor Belcher to the Duke of Newcastle. I am 
-Boston. now to confirm what I wrote your Grace 26 of last month, 
-respecting the supply of the Treasury. The Assembly have 
-now been sitting upwards 12 weeks, and seem resolved to 
-provide no money for the defence of the Government, and the 
-protection of the inhabitants, unless I wou'd sign a bill for it 
-in open violation of H.M. commands, and upon a motion the 
-House of Representatives made to me for a recess, I immediately 
-ordered all the members of H.M. Council, to attend their duty 
-in the General Court, and then demanded of them, upon the 
-oath they had taken, answers to the questions your Grace will 
-find in my message to the House of Representatives of 28 July 
-(as by their Journals inclos'd). Upon this they summon'd 
-their absent members to attend, and when they came together, 
-the result was, to make a declaration, and send it to every 
-town in the Province, in order to call the inhabitants of each 
-town together, to have their orders or instructions about the 
-supply of the Treasury, and I have no reason to believe but 
-their answer will be just as the Representatives wou'd have it, 
-vizt. That the Treasury shou'd not be supply'd in conformity 
-to the King's Instruction. Upon the whole, my Lord Duke, 
-I think it my duty seasonably to represent to you the great 
-difficulty and hazard this matter must necessarily (and very 
-soon) bring upon H.M. Government here, and all his good 
-subjects. For your Grace must be sensible, it's impossible for 
-a Government to subsist long without money. For my own 
-part, I am fully in opinion that H.M. Instruction to me in this 
-matter is exactly agreeable to the Royal Charter, as well as to 
-the best safety and happiness of this Government and people. 
-Yet as I have no reason to believe the House of Representatives 
-will comply with it, it is absolutely necessary for the preservation 
-of H.M. Government and people here, that your Grace transmit 
-me as soon as possible the King's special order upon this head. 
-For altho' the Assembly have been sitting now near 13 weeks, 
-yet I believe they will go on to sit, till I have an answer from 
-your Grace, and their so doing will be a vast burden to the 
-
-
-
-AMERICA AND WEST INDIES. 
-
-
-
-239 
-
-
-
-1731. 
-
-
-
-Aug. 25. 
-
-Whitehall. 
-
-
-
-Aug. 25. 
-
-Whitehall. 
-
-
-
-[380] 
-
-Province, and no service, for they have done nothing of any 
-significancy for several weeks past. P.S. I had almost forgot 
-to acquaint your Grace that notwithstanding the royal 
-explanatory Charter says that " it shall be lawful for the 
-Representatives etc. to adjourn themselves from day to day 
-(and if occasion shall require for the space of two days) but 
-not for any longer time without leave from the Governor etc," 
-yet the Representatives did on Saturday 10th July adjourn 
-themselves to Tuesday, 13th. On which day I sent a message 
-to them on that subject, which they so little regarded as to 
-repeat such an adjournment the 24th of July. Their pretence 
-for this is the intervention of the Lord's Day, which I think 
-can by no means support such an unwarrantable practice. 
-For I believe the maxim of dies dominicus non est dies jucundus, 
-was the reason of that saving for 'em in the explanatory charter 
-(and if occasion shall require for the space of two days) that 
-they might not be oblig'd to sit on the Lord's Day. I hope 
-your Grace will let me know H.M. pleasure on this head. Signed, 
-J. Belcher. 2f pp. [C.O. 5, 898. No. 94.] 
-
-381. Mr. Wheelock to Lt. Governor Gooch. Transmits 
-Order in Council repealing act laying a duty on liquors etc. (v. 
-6th July), and duplicate of letter of 27th May. [C.O. 5, 1366. 
-
-pp. 78, 79.] 
-
-382. Council of Trade and Plantations to the King. An 
-act was pass'd in your Majesty's Colony in Virginia in Oct., 
-1705, against importing tobacco from Carolina and other parts 
-without the Capes of Virginia ; and in 1726, another act was 
-pass'd for the more effectual preventing the bringing tobacco from 
-North Carolina and the bounds in controversy ; We have lately 
-received a memorial on the part of the inhabitants of Albemarle 
-County in North Carolina, setting forth the great hardships they 
-labour under, from being denyed the liberty of exporting their 
-tobacco to Great Britain from the ports in Virginia. Where- 
-upon we beg leave to represent to your Majesty that the only 
-commodious port in North Carolina is at Cape Fear, scituated 
-near the southern boundary of that county, so that if those 
-planters who are settled to the northward near the borders of 
-Virginia, are cut off from all communication with that Province 
-both by land and water, as these acts import, they will lye 
-under very great difficulties in exporting their tobacco to Great 
-Britain, therefore will probably desist from planting that 
-commodity, and turn their industry to other manufactures, 
-which may be attended with very bad consequences to the 
-trade of this Kingdom, from whence the inhabitants of North 
-Carolina have hitherto taken considerable quantities of British 
-manufactures, which they have been enabled to pay for by their 
-tobacco. These laws are therefore manifestly disadvantagious 
-
-
-
-240 COLONIAL PAPERS. 
-
-
-
-1731. [382] 
-
-to the trade of this Kingdom, and it would seem to us, highly 
-unreasonable, that any of your Majesty's subjects should be 
-debar'd from the liberty of making use of any ports belonging 
-to your Majesty, or from carrying on any legal trade not pro- 
-hibited by the laws of Great Britain in any part of your Majesty's 
-Dominions ; We likewise conceive that these laws are incon- 
-sistent with an Act of Parliament, 25th of K. Charles II, for 
-the encouragement of the Greenland and Eastland trades etc. By 
-this last act, the productions of the British Colonies in America 
-are allowed to be exported from one English Province to another, 
-under certain duties etc. For these reasons we humbly beg 
-leave to lay these laws before your Majesty for your disallowance. 
-[C.O. 5, 1366. pp. 76-78.] 
-
-Aug. 25. 383. Council of Trade and Plantations to the Committee 
-Whitehall. o f ^h e p r i V y Council. In obedience to orders of 7th July, 
-have heard the merchants of London, Bristol and Liverpool in 
-support of their petition against the Act of Jamaica for raising 
-several sums of money etc., and likewise Mr. Sharp in defence 
-of it. This act lays a duty of 15*. on negroes imported and 
-30*. on negroes exported, and 100Z. on convicts imported etc. 
-This act so far as it relates to duties on negroes is a burthen 
-upon the British trade and navigation and contrary to Governor 
-Hunter's additional Instruction, 13th Nov.. 1727 etc. Altho' 
-H.M. was graciously pleased by his said instruction to allow that 
-the Assembly might lay such a tax on the negroes of the said 
-island bought there as they should think fit, yet this indulgence 
-was never designed to be extended to the present case, where 
-duties of import are laid upon all slaves imported, whether the 
-property be changed or not, during their stay in the island, 
-and a duty of export also laid without any exception for such 
-slaves as should be imported only for refreshment, which must 
-necessarily affect all slaves brought thither on account of the 
-Assiento contract, etc. The duty upon convicts is a strong 
-infringement of the Act of Parliament etc. for the further pre- 
-venting robbery etc., and for the more effectual transportation of 
-felons, which extends to all H.M. Plantations in general ; but 
-by this exorbitant duty is now become impracticable with 
-relation to Jamaica. For these reasons therefore we should 
-propose to your Lordps., that this act might be laid before 
-H.M. for his disallowance. But forasmuch as the same is only 
-a temporary law ; that it will expire in Feb. next, that it would 
-be some time before H.M. disallowance could reach Jamaica, 
-and that the duties raised by this law are in part applicable 
-to the additional subsistence of the two regiments now in that 
-island ; considering also that we have lately proposed to H.M. 
-that the soldiers of the said two regiments after filling up the 
-independant companies their to their full complement may be 
-disbanded and left in Jamaica for the defence of that island 
-
-
-
-AMERICA AND WEST INDIES. 
-
-
-
-241 
-
-
-
-1731. 
-
-
-
-Aug. 26. 
-
-Hampton 
-Court. 
-
-
-
-Aug. 26. 
-
-Whitehall. 
-
-
-
-Aug. 26. 
-
-
-
-[383] 
-
-provided the Assembly will settle them to their entire satis- 
-faction, which must be a considerable expence to the Colony, 
-we would submit to your Lordps. in the present situation 
-whether it may not be adviseable to suffer this act even bad 
-as it is to have its effect. But at the same time, lest the 
-Assembly should be thereby encouraged to make any attempts 
-of the like nature on the Trade and Navigation of Great Britain 
-for the future, we would humbly propose that your Lordps. 
-should advise H.M. to signify his dissatisfaction of this pro- 
-ceeding to Major General Hunter, and to command him upon 
-pain of his royal displeasure to adhere more strictly to his 
-instruction for the future. And since the Assembly of Jamaica 
-have made so bad an use of H.M. indulgence to them in his 
-abovementioned Instruction, we would further propose that 
-the Governor should be absolutely forbid for the future to give 
-his assent to any law imposing duties upon slaves imported 
-payable by the importer and upon slaves exported, that have 
-not been sold in the island and continued there for the space of 
-twelve months : But ye merchants are willing and we have 
-no objection to their laying duties upon the purchase of slaves 
-in Jamaica, to be paid by the purchaser, and not by the importer, 
-provided the South Sea Company and their Factors be exempted 
-from paying any duties for such slaves as shall be consigned to 
-them, or which they may purchase there from the traders to 
-the coast of Africa in order to fulfill the Assiento contract. 
-And should your Lordps. concur with us in opinion with respect 
-to the future regulation of these duties, we would take leave to 
-propose that the same might be made a general rule for all the 
-Plantations, and that Instructions may be prepared accordingly 
-for H.M. Govrs. of the several Colonies in America. [C.O. 138, 
-17. pp. 344-349.] 
-
-383. John Coureand to Governor Belcher. Encloses 
-following by order of the Duke of Newcastle. Signed, Jno. 
-Coureand. Annexed, 
-
-383. i. H.M. Additional Instruction to Governor Belcher. 
-Hampton Court, 13th Aug. 1731. As proposed Aug. 
-
-
-
-10, supra. Copy, 
-pp. 282-284.] 
-
-
-
-Signed, G. R. [C.O. 324, 36. 
-
-
-
-384. Mr. Wheelock to Robert Lowther, late Governor of 
-Barbados. Enquires what the value of the perquisites of a 
-Governor of Barbados may be, one year with another. [C.O. 
-29, 15. p. 231.] 
-
-385. Mr. Yeamans to Mr. Wheelock. Submits a book 
-containing the collection of the general Acts of the Leeward 
-Islands and of the Acts of Antigua, which was returned to 
-Antigua for a public attestation at the request of the Board. 
-
-
-
-Wt. 441 
-
-
-
-C.P. XXXVIII 16 
-
-
-
-242 COLONIAL PAPERS. 
-
-
-
-1731. [385] 
-
-A law is now subjoined confirming and establishing this 
-collection, but relates only to the acts of Antigua, as it was 
-concieved that the general laws could not be attested by the 
-Legislature of Antigua etc. Continues : " It was purely owing 
-to recommendation of my Lords Commissioners signified to 
-the Councill and Assembly, I think, by the late Governor Hart, 
-and the assurances that were given them that the collection 
-when compleated should be printed at H.M. expence, that the 
-island was at first induc'd to undertake this troublesome and 
-chargeable work." Prays that the matter may be considered, 
-and the law subjoined recommended for confirmation. Signed, 
-John Yeamans. Endorsed, Reed., Read 26th Aug., 1731. 2| 
-pp. [C.O. 152, 19. ff. 64-65^.] 
 
 Aug. 27. 386. Representation of the General Assembly of Barbados 
 to the Council of Trade and Plantations. The said Island 
@@ -15260,7 +14976,7 @@ John Becker's Political Discourses in Dutch p. 1032
 etc. Same endorsement. Copy, f p. 
 
 389. ii. Extract of letter from Same to Same. Stockholm, 
-llth August., 1731. Continues : Besides [the above 
+11th August., 1731. Continues : Besides [the above 
 grant] Count Bonde told me that they have their view 
 on the Island of Tabago, which it is said was granted 
 by King Charles II to James, Duke of Courland, the 
