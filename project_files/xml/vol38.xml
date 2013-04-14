@@ -1049,55 +1049,56 @@
         <place xml:id="en_lon" type="place">
           <placeName>London</placeName>
           <location>
-            <geo></geo>
+            <!--City of London-->
+            <geo>51.51279 -0.09184</geo>
           </location>
         </place>
         <place xml:id="en_lon_whitehall" type="place">
           <placeName>Whitehall</placeName>
           <location>
-            <geo></geo>
+            <geo>51.5042 -0.1264</geo>
           </location>
         </place>
         <place xml:id="en_lon_southwark" type="place">
           <placeName>Southwark</placeName>
           <location>
-            <geo></geo>
+            <geo>51.5 -0.08333</geo>
           </location>
         </place>
         <place xml:id="en_lon_stjames" type="place">
           <placeName>St. James's Palace</placeName>
           <location>
-            <geo></geo>
+            <geo>51.5047 -0.1375</geo>
           </location>
         </place>        
         <place xml:id="en_lon_newcastle" type="place">
           <placeName>Newcastle House</placeName>
           <location>
-            <geo></geo>
+            <geo>51.5164 -0.119</geo>
           </location>
         </place>
         <place xml:id="en_lon_gerrardstreet" type="place">
           <placeName>Gerrard Street</placeName>
           <location>
-            <geo></geo>
+            <geo>51.511507 -0.131729</geo>
           </location>
         </place>
         <place xml:id="en_lon_austinfriars" type="place">
           <placeName>Austin Friars</placeName>
           <location>
-            <geo></geo>
+            <geo>51.51557 -0.085579</geo>
           </location>
         </place>
         <place xml:id="en_lon_customhouse" type="place">
           <placeName>Custom House, London</placeName>
           <location>
-            <geo></geo>
+            <geo>51.5087 -0.08239</geo>
           </location>
         </place>
         <place xml:id="en_lon_scotlandyard" type="place">
           <placeName>Scotland Yard</placeName>
           <location>
-            <geo></geo>
+            <geo>51.49866 -0.13341</geo>
           </location>
         </place>
         <place xml:id="en_lon_goodman" type="place">
@@ -1331,7 +1332,7 @@
         <place xml:id="by_conception" type="natural">
           <placeName>Conception Bay</placeName>
           <location>
-            <geo>47.75 -53></geo>
+            <geo>47.75 -53</geo>
           </location>
         </place>
         <place xml:id="by_delaware" type="natural">
@@ -15875,219 +15876,178 @@
           Certificate by H.M. Remembrancer that Lt. Gov. Ogle <placeName ref="#us_md" role="direct">[[ed. of Maryland]]</placeName>
           has given security etc. Signed, James Pearse. Endorsed, 
           Recd. 9th Sept., Read 27th Oct., 1731. 1/2 p. [C.O. 5, 1268. ff. 20, 20v.]</p> 
-
-408. Rip Van Dam, President of the Council of New York 
-to the Duke of Newcastle. Abstract. Refers to letter of 1st 
-July. He thought it necessary to summon to the Assembly 
-in order to get a supply for the trading house at Oswego, the 
-
-
-
-AMERICA AND WEST INDIES. 
-
-
-
-263 
-
-
-
-1731. [408] 
-
-building of a new fort at Albany and the renewal of the Militia 
-Act and an Act for farming the excise, both of which were about 
-to expire. They are still sitting and have taken into 
-consideration the supply of Oswego, but have referred the 
-building of the fort till another Sessions, the small pox raging, 
-especially in this City, so that many Members are absent. 
-Encloses his speech and votes of Assembly etc. Signed, Rip 
-Van Dam. Endorsed, R. 3rd. If pp. Enclosed, 
-
-408. i. Journal of Assembly of New York, Aug. 25th-28th, 
-
-1731. Printed. 4 pp. [C.O. 5, 1093. ff. 168, 168u., 
-169u.-171i> . ; and (duplicate of covering letter, endorsed, 
-R. Jan. 5th) 172, 178u.] 
-
-Sept. 11. 409. President Van Dam to the Council of Trade and 
-New York. Plantations. To same effect as preceding. Set out, N.Y. Col. 
-Doc. V, 924. Signed, Rip Van Dam. Endorsed, Reed. 5th 
-Nov., 1731, Read 17th May, 1732. 1 p. Enclosed, 
-
-409. i. Duplicate of preceding enclosure. [C.O. 5, 1056. 
-
-ff. 3, 40., 7-8v.] 
-
-
-
-Sept. 11. 
-
-Portsmouth, 
-
-New 
-Hampshire. 
-
-
-
-410. Lt. Governor Dunbar to Mr. Popple. Encloses receipt 
-for letters sent on 23rd Aug. Has waited in hopes of farther 
-orders from England and of seeing Governor Belcher, " tho' 
-the people at the new settlemts. are at a stand and idle for want 
-of me, and great numbers there waiting for me that have no 
-beginning to work upon " etc. Will now sail at once. Encloses 
-one of Govr. Belcher's lett passes, the fee whereof is but one 
-shilling sterl., as he fancies it would hardly be credited that he 
-would send such from another province, " the filling up is with 
-the hand of H.E.'s Naval Officer, pray observe it." Continues : 
-The new Collector therein named [Richard Wibird] had 
-a seizure made in his own warehouse of tobacco illegally 
-imported here, the Depty. Collr. from home made the seizure, 
-and of the vessel that imported it. After him the new Collector 
-seized and marked his own tobacco and vessel, and some other 
-vessels haveing been seized here by order of Governour Belcher 
-for omitting some little ceremonys with his new officers, the 
-Judge of Vice Admiralty with the Advocate General, and other 
-Officers of ye Court came hither from Boston, and held Courts 
-on the 9th and 10th inst. Each of said Collectors exhibited 
-their libels, the old Collector against the vessel and tobacco, 
-but the Judge, who is Mr. Belcher's brother by marriage, dis- 
-missed it and decreed costs of Court against him, the new 
-Collector dropt his seizure of his own vessel, and disowned 
-ye tobacco, wch. was thereupon condemned. I was all the 
-time in Court and was provoked to see such partiallity and 
-thereupon desird the trial might be adjourned to yesterday 
-morning with intent to get ye names of ye wittnesses from the 
-old Collector, which he readily gave me, but they were secretted 
-
-
-
-264 COLONIAL PAPERS. 
-
-
-
-1731. [410] 
-
-away, and when I complained in ye Court of the injustice done 
-to H.M. thereby, the Judge in open Court told me I came in 
-there as an informer, and harrangued the Court with telling 
-them with a high voice that as Surveyor of the Woods I putt 
-the poor people in terrors by seizures of their trees and logs, 
-all I could say to him availed nothing. I have often complained 
-of him to no purpose, besides his very great age (now 79 years) 
-he has allways been an unmannerly brutish man, notwith- 
-standing which I should have committed him for his insult 
-and treatment of me but in respect to my Lds. of the Admiralty 
-whose officer he is ; By the 46th Instruction to Govr. Shute 
-and 56th to the late Govr. Barnet, they were directed not to 
-admit any officer to act until they had quallifyed themselves 
-by takeing the oaths required by law, upon which, and not 
-knowing Mr. Belcher's Instruction upon that head, I produced 
-the two original beforementiond Instructions in Court and 
-thereupon delivered to the Court a paper etc., copy enclosed. 
-The Judge read it and was outragious calling it an odd, turbulent 
-paper. I desired the Advocate's opinion of it, wch. he refused, 
-but another lawyer told me ye qualification therein mentioned 
-was absolutely necessary in this Province. Notwithstanding 
-all this, he made decrees and went away wth. his officers to 
-Boston, boasting how he had used me ; a Leiut. Governour 
-under my present circumstances, as to power is a needless 
-officer lyable to affronts without remedy here, one instance at 
-this time of it is an order lately sent by the Govr. to a Capt. 
-of a troop of militia to meet H.E. with his troops on the lines 
-between the two Provinces next week without takeing any 
-notice of me. I am sensible I am under some obligations of 
-corresponding with the Comrs. of the Customes, but as I do 
-not know in what manner for want of Instructions, I beg 
-to be excused to them. I send you a copy of a comn. to a 
-new officer Mr. Belcher has made here. It may be presumed 
-that he will soon appoint Commissioners of Customes, since 
-he has begun to make officers that none such were ever here 
-before, this Comptroller is son to the new Collector, another 
-son is Deputy Naval Officer, and all concerned in one shop, 
-ships and warehouses. Lett me desire the favour Sir, that 
-a copy of this may be layd before my Lords Commrs. of the 
-Admiralty. My brother will do it if you permit him, and 
-if any part is requisite for the Commissioners of the Customes, 
-I beg the same favour etc. P.S. I told you that Governour 
-Belcher would not permit the Lt. Govr. of the Masachusets 
-to sitt in Council with him. Here the Lt. Govrs. allways sat 
-at table and were Councillours by particular mandamus to 
-each, and as I have none such, if the Govr. does not except 
-against my sitting in Council, I must sitt mute there, not having 
-any right to open my mouth, but my goeing to Fredericksfort 
-will prevent all disputes until I hear from you. It is now 
-
-
-
-AMERICA AND WEST INDIES. 265 
-
-
-
-1731. [410] 
-
-Sunday morning the 12th of 7ber. Since yesterday I have been 
-told by several people that Mr. Belcher's friends rejoyce openly 
-at the treatment I met with from the old Judge of the 
-Admiralty, but if he had sayd or done more I had no remedy, 
-all officers and majestrates here refuseing any obedience but 
-to the chief Governour's orders. I had a late instance of this 
-from one of the Sheriffs, who refused to obey my warrant to 
-search for the tobacco beforementioned ; surely the Commis- 
-sioners of the Customes will take some method to prevent such 
-abuses, and not trust shopkeepers and merchants wth. the care 
-of the customes abroad. The Advocate General has given me 
-his opinion that the words absence and return in the clause of 
-Belcher's Comn. etc. must be expounded a personal departure 
-from or a personal presence in the Province etc. Awaits deter- 
-mination from home etc. Signed, David Dunbar. Endorsed, 
-Reed. 1st, Read 10th Nov., 1731. 6 pp. Enclosed, 
-
-410. i. Warrant by Governor Belcher's Warrant appointing 
-Richard Wibird jr., Comptroller of H.M. Customs in 
-the County of York and Port of Newbury, N.H., 30th 
-Aug., 1731. Signed, J. Belcher. Endorsed as pre- 
-ceding. Copy. 1^ pp. Overleaf, 
-
-410. ii. Extract from Governour's Commission impowering 
-him to appoint a Collector only, in case of death or 
-absence of the Surveyor General of Customs. | p. 
-410. iii. Receipt for pacquets from Lt. Govr. to Mr. Popple, 
-Lord Harrington, Charles Delafaye and Martin Bladen, 
-etc. Aug. 23, 1731. Signed, Richard Stephens. | p. 
-410. iv. Pass for a vessel to pass. Fort William and Mary. 
-27th Aug., 1731. Blank form. Signed, J. Belcher. 
-Slip. 
-
-410. v. Paper delivered to the Court of Admiralty by Lt. 
-Governor Dunbar. Portsmouth. 10th Sept., 1731. 
-Whereas a Court of Vice-Admiralty was yesterday 
-held in this town, which proceeded upon the tryal of 
-several cases without any commission being proclaimed 
-or registred within this Province by the Judge and 
-some other officers of the Court or without taking 
-the oaths required by law etc., I desire the opinion of 
-the said Court or of H.M. Advocate General, how far 
-it was necessary that the said Commissions should be 
-read or entered and the oaths taken as above. Signed, 
-David Dunbar, Lt. Gov. Endorsed as covering letter. 
-Copy, certified by, John Boydell, Regr. 1 p. [C.O. 
-5, 873. ff. 248-2501?., 251i>.-254u.] 
-
-Sept. 15. 411. Richard Partridge, Agent for New Jersey, to the Duke 
-London. o f Newcastle. Encloses following and prays that a separate 
-Governor may be appointed for New Jersey. Signed, Richd. 
-Partridge. 1 p. Enclosed, 
+      </div>
+      <div>
+        <dateline><num>408</num><date when="1731-09-11">Sept. 11</date></dateline>
+        <p><placeName ref="#us_ny_newyork" role="from">New York</placeName>.
+          Rip Van Dam, President of the Council of <placeName ref="#us_ny" role="direct">New York</placeName>
+          to the Duke of Newcastle. Abstract. Refers to letter of 1st 
+          July. He thought it necessary to summon to the Assembly 
+          in order to get a supply for the trading house at <placeName ref="#us_ny_oswego" role="direct">Oswego</placeName>, the 
+          building of a new fort at <placeName ref="#us_ny_albany" role="direct">Albany</placeName> and the renewal of the Militia 
+          Act and an Act for farming the excise, both of which were about 
+          to expire. They are still sitting and have taken into 
+          consideration the supply of Oswego, but have referred the 
+          building of the fort till another Sessions, the small pox raging, 
+          especially in <placeName ref="#us_ny_newyork" role="direct">this City</placeName>, so that many Members are absent. 
+          Encloses his speech and votes of Assembly etc. Signed, Rip 
+          Van Dam. Endorsed, R. 3rd. 1 3/4 pp. Enclosed, 
+          408. i. Journal of Assembly of New York, Aug. 25th-28th, 
+          1731. Printed. 4 pp. [C.O. 5, 1093. ff. 168, 168v., 
+          169v.-171v. ; and (duplicate of covering letter, endorsed, 
+          R. Jan. 5th) 172, 173v.]</p> 
+      </div>
+      <div>
+        <dateline><num>409</num><date when="1731-09-11">Sept. 11</date></dateline>
+        <p><placeName ref="#us_ny_newyork" role="from">New York</placeName>.
+          President Van Dam to the Council of Trade and 
+          Plantations. To same effect as preceding. Set out, <placeName ref="#us_ny_newyork" role="from">N.Y.</placeName> Col. 
+          Doc. V, 924. Signed, Rip Van Dam. Endorsed, Recd. 5th 
+          Nov., 1731, Read 17th May, 1732. 1 p. Enclosed, 
+          409. i. Duplicate of preceding enclosure. [C.O. 5, 1056. ff. 3, 4v., 7-8v.]</p>
+      </div>
+      <div>
+        <dateline><num>410</num><date when="1731-09-11">Sept. 11</date></dateline>
+        <p><placeName ref="#us_nh_portsmouth" role="from">Portsmouth, New Hampshire</placeName>. 
+          Lt. Governor Dunbar to Mr. Popple. Encloses receipt 
+          for letters sent on 23rd Aug. Has waited in hopes of farther 
+          orders from <placeName ref="#en" role="indirect">England</placeName> and of seeing Governor Belcher, " tho' 
+          the people at the new settlemts. are at a stand and idle for want 
+          of me, and great numbers there waiting for me that have no 
+          beginning to work upon " etc. Will now sail at once. Encloses 
+          one of Govr. Belcher's lett passes, the fee whereof is but one 
+          shilling sterl., as he fancies it would hardly be credited that he 
+          would send such from another province, " the filling up is with 
+          the hand of H.E.'s Naval Officer, pray observe it." Continues : 
+          The new Collector therein named [Richard Wibird] had 
+          a seizure made in his own warehouse of tobacco illegally 
+          imported <placeName ref="#us_nh_portsmouth" role="direct">here</placeName>, the Depty. Collr. from home made the seizure, 
+          and of the vessel that imported it. After him the new Collector 
+          seized and marked his own tobacco and vessel, and some other 
+          vessels haveing been seized here by order of Governour Belcher 
+          for omitting some little ceremonys with his new officers, the 
+          Judge of Vice Admiralty with the Advocate General, and other 
+          Officers of ye Court came hither from <placeName ref="#us_ma_boston" role="indirect">Boston</placeName>, and held Courts 
+          on the 9th and 10th inst. Each of said Collectors exhibited 
+          their libels, the old Collector against the vessel and tobacco, 
+          but the Judge, who is Mr. Belcher's brother by marriage,  
+          dismissed it and decreed costs of Court against him, the new 
+          Collector dropt his seizure of his own vessel, and disowned 
+          ye tobacco, wch. was thereupon condemned. I was all the 
+          time in Court and was provoked to see such partiallity and 
+          thereupon desird the trial might be adjourned to yesterday 
+          morning with intent to get ye names of ye wittnesses from the 
+          old Collector, which he readily gave me, but they were secretted 
+          away, and when I complained in ye Court of the injustice done 
+          to H.M. thereby, the Judge in open Court told me I came in 
+          there as an informer, and harrangued the Court with telling 
+          them with a high voice that as Surveyor of the Woods I putt 
+          the poor people in terrors by seizures of their trees and logs, 
+          all I could say to him availed nothing. I have often complained 
+          of him to no purpose, besides his very great age (now 79 years) 
+          he has allways been an unmannerly brutish man, notwith- 
+          standing which I should have committed him for his insult 
+          and treatment of me but in respect to my Lds. of the Admiralty 
+          whose officer he is ; By the 46th Instruction to Govr. Shute 
+          and 56th to the late Govr. Barnet, they were directed not to 
+          admit any officer to act until they had quallifyed themselves 
+          by takeing the oaths required by law, upon which, and not 
+          knowing Mr. Belcher's Instruction upon that head, I produced 
+          the two original beforementiond Instructions in Court and 
+          thereupon delivered to the Court a paper etc., copy enclosed. 
+          The Judge read it and was outragious calling it an odd, turbulent 
+          paper. I desired the Advocate's opinion of it, wch. he refused, 
+          but another lawyer told me ye qualification therein mentioned 
+          was absolutely necessary in <placeName ref="#us_nh" role="direct">this Province</placeName>. Notwithstanding 
+          all this, he made decrees and went away wth. his officers to 
+          Boston, boasting how he had used me ; a Leiut. Governour 
+          under my present circumstances, as to power is a needless 
+          officer lyable to affronts without remedy here, one instance at 
+          this time of it is an order lately sent by the Govr. to a Capt. 
+          of a troop of militia to meet H.E. with his troops on the lines 
+          between the two Provinces next week without takeing any 
+          notice of me. I am sensible I am under some obligations of 
+          corresponding with the Comrs. of the Customes, but as I do 
+          not know in what manner for want of Instructions, I beg 
+          to be excused to them. I send you a copy of a comn. to a 
+          new officer Mr. Belcher has made here. It may be presumed 
+          that he will soon appoint Commissioners of Customes, since 
+          he has begun to make officers that none such were ever here 
+          before, this Comptroller is son to the new Collector, another 
+          son is Deputy Naval Officer, and all concerned in one shop, 
+          ships and warehouses. Lett me desire the favour Sir, that 
+          a copy of this may be layd before my Lords Commrs. of the 
+          Admiralty. My brother will do it if you permit him, and 
+          if any part is requisite for the Commissioners of the Customes, 
+          I beg the same favour etc. P.S. I told you that Governour 
+          Belcher would not permit the Lt. Govr. of <placeName ref="#us_ma" role="direct">the Masachusets</placeName> 
+          to sitt in Council with him. Here the Lt. Govrs. allways sat 
+          at table and were Councillours by particular mandamus to 
+          each, and as I have none such, if the Govr. does not except 
+          against my sitting in Council, I must sitt mute there, not having 
+          any right to open my mouth, but my goeing to <placeName ref="#us_me_frederick" role="direct">Fredericksfort</placeName> 
+          will prevent all disputes until I hear from you. It is now 
+          Sunday morning the 12th of 7ber. Since yesterday I have been 
+          told by several people that Mr. Belcher's friends rejoyce openly 
+          at the treatment I met with from the old Judge of the 
+          Admiralty, but if he had sayd or done more I had no remedy, 
+          all officers and majestrates here refuseing any obedience but 
+          to the chief Governour's orders. I had a late instance of this 
+          from one of the Sheriffs, who refused to obey my warrant to 
+          search for the tobacco beforementioned ; surely the Commissioners
+          of the Customes will take some method to prevent such 
+          abuses, and not trust shopkeepers and merchants wth. the care 
+          of the customes abroad. The Advocate General has given me 
+          his opinion that the words absence and return in the clause of 
+          Belcher's Comn. etc. must be expounded a personal departure 
+          from or a personal presence in the Province etc. 
+          Awaits determination from home etc. Signed, David Dunbar. Endorsed, 
+          Recd. 1st, Read 10th Nov., 1731. 6 pp. Enclosed,
+          410. iii. Receipt for pacquets from Lt. Govr. to Mr. Popple, 
+          Lord Harrington, Charles Delafaye and Martin Bladen, 
+          etc. Aug. 23, 1731. Signed, Richard Stephens. 1/2 p.</p>
+      </div>
+      <div>
+        <dateline><num>410.1</num><date when="1731-08-30">August 30</date></dateline>
+        <p>410. i. Warrant by Governor Belcher's Warrant appointing Richard Wibird jr., 
+          Comptroller of H.M. Customs in the <placeName ref="#us_me" role="direct">County of York</placeName>
+          and Port of Newbury, N.H., 30th Aug., 1731. 
+          Signed, J. Belcher. Endorsed as preceding. Copy. 1 1/2 pp. Overleaf,           
+          410. ii. Extract from Governour's Commission impowering 
+          him to appoint a Collector only, in case of death or 
+          absence of the Surveyor General of Customs. 1/2 p.</p> 
+      </div>
+      <div>
+        <dateline><num>410.4</num><date when="1731-08-27">August 27</date></dateline>
+        <p>410. iv. Pass for a vessel to pass. <placeName ref="#us_nh_williammary" role="direct">Fort William and Mary</placeName>. 
+          27th Aug., 1731. Blank form. Signed, J. Belcher. Slip.</p> 
+      </div>
+      <div>
+        <dateline><num>410.5</num><date when="1731-09-10">Sept. 10</date></dateline>
+        <p>410. v. Paper delivered to the Court of Admiralty by Lt. 
+          Governor Dunbar. <placeName ref="#us_nh_portsmouth" role="from">Portsmouth</placeName>. 10th Sept., 1731. 
+          Whereas a Court of Vice-Admiralty was yesterday 
+          held in <placeName ref="#us_nh_portsmouth" role="direct">this town</placeName>, which proceeded upon the tryal of 
+          several cases without any commission being proclaimed 
+          or registred within <placeName ref="#us_nh" role="direct">this Province</placeName> by the Judge and 
+          some other officers of the Court or without taking 
+          the oaths required by law etc., I desire the opinion of 
+          the said Court or of H.M. Advocate General, how far 
+          it was necessary that the said Commissions should be 
+          read or entered and the oaths taken as above. Signed, 
+          David Dunbar, Lt. Gov. Endorsed as covering letter. Copy, 
+          certified by, John Boydell, Regr. 1 p. [C.O. 5, 873. ff. 248-250v., 251v.-254v.]</p> 
+      </div>
+      <div>
+        <dateline><num>411</num><date when="1731-09-15">Sept. 15</date></dateline>
+        <p><placeName ref="#en_lon" role="from">London</placeName>.
+          Richard Partridge, Agent for <placeName ref="#us_nj" role="direct">New Jersey</placeName>, to the Duke 
+          of Newcastle. Encloses following and prays that a separate Governor may
+          be appointed for New Jersey. Signed, Richd. Partridge. 1 p. Enclosed,
+          411. i. Copy of Address of Council of New Jersey, July 18, 
+          1731. v. supra. 19th July. [C.O. 5, 983. ff. 29, 30-32.]</p>
 
 
-
-266 COLONIAL PAPERS. 
-
-1731. 
-
-4-11. i. Copy of Address of Council of New Jersey, July 18, 
-1731. v. supra. 19th July. [C.O. 5, 983. ff. 29, 
-30-32.] 
-
-          
           
 </body>
   </text>
