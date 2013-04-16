@@ -23,6 +23,7 @@
 <script>
 $(function() {
 
+
   OpenLayers.IMAGE_RELOAD_ATTEMPTS = 3;
   OpenLayers.ImgPath = 'http://js.mapbox.com/theme/dark/';
 
@@ -71,6 +72,9 @@ $(function() {
   var markers = new OpenLayers.Layer.Markers( "Markers" );
   map.addLayer(markers);
 
+  var selectControl = new OpenLayers.Control.SelectFeature(this.markers, { hover: true });
+  selectControl.events.register('featurehighlighted', null, onFeatureHighlighted);
+
    var size = new OpenLayers.Size(21,25);
    var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);
    var icon = new OpenLayers.Icon('/images/marker-gold.png',size,offset);
@@ -78,7 +82,7 @@ $(function() {
    <% @locations.each do |location| %>
      var point = new OpenLayers.LonLat(<%= location.longitude %>, <%= location.latitude %>);
      point.transform(proj, map.getProjectionObject());
-     markers.addMarker(new OpenLayers.Marker(point, icon));
+     markers.addMarker(new OpenLayers.Marker(point, icon.clone()));
   <% end %>
 
   var center = new OpenLayers.LonLat(-8795761.71761, 3404810.9874);
@@ -105,6 +109,32 @@ $(function() {
 
     layer.addFeatures(features);
   }
+
+    function onFeatureHighlighted(evt) {
+    var onPopupClose = function (evt) {
+        // 'this' is the popup.
+        var feature = this.feature;
+        if (feature.layer) {
+            selectControl.unselect(feature);
+        }  
+        this.destroy();
+    }
+
+    feature = evt.feature;
+    popup = new OpenLayers.Popup.FramedCloud(
+    "featurePopup",
+    feature.geometry.getBounds().getCenterLonLat(),
+    new OpenLayers.Size(100,100),
+            "<h2>feature</h2>" +
+            //"<h2>"+feature.attributes.station_na + "</h2>" +
+            "Location: " + feature.attributes.location + '<br/>' +
+            //"Elevation: " + feature.attributes.elev_,
+            null, true, onPopupClose);
+            feature.popup = popup;
+            popup.feature = feature;
+            map.addPopup(popup, true);
+  }
+
 });
 
 
