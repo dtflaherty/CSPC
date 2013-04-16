@@ -38,10 +38,10 @@
                     <xsl:value-of select="//tei:place[@xml:id = $this]/tei:location/tei:geo"/>
                 </xsl:variable>
                 
-                <field name="this"><xsl:value-of select="$latlon"></xsl:value-of></field>
                 <field name="placename_s"><xsl:value-of select="node()"/></field>
                 <field name="placeRole_s"><xsl:value-of select="@role"/></field>
-                <field name="location_coordinate"><xsl:value-of select="$latlon"/></field>
+                <field name="location"><xsl:value-of select="translate($latlon, ' ', ', ')"/></field>
+                 <field name="wkt_s">POINT(<xsl:value-of select="$latlon"/>)</field>
             </xsl:for-each>
 
             <field name="text_t"><div id="{$id}"><xsl:apply-templates /></div></field>
