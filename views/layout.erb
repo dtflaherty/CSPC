@@ -11,6 +11,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
+<link href='http://fonts.googleapis.com/css?family=Neuton' rel='stylesheet' type='text/css'>
 <link href="/css/styles.css" rel='stylesheet'> 
 
 <title>Calendar of State Papers Locator</title>
@@ -25,18 +26,22 @@
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
-<div class='container'>
-    <div class="page-header">
-      <h1>Location Finder</h1>
-    </div>
+    <header role="banner">
+        <h1>Calendar of State Papers Locator</h1>
+        <nav>
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Lorem</a></li>
+                <li><a href="#">Ipsum</a></li>
+            </ul>
+        </nav>
+    </header>
 
     <%= yield %>
 
-    <hr/>
-    <footer>
-      <p>&copy; 2012</p>
+    <footer role="contentinfo">
+        <p>&copy; 2012</p>
     </footer>
-  </div>
   <%#= yield_content :footer %>
 </body>
 </html>
