@@ -26,7 +26,7 @@
         <doc>
             <field name="id"><xsl:value-of select="$id"/></field>
             <field name="citation_s"><xsl:value-of select="tei:dateline/tei:num"/></field>
-            <field name="date"><xsl:value-of select="tei:dateline/tei:date/@when"/></field>
+            <field name="date_s"><xsl:value-of select="tei:dateline/tei:date/@when"/></field>
             <field name="formatedDate_s"><xsl:value-of select="tei:dateline/tei:date"/></field>
             
             <xsl:for-each select="tei:p/tei:placeName">
@@ -38,13 +38,20 @@
                     <xsl:value-of select="//tei:place[@xml:id = $this]/tei:location/tei:geo"/>
                 </xsl:variable>
                 
-                <field name="placename_s"><xsl:value-of select="node()"/></field>
-                <field name="placeRole_s"><xsl:value-of select="@role"/></field>
-                <field name="location"><xsl:value-of select="translate($latlon, ' ', ', ')"/></field>
+                <!-- todo: make _s multivalued -->
+                <field name="placename_txt"><xsl:value-of select="node()"/></field>
+                <field name="placeRole_txt"><xsl:value-of select="@role"/></field>
+                
+                <!-- todo: make _p multivalued 
+                <field name="location_p"><xsl:value-of select="translate($latlon, ' ', ', ')"/></field>
                  <field name="wkt_s">POINT(<xsl:value-of select="$latlon"/>)</field>
+                 -->
+                <field name="location_txt"><xsl:value-of select="translate($latlon, ' ', ', ')"/></field>
+                <field name="wkt_txt">POINT(<xsl:value-of select="$latlon"/>)</field>
+                
             </xsl:for-each>
 
-            <field name="text_t"><div id="{$id}"><xsl:apply-templates /></div></field>
+            <field name="text_t"><![CDATA[<div id="{$id}"><xsl:apply-templates /></div>]]></field>
         </doc>
     </xsl:template>
     
