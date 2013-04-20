@@ -1,9 +1,14 @@
 require "sinatra"
 require "sinatra/content_for"
+require 'will_paginate'
+require 'rsolr'
+require 'geocoder'
+
+
 
 require_relative 'routes/init'
 
-class Locator < Sinatra::Base
+class CSPC < Sinatra::Base
   enable :sessions
 
   configure do

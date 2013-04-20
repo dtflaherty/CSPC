@@ -8,6 +8,7 @@ gem "sinatra-contrib", "~>1.3.2"
 gem 'thin'
 gem 'geocoder'
 gem 'rsolr'
+gem 'will_paginate'
 
 group :rackup do
   gem "rack"
@@ -25,4 +26,3 @@ group :development do
   gem 'compass'
   gem 'bootstrap-sass'
 end
-# gem "rails"
