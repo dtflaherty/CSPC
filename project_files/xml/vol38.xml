@@ -21218,7 +21218,11 @@
         <dateline><num>518</num><date when="1731-11-29">Nov. 29</date></dateline>
         <p><placeName ref="#en_lon_stjames" role="from">St. James's</placeName>.
           H.M. Instructions to Lord Baltimore <placeName ref="#us_md" role="direct">[[ed. of Maryland]]</placeName>. 
-          [C.O. 5, 192, ff. 605-637.]</p> 
+          [C.O. 5, 192, ff. 605-637.]</p>
+      </div>
+      <div>
+        <dateline><num>519</num><date when="1731-11-30">Nov. 30</date></dateline>
+        <p>
 
 Nov. 30. 519. Council of Trade and Plantations to the Committee 
 Whitehall, of the Privy Council. Enclose following. Annexed, 
@@ -23114,7 +23118,7 @@ molosses etc. They are equally mistaken when they /alledge they
 are not sufficiently [ ? supplied} with lumber and provisions, or 
 that the Northern Colonies make them pay more thaji the French 
 etc. They have always carried full supplies of lumber to the 
-Sugar Islands, and even more th&n they will take, and sold 
+Sugar Islands, and even more than they will take, and sold 
 'em at such low rates that they have frequently been loosers 
 etc. If there was any want of lumber in Barbadoes occasioned 
 by ye late hurricane there, it was their own fault in not laying 
@@ -23620,7 +23624,7 @@ of any such right.
 In the second act there is the same clause. But then there 
 is the following provisoe which does I apprehend in some 
 measure qualifye the severity of the clause : Provided never- 
-theless that such rebells and traitors and their^heir&^pretending 
+theless that such rebells and traitors and their^heir&amp;^pretending 
 title to any lands, tenements or hereditaments in this island so 
 forfeited as aforesaid (having first obtained lycence from your 
 most sacred Majesty under your privy seale for that purpose) 
@@ -24105,7 +24109,7 @@ is humbly hoped that such an additional hardship on
 the Sugar Islands in their present circumstances will 
 be immediately removed, since otherwise their ruin 
 must inevitably follow. 5f pp. [C.O. 28, 22. ff. 
-144, 145-447&, 149v.j 
+144, 145-447&amp;, 149v.j 
 
 579. H.M. Additional Instruction to Governor Pitt, 
 concerning substitute for whale-licences, as ordered 23rd Dec. 
@@ -24356,10 +24360,8 @@ Bay. [C.O. 5, 897.]
 
 the Directors of the Dutch West India Company. [C.O. 116, 
 
-26.] 
-
-
-    
+26.]</p>
+      </div>    
 </body>
   </text>
 </TEI>
