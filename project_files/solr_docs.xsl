@@ -51,7 +51,7 @@
                 
             </xsl:for-each>
 
-            <field name="text_t"><![CDATA[<div id="{$id}"><xsl:apply-templates /></div>]]></field>
+            <field name="text_t">&lt;![CDATA[<div id="{$id}"><xsl:apply-templates /></div>]]&gt;</field>
         </doc>
     </xsl:template>
     
