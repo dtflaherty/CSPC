@@ -21,7 +21,7 @@ class CSPC < Sinatra::Base
     @page_title = "Search Results"
     rsolr = RSolr.connect :url => 'http://50.112.232.31:8080/solr/'
 
-    @results = rsolr.paginate 1, 10, "select", :params => {:q => '*:*' }
+    @results = rsolr.paginate 1, 10, "select", :params => { :q => '*:*' }
 
     erb :results
   end

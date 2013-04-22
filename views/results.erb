@@ -3,11 +3,9 @@
 
   <div class="result" id="<%= result['id'] %>">
     <div class="dateline">
-      <div class="date"><%= result['formatedDate_s'] %></div>
-      <div class="citation"><%= result['citation_s'] %></div>
+      <div class="date"><%= result['formatedDate_s'] %></div> / <div class="citation"><%= result['citation_s'] %></div>
     </div>
     <%= result['text_t'] %>
-    <%#= result.inspect %>
   </div>
 <% end %>
 
