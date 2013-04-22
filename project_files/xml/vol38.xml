@@ -809,10 +809,10 @@
             <geo>18.33333 -77.35</geo>
           </location>
         </place>
-        <place xml:id="kn_sandypoint" type="place">
-          <placeName>Sandy Point, St. Kitts</placeName>
+        <place xml:id="kn_brimstone" type="place">
+          <placeName>Brimstone Hill Fortress</placeName>
           <location>
-            <geo>17.3551438 -62.8455837</geo>
+            <geo>17.3469 -62.8372</geo>
           </location>
         </place>
         <place xml:id="kn_english" type="place">
@@ -822,11 +822,30 @@
             <geo>17.3348813 -62.80882510000001</geo>
           </location>
         </place>
+        <place xml:id="kn_figtree" type="place">
+          <placeName>Fig Tree Fort</placeName>
+          <location>
+            <geo>17.36667 -62.85</geo>
+          </location>
+        </place>
         <place xml:id="kn_french" type="place">
           <placeName>French quarter of St. Christophers</placeName>
           <location>
-            <!--Basseterre-->
-            <geo>17.29484 -62.7261</geo>
+            <!--Conaree-->
+            <geo>17.31667 -62.7</geo>
+          </location>
+        </place>
+        <place xml:id="kn_londonderry" type="place">
+          <placeName>Fort Londonderry</placeName>
+          <location>
+            <!--Fort Street and Bay Street, Basseterre-->
+            <geo>17.294777 -62.723587</geo>
+          </location>
+        </place>
+        <place xml:id="kn_sandypoint" type="place">
+          <placeName>Sandy Point, St. Kitts</placeName>
+          <location>
+            <geo>17.3551438 -62.8455837</geo>
           </location>
         </place>
         <place xml:id="lc_carenage" type="place">
@@ -1535,6 +1554,12 @@
             <geo>50.1258442 8.930633499999999</geo>
           </location>
         </place>
+        <place xml:id="es_biscay" type="place">
+          <placeName>Biscay</placeName>
+          <location>
+            <geo>43.25 -2.91667</geo>
+          </location>
+        </place>
         <place xml:id="es_cadiz" type="place">
           <placeName>Cadiz</placeName>
           <location>
@@ -1817,6 +1842,12 @@
           <placeName>Turks Islands</placeName>
           <location>
             <geo>21.4679028 -71.13991940000001</geo>
+          </location>
+        </place>
+        <place xml:id="is_ushant" type="natural">
+          <placeName>Ushant</placeName>
+          <location>
+            <geo>48.45938 -5.08615</geo> 
           </location>
         </place>
         <place xml:id="is_watling" type="natural">
@@ -22499,325 +22530,254 @@
           Signed, Fran. Fane. Endorsed, Recd. 20th Dec., 1731, Read 
           8th March, 1731/2. 2 1/2 pp. [C.O. 5, 972. ff. 228-229v.]</p> 
       </div>
-      <div><p>
-[Dec. 16]. 554. Petition of Thomas Beake, Agent of St. Christophers, 
-to the Council of Trade and Plantations. The said island hath 
-for some time past been in a very weak and impaired condition 
-in regard to its forts, fortifications and all manner of stores, 
-and tho' its condition was so bad is now rendred much worse 
-by an accident of having the principal magazine in the island 
-lately blown up by lightning in which was contained the greatest 
-part of the arms and ammunition belonging to the said island 
-whereby they were all destroyed. By this misfortune added 
-to the former weak state the said island was in and more 
-particularly that part which was formerly in the possession of 
-the French and lately purchased from the Crown, it is now left 
-in so naked and defenceless a condition as not to be able to 
-make any opposition in case of an invasion, and this island 
-being but at a small distance from the French etc., might become 
-an easy conquest to them etc. The Legislature there are 
-
-
-
-380 
-
-
-
-COLONIAL PAPERS. 
-
-
-
-1731. 
-
-
-
-Dec. 16. 
-
-Charles 
-Town. 
-
-
-
-[554] 
-
-preparing and putting in order the several forts and fortifications 
-with all possible expedition, and have therefore directed 
-memorialist to make the proper application for sixteen cannon 
-for Brimstone Hill, 8 of which to be 12 pounders and 8 nine 
-pounders, five other cannon for French Figg Tree Fort three 
-of which to be nine pounders and the other two 12 pounders, 
-twelve other cannon for Fort Londonderry, six of which to be 
-12 pounders, and the other six eighteen pounders, with carriages, 
-rammers, spunges, ladles and all other things proper for the 
-same, as likewise 500 small arms with bagonetts fixt to them, 
-and 200 barrells of powder. Prays the Board to represent to 
-H.M. that the furnishing the said stores is highly expedient and 
-necessary etc. Endorsed, Reed., Read 16th Dec. 1731. 1| pp. 
-[C.O. 152, 19. ff. 86, 86u., 9lv.] 
-
-555. Governor Johnson to the Council of Trade and 
-Plantations. Encloses following as ordered 16th June. Con- 
-tinues : As the navigation of Great Britain is very much 
-affected to its advantage by the trade of this place, and the 
-manufactorys noways prejudiced, I am in hopes your Lordships 
-will think this Colony in a particular manner deserves the 
-concern and encouragement of the Legislature at home. Your 
-Lordships will perceive by the said account that altho' this 
-Province has within this ten years more than doubled the 
-produce in rice, which imploys more than double the negros, 
-more than double the land cultivated, and consequently double 
-the labour and industry, and double the quantity of shipping 
-employed and clothing made in England (no small advantage 
-to the Brittish nation) yet from their being obliged to sell it all 
-in Europe, and most of it in England, 50,000 barrels has 
-produced them less sterling money this last year 1731 than 
-22,000 did shipt home in 1721, and it is to be feared very justly 
-that if they continue to increase that commodity they will still 
-lose more in proportion to that increase unless the trade to 
-Portugal should very much augment the demand, which good 
-effect we have not yet found : But if we had been permitted 
-by the late Act of Parliament that gives us leave to send it 
-directly there, to have sent it also to any part southward of 
-Cape Ushant, we had then had all Biscay and some part of 
-France, as well as all America to have taken off some of it, and 
-this we were in hopes to have obtained, and still are in hopes that 
-thro' your Lordships' good offices, the Parliament may in some 
-short time be induced to give us, since it is plain that let us sell 
-where we will, the nett proceed is so much added to the wealth 
-of Great Britain, besides the great advantage of employing so 
-many ships ; and the low price it is now fallen to, makes the 
-Assembly talk of confining the planters to cultivate a certain 
-quantity of land, each according to the number of their slaves, 
-to prevent their being ruind by their own industry. This they 
-
-
-
-AMERICA AND WEST INDIES. 381 
-
-
-
-1731. [555] 
-
-have done in Virginia, with their tobacco, which altho it has 
-produced the effect the planters wanted, has however, to be sure, 
-been very prejudicial to his Majesty in his customs, and much 
-lessened the number of ships employed in that trade, which 
-must also be the consequence in our case, if we are obliged to 
-do the same thing, which may be worth your Lordships' con- 
-sideration. Refers to letter of 16th Nov. relating to act for 
-ascertaining H.M. quit-rents. Continues : That act seems 
-in a manner almost suspended until we can have H.M. directions 
-thereon, it being of great concern as well to H.M. as the Province. 
-I am in hopes your Lordships will send me^your thoughts, and 
-H.M. orders thereon as soon as possible, and Mr. Fury our 
-Agent has directions to attend your Lordships for that purpose, 
-and unless I know H.M. pleasure upon it, I refuse, o grant 
-warrants to survey or lay out any lands granted by patents by 
-the late Lords Proprietors, fearing it might strengthen their 
-titles ; on the other hand I find people very backwards in 
-registring their titles, till they know the fate of/ the quit-rent 
-law. The land office is now open and I send your Lordships 
-a copy of the altered form of grants. Several gentlemen of 
-great fortune are come here from Barbados and elsewhere to 
-see how they like the country, and being desirous to secure lands 
-to settle, but not having brought slaves or whites with them, 
-to intitle them to take up a sufficient quantity of land, and they 
-applying for the same, by the advice of the Council, we have 
-granted them the lands they desire, at the annual quit-rent of 
-3s. sterl. per hundred acres, they first having given bond to 
-H.M. at the rate of 50 sterl. for every 500 acres, that they will 
-in three years import a soul, either black or white, according 
-to the King's Instructions for every 50 acres. Signed, Robt. 
-Johnson. Endorsed, Reed. 26th Jan., Read 16th Feb., 173|. 
-3 pp. Enclosed, 
-
-555. i. Account of rice shipped to Great Britain from S. 
-Carolina in 1721 and 1731. In 1721, 22,000 barrels 
-of 4 cwt. each, sold at a medium of 18 /- per cwt. 
-10,000 negros computed in the Province at 20 sterl. 
-per head. In 1731, 50,000 barrels at 14/6 per cwt. 
-20,000 negroes. The fall in price is so great that the 
-50,000 barrels of 1731 yielded clear of all expenses 
-in Great Britain only 4671/. 13*. 4d. more than the 
-22,000 of 1721 etc. (v. preceding). Endorsed as preceding. 
-2 pp. [C.O. 5, 362. ff. 77-78i;., 79v.-80v. ; and 
-(abstract of letter) 76, 76v.] 
-
-Dec. 17. 556. Council of Trade and Plantations to the Lords of the 
-
-Whitehall. Committee of Privy Council. In pursuance of Orders of 27th 
-
-July etc., we have been attended by the petitioners, and have 
-
-heard Counsel in support of their petition, who endeavoured 
-
-to shew the ill use that might be made of this Additional 
-
-
-
-382 
-1731. 
-
-
-
-Dec. 17. 
-
-Whitehall. 
-
-
-
-Dec. 17. 
-
-Whitehall. 
-
-
-
-Dec. 17. 
-
-\\hi1ehall. 
-
-
-
-COLONIAL PAPERS. 
-
-\ 
-
-[556] 
-
-Instruction, from the influence which the Governor of Barbados 
-may be presumed to have over the Assembly of that island 
-etc. We have in vain represented to the petitioners the evils 
-that may possibly arise to them for the temptation any future 
-Governor may lye under by so great a reduction of their salary, 
-of being prevailed upon to let their duty give way to their 
-intrest ; But the petitioners ultimately declared their dislike 
-of any additional allowance to be settled upon the future Govrs. 
-of Barbados at the expence of that island, except only 500 pr. 
-ami. to defray the charge of their cellars, which summ hath been 
-always allowed for that purpose, since the time that Sir Beville 
-Granville was Govr. of that Colony. We take leave however 
-to represent to your Lordsps., that considering the dearness of 
-provisions in Barbados, and the very great expence which every 
-Govr. must necessarily be at, to support the proper dignity of 
-his office ; and that it is of great consequence to the service and 
-to the honour of the Crown that all H.M. Governors in America 
-should be independant of their respective Colonies, for their 
-support : we think, that some addition should be made to ye 
-present salary ; and we humbly apprehend, that if Mr. 
-Chetwynd, whom H.M. has been pleased to appoint his Governor 
-of Barbados, were allowed to take a salary from the Assembly 
-of that Isld., not exceeding 3000 sterl. pr. annum they might, 
-without inconvenience to themselves, be t.ble to settle that 
-annual summ upon him during his continuance in that Govermt.; 
-which would be but half of what they settled upon their former 
-Governor, and we the rather incline to propose that summ, 
-because altho' the merchants did inform us, that the perquisites 
-of the Governor of Barbados did amount to about 2000 a 
-year, yet upon our desiring they would explain to us how that 
-summ was computed, we do not find either from them or from 
-the best information we can get, that the known perquisites 
-are of any considerable value. [C.O. 29, 15. pp. 243-246.] 
-
-557. Council of Trade and Plantations to the King. 
-Recommend John Morris for the Council of Antigua, in the 
-room of Wm. Byam deed. [C.O. 153, 15. p. 121.] 
-
-558. Council of Trade and Plantations to the Duke of 
-Newcastle. Enclose following to be laid before H.M. Annexed, 
-
-558. Draft of H.M. W T arrant to Lewis Morris, President of 
-
-the Council of New Jersey empowering him to use the 
-new seal sent therewith (described). [C.O. 5, 996. 
-pp. 277-280.] 
-
-559. Order of Committee of Council. The petition of 
-William Smith, C.J. of N. Carolina, on behalf of the Assembly, 
-Council and Planters, complaining against Governor Burrington, 
-Mr. Lovick, and Mr. Little, is to be transmitted to them for their 
-
-
-
-AMERICA AND WEST INDIES. 383 
-
-
-
-1731. [559] 
-
-answer and depositions etc. to be returned in six months etc. 
-(v. A.P.C. III. No. 254). Unsigned. 2pp. [C.O. 5, 21. ff. 9, 
-90.] 
-
-[Dec. 20]. 560. [? Mr. Paris] to the Council of Trade and Plantations. 
-Reasons humbly offered on behalf of the Province of Pennsylvania 
-against the restraint on one side, and monoply on the other, prayed 
-by the Assemblys of Barbados, Antigua and Christopher etc. 
-Pennsilvania may be called one of the Bread Collonies etc. It 
-produces provisions (as wheat, Indian-corn, flower and other 
-corn, beef, pork and butter) horses and tijjibel\^rtarinhabitants 
-are very numerous, and yearly take from Great Britain vast 
-quantitys of woollen manufactures for cloathing and preser- 
-vation from the severe cold of their winters (more than all the 
-three Sugar Islands abovemend. together), also great quantitys 
-of linens, silks, haberdashery, ironware and otheV materials 
-for husbandry and building and the furniture of their houses. 
-With some of their own provisions, horses and/ lumber they 
-purchase from the Brittish and Dutch Sugar ^slands sugar, 
-rum and molosses. With some of the Brittish manufactures 
-(as woolens, linnens, shot, cutlery etc.) they purchase from the 
-Indians skinns and furrs. The expence of clearing and setling 
-so young a Colony (not 50 years old) and the charges in buying 
-all things necessary to their subsistance (except provisions 
-only) from great Brittain are so great, that without liberty 
-to dispose of the whole of their provisions, horses and lumber, 
-above their own consumption, it would be impossible for them 
-to proceed in setling the Collony, or even to subsist there, which 
-is the most they can at present do, with the utmost industry 
-and frugality. The Brittish Sugar Colonys alone, cannot take 
-off near the provisions which the Bread Colonys export, and 
-the residue must be lost to the Bread Colonys, as not being 
-worth the while to bring to Europe. Nor on the other hand 
-are the Brittish Colonys able to supply the Northern Colonys 
-and its sevl. occasions with the rum and molasses there con- 
-sumed, without greatly diminishing the quantity of sugar they 
-make. The Sugar Colonys have long enjoyed the utmost 
-sunshine of wealth and plenty, which is a state the Northern 
-colonys have never yet once arrived at, nor are ever likely to 
-attain. And the consequences of restraining the Northern 
-Colonys' trade to Great Britain and the Brittish Sugar Islands 
-(wch. is in effect to the Sugar Islands only) and of monopolizing 
-by the Brittish Sugar Islands of the sale to the Northern Colonys 
-of the sugar, rum and molasses they consume etc. would be : 
-The takeing from H.M. faithful subjects in N. America that 
-liberty and freedom of commerce which is their birthright and 
-yet unrestrained ; The makeing them the slaves and bondmen 
-of their fellow subjects in the Sugar Islands ; The aggrandizeing 
-a few of H.M. opulent subjects in the Sugar Islands at the 
-
-
-
-384 COLONIAL PAPERS. 
-
-
-
-1731. [560] 
-
-expence and ruin of prodigious numbers of persons who are 
-as much, as loyally, and as usefully, H.M. subjects in the 
-Northern Colonies, tho' not blest with the affluence the Sugar 
-Islanders can boast ; The stripping the inhabitants of Pensilva. 
-of the means of subsistence and of purchaseing the necessarys 
-and conveniencys of life and of setling the Colony etc. Great 
-Britain itself would be exceedingly prejudiced thereby in its 
-manufactures and navigation, trade and revenue, for the Sugar 
-Islands would have demands from N. America that would take 
-off all their rum and most of their sugar, so that little would be 
-brought to Great Britain even for its own consumption and the 
-navigation with it to forreign markets would be quite at an end 
-etc. Endorsed, Reed, (from Mr. Paris), Read 20th Dec., 1731. 
-2f pp. [C.O. 5, 1268. ff. 31-32t;.] 
-
-[Dec. 20]. 561 . Some short observations on and reasons in answer 
+      <div>
+        <dateline><num>554</num><date when="1731-12-16">Dec. 16</date></dateline>
+        <p>Petition of Thomas Beake, Agent of <placeName ref="#stchristophers" role="direct">St. Christophers</placeName>, 
+          to the Council of Trade and Plantations. The said island hath 
+          for some time past been in a very weak and impaired condition 
+          in regard to its forts, fortifications and all manner of stores, 
+          and tho' its condition was so bad is now rendred much worse 
+          by an accident of having the principal magazine in the island 
+          lately blown up by lightning in which was contained the greatest 
+          part of the arms and ammunition belonging to the said island 
+          whereby they were all destroyed. By this misfortune added 
+          to the former weak state the said island was in and more particularly 
+          <placeName ref="#kn_french" role="direct">that part which was formerly in the possession of the French</placeName> 
+          and lately purchased from the Crown, it is now left 
+          in so naked and defenceless a condition as not to be able to 
+          make any opposition in case of an invasion, and this island 
+          being but at a small distance from the French etc., might become 
+          an easy conquest to them etc. The Legislature there are 
+          preparing and putting in order the several forts and fortifications 
+          with all possible expedition, and have therefore directed 
+          memorialist to make the proper application for sixteen cannon 
+          for <placeName ref="#kn_brimstone" role="direct">Brimstone Hill</placeName>, 8 of which to be 12 pounders and 8 nine 
+          pounders, five other cannon for <placeName ref="#kn_figtree" role="direct">French Figg Tree Fort</placeName> three 
+          of which to be nine pounders and the other two 12 pounders, 
+          twelve other cannon for <placeName ref="#kn_londonderry" role="direct">Fort Londonderry</placeName>, six of which to be 
+          12 pounders, and the other six eighteen pounders, with carriages, 
+          rammers, spunges, ladles and all other things proper for the 
+          same, as likewise 500 small arms with bagonetts fixt to them, 
+          and 200 barrells of powder. Prays the Board to represent to 
+          H.M. that the furnishing the said stores is highly expedient and necessary etc. 
+          Endorsed, Recd., Read 16th Dec. 1731. 1 1/2 pp. [C.O. 152, 19. ff. 86, 86v., 91v.]</p> 
+      </div>
+      <div>
+        <dateline><num>555</num><date when="1731-12-16">Dec. 16</date></dateline>
+        <p><placeName ref="#us_sc_charleston" role="from">Charles Town</placeName>.
+          Governor Johnson to the Council of Trade and Plantations. 
+          Encloses following as ordered 16th June. Continues : 
+          As the navigation of <placeName ref="#gb" role="indirect">Great Britain</placeName> is very much 
+          affected to its advantage by the trade of <placeName ref="#us_sc" role="direct">this place</placeName>, and the 
+          manufactorys noways prejudiced, I am in hopes your Lordships 
+          will think this Colony in a particular manner deserves the 
+          concern and encouragement of the Legislature at home. Your 
+          Lordships will perceive by the said account that altho' this 
+          Province has within this ten years more than doubled the 
+          produce in rice, which imploys more than double the negros, 
+          more than double the land cultivated, and consequently double 
+          the labour and industry, and double the quantity of shipping 
+          employed and clothing made in England (no small advantage 
+          to the Brittish nation) yet from their being obliged to sell it all in 
+          <placeName ref="#europe" role="indirect">Europe</placeName>, and most of it in <placeName ref="#en" role="indirect">England</placeName>, 
+          50,000 barrels has produced them less sterling money this last year 
+          1731 than 22,000 did shipt home in 1721, and it is to be feared very 
+          justly that if they continue to increase that commodity they will 
+          still lose more in proportion to that increase unless the trade to 
+          <placeName ref="#pt" role="indirect">Portugal</placeName> should very much augment the demand, which good 
+          effect we have not yet found : But if we had been permitted 
+          by the late Act of Parliament that gives us leave to send it directly there, 
+          to have sent it also to any part southward of <placeName ref="#is_ushant" role="indirect">Cape Ushant</placeName>, 
+          we had then had all <placeName ref="#es_biscay" role="indirect">Biscay</placeName> and some part of 
+          <placeName ref="#fr" role="indirect">France</placeName>, as well as all <placeName ref="#n_america" role="indirect">America</placeName> 
+          to have taken off some of it, and this we were in hopes to have 
+          obtained, and still are in hopes that thro' your Lordships' good 
+          offices, the Parliament may in some short time be induced to give us, 
+          since it is plain that let us sell where we will, the nett proceed is 
+          so much added to the wealth of Great Britain, besides the great 
+          advantage of employing so many ships ; and the low price it is now 
+          fallen to, makes the Assembly talk of confining the planters to 
+          cultivate a certain quantity of land, each according to the number of 
+          their slaves, to prevent their being ruind by their own industry. This 
+          they have done in <placeName ref="#us_va" role="indirect">Virginia</placeName>, with their tobacco, which altho 
+          it has produced the effect the planters wanted, has however, to be sure, 
+          been very prejudicial to his Majesty in his customs, and much 
+          lessened the number of ships employed in that trade, which 
+          must also be the consequence in our case, if we are obliged to 
+          do the same thing, which may be worth your Lordships' consideration. 
+          Refers to letter of 16th Nov. relating to act for 
+          ascertaining H.M. quit-rents. Continues : That act seems 
+          in a manner almost suspended until we can have H.M. directions 
+          thereon, it being of great concern as well to H.M. as the Province. 
+          I am in hopes your Lordships will send me your thoughts, and 
+          H.M. orders thereon as soon as possible, and Mr. Fury our 
+          Agent has directions to attend your Lordships for that purpose, 
+          and unless I know H.M. pleasure upon it, I refuse, to grant 
+          warrants to survey or lay out any lands granted by patents by 
+          the late Lords Proprietors, fearing it might strengthen their 
+          titles ; on the other hand I find people very backwards in 
+          registring their titles, till they know the fate of the quit-rent 
+          law. The land office is now open and I send your Lordships 
+          a copy of the altered form of grants. Several gentlemen of 
+          great fortune are come here from <placeName ref="#bb" role="indirect">Barbados</placeName> and elsewhere to 
+          see how they like the country, and being desirous to secure lands 
+          to settle, but not having brought slaves or whites with them, 
+          to intitle them to take up a sufficient quantity of land, and they 
+          applying for the same, by the advice of the Council, we have 
+          granted them the lands they desire, at the annual quit-rent of 
+          3s. sterl. per hundred acres, they first having given bond to 
+          H.M. at the rate of 50 sterl. for every 500 acres, that they will 
+          in three years import a soul, either black or white, according 
+          to the King's Instructions for every 50 acres. Signed, Robt. Johnson. 
+          Endorsed, Recd. 26th Jan., Read 16th Feb., 1731/2. 3 pp. Enclosed,</p>
+      </div>
+      <div>
+        <dateline><num>555.1</num><date when="1731-12-16">Dec. 16</date></dateline>
+        <p>555. i. Account of rice shipped to <placeName ref="#gb" role="indirect">Great Britain</placeName> from 
+          S. Carolina in 1721 and 1731. In 1721, 22,000 barrels 
+          of 4 cwt. each, sold at a medium of 18 /- per cwt. 
+          10,000 negros computed in the Province at £20 sterl. 
+          per head. In 1731, 50,000 barrels at 14/6 per cwt. 
+          20,000 negroes. The fall in price is so great that the 
+          50,000 barrels of 1731 yielded clear of all expenses 
+          in Great Britain only £4671l. 13s. 4d. more than the 
+          22,000 of 1721 etc. (v. preceding). Endorsed as preceding. 
+          2 pp. [C.O. 5, 362. ff. 77-78v., 79v.-80v. ; and 
+          (abstract of letter) 76, 76v.]</p>
+      </div>
+      <div>
+        <dateline><num>556</num><date when="1731-12-17">Dec. 17</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the Lords of the 
+          Committee of Privy Council. In pursuance of Orders of 27th 
+          July etc., we have been attended by the petitioners, and have 
+          heard Counsel in support of their petition, who endeavoured 
+          to shew the ill use that might be made of this Additional 
+          Instruction, from the influence which the Governor of <placeName ref="#bb" role="direct">Barbados</placeName> 
+          may be presumed to have over the Assembly of that island 
+          etc. We have in vain represented to the petitioners the evils 
+          that may possibly arise to them for the temptation any future 
+          Governor may lye under by so great a reduction of their salary, 
+          of being prevailed upon to let their duty give way to their 
+          intrest ; But the petitioners ultimately declared their dislike 
+          of any additional allowance to be settled upon the future Govrs. 
+          of Barbados at the expence of that island, except only £500 pr. 
+          ann. to defray the charge of their cellars, which summ hath been 
+          always allowed for that purpose, since the time that Sir Beville 
+          Granville was Govr. of that Colony. We take leave however 
+          to represent to your Lordsps., that considering the dearness of 
+          provisions in Barbados, and the very great expence which every 
+          Govr. must necessarily be at, to support the proper dignity of 
+          his office ; and that it is of great consequence to the service and 
+          to the honour of the Crown that all H.M. Governors in <placeName ref="#indies" role="secondary">America</placeName> 
+          should be independant of their respective <placeName ref="#n_america" role="secondary">Colonies</placeName>, for their 
+          support : we think, that some addition should be made to ye 
+          present salary ; and we humbly apprehend, that if Mr. 
+          Chetwynd, whom H.M. has been pleased to appoint his Governor 
+          of Barbados, were allowed to take a salary from the Assembly 
+          of that Isld., not exceeding £3000 sterl. pr. annum they might, 
+          without inconvenience to themselves, be able to settle that 
+          annual summ upon him during his continuance in that Govermt.; 
+          which would be but half of what they settled upon their former 
+          Governor, and we the rather incline to propose that summ, 
+          because altho' the merchants did inform us, that the perquisites 
+          of the Governor of Barbados did amount to about £2000 a 
+          year, yet upon our desiring they would explain to us how that 
+          summ was computed, we do not find either from them or from 
+          the best information we can get, that the known perquisites 
+          are of any considerable value. [C.O. 29, 15. pp. 243-246.]</p>
+      </div>
+      <div>
+        <dateline><num>557</num><date when="1731-12-17">Dec. 17</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the King. Recommend 
+          John Morris for the Council of <placeName ref="#ag" role="direct">Antigua</placeName>, in the 
+          room of Wm. Byam deed. [C.O. 153, 15. p. 121.]</p>
+      </div>
+      <div>
+        <dateline><num>558</num><date when="1731-12-17">Dec. 17</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Council of Trade and Plantations to the Duke of Newcastle. 
+          Enclose following to be laid before H.M. Annexed, 
+          558. Draft of H.M. Warrant to Lewis Morris, President of 
+          the Council of <placeName ref="#us_nj" role="direct">New Jersey</placeName> empowering him to use the 
+          new seal sent therewith (described). [C.O. 5, 996. pp. 277-280.]</p>
+      </div>
+      <div>
+        <dateline><num>559</num><date when="1731-12-17">Dec. 17</date></dateline>
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
+          Order of Committee of Council. The petition of 
+          William Smith, C.J. of <placeName ref="#us_nc" role="direct">N. Carolina</placeName>, on behalf of the Assembly, 
+          Council and Planters, complaining against Governor Burrington, 
+          Mr. Lovick, and Mr. Little, is to be transmitted to them for their 
+          answer and depositions etc. to be returned in six months etc. 
+          (v. A.P.C. III. No. 254). Unsigned. 2pp. [C.O. 5, 21. ff. 9, 9v.]</p> 
+      </div>
+      <div>
+        <dateline><num>560</num><date when="1731-12-20">Dec. 20</date></dateline>
+        <p>[? Mr. Paris] to the Council of Trade and Plantations. 
+          Reasons humbly offered on behalf of the Province of Pennsylvania 
+          against the restraint on one side, and monoply on the other, prayed 
+          by the Assemblys of Barbados, Antigua and Christopher etc. 
+          Pennsilvania may be called one of the Bread Collonies etc. It 
+          produces provisions (as wheat, Indian-corn, flower and other 
+          corn, beef, pork and butter) horses and tijjibel\^rtarinhabitants 
+          are very numerous, and yearly take from Great Britain vast 
+          quantitys of woollen manufactures for cloathing and preser- 
+          vation from the severe cold of their winters (more than all the 
+          three Sugar Islands abovemend. together), also great quantitys 
+          of linens, silks, haberdashery, ironware and otheV materials 
+          for husbandry and building and the furniture of their houses. 
+          With some of their own provisions, horses and/ lumber they 
+          purchase from the Brittish and Dutch Sugar ^slands sugar, 
+          rum and molosses. With some of the Brittish manufactures 
+          (as woolens, linnens, shot, cutlery etc.) they purchase from the 
+          Indians skinns and furrs. The expence of clearing and setling 
+          so young a Colony (not 50 years old) and the charges in buying 
+          all things necessary to their subsistance (except provisions 
+          only) from great Brittain are so great, that without liberty 
+          to dispose of the whole of their provisions, horses and lumber, 
+          above their own consumption, it would be impossible for them 
+          to proceed in setling the Collony, or even to subsist there, which 
+          is the most they can at present do, with the utmost industry 
+          and frugality. The Brittish Sugar Colonys alone, cannot take 
+          off near the provisions which the Bread Colonys export, and 
+          the residue must be lost to the Bread Colonys, as not being 
+          worth the while to bring to Europe. Nor on the other hand 
+          are the Brittish Colonys able to supply the Northern Colonys 
+          and its sevl. occasions with the rum and molasses there con- 
+          sumed, without greatly diminishing the quantity of sugar they 
+          make. The Sugar Colonys have long enjoyed the utmost 
+          sunshine of wealth and plenty, which is a state the Northern 
+          colonys have never yet once arrived at, nor are ever likely to 
+          attain. And the consequences of restraining the Northern 
+          Colonys' trade to Great Britain and the Brittish Sugar Islands 
+          (wch. is in effect to the Sugar Islands only) and of monopolizing 
+          by the Brittish Sugar Islands of the sale to the Northern Colonys 
+          of the sugar, rum and molasses they consume etc. would be : 
+          The takeing from H.M. faithful subjects in N. America that 
+          liberty and freedom of commerce which is their birthright and 
+          yet unrestrained ; The makeing them the slaves and bondmen 
+          of their fellow subjects in the Sugar Islands ; The aggrandizeing 
+          a few of H.M. opulent subjects in the Sugar Islands at the 
+          expence and ruin of prodigious numbers of persons who are 
+          as much, as loyally, and as usefully, H.M. subjects in the 
+          Northern Colonies, tho' not blest with the affluence the Sugar 
+          Islanders can boast ; The stripping the inhabitants of Pensilva. 
+          of the means of subsistence and of purchaseing the necessarys 
+          and conveniencys of life and of setling the Colony etc. Great 
+          Britain itself would be exceedingly prejudiced thereby in its 
+          manufactures and navigation, trade and revenue, for the Sugar 
+          Islands would have demands from N. America that would take 
+          off all their rum and most of their sugar, so that little would be 
+          brought to Great Britain even for its own consumption and the 
+          navigation with it to forreign markets would be quite at an end 
+          etc. Endorsed, Recd, (from Mr. Paris), Read 20th Dec., 1731. 
+          2 3/4 pp. [C.O. 5, 1268. ff. 31-32v.]</p>
+      </div>
+      <div>
+        <dateline><num>561</num><date when="1731-12-20">Dec. 20</date></dateline>
+        <p>Some short observations on and reasons in answer 
 to the three Representations from Barbadoes, Antigua and 
 St. Christophers etc., for and on behalf e of severall of the 
 Northern Colonies (Massachusetts Bay, Rhode Island, New 
@@ -22951,87 +22911,57 @@ the trade of the British Northern Colonies is already greatly
 cramped, It is hoped for the reasons contained in their printed 
 case herewith left etc., that the Northern Colonies shall not be 
 deprived of this branch of their commerce, a just liberty they 
-have always hitherto enjoyed and which they are assured will 
-still be continued to them. Endorsed, Reed., Read 20th Dec., 
-1731. 3^ pp. Enclosed, 
-
-561. i. The Case of the British Northern Colonies. Referred 
-to in preceding. Printed. 3 large pp. [C.O. 28, 22. 
-ff. 137, 
-
-
-
-[Dec. 20]. 562. The Case of the British Northern Colonies, (v. preced- 
-ing). Endorsed, Reed, (from Mr. John Sharpe). Read 20th Dec., 
-1731. Printed. 3pp. [C.O. 323, 9ff. 83-84y.] 
-
-[Dec. 20]. 563. Petition of Richard Partridge, Agent of Rhoad 
-Island and Providence Plantations, to the Council of Trade 
-and Plantations. Prays for a copy of memorial from Rhode 
-Island (v. Sept. 2, encl. i), in order to his vindicating the 
-Assembly etc. Endorsed, Reed. 24th, Read 25th Jan., 173^. 
-f p. [C.O. 5, 1268. ff. 34, 87 v.] 
-
-
-
-AMERICA AND WEST INDIES. 
-
-
-
-387 
-
-
-
-1731. 
-Dec. 20. 
-
-Jamaica. 
-
-
-
-[Dec. 20]. 
-
-
-
-Dec. 21. 
-
-Whitehall. 
-
-
-
-Dec. 22. 
-
-Virginia. 
-
-
-
-564. Governor Hunter to the Council of Trade and 
-Plantations. This serves to cover a duplicate of my last of 
-the 15th inst. I have as yet no further advice from Port 
-Antonio, my messenger not being return'd. Transmits two 
-acts passed last session of Assembly, (i) for the further quieting 
-possessions and regulating resurveys, and (ii) for the better pre- 
-serving of the records in the several publick offices, etc., and 
-remedying defects in former laws, for preventing fraudulent deeds 
-and conveyances, and recording old wills in a prefixed time. 
-Transmits Minutes of Council and Journal o^Assembly. 
-Continues : The Attorney General and other good judges 
-have assur'd me that they could not see any objection to Cither, 
-and I assure your Lordships they are as necessary to the peace 
-of this Island as anything that can be thought of, being calcu- 
-lated to prevent multiplicity of letigious law-suits,/ the bane 
-of this country. I am so much indispos'd, that I nave much 
-ado to write or dictate. I hope soon to have the opportunity 
-of another ship, when I perhaps may be able to write more 
-fully etc. Signed, Ro. Hunter. Endorsed, Reed. 7th March, 
-Read 12th Sept., 1732. If pp. [C.O. 137, 20. ff. 38, 3Sv., 
-4180.] 
-
-565. Representation of President, Council and Assembly of 
-New York to the King (v. Nov. 2 end. i). Copy. Endorsed, 
-Reed., Read 20th Dec., 1731. 2 pp. [C.O. 5, 1055. ff. 200, 
-200i;., 
-
+have always hitherto enjoyed and which they are assured will still be 
+continued to them. Endorsed, Reed., Read 20th Dec., 1731. 3 1/3 pp. Enclosed, 
+561. i. The Case of the British Northern Colonies. Referred to in preceding.
+Printed. 3 large pp. [C.O. 28, 22. ff. 137, 138v., 139v.-141v.]</p>
+      </div>
+      <div>
+        <dateline><num>562</num><date when="1731-12-20">Dec. 20</date></dateline>
+        <p>The Case of the <placeName ref="#n_america" role="direct">British Northern Colonies</placeName>, 
+          (v. preceding). Endorsed, Recd, (from Mr. John Sharpe). 
+          Read 20th Dec., 1731. Printed. 3pp. [C.O. 323, 9ff. 83-84v.]</p>
+      </div>
+      <div>
+        <dateline><num>563</num><date when="1731-12-20">Dec. 20</date></dateline>
+        <p>Petition of Richard Partridge, Agent of 
+          <placeName ref="#us_ri" role="direct">Rhoad Island and Providence Plantations</placeName>, to the Council of 
+          Trade and Plantations. Prays for a copy of memorial from Rhode 
+          Island (v. Sept. 2, encl. i), in order to his vindicating the 
+          Assembly etc. Endorsed, Recd. 24th, Read 25th Jan., 1731/2. 
+          3/4 p. [C.O. 5, 1268. ff. 34, 37v.]</p> 
+      </div>
+      <div>
+        <dateline><num>564</num><date when="1731-12-20">Dec. 20</date></dateline>
+        <p><placeName ref="#jm" role="from">Jamaica</placeName>.
+          Governor Hunter to the Council of Trade and 
+          Plantations. This serves to cover a duplicate of my last of 
+          the 15th inst. I have as yet no further advice from 
+          <placeName ref="#jm_portantonio" role="direct">Port Antonio</placeName>, my messenger not being return'd. 
+          Transmits two acts passed last session of Assembly, (i) for the further 
+          quieting possessions and regulating resurveys, and (ii) for the better 
+          preserving of the records in the several publick offices, etc., and 
+          remedying defects in former laws, for preventing fraudulent deeds 
+          and conveyances, and recording old wills in a prefix'd time. 
+          Transmits Minutes of Council and Journal of Assembly. 
+          Continues : The Attorney General and other good judges 
+          have assur'd me that they could not see any objection to either, 
+          and I assure your Lordships they are as necessary to the peace 
+          of <placeName ref="#jm" role="direct">this Island</placeName> as anything that can be thought of, being 
+          calculated to prevent multiplicity of letigious law-suits, the bane 
+          of this country. I am so much indispos'd, that I have much 
+          ado to write or dictate. I hope soon to have the opportunity 
+          of another ship, when I perhaps may be able to write more 
+          fully etc. Signed, Ro. Hunter. Endorsed, Recd. 7th March, 
+          Read 12th Sept., 1732. 1 3/4 pp. [C.O. 137, 20. ff. 38, 38v., 43v.]</p>
+      </div>
+      <div>
+        <dateline><num>565</num><date when="1731-12-20">Dec. 20</date></dateline>
+        <p>Representation of President, Council and Assembly of 
+          <placeName ref="#us_ny" role="direct">New York</placeName> to the King (v. Nov. 2 encl. i). Copy. Endorsed, 
+          Recd., Read 20th Dec., 1731. 2 pp. [C.O. 5, 1055. ff. 200, 200v., 201v.]</p>
+      </div>
+      <div><p>
 
 
 566. Mr. Popple to John Scrope. By order of my Lords 
@@ -24123,9 +24053,9 @@ Bay. [C.O. 5, 897.]
 the Directors of the Dutch West India Company. [C.O. 116, 
 
 26.]
+
+
       </p></div>
-
-
 </body>
   </text>
 </TEI>
