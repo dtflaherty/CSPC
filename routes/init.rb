@@ -12,7 +12,7 @@ class CSPC < Sinatra::Base
     erb :map
   end
 
-  get '/about' do
+  get '/about/?' do
     @page_title = "About the Project"
     erb :about
   end

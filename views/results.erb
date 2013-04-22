@@ -1,8 +1,13 @@
 
 <% @results['response']['docs'].each do |result| %>
+
   <div class="result" id="<%= result['id'] %>">
-  <h1><%= result['placename_txt'].first %></h1>
-<%= result.inspect %>
+    <div class="dateline">
+      <div class="date"><%= result['formatedDate_s'] %></div>
+      <div class="citation"><%= result['citation_s'] %></div>
+    </div>
+    <%= result['text_t'] %>
+    <%#= result.inspect %>
   </div>
 <% end %>
 

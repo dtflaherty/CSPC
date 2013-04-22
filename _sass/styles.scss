@@ -70,4 +70,14 @@ header[role=banner] {
   height: 500px;
 }
 
-
+.result {
+  .dateline {
+    .date {
+      float:left;
+        font-size: 1em;
+    }
+    .citation {
+      font-size: 1.8em;
+    }
+  }
+}
