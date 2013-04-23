@@ -44,8 +44,8 @@
         <place xml:id="africa" type="region">
           <placeName>Africa</placeName>
           <location>
-            <!--Cameroon-->
-            <geo>7.369721999999999 12.354722</geo>
+            <!--Enugu, NG-->
+            <geo>6.4402 7.4943</geo>
           </location>
         </place>
         <place xml:id="europe" type="region">
