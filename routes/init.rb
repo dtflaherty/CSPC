@@ -22,7 +22,7 @@ class CSPC < Sinatra::Base
     rsolr = RSolr.connect :url => 'http://50.112.232.31:8080/solr/'
 
     solr_params = {
-      :q => '*:*',
+      :q => "*:*"
     }
 
     @results = rsolr.paginate params[:page], 10, 'select', :params => solr_params
