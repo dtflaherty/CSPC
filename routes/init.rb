@@ -1,6 +1,8 @@
-require 'will_paginate'
 require 'rsolr'
+require 'rsolr-ext'
 require 'geocoder'
+require 'will_paginate'
+require 'pp'
 
 class CSPC < Sinatra::Base
   get '/' do
@@ -19,10 +21,19 @@ class CSPC < Sinatra::Base
 
   get '/results/?' do
     @page_title = "Search Results"
+    #rsolr = RSolr::Ext.connect :url => 'http://50.112.232.31:8080/solr/'
     rsolr = RSolr.connect :url => 'http://50.112.232.31:8080/solr/'
 
-    @results = rsolr.paginate 1, 10, "select", :params => { :q => '*:*' }
+    rsolr_params = {
+      :q => '*:*',
+    }
 
+    pp rsolr
+
+    #@results = rsolr. params[:page], 10, "select", :params => { :q => '*:*' }
+    #@results = rsolr.find solr_params, :method => :post
+   
+    @results = rsolr.paginate params[:page], 10, 'select', :params => {:q => '*:*'}
     erb :results
   end
 end

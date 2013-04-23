@@ -1,4 +1,3 @@
-
 <% @results['response']['docs'].each do |result| %>
 
   <div class="result" id="<%= result['id'] %>">
@@ -9,5 +8,5 @@
   </div>
 <% end %>
 
-<%#= will_paginate( @results["response"]["docs"]) %>
 
+<%= will_paginate @results['response']['docs'] %>
