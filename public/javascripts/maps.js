@@ -1,4 +1,9 @@
 $(function() {
+  //"use strict";
+
+  //var OpenLayers = OpenLayers || {};
+  //var google = google || {};
+
   OpenLayers.IMAGE_RELOAD_ATTEMPTS = 3;
   OpenLayers.ImgPath = 'http://js.mapbox.com/theme/dark/';
 
@@ -12,10 +17,9 @@ $(function() {
   var icon = new OpenLayers.Icon('/images/marker-gold.png',size,offset);
 
 
-  var map, layer, markers;
+  var map, layer, markers, places;
   var proj = new OpenLayers.Projection("EPSG:4326");
   var center = new OpenLayers.LonLat(-5800000, 4100000);
-
 
   var options = {
     controls: [
@@ -36,12 +40,14 @@ $(function() {
     {type: google.maps.MapTypeId.SATELLITE}
   );
 
-  map.addLayers([gphy]);
+  places = new OpenLayers.Layer.Text( "text", { location: "/fixed_points.txt" } );
+
+  console.log(places);
 
   markers = new OpenLayers.Layer.Markers("Markers");
-  map.addLayers(markers);
 
-  
+  map.addLayers([gphy, places, markers]);
+
 
   if(!map.getCenter()) {
     map.setCenter(center, 3);
