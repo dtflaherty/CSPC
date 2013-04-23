@@ -17,6 +17,11 @@ class CSPC < Sinatra::Base
     erb :about
   end
 
+    get '/source/?' do
+    @page_title = "Source"
+    erb :source
+  end
+
   get '/results/?' do
     @page_title = "Search Results"
     rsolr = RSolr.connect :url => 'http://50.112.232.31:8080/solr/'
