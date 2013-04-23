@@ -3,7 +3,6 @@ require "sinatra/content_for"
 require 'will_paginate'
 require 'will_paginate/array'
 require 'rsolr'
-require 'rsolr-ext'
 require 'geocoder'
 
 require_relative 'routes/init'
