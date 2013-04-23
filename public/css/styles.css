@@ -40,47 +40,48 @@ a:hover, a:focus, a:active {
 /* line 42, ../../_sass/styles.scss */
 header[role=banner] {
   text-align: center;
+  font-family: 'Alegreya SC', serif;
 }
-/* line 44, ../../_sass/styles.scss */
+/* line 45, ../../_sass/styles.scss */
 header[role=banner] h1 {
   font-size: 3em;
 }
-/* line 48, ../../_sass/styles.scss */
+/* line 49, ../../_sass/styles.scss */
 header[role=banner] nav {
   background: #800;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-width: 1px 0;
 }
-/* line 52, ../../_sass/styles.scss */
+/* line 53, ../../_sass/styles.scss */
 header[role=banner] nav ul {
   list-style: none;
   padding: 0;
   font-size: 1.5em;
 }
-/* line 58, ../../_sass/styles.scss */
+/* line 59, ../../_sass/styles.scss */
 header[role=banner] nav li {
   display: inline;
   margin: 0 1em;
 }
-/* line 63, ../../_sass/styles.scss */
+/* line 64, ../../_sass/styles.scss */
 header[role=banner] nav a {
-  font-weight: bold;
+  font-weight: 700;
   color: #FFFFFF;
   text-decoration: none;
 }
 
-/* line 71, ../../_sass/styles.scss */
+/* line 72, ../../_sass/styles.scss */
 #map {
   width: 100%;
   height: 500px;
 }
 
-/* line 78, ../../_sass/styles.scss */
+/* line 79, ../../_sass/styles.scss */
 .result .dateline .date {
   float: left;
   font-size: 1em;
 }
-/* line 82, ../../_sass/styles.scss */
+/* line 83, ../../_sass/styles.scss */
 .result .dateline .citation {
   font-size: 1em;
 }
