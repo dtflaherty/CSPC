@@ -8,7 +8,7 @@ $(function() {
 
   var map, layer, center, marker;
   var proj = new OpenLayers.Projection("EPSG:4326");
-  var center = new OpenLayers.LonLat(-8795761.71761, 3404810.9874);
+  var center = new OpenLayers.LonLat(-7000000, 4000000);
 
 
   var options = {
@@ -26,8 +26,8 @@ $(function() {
   map = new OpenLayers.Map('map', options);
 
   var gphy = new OpenLayers.Layer.Google(
-    "Google Physical",
-    {type: google.maps.MapTypeId.TERRAIN}
+    "Google Satellite",
+    {type: google.maps.MapTypeId.SATELLITE}
   );
 
   map.addLayers([gphy]);
