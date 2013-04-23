@@ -46,7 +46,7 @@ header[role=banner] {
   }
 
   nav {
-    background:#880000;
+    background:#800;
     border:1px solid rgba(0,0,0,0.1);
     border-width: 1px 0;
     ul {
@@ -61,6 +61,8 @@ header[role=banner] {
     }
 
     a {
+      font-weight:bold;
+      color: #FFFFFF
       text-decoration:none;
     }
   }

@@ -1,83 +1,88 @@
-/* line 3, ../../_sass/styles.scss */
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
+/*
+Syntax error: Invalid CSS after "...text-decoration": expected ";", was ":none;"
+        on line 66 of /Users/dtflaherty/projects/CSPC/_sass/styles.scss
 
-/* line 7, ../../_sass/styles.scss */
-html {
-  border-top: 10px solid #800;
-  background: -webkit-gradient(linear, 50% 0%, 50% 4, color-stop(0%, #ffffff), color-stop(100%, #ffffff), color-stop(100%, rgba(255, 255, 255, 0))), -webkit-gradient(linear, 50% 0%, 50% 80, color-stop(5%, rgba(0, 0, 0, 0.2)), color-stop(50%, rgba(0, 0, 0, 0.1)), color-stop(100%, rgba(0, 0, 0, 0))), #f7f7ee;
-  background: -webkit-linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), -webkit-linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
-  background: -moz-linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), -moz-linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
-  background: -o-linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), -o-linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
-  background: linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
-  background-repeat: no-repeat;
-}
-
-/* line 19, ../../_sass/styles.scss */
-body {
-  max-width: 1000px;
-  width: 85%;
-  margin: 0 auto;
-  color: #444;
-  font-family: 'Neuton', serif;
-  padding: 40px;
-  background: white;
-  border: 4px solid white;
-}
-
-/* line 32, ../../_sass/styles.scss */
-a:link, a:visited {
-  color: #900;
-}
-/* line 37, ../../_sass/styles.scss */
-a:hover, a:focus, a:active {
-  color: #700;
-}
-
-/* line 42, ../../_sass/styles.scss */
-header[role=banner] {
-  text-align: center;
-}
-/* line 44, ../../_sass/styles.scss */
-header[role=banner] h1 {
-  font-size: 3em;
-}
-/* line 48, ../../_sass/styles.scss */
-header[role=banner] nav {
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  border-width: 1px 0;
-}
-/* line 51, ../../_sass/styles.scss */
-header[role=banner] nav ul {
-  list-style: none;
-  padding: 0;
-  font-size: 1.5em;
-}
-/* line 57, ../../_sass/styles.scss */
-header[role=banner] nav li {
-  display: inline;
-  margin: 0 1em;
-}
-/* line 62, ../../_sass/styles.scss */
-header[role=banner] nav a {
-  text-decoration: none;
-}
-
-/* line 68, ../../_sass/styles.scss */
-#map {
-  width: 100%;
-  height: 500px;
-}
-
-/* line 75, ../../_sass/styles.scss */
-.result .dateline .date {
-  float: left;
-  font-size: 1em;
-}
-/* line 79, ../../_sass/styles.scss */
-.result .dateline .citation {
-  font-size: 1em;
-}
+Backtrace:
+/Users/dtflaherty/projects/CSPC/_sass/styles.scss:66
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1148:in `expected'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1084:in `expected'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1079:in `tok!'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:586:in `block in declaration_or_ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1122:in `call'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1122:in `rethrow'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:554:in `block_child'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:546:in `block_contents'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:535:in `block'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:529:in `ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:591:in `block in declaration_or_ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1122:in `call'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1122:in `rethrow'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:554:in `block_child'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:546:in `block_contents'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:535:in `block'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:529:in `ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:591:in `block in declaration_or_ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1122:in `call'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:1122:in `rethrow'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:554:in `block_child'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:546:in `block_contents'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:535:in `block'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:529:in `ruleset'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:553:in `block_child'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:546:in `block_contents'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:82:in `stylesheet'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/scss/parser.rb:27:in `parse'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/engine.rb:342:in `_to_tree'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/engine.rb:315:in `_render'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.8/lib/sass/engine.rb:262:in `render'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/path.rb:73:in `call'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/path.rb:73:in `run_callback'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/path.rb:55:in `callback_action'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/path.rb:35:in `update'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/state/directory.rb:39:in `block in modified'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/state/directory.rb:37:in `each'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/state/directory.rb:37:in `modified'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/state/directory.rb:18:in `refresh'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:30:in `block in temporary_multipath_handler'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:27:in `each'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:27:in `temporary_multipath_handler'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:17:in `block (2 levels) in run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:16:in `each'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:16:in `block in run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/rb-fsevent-0.9.3/lib/rb-fsevent/fsevent.rb:43:in `call'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/rb-fsevent-0.9.3/lib/rb-fsevent/fsevent.rb:43:in `run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/backends/rbfsevent.rb:20:in `run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm/monitor.rb:26:in `run'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/fssm-0.2.10/lib/fssm.rb:70:in `monitor'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:87:in `perform'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/bin/compass:44:in `call'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/bin/compass:19:in `load'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/bin/compass:19:in `<main>'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `eval'
+/Users/dtflaherty/.rvm/gems/ruby-1.9.3-p327/bin/ruby_noexec_wrapper:14:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Invalid CSS after \"...text-decoration\": expected \";\", was \":none;\"\A         on line 66 of /Users/dtflaherty/projects/CSPC/_sass/styles.scss"; }
