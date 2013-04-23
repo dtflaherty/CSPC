@@ -40,8 +40,9 @@ a {
 }
 
 header[role=banner] {
-  text-align:center;
+  text-align:right;
   font-family: 'Alegreya SC', serif;
+
   h1 {
     font-size: 3em;
   }
@@ -50,6 +51,8 @@ header[role=banner] {
     background:#800;
     border:1px solid rgba(0,0,0,0.1);
     border-width: 1px 0;
+    text-align:left;
+    padding-right:0;
     ul {
       list-style:none;
       padding:0;
@@ -58,12 +61,14 @@ header[role=banner] {
 
     li {
       display:inline;
-      margin: 0 1em;
+      margin: 0 1.5em 0 1.5em;
     }
 
     a {
-      font-weight:700;
-      color: #FFFFFF;
+      font-family: 'Neuton', serif;
+      font-weight:500;
+      color: #f7f7ee;
+      letter-spacing:4px;
       text-decoration:none;
     }
   }
