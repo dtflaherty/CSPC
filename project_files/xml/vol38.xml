@@ -131,8 +131,8 @@
         <place xml:id="ru" type="region">
           <placeName>Russia</placeName>
           <location>
-            <!--Russia Central Federal District-->
-            <geo>53.7266683 37.6476206</geo>
+            <!--Saint-Petersburg-->
+            <geo>59.89444 30.26417</geo>
           </location>
         </place>
         <place xml:id="se" type="region">

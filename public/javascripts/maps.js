@@ -8,7 +8,7 @@ $(function() {
 
   var map, layer, center, marker;
   var proj = new OpenLayers.Projection("EPSG:4326");
-  var center = new OpenLayers.LonLat(-7000000, 4000000);
+  var center = new OpenLayers.LonLat(-5800000, 4100000);
 
 
   var options = {
