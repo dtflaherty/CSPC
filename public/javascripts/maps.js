@@ -5,7 +5,7 @@ $(function() {
   //var google = google || {};
 
   OpenLayers.IMAGE_RELOAD_ATTEMPTS = 3;
-  //OpenLayers.ImgPath = 'http://js.mapbox.com/theme/dark/';
+  OpenLayers.ImgPath = 'http://js.mapbox.com/theme/dark/';
 
   var SHADOW_Z_INDEX = 10;
   var MARKER_Z_INDEX = 11;
@@ -50,8 +50,8 @@ $(function() {
   );
 
   places = new OpenLayers.Layer.Text(
-    "text", {
-    location: "/fixed_points.txt",
+    "British Atlantic Points", {
+    location: "/p2.txt",
     projection: proj
   }
   );
@@ -68,11 +68,11 @@ $(function() {
     //})
   //});
 
-  console.log(map.displayProjection);
 
-  markers = new OpenLayers.Layer.Markers("Markers");
+  console.log(places);
+  //markers = new OpenLayers.Layer.Markers("Markers");
 
-  map.addLayers([wms, places, markers]);
+  map.addLayers([gphy, places]);
 
 
   if(!map.getCenter()) {
