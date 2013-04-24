@@ -10,6 +10,7 @@ parsed_file = CSV.read('./points.txt', {:col_sep => "\t" })
 #puts "    var point;"
 
 CSV.open('./p2.txt', 'wb', {:col_sep => "\t"}) do |csv|
+  csv << ['lon', 'lat', 'title', 'description', 'icon']
   parsed_file.each do |row|
     point = row[0].split(' ')
     csv << [point[1], point[0], row[1], row[2], row[3]]
