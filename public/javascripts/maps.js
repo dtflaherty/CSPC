@@ -22,8 +22,8 @@ $(function() {
   var center = new OpenLayers.LonLat(-5800000, 4100000);
 
   var options = {
-    projection: new OpenLayers.Projection("EPSG:900913"),
-    displayProjection: new OpenLayers.Projection("EPSG:4326"),
+    //projection: new OpenLayers.Projection("EPSG:900913"),
+    //displayProjection: new OpenLayers.Projection("EPSG:4326"),
     controls: [
       new OpenLayers.Control.Navigation(),
       new OpenLayers.Control.PanZoomBar(),
@@ -36,7 +36,11 @@ $(function() {
   };
 
   map = new OpenLayers.Map('map', options);
-
+  var wms = new OpenLayers.Layer.WMS(
+    "OpenLayers WMS",
+    "http://vmap0.tiles.osgeo.org/wms/vmap0?",
+    { layers: 'basic' } 
+  );
   var gphy = new OpenLayers.Layer.Google(
     "Google Satellite",
     {
@@ -45,29 +49,30 @@ $(function() {
     }
   );
 
-  //places = new OpenLayers.Layer.Text(
-  //"text", {
-  //location: "/fixed_points.txt"
-  //}
-  //);
+  places = new OpenLayers.Layer.Text(
+    "text", {
+    location: "/fixed_points.txt",
+    projection: proj
+  }
+  );
 
-  places = new OpenLayers.Layer.Vector("TextLayer", {
-    projection: proj,
-    strategies: [new OpenLayers.Strategy.Fixed()],
-    protocol: new OpenLayers.Protocol.HTTP({
-      url: "/fixed_points.txt",
-      format: new OpenLayers.Format.Text({
-        extractStyles: true,
-        extractAttributes: true
-      })
-    })
-  });
+  //places = new OpenLayers.Layer.Vector("TextLayer", {
+    //projection: map.displayProjection,
+    //strategies: [new OpenLayers.Strategy.Fixed()],
+    //protocol: new OpenLayers.Protocol.HTTP({
+      //url: "/fixed_points.txt",
+      //format: new OpenLayers.Format.Text({
+        //extractStyles: true,
+        //extractAttributes: true
+      //})
+    //})
+  //});
 
   console.log(map.displayProjection);
 
   markers = new OpenLayers.Layer.Markers("Markers");
 
-  map.addLayers([gphy, places, markers]);
+  map.addLayers([wms, places, markers]);
 
 
   if(!map.getCenter()) {

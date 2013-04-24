@@ -7,7 +7,7 @@
     <xsl:strip-space elements="*"/>
     
     <xsl:template match="/">
-        point&#x9;title&#x9;type&#x9;icon
+        point&#x9;title&#x9;description&#x9;icon
         <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:settingDesc" />
     </xsl:template>
     
@@ -17,6 +17,8 @@
         <xsl:value-of select="tei:placeName"/>
         <xsl:text>&#09;</xsl:text>
         <xsl:value-of select="@type" />
+        <xsl:text>&#09;</xsl:text>
+        <xsl:text>https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png</xsl:text>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
     
