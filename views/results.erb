@@ -1,6 +1,7 @@
-<% @results['response']['docs'].each do |result| %>
+<div class="results span8">
+  <% @results['response']['docs'].each do |result| %>
 
-  <div class="result" id="<%= result['id'] %>">
+    <div class="result" id="<%= result['id'] %>">
     <div class="dateline">
       <div class="date"><%= result['formatedDate_s'] %></div> / <div class="citation"><%= result['citation_s'] %></div>
     </div>
@@ -8,5 +9,5 @@
   </div>
 <% end %>
 
-
-<%= will_paginate @results['response']['docs'] %>
+  <%= will_paginate @results['response']['docs'] %>
+</div>

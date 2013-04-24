@@ -8,6 +8,7 @@ gem "sinatra-contrib", "~>1.3.2"
 gem 'thin'
 gem 'geocoder'
 gem 'rsolr'
+gem 'rsolr-ext'
 gem 'will_paginate'
 
 group :rackup do

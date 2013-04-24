@@ -1,0 +1,10 @@
+<div class="facets span3">
+  <% @facets.each do |key, value| %>
+    <h1><%= key %></h1>
+    <ul>
+      <% value.each_slice(2) do |f,c| %>
+        <li><%= f %> (<%= c %>)</li>
+      <% end %>
+    </ul>
+  <% end %>
+</div>
