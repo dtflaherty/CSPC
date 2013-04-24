@@ -530,20 +530,20 @@
             <geo>25.078333 -77.345556</geo>
           </location>
         </place>
-        <place xml:id="ca_nb_shepody" type="colony">
+        <place xml:id="ca_nb_shepody" type="place">
           <placeName>Shepody</placeName>
           <location>
             <geo>45.770421 -64.65662100000002</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_caplinbay" type="colony">
+        <place xml:id="ca_nl_caplinbay" type="place">
           <placeName>Caplin Bay, NL</placeName>
           <location>
             <!--Calvert, NL-->
             <geo>47.055348 -52.9120289</geo>
           </location>
         </place>
-        <place xml:id="ca_nl_ferryland" type="colony">
+        <place xml:id="ca_nl_ferryland" type="place">
           <placeName>Ferryland</placeName>
           <location>
             <geo>47.0339483 -52.8826702</geo>
@@ -562,61 +562,61 @@
             <geo>47.72044 -53.19696</geo>
           </location>
         </place>
-        <place xml:id="ca_nl_placentia" type="colony">
+        <place xml:id="ca_nl_placentia" type="place">
           <placeName>Placentia</placeName>
           <location>
             <geo>47.242185 -53.963421</geo>
           </location>
         </place>
-        <place xml:id="ca_nl_baybulls" type="colony">
+        <place xml:id="ca_nl_baybulls" type="place">
           <placeName>Bay Bulls</placeName>
           <location>
             <geo>47.3051573 -52.79051399999999</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_trepassey" type="colony">
+        <place xml:id="ca_nl_trepassey" type="place">
           <placeName>Trepassey</placeName>
           <location>
             <geo>46.7366667 -53.3633333</geo>
           </location>
         </place>
-        <place xml:id="ca_nl_stmarys" type="colony">
+        <place xml:id="ca_nl_stmarys" type="place">
           <placeName>St. Mary's, NL</placeName>
           <location>
             <geo>46.912689 -53.582031</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_trinity" type="colony">
+        <place xml:id="ca_nl_trinity" type="place">
           <placeName>Trinity, NL</placeName>
           <location>
             <geo>48.3678064 -53.3587865</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_portugal" type="colony">
+        <place xml:id="ca_nl_portugal" type="place">
           <placeName>Portugal Cove</placeName>
           <location>
             <geo>47.628028 -52.854028</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_fermeuse" type="colony">
+        <place xml:id="ca_nl_fermeuse" type="place">
           <placeName>Fermeuse</placeName>
           <location>
             <geo>46.9755469 -52.9599495</geo>
           </location>
         </place>
-        <place xml:id="ca_nl_pettyharbour" type="colony">
+        <place xml:id="ca_nl_pettyharbour" type="place">
           <placeName>Petty Harbour, NL</placeName>
           <location>
             <geo>47.46978379999999 -52.7051779</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_quidividi" type="colony">
+        <place xml:id="ca_nl_quidividi" type="place">
           <placeName>Quidi Vidi</placeName>
           <location>
             <geo>47.581437 -52.680729</geo> 
           </location>
         </place>
-        <place xml:id="ca_nl_frederick" type="colony">
+        <place xml:id="ca_nl_frederick" type="place">
           <placeName>Ft. Frederick, Placentia, NL</placeName>
           <location>
             <geo>47.249487 -53.961513</geo> 
@@ -784,17 +784,17 @@
             <geo>17.918 -76.578</geo>
           </location>
         </place>
+        <place xml:id="jm_stelizabeth" type="place">
+          <placeName>St. Elizabeth Parish</placeName>
+          <location>
+            <geo>18.05 -77.78333</geo>
+          </location>
+        </place>
         <place xml:id="jm_stgeorge" type="place">
           <placeName>St. George Parish</placeName>
           <location>
             <!--Belvedere, Jamaica-->
             <geo>18.21384 -76.70737</geo>
-          </location>
-        </place>
-        <place xml:id="jm_stelizabeth" type="place">
-          <placeName>St. Elizabeth Parish</placeName>
-          <location>
-            <geo>18.05 -77.78333</geo>
           </location>
         </place>
         <place xml:id="jm_stjago" type="place">
@@ -1039,16 +1039,16 @@
             <geo>41.9584457 -70.6672621</geo>
           </location>
         </place>
-        <place xml:id="us_ma_reading" type="place">
-          <placeName>Reading, MA</placeName>
-          <location>
-            <geo>42.5256563 -71.0952891</geo>
-          </location>
-        </place>
         <place xml:id="us_ma_raynham" type="place">
           <placeName>Raynham</placeName>
           <location>
             <geo>41.9487077 -71.0731162</geo>
+          </location>
+        </place>
+        <place xml:id="us_ma_reading" type="place">
+          <placeName>Reading, MA</placeName>
+          <location>
+            <geo>42.5256563 -71.0952891</geo>
           </location>
         </place>
         <place xml:id="us_ma_salem" type="place">
@@ -1132,7 +1132,7 @@
           </location>
         </place>
         <place xml:id="us_ny_crownpoint" type="place">
-          <placeName>Albany</placeName>
+          <placeName>Crown Point</placeName>
           <location>
             <geo>44.01533 -73.42735</geo>
           </location>
@@ -1656,6 +1656,12 @@
             <geo>25.304304 -90.065918</geo>
           </location>
         </place>
+        <place xml:id="by_albemarle" type="natural">
+          <placeName>Albemarle Sound</placeName>
+          <location>
+            <geo>36.0786612 -75.94632399999999</geo>
+          </location>
+        </place>
         <place xml:id="by_cartagena" type="natural">
           <placeName>Cartagena Bay</placeName>
           <location>
@@ -1692,6 +1698,12 @@
             <geo>39.1201705 -75.2479061</geo>
           </location>
         </place>
+        <place xml:id="by_fundy" type="natural">
+          <placeName>Bay of Fundy</placeName>
+          <location>
+            <geo>44.7728488 -66.309551</geo>
+          </location>
+        </place>
         <place xml:id="by_green" type="natural">
           <placeName>Green Bay</placeName>
           <location>
@@ -1702,18 +1714,6 @@
           <placeName>Bay of Honduras</placeName>
           <location>
             <geo>16.1514 -88.2517</geo>
-          </location>
-        </place>
-        <place xml:id="by_albemarle" type="natural">
-          <placeName>Albemarle Sound</placeName>
-          <location>
-            <geo>36.0786612 -75.94632399999999</geo>
-          </location>
-        </place>
-        <place xml:id="by_fundy" type="natural">
-          <placeName>Bay of Fundy</placeName>
-          <location>
-            <geo>44.7728488 -66.309551</geo>
           </location>
         </place>
         <place xml:id="by_verte" type="natural">
@@ -2316,7 +2316,7 @@
         <dateline><num>6.1</num><date when="1731-01-11">January 11</date></dateline>
         <p>Copy of proceedings of the General Court of the 
           <placeName ref="#us_ma" role="direct">Massachusetts Bay</placeName>, Sept., Oct., 1730, relating to a 
-          riot at <placeName ref="us_me_newharbor" role="direct">New Harbour</placeName>, near Pemaquid, in York County,
+          riot at <placeName ref="#us_me_newharbor" role="direct">New Harbour</placeName>, near Pemaquid, in York County,
           upon the complaint of Josiah Grover against some 
           Irish settlers, who seized him and his fishing schooner 
           and company when he went to clear and settle some 
@@ -2357,7 +2357,7 @@
       </div>  
       <div>
         <dateline><num>7</num><date when="1731-01-12">January 12</date></dateline>
-        <p><placeName ref="en_lon_whitehall" role="from">Whitehall</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Order of Committee of Privy Council. Referring back 
           to the Council of Trade and Plantations their report upon the 
           petition of Lord Percival etc. for establishing a charitable 
@@ -2400,7 +2400,7 @@
       </div>
       <div>
         <dateline><num>10</num><date when="1731-01-12">January 12</date></dateline>
-        <p><placeName ref="en_lon_whitehall" role="from">Whitehall</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Mr. Popple to Mr. Fane. Requests his opinion upon 
           the preceding Queries<placeName ref="#ca_nl" role="direct"></placeName>.
           Encloses Governor Osborn's copies of Commission and that given by him to
@@ -2408,7 +2408,7 @@
       </div>
       <div>
         <dateline><num>11</num><date when="1731-01-12">January 12</date></dateline>
-        <p><placeName ref="en_lon_whitehall" role="from">Whitehall</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Council of Trade and Plantations to the Duke of 
           Newcastle. Enclose copies of Governor Hunter's letter etc. 
           1st Oct., 1730. Autograph signatures. 1 p. Enclosed.
@@ -2550,7 +2550,7 @@
           of me is beyond my imagination, and tho' to my face he denyed 
           many things, I could prove them by many wittnesses, his last 
           stroke is most provokeing of all, he has given out here that I 
-          was a spy in <placeName ref ="#es" role="indirect">Spain</placeName> and was so here now upon him and the 
+          was a spy in <placeName ref="#es" role="indirect">Spain</placeName> and was so here now upon him and the 
           country. I hope as he is not comeatable here my Lords will 
           think I ought to have some satisfaction for so gross an abuse, 
           one consequence of it had likely to have fallen lately upon 
@@ -2861,7 +2861,7 @@
       </div>
       <div>
         <dateline><num>15</num><date when="1731-01-14">January 14</date></dateline>
-        <p><placeName ref="en_lon_whitehall" role="from">Whitehall</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Council of Trade and Plantations to the Committee of Privy Council.
           Reply to Order of 12th instant <placeName ref="#us_sc" role="direct">[[ed. - this is South Carolina]]</placeName>
           referring back report of Dec. 17th.  We do not apprehend any great inconvenience 
@@ -2888,7 +2888,7 @@
           <placeName ref="#us_me_frederick" role="direct">Frederick's Fort</placeName>etc. Continues : 
           You'll find among these papers the copy of a memorial I made to the King and deliver'd 
           into your Grace's hands when I had the honour to take leave 
-          of your Grace at <placeName ref="en_lon_newcastle" role="secondary">Newcastle House</placeName>, 15 May last, to which I should 
+          of your Grace at <placeName ref="#en_lon_newcastle" role="secondary">Newcastle House</placeName>, 15 May last, to which I should 
           have been glad of an answer. But never reciev'd one word 
           till H.M. order of 12th Nov. last came to my hands. In that 
           Memorial your Grace will find cited a clause of the Royal Charter 
@@ -3135,7 +3135,7 @@
       </div>
       <div>
         <dateline><num>20.2</num><date when="1731-01-16">January 16</date></dateline>
-        <p>Deposition of William Sims of <placeName ref="#bb_stphilip" role="direct">St. Michael's parish</placeName>.
+        <p>Deposition of William Sims of <placeName ref="#bb_stmichael" role="direct">St. Michael's parish</placeName>.
           16th Jan., 1731. Describes the incident of Henry Copman refusing
           to take the Abjuration oath in order to be allowed to vote, 
           referred to in preceding. Signed, Wm. Sims. Copy. 1 3/4 pp. </p>
@@ -3169,7 +3169,7 @@
       </div>
       <div>
         <dateline><num>22</num><date when="1731-01-19">January 19</date></dateline>
-        <p><placeName ref="#en_lon_stjames" role="from">Councill Office</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Councill Office</placeName>.
           Mr. Stanyan to Mr. Popple. The meeting of the Committee of Councill,
           to examine into the petitions of the <placeName ref="#british_indies" role="secondary">Sugar Islands</placeName>
           and <placeName ref="#n_america" role="secondary">Northern Colonies</placeName> etc., at which the Lords 
@@ -3662,7 +3662,7 @@
       </div>
       <div>
         <dateline><num>31</num><date when="1731-01-26">January 26</date></dateline>
-        <p><placeName ref="en_lon_whitehall" role="from">Whitehall</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Mr. Popple to William Coleman, mercht. Reply to
           preceding <placeName ref="#ag" role="indirect">[[ed. - this is Antigua]]</placeName>:
           The Lords Commissioners will be ready to hear the merchants
@@ -3807,7 +3807,7 @@
       </div>
       <div>
         <dateline><num>39</num><date when="1731-01-29">January 29</date></dateline>
-        <p><placeName ref="#en_lon_stjames" role="from">Councill Office</placeName>.
+        <p><placeName ref="#en_lon_whitehall" role="from">Councill Office</placeName>.
           Mr. Sharpe to Mr. Popple. Reminds him of meeting 
           of Committee of Council on Thursday next at six o'clock etc. 
           as Jan. 19th, and encloses two new petitions relating to the 
@@ -5430,7 +5430,7 @@
           extend near so far northward on the land, as it is now 
           found from later observations by more exact land 
           instruments. Maryland in the patent to Lord 
-          Baltemore seems positively limited to <placeName ref="#rv_delaware" role="boundary">Delaware Bay</placeName>
+          Baltemore seems positively limited to <placeName ref="#by_delaware" role="boundary">Delaware Bay</placeName>
           which ends somewhat to the southward of Newcastle 
           etc. The whole tenour of that grant appears to bound 
           it by the heads of the Bay of Delaware and Chesapeak. 
@@ -8755,7 +8755,7 @@
           should have those lands, and that all others of H.M. Protestant 
           subjects who would do the same should also settle where they 
           pleased. Accordingly those people are come and comeing 
-          thither. I have called it <placeName ref="#us_ma_torrington" role="direct">Torrington</placeName>, wch. bounds on ye west 
+          thither. I have called it <placeName ref="#us_me_torrington" role="direct">Torrington</placeName>, wch. bounds on ye west 
           and N.W. upon Fredericksfort and Harrington ; Harrington 
           and Walpole lines meet, and Townsend and Newcastle ; the 
           people have agreed this season to cutt strait cart-roads from 
@@ -9157,7 +9157,7 @@
           the Five Nations from the English, contrary to the intent of 
           the 15th article of the Treaty. The same consequences are to 
           be apprehended from this new trading house, as have really 
-          happen'd from that erected some years ago at <placeName ref="us_ny_fortniagara" role="direct">Niagara</placeName>, which 
+          happen'd from that erected some years ago at <placeName ref="#us_ny_fortniagara" role="direct">Niagara</placeName>, which 
           is now converted into a fort, by which the French have gained 
           a possession in that place. Refer to their representations to 
           Lord Carteret on that point. The French have now taken 
@@ -12855,7 +12855,7 @@
           empowering Courts to adjourn to other towns in case of small-pox ; 
           (xiii) for relief of debtors;
           (xiv) for dividing the town of <placeName ref="#us_ma_taunton" role="secondary">Taunton</placeName>
-          and erecting a new town there by name of <placeName ref="#us_ma" role="direct">Raynham</placeName>; 
+          and erecting a new town there by name of <placeName ref="#us_ma_raynham" role="direct">Raynham</placeName>; 
           (xv) for payment of Members of Council and the Representatives from 
           14th Oct. etc. ; (xvi) in addition to Act for ascertaining the number 
           and regulating the House of Representatives ; (xvii) for supplying 
@@ -18216,7 +18216,7 @@
           them etc. Latitudes and longitudes given. Harbour Island so called 
           from the harbour it makes between that and Islathera etc. 
           The uninhabited islands are first the <placeName ref="#is_grandbahama" role="direct">Grand Bahama</placeName>, 
-          next to it <placeName ref="#abaco" role="direct">Abacoa</placeName>, 
+          next to it <placeName ref="#is_abaco" role="direct">Abacoa</placeName>, 
           <placeName ref="#is_cat" role="direct">Cat Island, als. Columba</placeName>, 
           <placeName ref="#is_watling" role="direct">Watlings Island</placeName> etc., 
           <placeName ref="#is_bimini" role="direct">the Buninies</placeName> etc. Described. Cf. former reports. 
@@ -20947,7 +20947,7 @@
         <p><placeName ref="#en_lon_whitehall" role="from">Whitehall</placeName>.
           Council of Trade and Plantations to the Duke of Newcastle. 
           Enclose following, just received, to be laid before H.M.. 
-          "it being of the same nature as that from <placeName ref="#sr" role="direct">Barbadoes</placeName>" 
+          "it being of the same nature as that from <placeName ref="#bb" role="direct">Barbadoes</placeName>" 
           etc. (v. 9th Nov.). Autograph signatures. 1 p. Enclosed, 
           495. i. Representation of Lt. Governor, Council and Assembly 
           <placeName ref="#ag" role="direct">Antigua</placeName> to the Council of Trade and Plantations. 
