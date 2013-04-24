@@ -1,4 +1,4 @@
-lat	lon	title	description	icon
+lon	lat	title	description	icon
 -71.46756599999999	42.7653662	New England	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
 -80.4549026	38.5976262	North America	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
 7.4943	6.4402	Africa	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
