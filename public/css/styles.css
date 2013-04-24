@@ -43,27 +43,27 @@ header[role=banner] h1 {
   text-align: right;
   font-size: 3em;
 }
-/* line 49, ../../_sass/styles.scss */
-header[role=banner] h1 nav {
+/* line 50, ../../_sass/styles.scss */
+header[role=banner] nav {
   background: #800;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-width: 1px 0;
   text-align: right;
   padding-right: 0;
 }
-/* line 55, ../../_sass/styles.scss */
-header[role=banner] h1 nav ul {
+/* line 56, ../../_sass/styles.scss */
+header[role=banner] nav ul {
   list-style: none;
   padding: 0;
   font-size: 1.5em;
 }
-/* line 61, ../../_sass/styles.scss */
-header[role=banner] h1 nav li {
+/* line 62, ../../_sass/styles.scss */
+header[role=banner] nav li {
   display: inline;
   margin: 0 1.5em;
 }
-/* line 66, ../../_sass/styles.scss */
-header[role=banner] h1 nav a {
+/* line 67, ../../_sass/styles.scss */
+header[role=banner] nav a {
   font-family: 'Neuton', serif;
   font-weight: 500;
   color: #f7f7ee;
