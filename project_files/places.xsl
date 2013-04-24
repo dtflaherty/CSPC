@@ -18,7 +18,11 @@
         <xsl:text>&#09;</xsl:text>
         <xsl:value-of select="@type" />
         <xsl:text>&#09;</xsl:text>
-        <xsl:text>https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png</xsl:text>
+        <xsl:choose>
+            <xsl:when test="@type='colony'">
+                <xsl:text>https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png</xsl:text>
+            </xsl:when>
+        </xsl:choose>
         <xsl:text>&#xa;</xsl:text>
     </xsl:template>
     
