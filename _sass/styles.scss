@@ -82,11 +82,12 @@ header[role=banner] {
 
 .result {
   .dateline {
-    .date {
+    .citation {
       float:left;
+      font-weit: 500;
       font-size: 1em;
     }
-    .citation {
+    .date {
       font-size: 1em;
     }
   }

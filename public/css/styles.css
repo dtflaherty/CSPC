@@ -82,11 +82,12 @@ header[role=banner] nav a {
 }
 
 /* line 85, ../../_sass/styles.scss */
-.result .dateline .date {
+.result .dateline .citation {
   float: left;
+  font-weit: 500;
   font-size: 1em;
 }
-/* line 89, ../../_sass/styles.scss */
-.result .dateline .citation {
+/* line 90, ../../_sass/styles.scss */
+.result .dateline .date {
   font-size: 1em;
 }
