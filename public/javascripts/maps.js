@@ -69,7 +69,7 @@ $(function() {
   //});
 
 
-  console.log(places);
+  //console.log(places);
   //markers = new OpenLayers.Layer.Markers("Markers");
 
   map.addLayers([gphy, places]);
