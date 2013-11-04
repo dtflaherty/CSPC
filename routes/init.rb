@@ -31,7 +31,7 @@ class CSPC < Sinatra::Base
 
 
     solr_params = {
-      :q => "text_t:#{params[:q]}",
+      :q => "text_t:#{params[:q]}", 
       :facet => true,
       'facet.field' => ['placeRole_txt', 'date_s', 'placename_txt'],
       'facet.limit' => 5,
