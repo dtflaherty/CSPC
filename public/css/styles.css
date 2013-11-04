@@ -1,0 +1,93 @@
+/* line 3, ../../_sass/styles.scss */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 7, ../../_sass/styles.scss */
+html {
+  border-top: 10px solid #800;
+  background: -webkit-gradient(linear, 50% 0%, 50% 4, color-stop(0%, #ffffff), color-stop(100%, #ffffff), color-stop(100%, rgba(255, 255, 255, 0))), -webkit-gradient(linear, 50% 0%, 50% 80, color-stop(5%, rgba(0, 0, 0, 0.2)), color-stop(50%, rgba(0, 0, 0, 0.1)), color-stop(100%, rgba(0, 0, 0, 0))), #f7f7ee;
+  background: -webkit-linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), -webkit-linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
+  background: -moz-linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), -moz-linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
+  background: -o-linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), -o-linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
+  background: linear-gradient(#ffffff 0%, #ffffff 4px, rgba(255, 255, 255, 0) 4px), linear-gradient(rgba(0, 0, 0, 0.2) 4px, rgba(0, 0, 0, 0.1) 40px, rgba(0, 0, 0, 0) 80px), #f7f7ee;
+  background-repeat: no-repeat;
+}
+
+/* line 19, ../../_sass/styles.scss */
+body {
+  max-width: 1000px;
+  width: 85%;
+  margin: 0 auto;
+  color: #444;
+  font-family: 'Neuton', serif;
+  padding: 40px;
+  background: white;
+  border: 4px solid white;
+}
+
+/* line 32, ../../_sass/styles.scss */
+a:link, a:visited {
+  color: #900;
+}
+/* line 37, ../../_sass/styles.scss */
+a:hover, a:focus, a:active {
+  color: #700;
+}
+
+/* line 42, ../../_sass/styles.scss */
+header[role=banner] {
+  margin-top: -40px;
+}
+/* line 45, ../../_sass/styles.scss */
+header[role=banner] h1 {
+  font-family: 'Alegreya SC', serif;
+  text-align: right;
+  font-size: 3em;
+}
+/* line 51, ../../_sass/styles.scss */
+header[role=banner] nav {
+  background: #800;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-width: 1px 0;
+  text-align: right;
+  padding-right: 0;
+}
+/* line 57, ../../_sass/styles.scss */
+header[role=banner] nav ul {
+  list-style: none;
+  padding: 0;
+  font-size: 1.5em;
+}
+/* line 63, ../../_sass/styles.scss */
+header[role=banner] nav li {
+  display: inline;
+  margin: 0 1.5em;
+}
+/* line 68, ../../_sass/styles.scss */
+header[role=banner] nav a {
+  font-family: 'Neuton', serif;
+  font-weight: 500;
+  color: #f7f7ee;
+  letter-spacing: 4px;
+  text-decoration: none;
+}
+
+/* line 78, ../../_sass/styles.scss */
+#map {
+  width: 100%;
+  height: 500px;
+}
+
+/* line 85, ../../_sass/styles.scss */
+.result .dateline .citation {
+  float: left;
+  font-weight: 700;
+  font-size: 1.3em;
+}
+/* line 90, ../../_sass/styles.scss */
+.result .dateline .date {
+  font-size: 1em;
+}

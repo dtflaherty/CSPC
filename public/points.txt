@@ -1,0 +1,355 @@
+42.7653662 -71.46756599999999	New England	region	/images/red_flag_icon.png
+38.5976262 -80.4549026	North America	region	/images/red_flag_icon.png
+6.4402 7.4943	Africa	region	/images/red_flag_icon.png
+47.516231 14.550072	Europe	region	/images/red_flag_icon.png
+20.0 -70.0	West Indies	region	/images/red_flag_icon.png
+13.0 -63.0	British Caribbean Islands	region	/images/red_flag_icon.png
+16.0 -70.0	French, Spanish, and Dutch Caribbean	region	/images/red_flag_icon.png
+11.24194 -74.20528	Spanish Coast	region	/images/red_flag_icon.png
+52.3555177 -1.1743197	England	region	/images/red_flag_icon.png
+46.227638 2.213749	France	region	/images/red_flag_icon.png
+51.165691 10.451526	Germany	region	/images/red_flag_icon.png
+55.378051 -3.435973	Great Britain	region	/images/red_flag_icon.png
+53.41291 -8.24389	Ireland	region	/images/red_flag_icon.png
+52.132633 5.291265999999999	The Netherlands	region	/images/red_flag_icon.png
+51.919438 19.145136	Poland	region	/images/red_flag_icon.png
+39.39987199999999 -8.224454	Portugal	region	/images/red_flag_icon.png
+59.89444 30.26417	Russia	region	/images/red_flag_icon.png
+59.1166667 15.1333333	Sweden	region	/images/red_flag_icon.png
+40.46366700000001 -3.74922	Spain	region	/images/red_flag_icon.png
+46.818188 8.227511999999999	Switzerland	region	/images/red_flag_icon.png
+17.0746557 -61.8175207	Antigua	colony	/images/pink_flag_icon.png
+24.25 -76.0	Bahama Islands	colony	/images/pink_flag_icon.png
+13.193887 -59.543198	Barbados	colony	/images/pink_flag_icon.png
+32.3078 -64.7505	Bermuda	colony	/images/pink_flag_icon.png
+49.25014 -84.49983	Canada	colony	/images/pink_flag_icon.png
+56.6511091 23.7213541	Courland	colony	/images/pink_flag_icon.png
+21.521757 -77.781167	Cuba	colony	/images/pink_flag_icon.png
+12.16957 -68.99002	Curacao	colony	/images/pink_flag_icon.png
+15.414999 -61.37097600000001	Dominica	colony	/images/pink_flag_icon.png
+12.1165 -61.67899999999999	Grenada	colony	/images/pink_flag_icon.png
+4.9227 -52.32689999999999	Cayenne, French Guiana	colony	/images/pink_flag_icon.png
+36.140751 -5.353585	Gibraltar	colony	/images/pink_flag_icon.png
+60.90831739999999 -44.4400156	Greenland	colony	/images/pink_flag_icon.png
+16.1296293 -61.6538052	Guadeloupe	colony	/images/pink_flag_icon.png
+11.803749 -15.180413	Guinea	colony	/images/pink_flag_icon.png
+20.0 77.0	India	colony	/images/pink_flag_icon.png
+18.109581 -77.297508	Jamaica	colony	/images/pink_flag_icon.png
+17.3 -62.2	Leeward Islands	colony	/images/pink_flag_icon.png
+32.76070740000001 -16.9594723	Madeira	colony	/images/pink_flag_icon.png
+14.641528 -61.024174	Martinique	colony	/images/pink_flag_icon.png
+12.01066 -83.766037	Miskito Coast	colony	/images/pink_flag_icon.png
+16.742498 -62.187366	Montserrat	colony	/images/pink_flag_icon.png
+17.15 -62.58333	Nevis	colony	/images/pink_flag_icon.png
+8.537981 -80.782127	Panama	colony	/images/pink_flag_icon.png
+18.220833 -66.590149	Puerto Rico	colony	/images/pink_flag_icon.png
+17.6354642 -63.2326763	Saba	colony	/images/pink_flag_icon.png
+17.3433796 -62.7559043	St. Christophers	colony	/images/pink_flag_icon.png
+17.4890306 -62.973555	St. Eustatius	colony	/images/pink_flag_icon.png
+13.909444 -60.978893	St. Lucia	colony	/images/pink_flag_icon.png
+18.335361 -64.95340089999999	St. Thomas	colony	/images/pink_flag_icon.png
+13.2648773 -61.21024420000001	St. Vincent	colony	/images/pink_flag_icon.png
+18.735693 -70.162651	Santo Domingo	colony	/images/pink_flag_icon.png
+3.919305 -56.027783	Surinam	colony	/images/pink_flag_icon.png
+11.2673788 -60.6517354	Tobago	colony	/images/pink_flag_icon.png
+11.2673788 -60.6517354	Trinidad	colony	/images/pink_flag_icon.png
+48.954408 -54.6103488	Newfoundland	colony	/images/pink_flag_icon.png
+45.68198659999999 -63.744311	Nova Scotia	colony	/images/pink_flag_icon.png
+46.2486851 -60.851817	Cape Breton	colony	/images/pink_flag_icon.png
+44.100351 -70.21477639999999	Maine	colony	/images/pink_flag_icon.png
+44.80118210000001 -68.77781379999999	Province of Sagadahock	place	/images/blue_flag_icon.png
+43.1938516 -71.5723953	New Hampshire	colony	/images/pink_flag_icon.png
+42.4072107 -71.3824374	Massachusetts	colony	/images/pink_flag_icon.png
+41.5800945 -71.4774291	Rhode Island	colony	/images/pink_flag_icon.png
+41.6032207 -73.087749	Connecticut	colony	/images/pink_flag_icon.png
+43.2994285 -74.21793260000001	New York	colony	/images/pink_flag_icon.png
+40.0583238 -74.4056612	New Jersey	colony	/images/pink_flag_icon.png
+41.2033216 -77.1945247	Pennsylvania	colony	/images/pink_flag_icon.png
+38.9108325 -75.52766989999999	Delaware	colony	/images/pink_flag_icon.png
+39.0457549 -76.64127119999999	Maryland	colony	/images/pink_flag_icon.png
+37.4315734 -78.6568942	Virginia	colony	/images/pink_flag_icon.png
+35.7595731 -79.01929969999999	North Carolina	colony	/images/pink_flag_icon.png
+33.836081 -81.1637245	South Carolina	colony	/images/pink_flag_icon.png
+31.93659 -81.92845	Georgia	colony	/images/pink_flag_icon.png
+27.6648274 -81.5157535	Florida	colony	/images/pink_flag_icon.png
+31.2448234 -92.14502449999999	Louisiana	colony	/images/pink_flag_icon.png
+17.00681 -61.76256	English Harbour	place	/images/blue_flag_icon.png
+17.0044567 -61.7633021	Fort Berkeley	place	/images/blue_flag_icon.png
+13.116667 -59.466667	St. Philip Parish	place	/images/blue_flag_icon.png
+13.116667 -59.6	St. Michael Parish	place	/images/blue_flag_icon.png
+13.1012 -59.5996	Government House, Barbados	place	/images/blue_flag_icon.png
+25.078333 -77.345556	Fort Nassau	place	/images/blue_flag_icon.png
+45.770421 -64.65662100000002	Shepody	colony	/images/pink_flag_icon.png
+47.055348 -52.9120289	Caplin Bay, NL	colony	/images/pink_flag_icon.png
+47.0339483 -52.8826702	Ferryland	colony	/images/pink_flag_icon.png
+47.5605413 -52.71283150000001	St. John's	place	/images/blue_flag_icon.png
+47.72044 -53.19696	Mosquito, NL	place	/images/blue_flag_icon.png
+47.242185 -53.963421	Placentia	colony	/images/pink_flag_icon.png
+47.3051573 -52.79051399999999	Bay Bulls	colony	/images/pink_flag_icon.png
+46.7366667 -53.3633333	Trepassey	colony	/images/pink_flag_icon.png
+46.912689 -53.582031	St. Mary's, NL	colony	/images/pink_flag_icon.png
+48.3678064 -53.3587865	Trinity, NL	colony	/images/pink_flag_icon.png
+47.628028 -52.854028	Portugal Cove	colony	/images/pink_flag_icon.png
+46.9755469 -52.9599495	Fermeuse	colony	/images/pink_flag_icon.png
+47.46978379999999 -52.7051779	Petty Harbour, NL	colony	/images/pink_flag_icon.png
+47.581437 -52.680729	Quidi Vidi	colony	/images/pink_flag_icon.png
+47.249487 -53.961513	Ft. Frederick, Placentia, NL	colony	/images/pink_flag_icon.png
+44.742226 -65.515822	Annapolis Royal	place	/images/blue_flag_icon.png
+45.3362846 -60.9944422	Canso	place	/images/blue_flag_icon.png
+45.65603400000001 -60.87506999999999	St. Peter's	place	/images/blue_flag_icon.png
+45.89249179999999 -59.98239539999999	Louisbourg	place	/images/blue_flag_icon.png
+45.102319 -64.30542299999999	Minas	place	/images/blue_flag_icon.png
+45.3657733 -63.28694069999999	Cobequid	place	/images/blue_flag_icon.png
+45.849442 -64.24829199999999	Chignecto	place	/images/blue_flag_icon.png
+44.233333,-76.478611	Fort Frontenac	place	/images/blue_flag_icon.png
+45.5086699 -73.55399249999999	Montreal	place	/images/blue_flag_icon.png
+20.350771 -74.502449	Baracoa	place	/images/blue_flag_icon.png
+23.1168 -82.38855699999999	Havana	place	/images/blue_flag_icon.png
+19.850609 -71.64529399999999	Monte Cristi	place	/images/blue_flag_icon.png
+16.2732353 -61.46689620000001	Grand-Terre Island	place	/images/blue_flag_icon.png
+15.9232223 -61.2568777	Marie-Galante Island	place	/images/blue_flag_icon.png
+7.01242 -58.46687	Essequibo, Dutch Guyana	place	/images/blue_flag_icon.png
+19.75622 -72.199669	Cap Français	place	/images/blue_flag_icon.png
+18.16448 -76.44703	Breastworks	place	/images/blue_flag_icon.png
+17.98333 -77.3	Clarendon Parish	place	/images/blue_flag_icon.png
+17.9661566 -76.7932055	Kingston	place	/images/blue_flag_icon.png
+18.0166667 -76.7666667	Liguanea	place	/images/blue_flag_icon.png
+18.07767 -76.42577	Moore Town	place	/images/blue_flag_icon.png
+17.87418 -76.32	Pero, Jamaica	place	/images/blue_flag_icon.png
+18.1757009 -76.45025249999999	Port Antonio	place	/images/blue_flag_icon.png
+17.934681 -76.840508	Port Royal	place	/images/blue_flag_icon.png
+18.13333 -76.53333	Portland Parish	place	/images/blue_flag_icon.png
+17.918 -76.578	St. David Parish	place	/images/blue_flag_icon.png
+18.21384 -76.70737	St. George Parish	place	/images/blue_flag_icon.png
+18.05 -77.78333	St. Elizabeth Parish	place	/images/blue_flag_icon.png
+17.994761 -76.95159900000002	St. Jago de la Vega	place	/images/blue_flag_icon.png
+18.3923184 -77.85959629999999	St. James Parish	place	/images/blue_flag_icon.png
+18.33333 -77.35	Titchfield	place	/images/blue_flag_icon.png
+17.3469 -62.8372	Brimstone Hill Fortress	place	/images/blue_flag_icon.png
+17.3348813 -62.80882510000001	English quarter of St. Christophers	place	/images/blue_flag_icon.png
+17.36667 -62.85	Fig Tree Fort	place	/images/blue_flag_icon.png
+17.31667 -62.7	French quarter of St. Christophers	place	/images/blue_flag_icon.png
+17.294777 -62.723587	Fort Londonderry	place	/images/blue_flag_icon.png
+17.3551438 -62.8455837	Sandy Point, St. Kitts	place	/images/blue_flag_icon.png
+14.0101094 -60.98746869999999	Carenage	place	/images/blue_flag_icon.png
+9.549999999999999 -79.64999999999999	Porto Bello	place	/images/blue_flag_icon.png
+-12.0478158 -77.0622028	Lima	place	/images/blue_flag_icon.png
+43.8772 -69.523	Fort Frederick	place	/images/blue_flag_icon.png
+43.87908119999999 -69.5212465	Pemaquid	place	/images/blue_flag_icon.png
+43.8755047 -69.4922699	New Harbor	place	/images/blue_flag_icon.png
+43.16174830000001 -70.6482581	York, ME	place	/images/blue_flag_icon.png
+43.66147100000001 -70.2553259	Portland	place	/images/blue_flag_icon.png
+44.7130794 -69.7905955	Norridgewock	place	/images/blue_flag_icon.png
+43.5901974 -70.33449209999999	Scarborough	place	/images/blue_flag_icon.png
+43.7405556 -70.2772222	Falmouth, ME	place	/images/blue_flag_icon.png
+44.0881035 -69.8025739	Fort Richmond	place	/images/blue_flag_icon.png
+43.9140162 -69.9669961	Fort George, ME	place	/images/blue_flag_icon.png
+43.9575 -69.5091667	Bristol, ME	place	/images/blue_flag_icon.png
+43.955914 -69.5586582	Walpole	place	/images/blue_flag_icon.png
+43.8764706 -69.633657	Boothbay	place	/images/blue_flag_icon.png
+44.0365242 -69.53861859999999	Newcastle, ME	place	/images/blue_flag_icon.png
+43.9187038 -69.8009529	Woolwich	place	/images/blue_flag_icon.png
+44.0952725 -69.37560169999999	Waldoboro	place	/images/blue_flag_icon.png
+43.8511111 -70.2341667	North Yarmouth	place	/images/blue_flag_icon.png
+43.26831989999999 -70.8635506	Berwick	place	/images/blue_flag_icon.png
+43.7354367 -69.8581002	Small Point Harbor	place	/images/blue_flag_icon.png
+42.9814292 -70.9477546	Exeter, NH	place	/images/blue_flag_icon.png
+43.06346 -70.71777	New Castle, NH	place	/images/blue_flag_icon.png
+43.0717552 -70.7625532	Portsmouth, NH	place	/images/blue_flag_icon.png
+43.0713608 -70.7101527	Fort William and Mary	place	/images/blue_flag_icon.png
+42.3584308 -71.0597732	Boston	place	/images/blue_flag_icon.png
+42.3736158 -71.10973349999999	Cambridge	place	/images/blue_flag_icon.png
+42.8125913 -70.87727509999999	Newburyport	place	/images/blue_flag_icon.png
+41.9584457 -70.6672621	Plymouth	place	/images/blue_flag_icon.png
+42.5256563 -71.0952891	Reading, MA	place	/images/blue_flag_icon.png
+41.9487077 -71.0731162	Raynham	place	/images/blue_flag_icon.png
+42.51954 -70.8967155	Salem	place	/images/blue_flag_icon.png
+41.900101 -71.0897674	Taunton	place	/images/blue_flag_icon.png
+42.5481714 -71.1724467	Wilmington, MA	place	/images/blue_flag_icon.png
+42.4792618 -71.1522765	Woburn	place	/images/blue_flag_icon.png
+42.4096528 -71.8571331	Worcester County	place	/images/blue_flag_icon.png
+41.4901024 -71.3128285	Newport	place	/images/blue_flag_icon.png
+41.76371109999999 -72.6850932	Hartford	place	/images/blue_flag_icon.png
+41.4351069 -73.7948516	Putnam County, NY	place	/images/blue_flag_icon.png
+43.026819 -76.17837390000001	Iroquoia	place	/images/blue_flag_icon.png
+40.7143528 -74.00597309999999	New York City	place	/images/blue_flag_icon.png
+43.4659017 -76.508275	Oswego	place	/images/blue_flag_icon.png
+43.2630008 -79.0640399	Fort Niagara	place	/images/blue_flag_icon.png
+42.6525793 -73.7562317	Albany	place	/images/blue_flag_icon.png
+44.01533 -73.42735	Albany	place	/images/blue_flag_icon.png
+41.3911653 -74.3118212	Orange County, NY	place	/images/blue_flag_icon.png
+40.7031649 -74.0169901	Fort George, NY	place	/images/blue_flag_icon.png
+43.2133955 -77.5797226	Irondequoit, NY	place	/images/blue_flag_icon.png
+43.066667 -73.616667	Saratoga, NY	place	/images/blue_flag_icon.png
+40.5067723 -74.2654234	Perth Amboy	place	/images/blue_flag_icon.png
+40.4781616 -74.0162658	Sandy Hook	place	/images/blue_flag_icon.png
+40.6014555 -79.75977089999999	Allegheny (Shawnee town)	place	/images/blue_flag_icon.png
+39.94066 -76.34635	Conestoga	place	/images/blue_flag_icon.png
+40.816453 -79.5219893	Kittanning	place	/images/blue_flag_icon.png
+39.952335 -75.16378900000001	Philadelphia	place	/images/blue_flag_icon.png
+39.6620572 -75.56631320000001	New Castle, DE	place	/images/blue_flag_icon.png
+38.7745565 -75.13934979999999	Lewes	place	/images/blue_flag_icon.png
+38.9784453 -76.4921829	Annapolis	place	/images/blue_flag_icon.png
+37.4128281 -76.5025742	Gloucester County	place	/images/blue_flag_icon.png
+36.68765 -76.31216	Norfolk County	place	/images/blue_flag_icon.png
+37.966667 -76.633333	Northern Neck	place	/images/blue_flag_icon.png
+36.73765 -76.00521	Princess Anne County	place	/images/blue_flag_icon.png
+37.2707022 -76.7074571	Williamsburg	place	/images/blue_flag_icon.png
+35.935995 -76.64133129999999	Albemarle County	place	/images/blue_flag_icon.png
+35.4771094 -76.8116045	Bath, NC	place	/images/blue_flag_icon.png
+35.4613504 -76.91820969999999	Beaufort County, NC	place	/images/blue_flag_icon.png
+34.2257255 -77.9447102	Cape Fear	place	/images/blue_flag_icon.png
+36.1354131 -76.6181655	Chowan	place	/images/blue_flag_icon.png
+36.4465659 -76.0142968	Currituck	place	/images/blue_flag_icon.png
+36.057938 -76.6077213	Edenton	place	/images/blue_flag_icon.png
+35.5624867 -75.95500489999999	Hyde County, NC	place	/images/blue_flag_icon.png
+36.43154 -76.94802	Mouth of Meherrin River	place	/images/blue_flag_icon.png
+35.8897427 -75.66153840000001	Roanoke Island	place	/images/blue_flag_icon.png
+35.8925537 -76.17837390000001	Tyrrell County, NC	place	/images/blue_flag_icon.png
+32.7765656 -79.93092159999999	Charleston	place	/images/blue_flag_icon.png
+32.3790843 -80.6926069	Port Royal, SC	place	/images/blue_flag_icon.png
+32.2974184 -81.1192779	Purrysburgh	place	/images/blue_flag_icon.png
+31.3664417 -81.4156977	Fort King George (Altamaha)	place	/images/blue_flag_icon.png
+29.95106579999999 -90.0715323	New Orleans	place	/images/blue_flag_icon.png
+42.328889 -83.045833	Fort Detroit	place	/images/blue_flag_icon.png
+51.51279 -0.09184	London	place	/images/blue_flag_icon.png
+51.5042 -0.1264	Whitehall	place	/images/blue_flag_icon.png
+51.5 -0.08333	Southwark	place	/images/blue_flag_icon.png
+51.5047 -0.1375	St. James's Palace	place	/images/blue_flag_icon.png
+51.5164 -0.119	Newcastle House	place	/images/blue_flag_icon.png
+51.511507 -0.131729	Gerrard Street	place	/images/blue_flag_icon.png
+51.51557 -0.085579	Austin Friars	place	/images/blue_flag_icon.png
+51.5087 -0.08239	Custom House, London	place	/images/blue_flag_icon.png
+51.49866 -0.13341	Scotland Yard	place	/images/blue_flag_icon.png
+51.513 -0.071851	Goodman's Fields	place	/images/blue_flag_icon.png
+51.5187 -0.1034	Smithfield, London	place	/images/blue_flag_icon.png
+51.507 -0.12493	Charing Cross	place	/images/blue_flag_icon.png
+51.49937 -0.12846	Westminster	place	/images/blue_flag_icon.png
+51.5089 -0.1269	St. Martin-in-the-Fields	place	/images/blue_flag_icon.png
+51.5144 -0.081	St. Mary Axe	place	/images/blue_flag_icon.png
+51.46005 -0.30075	Richmond	place	/images/blue_flag_icon.png
+51.512629 -0.087268	Pontack's, London	place	/images/blue_flag_icon.png
+51.40309 -0.33697	Hampton Court	place	/images/blue_flag_icon.png
+51.515278 -0.129444	Denmark Street, London	place	/images/blue_flag_icon.png
+51.5141 -0.0854	Merchant Taylors Hall	place	/images/blue_flag_icon.png
+51.5134677 -0.1099168	Inner Temple	place	/images/blue_flag_icon.png
+51.5134677 -0.1099168	Pudding Lane	place	/images/blue_flag_icon.png
+51.5199389 -0.1160981	Bedford Row	place	/images/blue_flag_icon.png
+51.515692 -0.101919	Newgate Prison	place	/images/blue_flag_icon.png
+51.375801 -2.3599039	Bath	place	/images/blue_flag_icon.png
+51.016684 -4.206666	Bideford	place	/images/blue_flag_icon.png
+51.454513 -2.58791	Bristol	place	/images/blue_flag_icon.png
+52.59264899999999 -1.592153	Grendon, Warwickshire, UK	place	/images/blue_flag_icon.png
+52.22679 0.6735409000000001	Horringer, Suffolk, UK	place	/images/blue_flag_icon.png
+53.230688 -0.5405789999999999	Lincoln	place	/images/blue_flag_icon.png
+53.4083714 -2.9915726	Liverpool	place	/images/blue_flag_icon.png
+50.3754565 -4.1426565	Plymouth, UK	place	/images/blue_flag_icon.png
+51.0 0.0	Sussex	place	/images/blue_flag_icon.png
+51.23333 1.43333	The Downs	place	/images/blue_flag_icon.png
+50.1258442 8.930633499999999	Hanau (Hesse)	place	/images/blue_flag_icon.png
+43.25 -2.91667	Biscay	place	/images/blue_flag_icon.png
+36.5270612 -6.2885962	Cadiz	place	/images/blue_flag_icon.png
+48.856614 2.3522219	Paris	place	/images/blue_flag_icon.png
+51.8968917 -8.4863157	Cork	place	/images/blue_flag_icon.png
+53.3498053 -6.2603097	Dublin	place	/images/blue_flag_icon.png
+44.4056499 8.946256	Genoa	place	/images/blue_flag_icon.png
+43.548473 10.3105674	Livorno	place	/images/blue_flag_icon.png
+41.8929163 12.4825199	Rome	place	/images/blue_flag_icon.png
+54.35202520000001 18.6466384	Danzig	place	/images/blue_flag_icon.png
+38.7252993 -9.150036400000001	Lisbon	place	/images/blue_flag_icon.png
+57.70887 11.97456	Gothenburg	place	/images/blue_flag_icon.png
+59.32893000000001 18.06491	Stockholm	place	/images/blue_flag_icon.png
+59.85856380000001 17.6389267	Uppsala	place	/images/blue_flag_icon.png
+48.0 -62.5	Gulf of St. Lawrence	natural	/images/green_flag_icon.png
+25.304304 -90.065918	Gulf of Mexico	natural	/images/green_flag_icon.png
+10.3990924 -75.5524157	Cartagena Bay	natural	/images/green_flag_icon.png
+43.6956484 -69.9949465	Casco Bay	natural	/images/green_flag_icon.png
+45.4118163 -61.2146564	Chedabucto Bay	natural	/images/green_flag_icon.png
+37.5841544 -76.17837390000001	Chesapeake Bay	natural	/images/green_flag_icon.png
+47.75 -53	Conception Bay	natural	/images/green_flag_icon.png
+39.1201705 -75.2479061	Delaware Bay	natural	/images/green_flag_icon.png
+45.02971 -87.46094	Green Bay	natural	/images/green_flag_icon.png
+16.1514 -88.2517	Bay of Honduras	natural	/images/green_flag_icon.png
+36.0786612 -75.94632399999999	Albemarle Sound	natural	/images/green_flag_icon.png
+44.7728488 -66.309551	Bay of Fundy	natural	/images/green_flag_icon.png
+46.02 -63.95	Baie Verte	natural	/images/green_flag_icon.png
+26.3555029 -77.1485163	Abaco Islands	natural	/images/green_flag_icon.png
+43.8497222 -69.7780556	Arrowsic Island	natural	/images/green_flag_icon.png
+37.7412488 -25.6755944	Azores	natural	/images/green_flag_icon.png
+25.7428471 -79.2507534	Bimini Islands	natural	/images/green_flag_icon.png
+21.9333333 -71.96666669999999	Caicos Islands	natural	/images/green_flag_icon.png
+21.6394444 -82.2361111	Canarreos Archipelago	natural	/images/green_flag_icon.png
+24.3153102 -75.45777749999999	Cat Island	natural	/images/green_flag_icon.png
+25.1 -76.13333329999999	Eleuthera Island	natural	/images/green_flag_icon.png
+26.659447 -78.52065	Grand Bahama Island	natural	/images/green_flag_icon.png
+25.4985244 -76.632607	Harbour Island, Bahamas	natural	/images/green_flag_icon.png
+19.143431 -72.003891	Hispaniola	natural	/images/green_flag_icon.png
+21.6833333 -73.8166667	Hogsty Reef	natural	/images/green_flag_icon.png
+19.6897268 -80.0367259	Little Cayman	natural	/images/green_flag_icon.png
+40.7308622 -73.99801599999999	Manhattan	natural	/images/green_flag_icon.png
+10.9970723 -63.91132959999999	Margarita Island	natural	/images/green_flag_icon.png
+22.0666667 -74.63333329999999	Mira Por Vos	natural	/images/green_flag_icon.png
+25.0519283 -77.4013403	New Providence	natural	/images/green_flag_icon.png
+35.1146152 -75.9810097	Ocracoke Island	natural	/images/green_flag_icon.png
+18.45 -64.433333	Spanish Town Island	natural	/images/green_flag_icon.png
+38.7216415 -27.2205771	Terceira	natural	/images/green_flag_icon.png
+20.0548685 -72.79246119999999	Tortuga	natural	/images/green_flag_icon.png
+21.4679028 -71.13991940000001	Turks Islands	natural	/images/green_flag_icon.png
+48.45938 -5.08615	Ushant	natural	/images/green_flag_icon.png
+24.0775546 -74.4760088	Watling Island	natural	/images/green_flag_icon.png
+42.9869502 -81.243177	Great Lakes	natural	/images/green_flag_icon.png
+42.0668852 -81.3399414	Lake Erie	natural	/images/green_flag_icon.png
+44.4585548 -82.5618645	Lake Huron	natural	/images/green_flag_icon.png
+43.4501005 -87.22201869999999	Lake Michigan	natural	/images/green_flag_icon.png
+43.627097 -78.11082789999999	Lake Ontario	natural	/images/green_flag_icon.png
+42.4356504 -82.6915429	Lake St. Clair	natural	/images/green_flag_icon.png
+44.0204076 -69.4672061	Biscay Pond	natural	/images/green_flag_icon.png
+44.586581 -73.3800905	Lake Champlain	natural	/images/green_flag_icon.png
+43.121786 -70.819101	Piscataqua River	natural	/images/green_flag_icon.png
+45.169936 -67.203083	St. Croix River	natural	/images/green_flag_icon.png
+43.986886 -69.831276	Kennebec River	natural	/images/green_flag_icon.png
+43.994543 -69.663334	Sheepscot River	natural	/images/green_flag_icon.png
+43.492222 -70.441518	Saco River	natural	/images/green_flag_icon.png
+44.005904 -69.231777	St. George River	natural	/images/green_flag_icon.png
+44.493567 -68.794441	Penobscot River	natural	/images/green_flag_icon.png
+39.803261 -75.417252	Delaware River	natural	/images/green_flag_icon.png
+40.26394 -76.897287	Susquehanna River	natural	/images/green_flag_icon.png
+34.826205 -90.423718	Mississippi River	natural	/images/green_flag_icon.png
+43.08 -79.071	Niagara River	natural	/images/green_flag_icon.png
+41.5995814 -83.5896021	Maumee River	natural	/images/green_flag_icon.png
+40.514974 -86.785569	Wabash River	natural	/images/green_flag_icon.png
+39.120206 -84.461575	Ohio River	natural	/images/green_flag_icon.png
+36.49639 -88.046036	Tennessee River	natural	/images/green_flag_icon.png
+41.886448 -87.6379	Chicago River	natural	/images/green_flag_icon.png
+40.773262 -89.549789	Illinois River	natural	/images/green_flag_icon.png
+44.045154 -88.575325	Fox River	natural	/images/green_flag_icon.png
+43.38509 -89.568787	Wisconsin River	natural	/images/green_flag_icon.png
+47.085085 -70.626526	St. Lawrence River	natural	/images/green_flag_icon.png
+41.096947 -73.892899	Hudson River	natural	/images/green_flag_icon.png
+38.71373 -78.45779	Hawks Bill Creek	natural	/images/green_flag_icon.png
+43.914094 -69.532299	Johns River	natural	/images/green_flag_icon.png
+44.009855 -69.542971	Damariscotta River	natural	/images/green_flag_icon.png
+44.04318 -69.35955	Medomak River	natural	/images/green_flag_icon.png
+33.242133 -79.506712	Santee River	natural	/images/green_flag_icon.png
+34.442645 -78.351531	Cape Fear River	natural	/images/green_flag_icon.png
+37.247821 -76.975937	James River	natural	/images/green_flag_icon.png
+36.071996 -77.327471	Roanoke River	natural	/images/green_flag_icon.png
+39.020942 -77.601381	Goose Creek	natural	/images/green_flag_icon.png
+37.913055 -76.80582	Rappahannock River	natural	/images/green_flag_icon.png
+38.852275 -77.027893	Potomac River	natural	/images/green_flag_icon.png
+42.819833 -70.998859	Merrimack River	natural	/images/green_flag_icon.png
+32.237198 -81.152973	Savannah River	natural	/images/green_flag_icon.png
+36.504669 -87.852287	Cumberland River	natural	/images/green_flag_icon.png
+18.10245 -76.45032	Rio Grande (Jamaica)	natural	/images/green_flag_icon.png
+31.480502 -81.618977	Altamaha River	natural	/images/green_flag_icon.png
+38.8015 -78.29417	Blue Ridge Mountains	natural	/images/green_flag_icon.png
+38.4954 -78.39751	Doubletop Mountain, VA	natural	/images/green_flag_icon.png
+35.4505757 -83.3772457	Cherokee Mountains	natural	/images/green_flag_icon.png
+36.9315359 -76.01993139999999	Cape Henry	natural	/images/green_flag_icon.png
+45.41818 -73.58978	Lachine Rapids	natural	/images/green_flag_icon.png
+45.81668 -84.75005	Straits of Mackinac	natural	/images/green_flag_icon.png
+43.08342 -79.06627	Niagara Falls	natural	/images/green_flag_icon.png
+58.48795200000001 19.863281	Baltic Sea	natural	/images/green_flag_icon.png
+50.0 -1.0	English Channel	natural	/images/green_flag_icon.png
+-11.0 -110.0	Pacific Ocean	natural	/images/green_flag_icon.png
+17.0833333 -78.33333329999999	Pedro Shoals	natural	/images/green_flag_icon.png

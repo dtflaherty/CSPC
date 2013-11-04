@@ -7,6 +7,13 @@ gem 'rails', '3.2.13'
 
 gem 'sqlite3'
 gem 'thin'
+<<<<<<< HEAD
+=======
+gem 'geocoder'
+gem 'rsolr'
+gem 'rsolr-ext'
+gem 'will_paginate'
+>>>>>>> master
 
 # Gems used only for assets and not required
 # in production environments by default.

@@ -11,12 +11,12 @@
 html {
   border-top: 10px solid #800;
   @include background(
-    linear-gradient(rgba(255,255,255,1) 0, rgba(255,255,255,1) 4px,
-    rgba(255,255,255,0) 4px),
-    linear-gradient(rgba(0,0,0,0.2) 4px, rgba(0,0,0,0.1) 40px, rgba(0,0,0,0)
-    80px),
-    #f7f7ee
-    );
+  linear-gradient(rgba(255,255,255,1) 0, rgba(255,255,255,1) 4px,
+  rgba(255,255,255,0) 4px),
+  linear-gradient(rgba(0,0,0,0.2) 4px, rgba(0,0,0,0.1) 40px, rgba(0,0,0,0)
+  80px),
+  #f7f7ee
+  );
   background-repeat:no-repeat;
 }
 
@@ -44,14 +44,20 @@ a {
 }
 
 header[role=banner] {
-  text-align:center;
+  margin-top: -40px;
+
   h1 {
+    font-family: 'Alegreya SC', serif;
+    text-align:right;
     font-size: 3em;
   }
 
   nav {
+    background:#800;
     border:1px solid rgba(0,0,0,0.1);
     border-width: 1px 0;
+    text-align:right;
+    padding-right:0;
     ul {
       list-style:none;
       padding:0;
@@ -60,10 +66,14 @@ header[role=banner] {
 
     li {
       display:inline;
-      margin: 0 1em;
+      margin: 0 1.5em;
     }
 
     a {
+      font-family: 'Neuton', serif;
+      font-weight:500;
+      color: #f7f7ee;
+      letter-spacing:4px;
       text-decoration:none;
     }
   }
@@ -73,3 +83,19 @@ header[role=banner] {
   width: 100%;
   height: 500px;
 }
+<<<<<<< HEAD:app/assets/stylesheets/pages.css.scss
+=======
+
+.result {
+  .dateline {
+    .citation {
+      float:left;
+      font-weight: 700;
+      font-size: 1.3em;
+    }
+    .date {
+      font-size: 1em;
+    }
+  }
+}
+>>>>>>> master:_sass/styles.scss

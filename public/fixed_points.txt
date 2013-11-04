@@ -1,0 +1,356 @@
+point	title	description	icon
+-71.46756599999999,42.7653662	New England	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-80.4549026,38.5976262	North America	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+7.4943,6.4402	Africa	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+14.550072,47.516231	Europe	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.0,20.0	West Indies	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-63.0,13.0	British Caribbean Islands	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.0,16.0	French, Spanish, and Dutch Caribbean	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.20528,11.24194	Spanish Coast	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-1.1743197,52.3555177	England	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+2.213749,46.227638	France	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+10.451526,51.165691	Germany	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-3.435973,55.378051	Great Britain	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-8.24389,53.41291	Ireland	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+5.291265999999999,52.132633	The Netherlands	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+19.145136,51.919438	Poland	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-8.224454,39.39987199999999	Portugal	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+30.26417,59.89444	Russia	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+15.1333333,59.1166667	Sweden	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-3.74922,40.46366700000001	Spain	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+8.227511999999999,46.818188	Switzerland	region	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.8175207,17.0746557	Antigua	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.0,24.25	Bahama Islands	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-59.543198,13.193887	Barbados	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-64.7505,32.3078	Bermuda	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-84.49983,49.25014	Canada	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+23.7213541,56.6511091	Courland	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.781167,21.521757	Cuba	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-68.99002,12.16957	Curacao	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.37097600000001,15.414999	Dominica	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.67899999999999,12.1165	Grenada	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.32689999999999,4.9227	Cayenne, French Guiana	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-5.353585,36.140751	Gibraltar	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-44.4400156,60.90831739999999	Greenland	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.6538052,16.1296293	Guadeloupe	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-15.180413,11.803749	Guinea	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+77.0,20.0	India	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.297508,18.109581	Jamaica	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.2,17.3	Leeward Islands	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-16.9594723,32.76070740000001	Madeira	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.024174,14.641528	Martinique	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-83.766037,12.01066	Miskito Coast	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.187366,16.742498	Montserrat	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.58333,17.15	Nevis	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-80.782127,8.537981	Panama	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-66.590149,18.220833	Puerto Rico	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-63.2326763,17.6354642	Saba	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.7559043,17.3433796	St. Christophers	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.973555,17.4890306	St. Eustatius	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.978893,13.909444	St. Lucia	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-64.95340089999999,18.335361	St. Thomas	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.21024420000001,13.2648773	St. Vincent	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.162651,18.735693	Santo Domingo	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-56.027783,3.919305	Surinam	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.6517354,11.2673788	Tobago	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.6517354,11.2673788	Trinidad	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-54.6103488,48.954408	Newfoundland	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-63.744311,45.68198659999999	Nova Scotia	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.851817,46.2486851	Cape Breton	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.21477639999999,44.100351	Maine	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-68.77781379999999,44.80118210000001	Province of Sagadahock	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.5723953,43.1938516	New Hampshire	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.3824374,42.4072107	Massachusetts	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.4774291,41.5800945	Rhode Island	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.087749,41.6032207	Connecticut	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.21793260000001,43.2994285	New York	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.4056612,40.0583238	New Jersey	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.1945247,41.2033216	Pennsylvania	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.52766989999999,38.9108325	Delaware	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.64127119999999,39.0457549	Maryland	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.6568942,37.4315734	Virginia	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.01929969999999,35.7595731	North Carolina	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.1637245,33.836081	South Carolina	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.92845,31.93659	Georgia	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.5157535,27.6648274	Florida	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-92.14502449999999,31.2448234	Louisiana	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.76256,17.00681	English Harbour	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.7633021,17.0044567	Fort Berkeley	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-59.466667,13.116667	St. Philip Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-59.6,13.116667	St. Michael Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-59.5996,13.1012	Government House, Barbados	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.345556,25.078333	Fort Nassau	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-64.65662100000002,45.770421	Shepody	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.9120289,47.055348	Caplin Bay, NL	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.8826702,47.0339483	Ferryland	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.71283150000001,47.5605413	St. John's	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53.19696,47.72044	Mosquito, NL	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53.963421,47.242185	Placentia	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.79051399999999,47.3051573	Bay Bulls	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53.3633333,46.7366667	Trepassey	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53.582031,46.912689	St. Mary's, NL	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53.3587865,48.3678064	Trinity, NL	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.854028,47.628028	Portugal Cove	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.9599495,46.9755469	Fermeuse	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.7051779,47.46978379999999	Petty Harbour, NL	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-52.680729,47.581437	Quidi Vidi	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53.961513,47.249487	Ft. Frederick, Placentia, NL	colony	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-65.515822,44.742226	Annapolis Royal	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.9944422,45.3362846	Canso	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.87506999999999,45.65603400000001	St. Peter's	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-59.98239539999999,45.89249179999999	Louisbourg	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-64.30542299999999,45.102319	Minas	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-63.28694069999999,45.3657733	Cobequid	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-64.24829199999999,45.849442	Chignecto	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+,44.233333,-76.478611	Fort Frontenac	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.55399249999999,45.5086699	Montreal	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.502449,20.350771	Baracoa	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-82.38855699999999,23.1168	Havana	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.64529399999999,19.850609	Monte Cristi	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.46689620000001,16.2732353	Grand-Terre Island	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.2568777,15.9232223	Marie-Galante Island	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-58.46687,7.01242	Essequibo, Dutch Guyana	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-72.199669,19.75622	Cap Français	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.44703,18.16448	Breastworks	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.3,17.98333	Clarendon Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.7932055,17.9661566	Kingston	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.7666667,18.0166667	Liguanea	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.42577,18.07767	Moore Town	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.32,17.87418	Pero, Jamaica	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.45025249999999,18.1757009	Port Antonio	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.840508,17.934681	Port Royal	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.53333,18.13333	Portland Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.578,17.918	St. David Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.70737,18.21384	St. George Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.78333,18.05	St. Elizabeth Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.95159900000002,17.994761	St. Jago de la Vega	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.85959629999999,18.3923184	St. James Parish	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.35,18.33333	Titchfield	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.8372,17.3469	Brimstone Hill Fortress	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.80882510000001,17.3348813	English quarter of St. Christophers	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.85,17.36667	Fig Tree Fort	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.7,17.31667	French quarter of St. Christophers	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.723587,17.294777	Fort Londonderry	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.8455837,17.3551438	Sandy Point, St. Kitts	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-60.98746869999999,14.0101094	Carenage	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.64999999999999,9.549999999999999	Porto Bello	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.0622028,-12.0478158	Lima	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.523,43.8772	Fort Frederick	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.5212465,43.87908119999999	Pemaquid	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.4922699,43.8755047	New Harbor	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.6482581,43.16174830000001	York, ME	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.2553259,43.66147100000001	Portland	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.7905955,44.7130794	Norridgewock	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.33449209999999,43.5901974	Scarborough	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.2772222,43.7405556	Falmouth, ME	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.8025739,44.0881035	Fort Richmond	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.9669961,43.9140162	Fort George, ME	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.5091667,43.9575	Bristol, ME	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.5586582,43.955914	Walpole	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.633657,43.8764706	Boothbay	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.53861859999999,44.0365242	Newcastle, ME	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.8009529,43.9187038	Woolwich	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.37560169999999,44.0952725	Waldoboro	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.2341667,43.8511111	North Yarmouth	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.8635506,43.26831989999999	Berwick	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.8581002,43.7354367	Small Point Harbor	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.9477546,42.9814292	Exeter, NH	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.71777,43.06346	New Castle, NH	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.7625532,43.0717552	Portsmouth, NH	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.7101527,43.0713608	Fort William and Mary	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.0597732,42.3584308	Boston	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.10973349999999,42.3736158	Cambridge	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.87727509999999,42.8125913	Newburyport	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.6672621,41.9584457	Plymouth	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.0952891,42.5256563	Reading, MA	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.0731162,41.9487077	Raynham	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.8967155,42.51954	Salem	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.0897674,41.900101	Taunton	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.1724467,42.5481714	Wilmington, MA	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.1522765,42.4792618	Woburn	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.8571331,42.4096528	Worcester County	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.3128285,41.4901024	Newport	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-72.6850932,41.76371109999999	Hartford	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.7948516,41.4351069	Putnam County, NY	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.17837390000001,43.026819	Iroquoia	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.00597309999999,40.7143528	New York City	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.508275,43.4659017	Oswego	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.0640399,43.2630008	Fort Niagara	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.7562317,42.6525793	Albany	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.42735,44.01533	Albany	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.3118212,41.3911653	Orange County, NY	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.0169901,40.7031649	Fort George, NY	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.5797226,43.2133955	Irondequoit, NY	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.616667,43.066667	Saratoga, NY	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.2654234,40.5067723	Perth Amboy	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.0162658,40.4781616	Sandy Hook	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.75977089999999,40.6014555	Allegheny (Shawnee town)	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.34635,39.94066	Conestoga	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.5219893,40.816453	Kittanning	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.16378900000001,39.952335	Philadelphia	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.56631320000001,39.6620572	New Castle, DE	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.13934979999999,38.7745565	Lewes	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.4921829,38.9784453	Annapolis	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.5025742,37.4128281	Gloucester County	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.31216,36.68765	Norfolk County	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.633333,37.966667	Northern Neck	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.00521,36.73765	Princess Anne County	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.7074571,37.2707022	Williamsburg	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.64133129999999,35.935995	Albemarle County	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.8116045,35.4771094	Bath, NC	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.91820969999999,35.4613504	Beaufort County, NC	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.9447102,34.2257255	Cape Fear	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.6181655,36.1354131	Chowan	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.0142968,36.4465659	Currituck	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.6077213,36.057938	Edenton	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.95500489999999,35.5624867	Hyde County, NC	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.94802,36.43154	Mouth of Meherrin River	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.66153840000001,35.8897427	Roanoke Island	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.17837390000001,35.8925537	Tyrrell County, NC	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.93092159999999,32.7765656	Charleston	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-80.6926069,32.3790843	Port Royal, SC	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.1192779,32.2974184	Purrysburgh	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.4156977,31.3664417	Fort King George (Altamaha)	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-90.0715323,29.95106579999999	New Orleans	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-83.045833,42.328889	Fort Detroit	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.09184,51.51279	London	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1264,51.5042	Whitehall	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.08333,51.5	Southwark	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1375,51.5047	St. James's Palace	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.119,51.5164	Newcastle House	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.131729,51.511507	Gerrard Street	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.085579,51.51557	Austin Friars	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.08239,51.5087	Custom House, London	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.13341,51.49866	Scotland Yard	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.071851,51.513	Goodman's Fields	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1034,51.5187	Smithfield, London	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.12493,51.507	Charing Cross	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.12846,51.49937	Westminster	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1269,51.5089	St. Martin-in-the-Fields	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.081,51.5144	St. Mary Axe	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.30075,51.46005	Richmond	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.087268,51.512629	Pontack's, London	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.33697,51.40309	Hampton Court	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.129444,51.515278	Denmark Street, London	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.0854,51.5141	Merchant Taylors Hall	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1099168,51.5134677	Inner Temple	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1099168,51.5134677	Pudding Lane	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.1160981,51.5199389	Bedford Row	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.101919,51.515692	Newgate Prison	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-2.3599039,51.375801	Bath	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-4.206666,51.016684	Bideford	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-2.58791,51.454513	Bristol	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-1.592153,52.59264899999999	Grendon, Warwickshire, UK	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+0.6735409000000001,52.22679	Horringer, Suffolk, UK	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-0.5405789999999999,53.230688	Lincoln	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-2.9915726,53.4083714	Liverpool	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-4.1426565,50.3754565	Plymouth, UK	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+0.0,51.0	Sussex	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+1.43333,51.23333	The Downs	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+8.930633499999999,50.1258442	Hanau (Hesse)	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-2.91667,43.25	Biscay	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-6.2885962,36.5270612	Cadiz	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+2.3522219,48.856614	Paris	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-8.4863157,51.8968917	Cork	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-6.2603097,53.3498053	Dublin	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+8.946256,44.4056499	Genoa	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+10.3105674,43.548473	Livorno	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+12.4825199,41.8929163	Rome	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+18.6466384,54.35202520000001	Danzig	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-9.150036400000001,38.7252993	Lisbon	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+11.97456,57.70887	Gothenburg	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+18.06491,59.32893000000001	Stockholm	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+17.6389267,59.85856380000001	Uppsala	place	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-62.5,48.0	Gulf of St. Lawrence	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-90.065918,25.304304	Gulf of Mexico	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.5524157,10.3990924	Cartagena Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.9949465,43.6956484	Casco Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-61.2146564,45.4118163	Chedabucto Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.17837390000001,37.5841544	Chesapeake Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-53,47.75	Conception Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.2479061,39.1201705	Delaware Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-87.46094,45.02971	Green Bay	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-88.2517,16.1514	Bay of Honduras	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.94632399999999,36.0786612	Albemarle Sound	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-66.309551,44.7728488	Bay of Fundy	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-63.95,46.02	Baie Verte	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.1485163,26.3555029	Abaco Islands	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.7780556,43.8497222	Arrowsic Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-25.6755944,37.7412488	Azores	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.2507534,25.7428471	Bimini Islands	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.96666669999999,21.9333333	Caicos Islands	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-82.2361111,21.6394444	Canarreos Archipelago	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.45777749999999,24.3153102	Cat Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.13333329999999,25.1	Eleuthera Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.52065,26.659447	Grand Bahama Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.632607,25.4985244	Harbour Island, Bahamas	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-72.003891,19.143431	Hispaniola	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.8166667,21.6833333	Hogsty Reef	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-80.0367259,19.6897268	Little Cayman	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.99801599999999,40.7308622	Manhattan	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-63.91132959999999,10.9970723	Margarita Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.63333329999999,22.0666667	Mira Por Vos	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.4013403,25.0519283	New Providence	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.9810097,35.1146152	Ocracoke Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-64.433333,18.45	Spanish Town Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-27.2205771,38.7216415	Terceira	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-72.79246119999999,20.0548685	Tortuga	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-71.13991940000001,21.4679028	Turks Islands	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-5.08615,48.45938	Ushant	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-74.4760088,24.0775546	Watling Island	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.243177,42.9869502	Great Lakes	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.3399414,42.0668852	Lake Erie	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-82.5618645,44.4585548	Lake Huron	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-87.22201869999999,43.4501005	Lake Michigan	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.11082789999999,43.627097	Lake Ontario	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-82.6915429,42.4356504	Lake St. Clair	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.4672061,44.0204076	Biscay Pond	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.3800905,44.586581	Lake Champlain	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.819101,43.121786	Piscataqua River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-67.203083,45.169936	St. Croix River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.831276,43.986886	Kennebec River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.663334,43.994543	Sheepscot River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.441518,43.492222	Saco River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.231777,44.005904	St. George River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-68.794441,44.493567	Penobscot River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-75.417252,39.803261	Delaware River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.897287,40.26394	Susquehanna River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-90.423718,34.826205	Mississippi River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.071,43.08	Niagara River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-83.5896021,41.5995814	Maumee River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-86.785569,40.514974	Wabash River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-84.461575,39.120206	Ohio River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-88.046036,36.49639	Tennessee River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-87.6379,41.886448	Chicago River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-89.549789,40.773262	Illinois River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-88.575325,44.045154	Fox River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-89.568787,43.38509	Wisconsin River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.626526,47.085085	St. Lawrence River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.892899,41.096947	Hudson River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.45779,38.71373	Hawks Bill Creek	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.532299,43.914094	Johns River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.542971,44.009855	Damariscotta River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-69.35955,44.04318	Medomak River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.506712,33.242133	Santee River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.351531,34.442645	Cape Fear River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.975937,37.247821	James River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.327471,36.071996	Roanoke River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.601381,39.020942	Goose Creek	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.80582,37.913055	Rappahannock River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-77.027893,38.852275	Potomac River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-70.998859,42.819833	Merrimack River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.152973,32.237198	Savannah River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-87.852287,36.504669	Cumberland River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.45032,18.10245	Rio Grande (Jamaica)	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-81.618977,31.480502	Altamaha River	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.29417,38.8015	Blue Ridge Mountains	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.39751,38.4954	Doubletop Mountain, VA	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-83.3772457,35.4505757	Cherokee Mountains	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-76.01993139999999,36.9315359	Cape Henry	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-73.58978,45.41818	Lachine Rapids	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-84.75005,45.81668	Straits of Mackinac	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-79.06627,43.08342	Niagara Falls	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+19.863281,58.48795200000001	Baltic Sea	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-1.0,50.0	English Channel	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-110.0,-11.0	Pacific Ocean	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
+-78.33333329999999,17.0833333	Pedro Shoals	natural	https://wiki.openstreetmap.org/w/images/e/e7/Ol_icon_blue_example.png
